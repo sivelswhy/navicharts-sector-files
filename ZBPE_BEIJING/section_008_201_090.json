@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 201,
+  "y": 90,
+  "mapBounds": {
+    "minX": 0.78515625,
+    "minY": 0.3515625,
+    "maxX": 0.7890625,
+    "maxY": 0.35546875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.787109375,
+    "midY": 0.353515625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "AHR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7855293209876544,
+        "y": 0.35472857058218615
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 115600,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

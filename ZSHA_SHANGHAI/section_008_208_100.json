@@ -1,0 +1,70 @@
+{
+  "level": 8,
+  "x": 208,
+  "y": 100,
+  "mapBounds": {
+    "minX": 0.8125,
+    "minY": 0.390625,
+    "maxX": 0.81640625,
+    "maxY": 0.39453125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.814453125,
+    "midY": 0.392578125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "SQ",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.814212962962963,
+        "y": 0.3918604205201714
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 398000,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [
+    {
+      "identifier": "ZHWH",
+      "mapPoints": [
+        {
+          "x": 0.8161388888888889,
+          "y": 0.39245672639316964
+        },
+        {
+          "x": 0.8180555555555555,
+          "y": 0.39159624829173273
+        },
+        {
+          "x": 0.8205555555555555,
+          "y": 0.3903869275486959
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.8161388888888889,
+        "minY": 0.3903869275486959,
+        "maxX": 0.8205555555555555,
+        "maxY": 0.39245672639316964,
+        "width": 0.004416666666666624,
+        "height": 0.0020697988444737248,
+        "midX": 0.8183472222222221,
+        "midY": 0.39142182697093275
+      },
+      "labels": []
+    }
+  ],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

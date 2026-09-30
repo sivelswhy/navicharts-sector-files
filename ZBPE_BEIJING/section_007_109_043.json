@@ -1,0 +1,41 @@
+{
+  "level": 7,
+  "x": 109,
+  "y": 43,
+  "mapBounds": {
+    "minX": 0.8515625,
+    "minY": 0.3359375,
+    "maxX": 0.859375,
+    "maxY": 0.34375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.85546875,
+    "midY": 0.33984375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "HEK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.853638888888889,
+        "y": 0.33841605213697085
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 114000,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

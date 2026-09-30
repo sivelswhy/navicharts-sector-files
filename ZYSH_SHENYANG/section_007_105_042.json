@@ -1,0 +1,111 @@
+{
+  "level": 7,
+  "x": 105,
+  "y": 42,
+  "mapBounds": {
+    "minX": 0.8203125,
+    "minY": 0.328125,
+    "maxX": 0.828125,
+    "maxY": 0.3359375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.82421875,
+    "midY": 0.33203125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "DIBOR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.8266543209876543,
+        "y": 0.3320720810640356
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DISEG",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.8254452160493827,
+        "y": 0.3341045139705747
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": [
+    {
+      "identifier": "G492",
+      "mapPoints": [
+        {
+          "x": 0.8260185185185185,
+          "y": 0.34072330704789394
+        },
+        {
+          "x": 0.8266543209876543,
+          "y": 0.3320720810640356
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.8260185185185185,
+        "minY": 0.3320720810640356,
+        "maxX": 0.8266543209876543,
+        "maxY": 0.34072330704789394,
+        "width": 0.0006358024691358599,
+        "height": 0.008651225983858368,
+        "midX": 0.8263364197530865,
+        "midY": 0.33639769405596476
+      },
+      "fixes": [
+        "TELOK",
+        "DIBOR"
+      ],
+      "labels": []
+    },
+    {
+      "identifier": "T656",
+      "mapPoints": [
+        {
+          "x": 0.8260185185185185,
+          "y": 0.34072330704789394
+        },
+        {
+          "x": 0.8254452160493827,
+          "y": 0.3341045139705747
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.8254452160493827,
+        "minY": 0.3341045139705747,
+        "maxX": 0.8260185185185185,
+        "maxY": 0.34072330704789394,
+        "width": 0.0005733024691357835,
+        "height": 0.006618793077319218,
+        "midX": 0.8257318672839506,
+        "midY": 0.3374139105092343
+      },
+      "fixes": [
+        "TELOK",
+        "DISEG"
+      ],
+      "labels": []
+    }
+  ]
+}

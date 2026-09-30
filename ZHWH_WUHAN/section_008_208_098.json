@@ -1,0 +1,70 @@
+{
+  "level": 8,
+  "x": 208,
+  "y": 98,
+  "mapBounds": {
+    "minX": 0.8125,
+    "minY": 0.3828125,
+    "maxX": 0.81640625,
+    "maxY": 0.38671875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.814453125,
+    "midY": 0.384765625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "TYN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.8128333333333333,
+        "y": 0.3866142829456545
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 113100,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": [
+    {
+      "identifier": "V94",
+      "mapPoints": [
+        {
+          "x": 0.8128333333333333,
+          "y": 0.3866142829456545
+        },
+        {
+          "x": 0.8192129722222222,
+          "y": 0.39143533209523595
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.8128333333333333,
+        "minY": 0.3866142829456545,
+        "maxX": 0.8192129722222222,
+        "maxY": 0.39143533209523595,
+        "width": 0.006379638888888928,
+        "height": 0.00482104914958148,
+        "midX": 0.8160231527777777,
+        "midY": 0.3890248075204452
+      },
+      "fixes": [
+        "TYN",
+        "WXI"
+      ],
+      "labels": []
+    }
+  ]
+}

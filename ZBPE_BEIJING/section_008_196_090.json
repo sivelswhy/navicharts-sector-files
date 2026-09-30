@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 196,
+  "y": 90,
+  "mapBounds": {
+    "minX": 0.765625,
+    "minY": 0.3515625,
+    "maxX": 0.76953125,
+    "maxY": 0.35546875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.767578125,
+    "midY": 0.353515625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "VGA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7672658950617284,
+        "y": 0.35424325455293154
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 116400,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

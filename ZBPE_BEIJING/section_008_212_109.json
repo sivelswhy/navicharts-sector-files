@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 212,
+  "y": 109,
+  "mapBounds": {
+    "minX": 0.828125,
+    "minY": 0.42578125,
+    "maxX": 0.83203125,
+    "maxY": 0.4296875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.830078125,
+    "midY": 0.427734375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "FQG",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.831625,
+        "y": 0.4259659870715016
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 117400,
+      "altitude": null
+    },
+    {
+      "identifier": "JNJ",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.829431836419753,
+        "y": 0.4288434315938589
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 117000,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}
