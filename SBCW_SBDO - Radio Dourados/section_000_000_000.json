@@ -1,0 +1,90 @@
+{
+  "level": 0,
+  "x": 0,
+  "y": 0,
+  "mapBounds": {
+    "minX": 0,
+    "minY": 0,
+    "maxX": 1,
+    "maxY": 1,
+    "width": 1,
+    "height": 1,
+    "midX": 0.5,
+    "midY": 0.5
+  },
+  "shapes": [
+    {
+      "geoArea": null,
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": "#8F8F8F",
+      "strokeColour": "#787878",
+      "strokeWidth": 2,
+      "mapPoints": [
+        {
+          "x": 0.34701401388888886,
+          "y": 0.5619850950673221
+        },
+        {
+          "x": 0.34873084104938273,
+          "y": 0.5629260323041926
+        },
+        {
+          "x": 0.3476964421296296,
+          "y": 0.5646018704571716
+        },
+        {
+          "x": 0.3460949020061728,
+          "y": 0.5634611980429188
+        },
+        {
+          "x": 0.34701401388888886,
+          "y": 0.5619850950673221
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.3460949020061728,
+        "minY": 0.5619850950673221,
+        "maxX": 0.34873084104938273,
+        "maxY": 0.5646018704571716,
+        "width": 0.0026359390432099117,
+        "height": 0.0026167753898495016,
+        "midX": 0.3474128715277778,
+        "midY": 0.5632934827622469
+      }
+    }
+  ],
+  "points": [],
+  "airports": [],
+  "runways": [
+    {
+      "airport": "SBDO",
+      "primaryId": "06",
+      "oppositeId": "24",
+      "primaryCourse": 57,
+      "oppositeCourse": 237,
+      "primaryMapPoint": {
+        "x": 0.347409112654321,
+        "y": 0.5632962764962712
+      },
+      "primaryElevation": 1486,
+      "oppositeMapPoint": {
+        "x": 0.3474423225308642,
+        "y": 0.5632553235047802
+      },
+      "oppositeElevation": 1503,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": -0.8894281499311497
+    }
+  ],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

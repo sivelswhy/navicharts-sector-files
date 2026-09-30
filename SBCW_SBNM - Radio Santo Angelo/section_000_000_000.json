@@ -1,0 +1,94 @@
+{
+  "level": 0,
+  "x": 0,
+  "y": 0,
+  "mapBounds": {
+    "minX": 0,
+    "minY": 0,
+    "maxX": 1,
+    "maxY": 1,
+    "width": 1,
+    "height": 1,
+    "midX": 0.5,
+    "midY": 0.5
+  },
+  "shapes": [
+    {
+      "geoArea": null,
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": "#8F8F8F",
+      "strokeColour": "#787878",
+      "strokeWidth": 2,
+      "mapPoints": [
+        {
+          "x": 0.3491437191358025,
+          "y": 0.5805939954436582
+        },
+        {
+          "x": 0.35087567283950616,
+          "y": 0.5815127781847905
+        },
+        {
+          "x": 0.35005308179012345,
+          "y": 0.583286086294606
+        },
+        {
+          "x": 0.3482336172839506,
+          "y": 0.5825292226641512
+        },
+        {
+          "x": 0.34891678317901237,
+          "y": 0.5806808997889947
+        },
+        {
+          "x": 0.3491437191358025,
+          "y": 0.5805939954436582
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.3482336172839506,
+        "minY": 0.5805939954436582,
+        "maxX": 0.35087567283950616,
+        "maxY": 0.583286086294606,
+        "width": 0.002642055555555578,
+        "height": 0.0026920908509477925,
+        "midX": 0.3495546450617284,
+        "midY": 0.5819400408691321
+      }
+    }
+  ],
+  "points": [],
+  "airports": [],
+  "runways": [
+    {
+      "airport": "SBNM",
+      "primaryId": "12",
+      "oppositeId": "30",
+      "primaryCourse": 119,
+      "oppositeCourse": 299,
+      "primaryMapPoint": {
+        "x": 0.3495061790123457,
+        "y": 0.5819579182463198
+      },
+      "primaryElevation": 1022,
+      "oppositeMapPoint": {
+        "x": 0.3495514375,
+        "y": 0.581966534840088
+      },
+      "oppositeElevation": 1042,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": 0.18813471278484872
+    }
+  ],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

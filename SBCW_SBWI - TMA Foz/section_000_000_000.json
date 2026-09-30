@@ -1,0 +1,256 @@
+{
+  "level": 0,
+  "x": 0,
+  "y": 0,
+  "mapBounds": {
+    "minX": 0,
+    "minY": 0,
+    "maxX": 1,
+    "maxY": 1,
+    "width": 1,
+    "height": 1,
+    "midX": 0.5,
+    "midY": 0.5
+  },
+  "shapes": [
+    {
+      "geoArea": null,
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": "#8F8F8F",
+      "strokeColour": "#787878",
+      "strokeWidth": 2,
+      "mapPoints": [
+        {
+          "x": 0.348601324845679,
+          "y": 0.5714973136273317
+        },
+        {
+          "x": 0.3503701983024691,
+          "y": 0.5725185853457132
+        },
+        {
+          "x": 0.35038005478395057,
+          "y": 0.5745779364033793
+        },
+        {
+          "x": 0.348601324845679,
+          "y": 0.5756162806859898
+        },
+        {
+          "x": 0.3468225949074074,
+          "y": 0.5745779364033793
+        },
+        {
+          "x": 0.3468324513888889,
+          "y": 0.5725185853457132
+        },
+        {
+          "x": 0.348601324845679,
+          "y": 0.5714973136273317
+        },
+        {
+          "x": 0.348601324845679,
+          "y": 0.5714973136273317
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.3468225949074074,
+        "minY": 0.5714973136273317,
+        "maxX": 0.35038005478395057,
+        "maxY": 0.5756162806859898,
+        "width": 0.0035574598765431564,
+        "height": 0.004118967058658107,
+        "midX": 0.34860132484567896,
+        "midY": 0.5735567971566607
+      }
+    }
+  ],
+  "points": [],
+  "airports": [],
+  "runways": [
+    {
+      "airport": "SARI",
+      "primaryId": "13",
+      "oppositeId": "31",
+      "primaryCourse": 131,
+      "oppositeCourse": 311,
+      "primaryMapPoint": {
+        "x": 0.3486433950617284,
+        "y": 0.5740063799866431
+      },
+      "primaryElevation": 908,
+      "oppositeMapPoint": {
+        "x": 0.3487263580246914,
+        "y": 0.5740448576714777
+      },
+      "oppositeElevation": 916,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": 0.4342652299997557
+    },
+    {
+      "airport": "SBFI",
+      "primaryId": "15",
+      "oppositeId": "33",
+      "primaryCourse": 148,
+      "oppositeCourse": 328,
+      "primaryMapPoint": {
+        "x": 0.3486234182098765,
+        "y": 0.5735698824661296
+      },
+      "primaryElevation": 742,
+      "oppositeMapPoint": {
+        "x": 0.3486693672839506,
+        "y": 0.5736095807730548
+      },
+      "oppositeElevation": 787,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": 0.7125447467321249
+    },
+    {
+      "airport": "SGES",
+      "primaryId": "05",
+      "oppositeId": "23",
+      "primaryCourse": 56,
+      "oppositeCourse": 236,
+      "primaryMapPoint": {
+        "x": 0.3476261188271605,
+        "y": 0.5731933374680016
+      },
+      "primaryElevation": 846,
+      "oppositeMapPoint": {
+        "x": 0.34768725308641973,
+        "y": 0.5731220922342685
+      },
+      "oppositeElevation": 774,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": -0.8616288641875103
+    },
+    {
+      "airport": "SGIB",
+      "primaryId": "03",
+      "oppositeId": "21",
+      "primaryCourse": 36,
+      "oppositeCourse": 216,
+      "primaryMapPoint": {
+        "x": 0.3482723919753086,
+        "y": 0.5730310239112154
+      },
+      "primaryElevation": 745,
+      "oppositeMapPoint": {
+        "x": 0.34828618055555555,
+        "y": 0.5729911826799137
+      },
+      "oppositeElevation": 721,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": -1.2376106438719958
+    }
+  ],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [
+    {
+      "identifier": "MVA1",
+      "airport": "SBFI",
+      "mapPoints": [
+        {
+          "x": 0.3483644722222222,
+          "y": 0.5728169625555519
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.34783328240740735,
+        "minY": 0.5727794219329139,
+        "maxX": 0.34936941820987655,
+        "maxY": 0.5743237790175802,
+        "width": 0.0015361358024691962,
+        "height": 0.0015443570846663812,
+        "midX": 0.3486013503086419,
+        "midY": 0.573551600475247
+      },
+      "labels": [
+        {
+          "mapPosition": {
+            "x": 0.34820465509259263,
+            "y": 0.5730044406900872
+          },
+          "text": "2500",
+          "fontSize": 14
+        }
+      ]
+    },
+    {
+      "identifier": "MVA2",
+      "airport": "SBFI",
+      "mapPoints": [
+        {
+          "x": 0.34809697067901235,
+          "y": 0.5755558578532025
+        },
+        {
+          "x": 0.3496549915123457,
+          "y": 0.5742928299193122
+        },
+        {
+          "x": 0.3490881651234568,
+          "y": 0.5723716680079007
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.34809697067901235,
+        "minY": 0.5715652342033867,
+        "maxX": 0.3498767052469136,
+        "maxY": 0.5755558578532025,
+        "width": 0.0017797345679012588,
+        "height": 0.003990623649815839,
+        "midX": 0.348986837962963,
+        "midY": 0.5735605460282946
+      },
+      "labels": [
+        {
+          "mapPosition": {
+            "x": 0.34872905401234566,
+            "y": 0.5750530739719764
+          },
+          "text": "FL040",
+          "fontSize": 14
+        }
+      ]
+    },
+    {
+      "identifier": "MVA3",
+      "airport": "SBFI",
+      "mapPoints": [],
+      "mapBounds": {
+        "minX": 0.3479412361111111,
+        "minY": 0.571974450235026,
+        "maxX": 0.3479412361111111,
+        "maxY": 0.571974450235026,
+        "width": 0,
+        "height": 0,
+        "midX": 0.3479412361111111,
+        "midY": 0.571974450235026
+      },
+      "labels": [
+        {
+          "mapPosition": {
+            "x": 0.3479412361111111,
+            "y": 0.571974450235026
+          },
+          "text": "3000",
+          "fontSize": 14
+        }
+      ]
+    }
+  ],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

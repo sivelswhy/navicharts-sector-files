@@ -1,0 +1,92 @@
+{
+  "level": 7,
+  "x": 52,
+  "y": 65,
+  "mapBounds": {
+    "minX": 0.40625,
+    "minY": 0.5078125,
+    "maxX": 0.4140625,
+    "maxY": 0.515625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.41015625,
+    "midY": 0.51171875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "UBRUT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4074472222222222,
+        "y": 0.5150180708151146
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "FNR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4099168364197531,
+        "y": 0.5107212784690995
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 113400,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": [
+    {
+      "identifier": "UN857",
+      "mapPoints": [
+        {
+          "x": 0.40056646604938273,
+          "y": 0.5289781325456095
+        },
+        {
+          "x": 0.4026928472222222,
+          "y": 0.5252605241862615
+        },
+        {
+          "x": 0.4037638888888889,
+          "y": 0.5226548235611975
+        },
+        {
+          "x": 0.40431759259259265,
+          "y": 0.5216203577687336
+        },
+        {
+          "x": 0.40885185185185186,
+          "y": 0.5127952425785863
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.40056646604938273,
+        "minY": 0.5127952425785863,
+        "maxX": 0.40885185185185186,
+        "maxY": 0.5289781325456095,
+        "width": 0.008285385802469125,
+        "height": 0.016182889967023217,
+        "midX": 0.4047091589506173,
+        "midY": 0.5208866875620979
+      },
+      "fixes": [],
+      "labels": []
+    }
+  ]
+}

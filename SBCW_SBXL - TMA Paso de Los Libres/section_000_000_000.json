@@ -1,0 +1,151 @@
+{
+  "level": 0,
+  "x": 0,
+  "y": 0,
+  "mapBounds": {
+    "minX": 0,
+    "minY": 0,
+    "maxX": 1,
+    "maxY": 1,
+    "width": 1,
+    "height": 1,
+    "midX": 0.5,
+    "midY": 0.5
+  },
+  "shapes": [
+    {
+      "geoArea": null,
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": "#8F8F8F",
+      "strokeColour": "#787878",
+      "strokeWidth": 2,
+      "mapPoints": [
+        {
+          "x": 0.3412550918209876,
+          "y": 0.5851171161822559
+        },
+        {
+          "x": 0.34258073919753085,
+          "y": 0.5865833162819521
+        },
+        {
+          "x": 0.3409769413580247,
+          "y": 0.5877525551749718
+        },
+        {
+          "x": 0.3399895524691358,
+          "y": 0.5860328002349608
+        },
+        {
+          "x": 0.3412550918209876,
+          "y": 0.5851171161822559
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.3399895524691358,
+        "minY": 0.5851171161822559,
+        "maxX": 0.34258073919753085,
+        "maxY": 0.5877525551749718,
+        "width": 0.002591186728395034,
+        "height": 0.0026354389927158994,
+        "midX": 0.34128514583333336,
+        "midY": 0.5864348356786139
+      }
+    },
+    {
+      "geoArea": null,
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": "#8F8F8F",
+      "strokeColour": "#787878",
+      "strokeWidth": 2,
+      "mapPoints": [
+        {
+          "x": 0.3412550918209876,
+          "y": 0.5851171161822559
+        },
+        {
+          "x": 0.34258073919753085,
+          "y": 0.5865833162819521
+        },
+        {
+          "x": 0.3409769413580247,
+          "y": 0.5877525551749718
+        },
+        {
+          "x": 0.3399895524691358,
+          "y": 0.5860328002349608
+        },
+        {
+          "x": 0.3412550918209876,
+          "y": 0.5851171161822559
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.3399895524691358,
+        "minY": 0.5851171161822559,
+        "maxX": 0.34258073919753085,
+        "maxY": 0.5877525551749718,
+        "width": 0.002591186728395034,
+        "height": 0.0026354389927158994,
+        "midX": 0.34128514583333336,
+        "midY": 0.5864348356786139
+      }
+    }
+  ],
+  "points": [],
+  "airports": [],
+  "runways": [
+    {
+      "airport": "SARL",
+      "primaryId": "18",
+      "oppositeId": "36",
+      "primaryCourse": 183,
+      "oppositeCourse": 3,
+      "primaryMapPoint": {
+        "x": 0.34123952932098767,
+        "y": 0.5864017033052563
+      },
+      "primaryElevation": 229,
+      "oppositeMapPoint": {
+        "x": 0.3412481404320988,
+        "y": 0.5864535563622768
+      },
+      "oppositeElevation": 230,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": 1.406230612040788
+    },
+    {
+      "airport": "SBUG",
+      "primaryId": "10",
+      "oppositeId": "28",
+      "primaryCourse": 95,
+      "oppositeCourse": 275,
+      "primaryMapPoint": {
+        "x": 0.3415402777777778,
+        "y": 0.5867284427991726
+      },
+      "primaryElevation": 253,
+      "oppositeMapPoint": {
+        "x": 0.3415832021604938,
+        "y": 0.5867245488625076
+      },
+      "oppositeElevation": 230,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": -0.090468568902133
+    }
+  ],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,71 @@
+{
+  "level": 7,
+  "x": 50,
+  "y": 65,
+  "mapBounds": {
+    "minX": 0.390625,
+    "minY": 0.5078125,
+    "maxX": 0.3984375,
+    "maxY": 0.515625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.39453125,
+    "midY": 0.51171875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "MSS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.39620986882716047,
+        "y": 0.5144567838628952
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 112400,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [
+    {
+      "identifier": "W46",
+      "mapPoints": [
+        {
+          "x": 0.39620986882716047,
+          "y": 0.5144567838628952
+        },
+        {
+          "x": 0.4002981481481482,
+          "y": 0.5202376506031214
+        },
+        {
+          "x": 0.4029797222222222,
+          "y": 0.5226779652318563
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.39620986882716047,
+        "minY": 0.5144567838628952,
+        "maxX": 0.4029797222222222,
+        "maxY": 0.5226779652318563,
+        "width": 0.006769853395061753,
+        "height": 0.008221181368961106,
+        "midX": 0.39959479552469135,
+        "midY": 0.5185673745473758
+      },
+      "fixes": [],
+      "labels": []
+    }
+  ],
+  "airwaysHigh": []
+}

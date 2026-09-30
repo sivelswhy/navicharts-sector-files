@@ -1,0 +1,182 @@
+{
+  "level": 7,
+  "x": 50,
+  "y": 65,
+  "mapBounds": {
+    "minX": 0.390625,
+    "minY": 0.5078125,
+    "maxX": 0.3984375,
+    "maxY": 0.515625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.39453125,
+    "midY": 0.51171875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "DABEK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.39526574074074067,
+        "y": 0.5119969932759324
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DADPU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3983802546296296,
+        "y": 0.5140075475277642
+      },
+      "kind": "Fix",
+      "fixKind": "Both",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DIANA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3941083333333333,
+        "y": 0.5119194601218561
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "GIBTO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.39699471450617285,
+        "y": 0.5131160557107481
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ISUGI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.393013425925926,
+        "y": 0.5142053977688299
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KOPGA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.39744814814814816,
+        "y": 0.5134079613120238
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "XOLER",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.397212037037037,
+        "y": 0.5127441526452599
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MSS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.39620986882716047,
+        "y": 0.5144567838628952
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 112400,
+      "altitude": null
+    }
+  ],
+  "airports": [
+    "SBMS",
+    "SNUC"
+  ],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [
+    {
+      "identifier": "Z35",
+      "mapPoints": [
+        {
+          "x": 0.39620986882716047,
+          "y": 0.5144567838628952
+        },
+        {
+          "x": 0.400324537037037,
+          "y": 0.5158483489928579
+        },
+        {
+          "x": 0.402087037037037,
+          "y": 0.5164412014022673
+        },
+        {
+          "x": 0.4024847222222222,
+          "y": 0.5192215580087745
+        },
+        {
+          "x": 0.4029797222222222,
+          "y": 0.5226779652318563
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.39620986882716047,
+        "minY": 0.5144567838628952,
+        "maxX": 0.4029797222222222,
+        "maxY": 0.5226779652318563,
+        "width": 0.006769853395061753,
+        "height": 0.008221181368961106,
+        "midX": 0.39959479552469135,
+        "midY": 0.5185673745473758
+      },
+      "fixes": [],
+      "labels": [
+        {
+          "mapPosition": {
+            "x": 0.39826635030864194,
+            "y": 0.5151536854876357
+          },
+          "text": "",
+          "fontSize": 1
+        }
+      ]
+    }
+  ],
+  "airwaysHigh": []
+}

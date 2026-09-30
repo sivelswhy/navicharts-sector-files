@@ -1,0 +1,370 @@
+{
+  "colours": {},
+  "sectors": {
+    "SBTD - Radio Toledo": {
+      "mapCenter": {
+        "x": 0.35084336419753087,
+        "y": 0.5707956616005155
+      },
+      "geoCenter": {
+        "x": -24.685277777777777,
+        "y": -53.69638888888888
+      }
+    }
+  },
+  "airports": {
+    "SBCA": {
+      "identifier": "SBCA",
+      "elevation": 2481,
+      "transitionAltitude": 6000,
+      "geoPosition": {
+        "x": -25.002222222222223,
+        "y": -53.50194444444445
+      },
+      "mapPosition": {
+        "x": 0.351383487654321,
+        "y": 0.5717658485164065
+      },
+      "name": "CORONEL ADALBERTO MENDES DA SI",
+      "hideTag": true,
+      "runways": [
+        {
+          "airport": "SBCA",
+          "primaryId": "15",
+          "oppositeId": "33",
+          "primaryCourse": 152,
+          "oppositeCourse": 332,
+          "primaryMapPoint": {
+            "x": 0.3513709104938272,
+            "y": 0.5717454413169647
+          },
+          "primaryElevation": 2481,
+          "oppositeMapPoint": {
+            "x": 0.3514024691358025,
+            "y": 0.5717769167133211
+          },
+          "oppositeElevation": 2456,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    },
+    "SBTD": {
+      "identifier": "SBTD",
+      "elevation": 1842,
+      "transitionAltitude": 5000,
+      "geoPosition": {
+        "x": -24.685277777777777,
+        "y": -53.69638888888888
+      },
+      "mapPosition": {
+        "x": 0.35084336419753087,
+        "y": 0.5707956616005155
+      },
+      "name": "LUIZ DALCANALE FILHO",
+      "hideTag": false,
+      "runways": [
+        {
+          "airport": "SBTD",
+          "primaryId": "02",
+          "oppositeId": "20",
+          "primaryCourse": 18,
+          "oppositeCourse": 198,
+          "primaryMapPoint": {
+            "x": 0.3508403703703704,
+            "y": 0.5708198308696166
+          },
+          "primaryElevation": 1842,
+          "oppositeMapPoint": {
+            "x": 0.3508409336419753,
+            "y": 0.5707775993422904
+          },
+          "oppositeElevation": 1812,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    },
+    "SIAI": {
+      "identifier": "SIAI",
+      "elevation": 1424,
+      "transitionAltitude": null,
+      "geoPosition": {
+        "x": -24.209166666666665,
+        "y": -53.18138888888889
+      },
+      "mapPosition": {
+        "x": 0.3522739197530864,
+        "y": 0.5693428724653027
+      },
+      "name": "FAZENDA ESTEIRINHA",
+      "hideTag": false,
+      "runways": [],
+      "gates": []
+    },
+    "SSCR": {
+      "identifier": "SSCR",
+      "elevation": 1722,
+      "transitionAltitude": null,
+      "geoPosition": {
+        "x": -24.512777777777778,
+        "y": -54.053888888888885
+      },
+      "mapPosition": {
+        "x": 0.34985030864197536,
+        "y": 0.5702686662510259
+      },
+      "name": "RUBEN BERTA",
+      "hideTag": true,
+      "runways": [],
+      "gates": []
+    },
+    "SSGW": {
+      "identifier": "SSGW",
+      "elevation": 1611,
+      "transitionAltitude": null,
+      "geoPosition": {
+        "x": -24.21972222222222,
+        "y": -53.04388888888889
+      },
+      "mapPosition": {
+        "x": 0.35265586419753087,
+        "y": 0.5693750220808611
+      },
+      "name": "MANOEL RIBAS",
+      "hideTag": true,
+      "runways": [
+        {
+          "airport": "SSGW",
+          "primaryId": "05",
+          "oppositeId": "23",
+          "primaryCourse": 52,
+          "oppositeCourse": 232,
+          "primaryMapPoint": {
+            "x": 0.352645987654321,
+            "y": 0.5693878826730355
+          },
+          "primaryElevation": 1608,
+          "oppositeMapPoint": {
+            "x": 0.35266242283950616,
+            "y": 0.5693658845507514
+          },
+          "oppositeElevation": 1608,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    },
+    "SSPT": {
+      "identifier": "SSPT",
+      "elevation": 1224,
+      "transitionAltitude": null,
+      "geoPosition": {
+        "x": -24.343333333333334,
+        "y": -53.828611111111115
+      },
+      "mapPosition": {
+        "x": 0.35047608024691357,
+        "y": 0.569751709702811
+      },
+      "name": "BRASILIO MARQUES",
+      "hideTag": true,
+      "runways": [
+        {
+          "airport": "SSPT",
+          "primaryId": "03",
+          "oppositeId": "21",
+          "primaryCourse": 31,
+          "oppositeCourse": 211,
+          "primaryMapPoint": {
+            "x": 0.35047124999999996,
+            "y": 0.5697674454521259
+          },
+          "primaryElevation": 1220,
+          "oppositeMapPoint": {
+            "x": 0.3504803935185185,
+            "y": 0.569735779815434
+          },
+          "oppositeElevation": 1220,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    }
+  },
+  "points": {
+    "TD002": [
+      {
+        "identifier": "TD002",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.35083694444444447,
+          "y": 0.5710754855484881
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TD003": [
+      {
+        "identifier": "TD003",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3507067515432099,
+          "y": 0.5712952738723338
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TD004": [
+      {
+        "identifier": "TD004",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3508389969135802,
+          "y": 0.5709220704255631
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TD006": [
+      {
+        "identifier": "TD006",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3504444058641975,
+          "y": 0.5711382085062378
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TD012": [
+      {
+        "identifier": "TD012",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.35084434413580246,
+          "y": 0.5705221443646417
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TD013": [
+      {
+        "identifier": "TD013",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.35084775462962964,
+          "y": 0.5702668599304762
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TD016": [
+      {
+        "identifier": "TD016",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3508518441358025,
+          "y": 0.5699607392531244
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TD017": [
+      {
+        "identifier": "TD017",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3505432175925926,
+          "y": 0.5702626282550737
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TD018": [
+      {
+        "identifier": "TD018",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.351152299382716,
+          "y": 0.570270854199984
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ]
+  },
+  "airwaysLow": {},
+  "airwaysHigh": {},
+  "atcPositions": {
+    "SBTD_I_TWR": {
+      "callsign": "SBTD_I_TWR",
+      "frequency": 31050,
+      "transferList": [
+        "SBCW_CTR",
+        "SBCW_W_CTR",
+        "SBCW_WC_CTR"
+      ],
+      "mapPoints": [],
+      "mapBounds": {
+        "minX": 0,
+        "minY": 0,
+        "maxX": 0,
+        "maxY": 0,
+        "width": 0,
+        "height": 0,
+        "midX": 0,
+        "midY": 0
+      }
+    }
+  },
+  "geoAreas": [
+    "TAXIWAY",
+    "TAXIWAYCENTER",
+    "STOPLINE"
+  ],
+  "mvas": []
+}

@@ -1,0 +1,48 @@
+{
+  "level": 0,
+  "x": 0,
+  "y": 0,
+  "mapBounds": {
+    "minX": 0,
+    "minY": 0,
+    "maxX": 1,
+    "maxY": 1,
+    "width": 1,
+    "height": 1,
+    "midX": 0.5,
+    "midY": 0.5
+  },
+  "shapes": [],
+  "points": [],
+  "airports": [],
+  "runways": [
+    {
+      "airport": "SBPG",
+      "primaryId": "08",
+      "oppositeId": "26",
+      "primaryCourse": 78,
+      "oppositeCourse": 258,
+      "primaryMapPoint": {
+        "x": 0.3606988109567902,
+        "y": 0.5723323568407718
+      },
+      "primaryElevation": 2594,
+      "oppositeMapPoint": {
+        "x": 0.36072799537037037,
+        "y": 0.5723147009474812
+      },
+      "oppositeElevation": 2594,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": -0.5440708824717781
+    }
+  ],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

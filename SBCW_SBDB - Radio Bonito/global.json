@@ -1,0 +1,270 @@
+{
+  "colours": {},
+  "sectors": {
+    "SBDB - Radio Bonito": {
+      "mapCenter": {
+        "x": 0.3431875,
+        "y": 0.5604212281926962
+      },
+      "geoCenter": {
+        "x": -21.247222222222224,
+        "y": -56.4525
+      }
+    }
+  },
+  "airports": {
+    "SBDB": {
+      "identifier": "SBDB",
+      "elevation": 1096,
+      "transitionAltitude": 4000,
+      "geoPosition": {
+        "x": -21.247222222222224,
+        "y": -56.4525
+      },
+      "mapPosition": {
+        "x": 0.3431875,
+        "y": 0.5604212281926962
+      },
+      "name": "BONITO",
+      "hideTag": false,
+      "runways": [
+        {
+          "airport": "SBDB",
+          "primaryId": "18",
+          "oppositeId": "36",
+          "primaryCourse": 183,
+          "oppositeCourse": 3,
+          "primaryMapPoint": {
+            "x": 0.3431814182098765,
+            "y": 0.5603951391667491
+          },
+          "primaryElevation": 1180,
+          "oppositeMapPoint": {
+            "x": 0.34319417669753083,
+            "y": 0.5604474313668775
+          },
+          "oppositeElevation": 1180,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    },
+    "SSJI": {
+      "identifier": "SSJI",
+      "elevation": 1053,
+      "transitionAltitude": null,
+      "geoPosition": {
+        "x": -21.49277777777778,
+        "y": -56.15277777777778
+      },
+      "mapPosition": {
+        "x": 0.34402006172839505,
+        "y": 0.5611536865412907
+      },
+      "name": "JARDIM",
+      "hideTag": false,
+      "runways": [],
+      "gates": []
+    },
+    "SSNQ": {
+      "identifier": "SSNQ",
+      "elevation": 984,
+      "transitionAltitude": null,
+      "geoPosition": {
+        "x": -21.184722222222224,
+        "y": -55.83027777777778
+      },
+      "mapPosition": {
+        "x": 0.3449158950617284,
+        "y": 0.5602349947157635
+      },
+      "name": "NIOAQUE",
+      "hideTag": true,
+      "runways": [],
+      "gates": []
+    }
+  },
+  "points": {
+    "DB001": [
+      {
+        "identifier": "DB001",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3433097222222222,
+          "y": 0.5597450383805301
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "DB002": [
+      {
+        "identifier": "DB002",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34299259259259257,
+          "y": 0.5596215596450587
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "DB003": [
+      {
+        "identifier": "DB003",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.342768649691358,
+          "y": 0.55987890368212
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "DB004": [
+      {
+        "identifier": "DB004",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3430634259259259,
+          "y": 0.5599112186355553
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "DB006": [
+      {
+        "identifier": "DB006",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3431222222222222,
+          "y": 0.5601534078909179
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "DB007": [
+      {
+        "identifier": "DB007",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3433837962962963,
+          "y": 0.5612230189811327
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "DB008": [
+      {
+        "identifier": "DB008",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3436086265432099,
+          "y": 0.5609640491576532
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "DB011": [
+      {
+        "identifier": "DB011",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3430651929012346,
+          "y": 0.5610985768051157
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "DB012": [
+      {
+        "identifier": "DB012",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34331261574074073,
+          "y": 0.5609319301655928
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "DB014": [
+      {
+        "identifier": "DB014",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34325337191358024,
+          "y": 0.560689675813273
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ]
+  },
+  "airwaysLow": {},
+  "airwaysHigh": {},
+  "atcPositions": {
+    "SBDB_I_TWR": {
+      "callsign": "SBDB_I_TWR",
+      "frequency": 30600,
+      "transferList": [
+        "SBCW_CTR",
+        "SBCW_W_CTR"
+      ],
+      "mapPoints": [],
+      "mapBounds": {
+        "minX": 0,
+        "minY": 0,
+        "maxX": 0,
+        "maxY": 0,
+        "width": 0,
+        "height": 0,
+        "midX": 0,
+        "midY": 0
+      }
+    }
+  },
+  "geoAreas": [
+    "TAXIWAYCENTER",
+    "STOPLINE",
+    "TAXIWAY"
+  ],
+  "mvas": []
+}

@@ -1,0 +1,69 @@
+{
+  "level": 7,
+  "x": 45,
+  "y": 74,
+  "mapBounds": {
+    "minX": 0.3515625,
+    "minY": 0.578125,
+    "maxX": 0.359375,
+    "maxY": 0.5859375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.35546875,
+    "midY": 0.58203125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "KEXUP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3518143904320988,
+        "y": 0.5802026801601227
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MADKI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.35241472222222225,
+        "y": 0.5819322590342259
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MOXAP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.35210006944444444,
+        "y": 0.5832912245924381
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [
+    "SSPL"
+  ],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

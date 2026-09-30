@@ -1,0 +1,165 @@
+{
+  "level": 0,
+  "x": 0,
+  "y": 0,
+  "mapBounds": {
+    "minX": 0,
+    "minY": 0,
+    "maxX": 1,
+    "maxY": 1,
+    "width": 1,
+    "height": 1,
+    "midX": 0.5,
+    "midY": 0.5
+  },
+  "shapes": [
+    {
+      "geoArea": null,
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": "#8F8F8F",
+      "strokeColour": "#787878",
+      "strokeWidth": 2,
+      "mapPoints": [
+        {
+          "x": 0.35965929552469134,
+          "y": 0.5785877943107963
+        },
+        {
+          "x": 0.36143558641975304,
+          "y": 0.5794349396870362
+        },
+        {
+          "x": 0.36065166666666665,
+          "y": 0.5812344767065702
+        },
+        {
+          "x": 0.35883275,
+          "y": 0.5805078548383639
+        },
+        {
+          "x": 0.3594860385802469,
+          "y": 0.5786608390043642
+        },
+        {
+          "x": 0.35965929552469134,
+          "y": 0.5785877943107963
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.35883275,
+        "minY": 0.5785877943107963,
+        "maxX": 0.36143558641975304,
+        "maxY": 0.5812344767065702,
+        "width": 0.002602836419753063,
+        "height": 0.002646682395773925,
+        "midX": 0.36013416820987654,
+        "midY": 0.5799111355086832
+      }
+    }
+  ],
+  "points": [],
+  "airports": [],
+  "runways": [
+    {
+      "airport": "SBLJ",
+      "primaryId": "17",
+      "oppositeId": "35",
+      "primaryCourse": 166,
+      "oppositeCourse": 346,
+      "primaryMapPoint": {
+        "x": 0.3603175462962963,
+        "y": 0.5803693671381056
+      },
+      "primaryElevation": 3021,
+      "oppositeMapPoint": {
+        "x": 0.3603406149691358,
+        "y": 0.5804060240523571
+      },
+      "oppositeElevation": 3065,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": 1.0091015354109054
+    },
+    {
+      "airport": "SNCP",
+      "primaryId": "09",
+      "oppositeId": "27",
+      "primaryCourse": 94,
+      "oppositeCourse": 274,
+      "primaryMapPoint": {
+        "x": 0.36009386574074076,
+        "y": 0.5799293905779622
+      },
+      "primaryElevation": 2935,
+      "oppositeMapPoint": {
+        "x": 0.36014035493827157,
+        "y": 0.5799166223519514
+      },
+      "oppositeElevation": 2902,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": -0.26804014771208806
+    }
+  ],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": [
+    {
+      "identifier": "UZ121",
+      "mapPoints": [
+        {
+          "x": 0.35882777777777775,
+          "y": 0.5812180976827624
+        },
+        {
+          "x": 0.360175,
+          "y": 0.5793588804431359
+        },
+        {
+          "x": 0.36315531635802467,
+          "y": 0.5751901141089225
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.35882777777777775,
+        "minY": 0.5751901141089225,
+        "maxX": 0.36315531635802467,
+        "maxY": 0.5812180976827624,
+        "width": 0.004327538580246926,
+        "height": 0.0060279835738399346,
+        "midX": 0.3609915470679012,
+        "midY": 0.5782041058958425
+      },
+      "fixes": [
+        "PENSO",
+        "UGTUL",
+        "SAVLU"
+      ],
+      "labels": [
+        {
+          "mapPosition": {
+            "x": 0.35950321759259257,
+            "y": 0.5802878876006584
+          },
+          "text": "",
+          "fontSize": 1
+        },
+        {
+          "mapPosition": {
+            "x": 0.36167395061728397,
+            "y": 0.5772714927349459
+          },
+          "text": "",
+          "fontSize": 1
+        }
+      ]
+    }
+  ]
+}

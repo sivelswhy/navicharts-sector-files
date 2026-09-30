@@ -1,0 +1,248 @@
+{
+  "level": 7,
+  "x": 50,
+  "y": 66,
+  "mapBounds": {
+    "minX": 0.390625,
+    "minY": 0.515625,
+    "maxX": 0.3984375,
+    "maxY": 0.5234375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.39453125,
+    "midY": 0.51953125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ABASE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.39508472222222224,
+        "y": 0.5159437301729332
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BUPKO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.39542962962962963,
+        "y": 0.5208772085951049
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "EDITE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3940555555555556,
+        "y": 0.5192341493421594
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "EPGER",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.39636203703703704,
+        "y": 0.5201317117021518
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ESMIG",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.39829166666666665,
+        "y": 0.5185898116991724
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ILRET",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.39512129629629633,
+        "y": 0.5196595274845799
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KIGUK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3954171296296296,
+        "y": 0.5162196699415076
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KODSO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3959430555555556,
+        "y": 0.5166553165857952
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OPABA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.39311898148148144,
+        "y": 0.518537606732357
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OPSUS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3955578703703704,
+        "y": 0.5198195467148421
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OPVAR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.39829375,
+        "y": 0.5170076636776892
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "POSNA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.39577546296296295,
+        "y": 0.5165156728661001
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TOGUN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3983865972222222,
+        "y": 0.5184199353097333
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TOSAD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.39648905864197526,
+        "y": 0.5194315069936726
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [
+    {
+      "identifier": "Z35",
+      "mapPoints": [
+        {
+          "x": 0.39620986882716047,
+          "y": 0.5144567838628952
+        },
+        {
+          "x": 0.400324537037037,
+          "y": 0.5158483489928579
+        },
+        {
+          "x": 0.402087037037037,
+          "y": 0.5164412014022673
+        },
+        {
+          "x": 0.4024847222222222,
+          "y": 0.5192215580087745
+        },
+        {
+          "x": 0.4029797222222222,
+          "y": 0.5226779652318563
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.39620986882716047,
+        "minY": 0.5144567838628952,
+        "maxX": 0.4029797222222222,
+        "maxY": 0.5226779652318563,
+        "width": 0.006769853395061753,
+        "height": 0.008221181368961106,
+        "midX": 0.39959479552469135,
+        "midY": 0.5185673745473758
+      },
+      "fixes": [],
+      "labels": []
+    }
+  ],
+  "airwaysHigh": []
+}

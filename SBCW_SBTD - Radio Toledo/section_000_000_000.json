@@ -1,0 +1,146 @@
+{
+  "level": 0,
+  "x": 0,
+  "y": 0,
+  "mapBounds": {
+    "minX": 0,
+    "minY": 0,
+    "maxX": 1,
+    "maxY": 1,
+    "width": 1,
+    "height": 1,
+    "midX": 0.5,
+    "midY": 0.5
+  },
+  "shapes": [
+    {
+      "geoArea": null,
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": "#8F8F8F",
+      "strokeColour": "#787878",
+      "strokeWidth": 2,
+      "mapPoints": [
+        {
+          "x": 0.34983981481481485,
+          "y": 0.5705558098587726
+        },
+        {
+          "x": 0.3518079861111111,
+          "y": 0.570467735921904
+        },
+        {
+          "x": 0.350196,
+          "y": 0.5719102510609009
+        },
+        {
+          "x": 0.34983981481481485,
+          "y": 0.5705558098587726
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.34983981481481485,
+        "minY": 0.570467735921904,
+        "maxX": 0.3518079861111111,
+        "maxY": 0.5719102510609009,
+        "width": 0.0019681712962962283,
+        "height": 0.0014425151389968471,
+        "midX": 0.35082390046296297,
+        "midY": 0.5711889934914025
+      }
+    }
+  ],
+  "points": [],
+  "airports": [],
+  "runways": [
+    {
+      "airport": "SBCA",
+      "primaryId": "15",
+      "oppositeId": "33",
+      "primaryCourse": 152,
+      "oppositeCourse": 332,
+      "primaryMapPoint": {
+        "x": 0.3513709104938272,
+        "y": 0.5717454413169647
+      },
+      "primaryElevation": 2481,
+      "oppositeMapPoint": {
+        "x": 0.3514024691358025,
+        "y": 0.5717769167133211
+      },
+      "oppositeElevation": 2456,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": 0.7840775186679481
+    },
+    {
+      "airport": "SBTD",
+      "primaryId": "02",
+      "oppositeId": "20",
+      "primaryCourse": 18,
+      "oppositeCourse": 198,
+      "primaryMapPoint": {
+        "x": 0.3508403703703704,
+        "y": 0.5708198308696166
+      },
+      "primaryElevation": 1842,
+      "oppositeMapPoint": {
+        "x": 0.3508409336419753,
+        "y": 0.5707775993422904
+      },
+      "oppositeElevation": 1812,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": -1.5574594137539761
+    },
+    {
+      "airport": "SSGW",
+      "primaryId": "05",
+      "oppositeId": "23",
+      "primaryCourse": 52,
+      "oppositeCourse": 232,
+      "primaryMapPoint": {
+        "x": 0.352645987654321,
+        "y": 0.5693878826730355
+      },
+      "primaryElevation": 1608,
+      "oppositeMapPoint": {
+        "x": 0.35266242283950616,
+        "y": 0.5693658845507514
+      },
+      "oppositeElevation": 1608,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": -0.9291424826413675
+    },
+    {
+      "airport": "SSPT",
+      "primaryId": "03",
+      "oppositeId": "21",
+      "primaryCourse": 31,
+      "oppositeCourse": 211,
+      "primaryMapPoint": {
+        "x": 0.35047124999999996,
+        "y": 0.5697674454521259
+      },
+      "primaryElevation": 1220,
+      "oppositeMapPoint": {
+        "x": 0.3504803935185185,
+        "y": 0.569735779815434
+      },
+      "oppositeElevation": 1220,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": -1.289690398493612
+    }
+  ],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

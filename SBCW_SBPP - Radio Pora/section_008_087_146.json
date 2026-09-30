@@ -1,0 +1,75 @@
+{
+  "level": 8,
+  "x": 87,
+  "y": 146,
+  "mapBounds": {
+    "minX": 0.33984375,
+    "minY": 0.5703125,
+    "maxX": 0.34375,
+    "maxY": 0.57421875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.341796875,
+    "midY": 0.572265625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "KIDUS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.34154629629629635,
+        "y": 0.5703416046109271
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [
+    {
+      "identifier": "A430",
+      "mapPoints": [
+        {
+          "x": 0.346020987654321,
+          "y": 0.5626857104291744
+        },
+        {
+          "x": 0.3452577160493827,
+          "y": 0.5643215878037612
+        },
+        {
+          "x": 0.34154629629629635,
+          "y": 0.5703416046109271
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.34154629629629635,
+        "minY": 0.5626857104291744,
+        "maxX": 0.346020987654321,
+        "maxY": 0.5703416046109271,
+        "width": 0.004474691358024641,
+        "height": 0.00765589418175272,
+        "midX": 0.34378364197530864,
+        "midY": 0.5665136575200507
+      },
+      "fixes": [
+        "ANLAT",
+        "TILPO",
+        "KIDUS"
+      ],
+      "labels": []
+    }
+  ],
+  "airwaysHigh": []
+}

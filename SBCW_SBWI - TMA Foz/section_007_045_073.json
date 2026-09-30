@@ -1,0 +1,208 @@
+{
+  "level": 7,
+  "x": 45,
+  "y": 73,
+  "mapBounds": {
+    "minX": 0.3515625,
+    "minY": 0.5703125,
+    "maxX": 0.359375,
+    "maxY": 0.578125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.35546875,
+    "midY": 0.57421875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ARNIL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.353663425925926,
+        "y": 0.571247539520898
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DIDOM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.35226342592592597,
+        "y": 0.5726745268494283
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ILMIS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3526178240740741,
+        "y": 0.570779781713547
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ROKIR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.35285135030864195,
+        "y": 0.5731039861480121
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VUGLA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3526444444444444,
+        "y": 0.5735736211112851
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [
+    {
+      "identifier": "Z31",
+      "mapPoints": [
+        {
+          "x": 0.3526178240740741,
+          "y": 0.570779781713547
+        },
+        {
+          "x": 0.35032685185185186,
+          "y": 0.5724472355797465
+        },
+        {
+          "x": 0.34860135030864203,
+          "y": 0.5735508048446213
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.34860135030864203,
+        "minY": 0.570779781713547,
+        "maxX": 0.3526178240740741,
+        "maxY": 0.5735508048446213,
+        "width": 0.0040164737654320715,
+        "height": 0.002771023131074246,
+        "midX": 0.35060958719135804,
+        "midY": 0.5721652932790842
+      },
+      "fixes": [
+        "ILMIS",
+        "KUDUX",
+        "FOZ"
+      ],
+      "labels": []
+    }
+  ],
+  "airwaysHigh": [
+    {
+      "identifier": "UM548",
+      "mapPoints": [
+        {
+          "x": 0.3452868518518519,
+          "y": 0.5731680236294926
+        },
+        {
+          "x": 0.3483387345679012,
+          "y": 0.5735212664218703
+        },
+        {
+          "x": 0.34860135030864203,
+          "y": 0.5735508048446213
+        },
+        {
+          "x": 0.35064953703703705,
+          "y": 0.5735635260009116
+        },
+        {
+          "x": 0.3526444444444444,
+          "y": 0.5735736211112851
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.3452868518518519,
+        "minY": 0.5731680236294926,
+        "maxX": 0.3526444444444444,
+        "maxY": 0.5735736211112851,
+        "width": 0.0073575925925925545,
+        "height": 0.00040559748179247457,
+        "midX": 0.3489656481481481,
+        "midY": 0.5733708223703888
+      },
+      "fixes": [
+        "ESDIM",
+        "UDIPA",
+        "FOZ",
+        "KAMIL",
+        "VUGLA"
+      ],
+      "labels": []
+    },
+    {
+      "identifier": "UZ28",
+      "mapPoints": [
+        {
+          "x": 0.35064953703703705,
+          "y": 0.5735635260009116
+        },
+        {
+          "x": 0.35285135030864195,
+          "y": 0.5731039861480121
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.35064953703703705,
+        "minY": 0.5731039861480121,
+        "maxX": 0.35285135030864195,
+        "maxY": 0.5735635260009116,
+        "width": 0.002201813271604902,
+        "height": 0.0004595398528995931,
+        "midX": 0.3517504436728395,
+        "midY": 0.5733337560744618
+      },
+      "fixes": [
+        "KAMIL",
+        "ROKIR"
+      ],
+      "labels": [
+        {
+          "mapPosition": {
+            "x": 0.3517511265432099,
+            "y": 0.5733353219153704
+          },
+          "text": "",
+          "fontSize": 1
+        }
+      ]
+    }
+  ]
+}

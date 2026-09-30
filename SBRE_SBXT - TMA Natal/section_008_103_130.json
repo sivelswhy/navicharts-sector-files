@@ -1,0 +1,71 @@
+{
+  "level": 8,
+  "x": 103,
+  "y": 130,
+  "mapBounds": {
+    "minX": 0.40234375,
+    "minY": 0.5078125,
+    "maxX": 0.40625,
+    "maxY": 0.51171875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.404296875,
+    "midY": 0.509765625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "FEMUR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.40545509259259255,
+        "y": 0.510101219187213
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": [
+    {
+      "identifier": "UN873",
+      "mapPoints": [
+        {
+          "x": 0.402087037037037,
+          "y": 0.5164412014022673
+        },
+        {
+          "x": 0.4029635802469136,
+          "y": 0.5147937882538419
+        },
+        {
+          "x": 0.40545509259259255,
+          "y": 0.510101219187213
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.402087037037037,
+        "minY": 0.510101219187213,
+        "maxX": 0.40545509259259255,
+        "maxY": 0.5164412014022673,
+        "width": 0.003368055555555527,
+        "height": 0.006339982215054385,
+        "midX": 0.4037710648148148,
+        "midY": 0.5132712102947401
+      },
+      "fixes": [],
+      "labels": []
+    }
+  ]
+}

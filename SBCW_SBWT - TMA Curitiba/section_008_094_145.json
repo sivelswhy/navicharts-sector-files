@@ -1,0 +1,103 @@
+{
+  "level": 8,
+  "x": 94,
+  "y": 145,
+  "mapBounds": {
+    "minX": 0.3671875,
+    "minY": 0.56640625,
+    "maxX": 0.37109375,
+    "maxY": 0.5703125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.369140625,
+    "midY": 0.568359375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "SOVSI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3681328086419753,
+        "y": 0.5690272452978676
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "RAXIT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3675238425925926,
+        "y": 0.5699871269681528
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [
+    {
+      "identifier": "Z91",
+      "mapPoints": [
+        {
+          "x": 0.3681328086419753,
+          "y": 0.5690272452978676
+        },
+        {
+          "x": 0.3658370138888889,
+          "y": 0.5726171619799652
+        },
+        {
+          "x": 0.3644148148148148,
+          "y": 0.5730762092522418
+        },
+        {
+          "x": 0.3634229398148148,
+          "y": 0.5733922506840655
+        },
+        {
+          "x": 0.36237453703703704,
+          "y": 0.5757836236218441
+        },
+        {
+          "x": 0.3617976851851852,
+          "y": 0.5770988469865436
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.3617976851851852,
+        "minY": 0.5690272452978676,
+        "maxX": 0.3681328086419753,
+        "maxY": 0.5770988469865436,
+        "width": 0.006335123456790104,
+        "height": 0.008071601688675933,
+        "midX": 0.36496524691358023,
+        "midY": 0.5730630461422056
+      },
+      "fixes": [
+        "SOVSI",
+        "ATIMA",
+        "EKOXI",
+        "CTB",
+        "EGDAK",
+        "GEDIM"
+      ],
+      "labels": []
+    }
+  ],
+  "airwaysHigh": []
+}

@@ -1,0 +1,489 @@
+{
+  "colours": {},
+  "sectors": {
+    "SBTG - Radio Tres Lagoas": {
+      "mapCenter": {
+        "x": 0.3564436728395062,
+        "y": 0.5589459252277547
+      },
+      "geoCenter": {
+        "x": -20.75138888888889,
+        "y": -51.680277777777775
+      }
+    }
+  },
+  "airports": {
+    "SBTG": {
+      "identifier": "SBTG",
+      "elevation": 1063,
+      "transitionAltitude": null,
+      "geoPosition": {
+        "x": -20.75138888888889,
+        "y": -51.680277777777775
+      },
+      "mapPosition": {
+        "x": 0.3564436728395062,
+        "y": 0.5589459252277547
+      },
+      "name": "TRES LAGOAS",
+      "hideTag": false,
+      "runways": [
+        {
+          "airport": "SBTG",
+          "primaryId": "07",
+          "oppositeId": "25",
+          "primaryCourse": 73,
+          "oppositeCourse": 253,
+          "primaryMapPoint": {
+            "x": 0.3564276388888889,
+            "y": 0.5589580383608583
+          },
+          "primaryElevation": 1050,
+          "oppositeMapPoint": {
+            "x": 0.35646043209876543,
+            "y": 0.5589336061433549
+          },
+          "oppositeElevation": 1050,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": [
+        {
+          "airport": "SBTG",
+          "identifier": "1",
+          "geoPosition": {
+            "x": -20.754314166666667,
+            "y": -51.68033611111111
+          },
+          "mapPosition": {
+            "x": 0.35644351080246917,
+            "y": 0.5589546147998627
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBTG",
+          "identifier": "2",
+          "geoPosition": {
+            "x": -20.754743611111113,
+            "y": -51.68082166666666
+          },
+          "mapPosition": {
+            "x": 0.3564421620370371,
+            "y": 0.558955890483797
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBTG",
+          "identifier": "3",
+          "geoPosition": {
+            "x": -20.754583055555557,
+            "y": -51.68094416666666
+          },
+          "mapPosition": {
+            "x": 0.3564418217592592,
+            "y": 0.5589554135459124
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBTG",
+          "identifier": "4",
+          "geoPosition": {
+            "x": -20.754439166666668,
+            "y": -51.68105666666666
+          },
+          "mapPosition": {
+            "x": 0.3564415092592592,
+            "y": 0.5589549861175811
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBTG",
+          "identifier": "5",
+          "geoPosition": {
+            "x": -20.754293333333333,
+            "y": -51.68117055555555
+          },
+          "mapPosition": {
+            "x": 0.35644119290123455,
+            "y": 0.5589545529136062
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBTG",
+          "identifier": "1",
+          "geoPosition": {
+            "x": -20.754314166666667,
+            "y": -51.68033611111111
+          },
+          "mapPosition": {
+            "x": 0.35644351080246917,
+            "y": 0.5589546147998627
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBTG",
+          "identifier": "2",
+          "geoPosition": {
+            "x": -20.754743611111113,
+            "y": -51.68082166666666
+          },
+          "mapPosition": {
+            "x": 0.3564421620370371,
+            "y": 0.558955890483797
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBTG",
+          "identifier": "3",
+          "geoPosition": {
+            "x": -20.754583055555557,
+            "y": -51.68094416666666
+          },
+          "mapPosition": {
+            "x": 0.3564418217592592,
+            "y": 0.5589554135459124
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBTG",
+          "identifier": "4",
+          "geoPosition": {
+            "x": -20.754439166666668,
+            "y": -51.68105666666666
+          },
+          "mapPosition": {
+            "x": 0.3564415092592592,
+            "y": 0.5589549861175811
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBTG",
+          "identifier": "5",
+          "geoPosition": {
+            "x": -20.754293333333333,
+            "y": -51.68117055555555
+          },
+          "mapPosition": {
+            "x": 0.35644119290123455,
+            "y": 0.5589545529136062
+          },
+          "gateType": "M"
+        }
+      ]
+    },
+    "SBUP": {
+      "identifier": "SBUP",
+      "elevation": 1169,
+      "transitionAltitude": null,
+      "geoPosition": {
+        "x": -20.777066666666666,
+        "y": -51.56476111111111
+      },
+      "mapPosition": {
+        "x": 0.35676455246913574,
+        "y": 0.5590222071106934
+      },
+      "name": "URUBUPUNGA",
+      "hideTag": false,
+      "runways": [],
+      "gates": []
+    },
+    "SDDN": {
+      "identifier": "SDDN",
+      "elevation": 1247,
+      "transitionAltitude": null,
+      "geoPosition": {
+        "x": -20.925833333333333,
+        "y": -51.38388888888889
+      },
+      "mapPosition": {
+        "x": 0.357266975308642,
+        "y": 0.5594644094114226
+      },
+      "name": "ANDRADINA",
+      "hideTag": true,
+      "runways": [],
+      "gates": []
+    },
+    "SIOB": {
+      "identifier": "SIOB",
+      "elevation": 1237,
+      "transitionAltitude": null,
+      "geoPosition": {
+        "x": -20.819166666666668,
+        "y": -51.268055555555556
+      },
+      "mapPosition": {
+        "x": 0.35758873456790125,
+        "y": 0.5591473031480265
+      },
+      "name": "FAZENDA GUANABARA",
+      "hideTag": true,
+      "runways": [],
+      "gates": []
+    },
+    "SSBC": {
+      "identifier": "SSBC",
+      "elevation": 1115,
+      "transitionAltitude": null,
+      "geoPosition": {
+        "x": -20.726625,
+        "y": -51.592372222222224
+      },
+      "mapPosition": {
+        "x": 0.3566878549382716,
+        "y": 0.5588723705358429
+      },
+      "name": "MALIBU CONFINAMENTO",
+      "hideTag": true,
+      "runways": [
+        {
+          "airport": "SSBC",
+          "primaryId": "11",
+          "oppositeId": "29",
+          "primaryCourse": 112,
+          "oppositeCourse": 292,
+          "primaryMapPoint": {
+            "x": 0.3566735108024691,
+            "y": 0.5588712072885405
+          },
+          "primaryElevation": 1115,
+          "oppositeMapPoint": {
+            "x": 0.3567021990740741,
+            "y": 0.5588735255361417
+          },
+          "oppositeElevation": 1115,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    },
+    "SWLY": {
+      "identifier": "SWLY",
+      "elevation": 1345,
+      "transitionAltitude": null,
+      "geoPosition": {
+        "x": -20.88111111111111,
+        "y": -51.35638888888889
+      },
+      "mapPosition": {
+        "x": 0.3573433641975309,
+        "y": 0.5593314285943941
+      },
+      "name": "CHACARA MUNICIPAL",
+      "hideTag": true,
+      "runways": [
+        {
+          "airport": "SWLY",
+          "primaryId": "07",
+          "oppositeId": "25",
+          "primaryCourse": 70,
+          "oppositeCourse": 250,
+          "primaryMapPoint": {
+            "x": 0.35733092592592597,
+            "y": 0.5593415618243893
+          },
+          "primaryElevation": 1345,
+          "oppositeMapPoint": {
+            "x": 0.35735581790123455,
+            "y": 0.5593212873360924
+          },
+          "oppositeElevation": 1345,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    }
+  },
+  "points": {
+    "TG002": [
+      {
+        "identifier": "TG002",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.35665883487654326,
+          "y": 0.5587857044725542
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TG003": [
+      {
+        "identifier": "TG003",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3568571064814815,
+          "y": 0.5586377689061159
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TG004": [
+      {
+        "identifier": "TG004",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3570551620370371,
+          "y": 0.5584896510075618
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TG006": [
+      {
+        "identifier": "TG006",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.35703378086419757,
+          "y": 0.5588769988049136
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TG007": [
+      {
+        "identifier": "TG007",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3566806018518518,
+          "y": 0.5583986080501501
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TG008": [
+      {
+        "identifier": "TG008",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.35622908179012347,
+          "y": 0.5591058894890044
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TG009": [
+      {
+        "identifier": "TG009",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3560304012345679,
+          "y": 0.5592536985918464
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TG011": [
+      {
+        "identifier": "TG011",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3558315817901235,
+          "y": 0.5594014657230194
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TG012": [
+      {
+        "identifier": "TG012",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3558540895061728,
+          "y": 0.5590138966744509
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TG013": [
+      {
+        "identifier": "TG013",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.35620671296296297,
+          "y": 0.55949370356056
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "URP": [
+      {
+        "identifier": "URP",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3567812422839506,
+          "y": 0.5590205730703575
+        },
+        "kind": "VOR",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 114200,
+        "altitude": null
+      }
+    ]
+  },
+  "airwaysLow": {},
+  "airwaysHigh": {},
+  "atcPositions": {},
+  "geoAreas": [
+    "TAXIWAY",
+    "TAXIWAYCENTER",
+    "STOPLINE"
+  ],
+  "mvas": []
+}

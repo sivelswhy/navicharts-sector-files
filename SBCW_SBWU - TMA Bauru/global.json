@@ -1,0 +1,2623 @@
+{
+  "colours": {},
+  "sectors": {
+    "SBWU - TMA Bauru": {
+      "mapCenter": {
+        "x": 0.36373919753086426,
+        "y": 0.5637012875101707
+      },
+      "geoCenter": {
+        "x": -22.34361111111111,
+        "y": -49.053888888888885
+      }
+    }
+  },
+  "airports": {
+    "SBAE": {
+      "identifier": "SBAE",
+      "elevation": 1961,
+      "transitionAltitude": 10000,
+      "geoPosition": {
+        "x": -22.157777777777778,
+        "y": -49.068333333333335
+      },
+      "mapPosition": {
+        "x": 0.3636990740740741,
+        "y": 0.563143552259092
+      },
+      "name": "BAURU AREALVA",
+      "hideTag": false,
+      "runways": [
+        {
+          "airport": "SBAE",
+          "primaryId": "17",
+          "oppositeId": "35",
+          "primaryCourse": 175,
+          "oppositeCourse": 355,
+          "primaryMapPoint": {
+            "x": 0.36368158950617285,
+            "y": 0.5631279896249433
+          },
+          "primaryElevation": 1927,
+          "oppositeMapPoint": {
+            "x": 0.36370541666666667,
+            "y": 0.5631768705561366
+          },
+          "oppositeElevation": 1961,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    },
+    "SBBU": {
+      "identifier": "SBBU",
+      "elevation": 2025,
+      "transitionAltitude": 5000,
+      "geoPosition": {
+        "x": -22.34361111111111,
+        "y": -49.053888888888885
+      },
+      "mapPosition": {
+        "x": 0.36373919753086426,
+        "y": 0.5637012875101707
+      },
+      "name": "BAURU",
+      "hideTag": false,
+      "runways": [
+        {
+          "airport": "SBBU",
+          "primaryId": "14",
+          "oppositeId": "32",
+          "primaryCourse": 144,
+          "oppositeCourse": 324,
+          "primaryMapPoint": {
+            "x": 0.363727037037037,
+            "y": 0.5636972581547657
+          },
+          "primaryElevation": 2010,
+          "oppositeMapPoint": {
+            "x": 0.36375659722222226,
+            "y": 0.5637164709369206
+          },
+          "oppositeElevation": 2022,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": [
+        {
+          "airport": "SBBU",
+          "identifier": "1",
+          "geoPosition": {
+            "x": -22.344105555555554,
+            "y": -49.05257111111111
+          },
+          "mapPosition": {
+            "x": 0.3637428580246914,
+            "y": 0.563702772458381
+          },
+          "gateType": "L"
+        },
+        {
+          "airport": "SBBU",
+          "identifier": "2",
+          "geoPosition": {
+            "x": -22.344303333333333,
+            "y": -49.05224694444444
+          },
+          "mapPosition": {
+            "x": 0.36374375848765433,
+            "y": 0.5637033664391398
+          },
+          "gateType": "L"
+        },
+        {
+          "airport": "SBBU",
+          "identifier": "3",
+          "geoPosition": {
+            "x": -22.344495555555557,
+            "y": -49.05191055555555
+          },
+          "mapPosition": {
+            "x": 0.3637446929012346,
+            "y": 0.5637039437358535
+          },
+          "gateType": "L"
+        },
+        {
+          "airport": "SBBU",
+          "identifier": "4",
+          "geoPosition": {
+            "x": -22.344872777777777,
+            "y": -49.05208583333334
+          },
+          "mapPosition": {
+            "x": 0.36374420601851853,
+            "y": 0.563705076641256
+          },
+          "gateType": "L"
+        },
+        {
+          "airport": "SBBU",
+          "identifier": "5",
+          "geoPosition": {
+            "x": -22.344766388888885,
+            "y": -49.05226083333333
+          },
+          "mapPosition": {
+            "x": 0.36374371990740745,
+            "y": 0.5637047571249153
+          },
+          "gateType": "L"
+        },
+        {
+          "airport": "SBBU",
+          "identifier": "6",
+          "geoPosition": {
+            "x": -22.34466777777778,
+            "y": -49.052436111111106
+          },
+          "mapPosition": {
+            "x": 0.3637432330246914,
+            "y": 0.5637044609676893
+          },
+          "gateType": "L"
+        },
+        {
+          "airport": "SBBU",
+          "identifier": "7",
+          "geoPosition": {
+            "x": -22.344122499999997,
+            "y": -49.053305277777774
+          },
+          "mapPosition": {
+            "x": 0.36374081867283947,
+            "y": 0.5637028233471488
+          },
+          "gateType": "L"
+        }
+      ]
+    },
+    "SBML": {
+      "identifier": "SBML",
+      "elevation": 2122,
+      "transitionAltitude": 6000,
+      "geoPosition": {
+        "x": -22.195555555555554,
+        "y": -49.926944444444445
+      },
+      "mapPosition": {
+        "x": 0.36131404320987653,
+        "y": 0.5632568735455121
+      },
+      "name": "MARILIA",
+      "hideTag": false,
+      "runways": [
+        {
+          "airport": "SBML",
+          "primaryId": "03",
+          "oppositeId": "21",
+          "primaryCourse": 31,
+          "oppositeCourse": 211,
+          "primaryMapPoint": {
+            "x": 0.3613101311728395,
+            "y": 0.5632829834221202
+          },
+          "primaryElevation": 2134,
+          "oppositeMapPoint": {
+            "x": 0.36132059413580253,
+            "y": 0.5632382401002729
+          },
+          "oppositeElevation": 2077,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    },
+    "SDLP": {
+      "identifier": "SDLP",
+      "elevation": 2039,
+      "transitionAltitude": null,
+      "geoPosition": {
+        "x": -22.578333333333333,
+        "y": -48.77444444444444
+      },
+      "mapPosition": {
+        "x": 0.36451543209876547,
+        "y": 0.5644068156693951
+      },
+      "name": "LENCOIS PAULISTA",
+      "hideTag": true,
+      "runways": [],
+      "gates": []
+    },
+    "SDMV": {
+      "identifier": "SDMV",
+      "elevation": 1736,
+      "transitionAltitude": null,
+      "geoPosition": {
+        "x": -22.27717222222222,
+        "y": -48.60449166666667
+      },
+      "mapPosition": {
+        "x": 0.36498752314814814,
+        "y": 0.5635018016949659
+      },
+      "name": "FAZENDA MORRO VERMELHO",
+      "hideTag": true,
+      "runways": [
+        {
+          "airport": "SDMV",
+          "primaryId": "01",
+          "oppositeId": "19",
+          "primaryCourse": 0,
+          "oppositeCourse": 0,
+          "primaryMapPoint": {
+            "x": 0.36498778549382715,
+            "y": 0.5635092980035598
+          },
+          "primaryElevation": 1736,
+          "oppositeMapPoint": {
+            "x": 0.364986813271605,
+            "y": 0.5634812563250333
+          },
+          "oppositeElevation": 1736,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    },
+    "SDVE": {
+      "identifier": "SDVE",
+      "elevation": 2100,
+      "transitionAltitude": null,
+      "geoPosition": {
+        "x": -22.230074999999996,
+        "y": -49.81733888888889
+      },
+      "mapPosition": {
+        "x": 0.36161850308641974,
+        "y": 0.5633604475273899
+      },
+      "name": "VERA CRUZ",
+      "hideTag": true,
+      "runways": [
+        {
+          "airport": "SDVE",
+          "primaryId": "14",
+          "oppositeId": "32",
+          "primaryCourse": 0,
+          "oppositeCourse": 0,
+          "primaryMapPoint": {
+            "x": 0.3616104552469136,
+            "y": 0.563354437589624
+          },
+          "primaryElevation": 2100,
+          "oppositeMapPoint": {
+            "x": 0.36162775462962965,
+            "y": 0.563367349475848
+          },
+          "oppositeElevation": 2100,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    },
+    "SICI": {
+      "identifier": "SICI",
+      "elevation": 2067,
+      "transitionAltitude": null,
+      "geoPosition": {
+        "x": -22.74527777777778,
+        "y": -49.29361111111111
+      },
+      "mapPosition": {
+        "x": 0.3630733024691358,
+        "y": 0.5649093484317634
+      },
+      "name": "AGUDOS/DOMELIA",
+      "hideTag": true,
+      "runways": [],
+      "gates": []
+    }
+  },
+  "points": {
+    "AE001": [
+      {
+        "identifier": "AE001",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36333101851851857,
+          "y": 0.5624080352217563
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "AE003": [
+      {
+        "identifier": "AE003",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3631648148148148,
+          "y": 0.5627095462322417
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "AE004": [
+      {
+        "identifier": "AE004",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36346203703703706,
+          "y": 0.5626775879191901
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "AE006": [
+      {
+        "identifier": "AE006",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3635717592592592,
+          "y": 0.5629028454595564
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "AE012": [
+      {
+        "identifier": "AE012",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3638152777777778,
+          "y": 0.5634022360571167
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "AE014": [
+      {
+        "identifier": "AE014",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36366944444444443,
+          "y": 0.5624609339595503
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "AE016": [
+      {
+        "identifier": "AE016",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36361574074074077,
+          "y": 0.5629927821364891
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "AE018": [
+      {
+        "identifier": "AE018",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3642694058641975,
+          "y": 0.5637127918252673
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "AE019": [
+      {
+        "identifier": "AE019",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36402162037037034,
+          "y": 0.563543429163249
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "AE021": [
+      {
+        "identifier": "AE021",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3642644984567901,
+          "y": 0.5633672327752952
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "AE022": [
+      {
+        "identifier": "AE022",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36377129629629634,
+          "y": 0.5633122120699088
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "AE024": [
+      {
+        "identifier": "AE024",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.364275,
+          "y": 0.5637044576307076
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "AE027": [
+      {
+        "identifier": "AE027",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.364884537037037,
+          "y": 0.5641073504077226
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ANSOK": [
+      {
+        "identifier": "ANSOK",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3634407561728395,
+          "y": 0.5638522035512499
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ARE01": [
+      {
+        "identifier": "ARE01",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3636772530864197,
+          "y": 0.5631298974330633
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ARE02": [
+      {
+        "identifier": "ARE02",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3636986419753086,
+          "y": 0.5631810698980897
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ASGEL": [
+      {
+        "identifier": "ASGEL",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36066898148148147,
+          "y": 0.5634357499078516
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BRU01": [
+      {
+        "identifier": "BRU01",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.363727037037037,
+          "y": 0.5636972581547657
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BU001": [
+      {
+        "identifier": "BU001",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3638470447530864,
+          "y": 0.5637752409966393
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BU002": [
+      {
+        "identifier": "BU002",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36403115740740744,
+          "y": 0.5642362771996976
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BU008": [
+      {
+        "identifier": "BU008",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36363624228395064,
+          "y": 0.5636382237837493
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BU011": [
+      {
+        "identifier": "BU011",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36351739197530863,
+          "y": 0.5635609085940458
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BU012": [
+      {
+        "identifier": "BU012",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.363279899691358,
+          "y": 0.5634836743561527
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BU013": [
+      {
+        "identifier": "BU013",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3630425,
+          "y": 0.563406320935732
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BU014": [
+      {
+        "identifier": "BU014",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36318761574074077,
+          "y": 0.5637703431763079
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BU016": [
+      {
+        "identifier": "BU016",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36396639660493824,
+          "y": 0.5638527460027256
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BU017": [
+      {
+        "identifier": "BU017",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3641341358024691,
+          "y": 0.5640389903975307
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BU018": [
+      {
+        "identifier": "BU018",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36430201388888894,
+          "y": 0.5642252429028819
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BU019": [
+      {
+        "identifier": "BU019",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3639118055555556,
+          "y": 0.5642415062723586
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CAYAM": [
+      {
+        "identifier": "CAYAM",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3638824459876543,
+          "y": 0.5637982623550585
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "DEXOV": [
+      {
+        "identifier": "DEXOV",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3615771527777778,
+          "y": 0.5648441769637584
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "EDMOX": [
+      {
+        "identifier": "EDMOX",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3650179243827161,
+          "y": 0.5634361917749764
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "EDVUL": [
+      {
+        "identifier": "EDVUL",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3639115895061728,
+          "y": 0.5630585812633253
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ENACT": [
+      {
+        "identifier": "ENACT",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36377592592592595,
+          "y": 0.5624759064924936
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ENPEG": [
+      {
+        "identifier": "ENPEG",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3638749151234568,
+          "y": 0.5619550378189482
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "EPLAB": [
+      {
+        "identifier": "EPLAB",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36359544753086415,
+          "y": 0.5636116581111891
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ESAVA": [
+      {
+        "identifier": "ESAVA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3634377083333334,
+          "y": 0.5655216033181589
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ESILO": [
+      {
+        "identifier": "ESILO",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36280401234567905,
+          "y": 0.5641921083611773
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "EVNES": [
+      {
+        "identifier": "EVNES",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36085972222222223,
+          "y": 0.5645808352131002
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "GROVE": [
+      {
+        "identifier": "GROVE",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36311712962962966,
+          "y": 0.5654052913047345
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "IMTBI": [
+      {
+        "identifier": "IMTBI",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3633032407407407,
+          "y": 0.5643752291824801
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ISISA": [
+      {
+        "identifier": "ISISA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36394675925925923,
+          "y": 0.5616402430460978
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "KNAVE": [
+      {
+        "identifier": "KNAVE",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36258564814814814,
+          "y": 0.5652118323853762
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "LUTVI": [
+      {
+        "identifier": "LUTVI",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36063556327160495,
+          "y": 0.5635685310547998
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "MAGNU": [
+      {
+        "identifier": "MAGNU",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3644799382716049,
+          "y": 0.5632527067822907
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "MECHI": [
+      {
+        "identifier": "MECHI",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36390985339506177,
+          "y": 0.5628039621457855
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "MISOA": [
+      {
+        "identifier": "MISOA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.361324074074074,
+          "y": 0.5636403924844299
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ML001": [
+      {
+        "identifier": "ML001",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3608981481481482,
+          "y": 0.5638070823994386
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ML002": [
+      {
+        "identifier": "ML002",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.361138425925926,
+          "y": 0.5640164149372162
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ML003": [
+      {
+        "identifier": "ML003",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3614467592592593,
+          "y": 0.5639367760720742
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ML004": [
+      {
+        "identifier": "ML004",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3611958333333333,
+          "y": 0.5637715363367941
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ML006": [
+      {
+        "identifier": "ML006",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36125277777777776,
+          "y": 0.5635273013648922
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ML007": [
+      {
+        "identifier": "ML007",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3614347222222222,
+          "y": 0.5627499969211407
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ML008": [
+      {
+        "identifier": "ML008",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3611847222222222,
+          "y": 0.5625852219334067
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ML009": [
+      {
+        "identifier": "ML009",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36149166666666666,
+          "y": 0.5625063522656722
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ML011": [
+      {
+        "identifier": "ML011",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3617314814814815,
+          "y": 0.5627150393095063
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ML012": [
+      {
+        "identifier": "ML012",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3613777777777778,
+          "y": 0.5629942812430938
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ML021": [
+      {
+        "identifier": "ML021",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3613435108024692,
+          "y": 0.563140486341447
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "NENON": [
+      {
+        "identifier": "NENON",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3644344290123457,
+          "y": 0.5621749097582683
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "NEVKU": [
+      {
+        "identifier": "NEVKU",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3608954089506173,
+          "y": 0.5629681142675736
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "OBLUG": [
+      {
+        "identifier": "OBLUG",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3653901080246914,
+          "y": 0.5645012218068142
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "OPRAK": [
+      {
+        "identifier": "OPRAK",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36293430555555556,
+          "y": 0.5636136765427436
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "PALCA": [
+      {
+        "identifier": "PALCA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3636436728395062,
+          "y": 0.5629666485650693
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "PERAU": [
+      {
+        "identifier": "PERAU",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3641662037037037,
+          "y": 0.5626391412597286
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "PUMUS": [
+      {
+        "identifier": "PUMUS",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36550016975308647,
+          "y": 0.562591329118714
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "PUPGA": [
+      {
+        "identifier": "PUPGA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36466836419753085,
+          "y": 0.5617779125108588
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "RIOJA": [
+      {
+        "identifier": "RIOJA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36487945987654324,
+          "y": 0.5629728028841209
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "SOFIA": [
+      {
+        "identifier": "SOFIA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36307824074074074,
+          "y": 0.5640354503776343
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TITVO": [
+      {
+        "identifier": "TITVO",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.362262037037037,
+          "y": 0.5624908795516231
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TOBUV": [
+      {
+        "identifier": "TOBUV",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3643711419753087,
+          "y": 0.5636078631525563
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "UGONI": [
+      {
+        "identifier": "UGONI",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3641712962962963,
+          "y": 0.5634310811515256
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "VULRU": [
+      {
+        "identifier": "VULRU",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36305185185185185,
+          "y": 0.5653675973296656
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "VUMTU": [
+      {
+        "identifier": "VUMTU",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36314675925925927,
+          "y": 0.5643140685385014
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "AKNID": [
+      {
+        "identifier": "AKNID",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36099722222222225,
+          "y": 0.56101704445551
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "AKTIT": [
+      {
+        "identifier": "AKTIT",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.35980594135802463,
+          "y": 0.5662273842922523
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ANGIP": [
+      {
+        "identifier": "ANGIP",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36042037037037034,
+          "y": 0.5644198520640047
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ASDOV": [
+      {
+        "identifier": "ASDOV",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36032592592592594,
+          "y": 0.557051582266147
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "EDSED": [
+      {
+        "identifier": "EDSED",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36073779320987653,
+          "y": 0.5619575136384577
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "EGEVA": [
+      {
+        "identifier": "EGEVA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36510694444444447,
+          "y": 0.5660994832943285
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ENTUN": [
+      {
+        "identifier": "ENTUN",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36133472222222224,
+          "y": 0.5649672500979739
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ESGAS": [
+      {
+        "identifier": "ESGAS",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36615200617283955,
+          "y": 0.5622804731099599
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "GESNU": [
+      {
+        "identifier": "GESNU",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3618384259259259,
+          "y": 0.5663946230160464
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "OPLEM": [
+      {
+        "identifier": "OPLEM",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3589129861111111,
+          "y": 0.5622675527111155
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "UBNID": [
+      {
+        "identifier": "UBNID",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36281157407407405,
+          "y": 0.566315528602174
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "UTLOT": [
+      {
+        "identifier": "UTLOT",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36696574074074073,
+          "y": 0.5640930629310338
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TOPUX": [
+      {
+        "identifier": "TOPUX",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.35994429012345674,
+          "y": 0.5634956980141934
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ARE": [
+      {
+        "identifier": "ARE",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3636952160493827,
+          "y": 0.5631768788881228
+        },
+        "kind": "NDB",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 340000,
+        "altitude": null
+      }
+    ],
+    "BRU": [
+      {
+        "identifier": "BRU",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3635912037037037,
+          "y": 0.5636123670633136
+        },
+        "kind": "NDB",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 380000,
+        "altitude": null
+      }
+    ],
+    "MRA": [
+      {
+        "identifier": "MRA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36130740740740747,
+          "y": 0.5632547068234941
+        },
+        "kind": "NDB",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 415000,
+        "altitude": null
+      }
+    ]
+  },
+  "airwaysLow": {
+    "Z14": [
+      {
+        "identifier": "Z14",
+        "mapPoints": [
+          {
+            "x": 0.35994429012345674,
+            "y": 0.5634956980141934
+          },
+          {
+            "x": 0.36063556327160495,
+            "y": 0.5635685310547998
+          },
+          {
+            "x": 0.361324074074074,
+            "y": 0.5636403924844299
+          },
+          {
+            "x": 0.3634407561728395,
+            "y": 0.5638522035512499
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.35994429012345674,
+          "minY": 0.5634956980141934,
+          "maxX": 0.3634407561728395,
+          "maxY": 0.5638522035512499,
+          "width": 0.0034964660493827515,
+          "height": 0.0003565055370564618,
+          "midX": 0.36169252314814815,
+          "midY": 0.5636739507827216
+        },
+        "fixes": [
+          "TOPUX",
+          "LUTVI",
+          "MISOA",
+          "ANSOK"
+        ],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.36028989969135805,
+              "y": 0.5635322463788517
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3609797916666667,
+              "y": 0.5636046020177485
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3623821450617284,
+              "y": 0.5637476237138174
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "Z22": [
+      {
+        "identifier": "Z22",
+        "mapPoints": [
+          {
+            "x": 0.3589129861111111,
+            "y": 0.5622675527111155
+          },
+          {
+            "x": 0.3608954089506173,
+            "y": 0.5629681142675736
+          },
+          {
+            "x": 0.3634407561728395,
+            "y": 0.5638522035512499
+          },
+          {
+            "x": 0.3653901080246914,
+            "y": 0.5645012218068142
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.3589129861111111,
+          "minY": 0.5622675527111155,
+          "maxX": 0.3653901080246914,
+          "maxY": 0.5645012218068142,
+          "width": 0.006477121913580297,
+          "height": 0.002233669095698665,
+          "midX": 0.36215154706790126,
+          "midY": 0.5633843872589648
+        },
+        "fixes": [
+          "OPLEM",
+          "NEVKU",
+          "ANSOK",
+          "OBLUG"
+        ],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.3599033796296297,
+              "y": 0.5626188458219559
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.36216674382716046,
+              "y": 0.5634118564264156
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.36441466820987656,
+              "y": 0.5641777261024975
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "Z31": [
+      {
+        "identifier": "Z31",
+        "mapPoints": [
+          {
+            "x": 0.36550016975308647,
+            "y": 0.562591329118714
+          },
+          {
+            "x": 0.3634407561728395,
+            "y": 0.5638522035512499
+          },
+          {
+            "x": 0.36280401234567905,
+            "y": 0.5641921083611773
+          },
+          {
+            "x": 0.3615771527777778,
+            "y": 0.5648441769637584
+          },
+          {
+            "x": 0.36133472222222224,
+            "y": 0.5649672500979739
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.36133472222222224,
+          "minY": 0.562591329118714,
+          "maxX": 0.36550016975308647,
+          "maxY": 0.5649672500979739,
+          "width": 0.00416544753086423,
+          "height": 0.0023759209792598712,
+          "midX": 0.36341744598765435,
+          "midY": 0.563779289608344
+        },
+        "fixes": [
+          "PUMUS",
+          "ANSOK",
+          "ESILO",
+          "DEXOV",
+          "ENTUN"
+        ],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.3644720061728395,
+              "y": 0.5632225489784164
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3631225154320988,
+              "y": 0.5640222423612802
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3621910648148148,
+              "y": 0.5645184656203404
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ]
+  },
+  "airwaysHigh": {
+    "UM411": [
+      {
+        "identifier": "UM411",
+        "mapPoints": [
+          {
+            "x": 0.36073779320987653,
+            "y": 0.5619575136384577
+          },
+          {
+            "x": 0.362262037037037,
+            "y": 0.5624908795516231
+          },
+          {
+            "x": 0.3636436728395062,
+            "y": 0.5629666485650693
+          },
+          {
+            "x": 0.3639115895061728,
+            "y": 0.5630585812633253
+          },
+          {
+            "x": 0.3650179243827161,
+            "y": 0.5634361917749764
+          },
+          {
+            "x": 0.36696574074074073,
+            "y": 0.5640930629310338
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.36073779320987653,
+          "minY": 0.5619575136384577,
+          "maxX": 0.36696574074074073,
+          "maxY": 0.5640930629310338,
+          "width": 0.006227947530864197,
+          "height": 0.002135549292576089,
+          "midX": 0.36385176697530863,
+          "midY": 0.5630252882847457
+        },
+        "fixes": [
+          "EDSED",
+          "TITVO",
+          "PALCA",
+          "EDVUL",
+          "EDMOX",
+          "UTLOT"
+        ],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.3614994367283951,
+              "y": 0.5622247951286199
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3629524691358025,
+              "y": 0.5627292633807653
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3644645061728395,
+              "y": 0.5632477067208183
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.36599106481481475,
+              "y": 0.563765628974112
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "UM415": [
+      {
+        "identifier": "UM415",
+        "mapPoints": [
+          {
+            "x": 0.36510694444444447,
+            "y": 0.5660994832943285
+          },
+          {
+            "x": 0.3634377083333334,
+            "y": 0.5655216033181589
+          },
+          {
+            "x": 0.36305185185185185,
+            "y": 0.5653675973296656
+          },
+          {
+            "x": 0.36258564814814814,
+            "y": 0.5652118323853762
+          },
+          {
+            "x": 0.3615771527777778,
+            "y": 0.5648441769637584
+          },
+          {
+            "x": 0.36085972222222223,
+            "y": 0.5645808352131002
+          },
+          {
+            "x": 0.36042037037037034,
+            "y": 0.5644198520640047
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.36042037037037034,
+          "minY": 0.5644198520640047,
+          "maxX": 0.36510694444444447,
+          "maxY": 0.5660994832943285,
+          "width": 0.004686574074074135,
+          "height": 0.0016796312303237748,
+          "midX": 0.3627636574074074,
+          "midY": 0.5652596676791666
+        },
+        "fixes": [
+          "EGEVA",
+          "ESAVA",
+          "VULRU",
+          "KNAVE",
+          "DEXOV",
+          "EVNES",
+          "ANGIP"
+        ],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.3642718209876543,
+              "y": 0.5658111911113212
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3620811728395062,
+              "y": 0.5650282732185525
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.36121832561728395,
+              "y": 0.5647126439786182
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "UM549": [
+      {
+        "identifier": "UM549",
+        "mapPoints": [
+          {
+            "x": 0.3589129861111111,
+            "y": 0.5622675527111155
+          },
+          {
+            "x": 0.36085972222222223,
+            "y": 0.5645808352131002
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.3589129861111111,
+          "minY": 0.5622675527111155,
+          "maxX": 0.36085972222222223,
+          "maxY": 0.5645808352131002,
+          "width": 0.0019467361111111248,
+          "height": 0.0023132825019847036,
+          "midX": 0.3598863541666667,
+          "midY": 0.5634241939621079
+        },
+        "fixes": [
+          "OPLEM",
+          "EVNES"
+        ],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.3598836728395061,
+              "y": 0.5634237279654846
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "UM654": [
+      {
+        "identifier": "UM654",
+        "mapPoints": [
+          {
+            "x": 0.3618384259259259,
+            "y": 0.5663946230160464
+          },
+          {
+            "x": 0.36258564814814814,
+            "y": 0.5652118323853762
+          },
+          {
+            "x": 0.36314675925925927,
+            "y": 0.5643140685385014
+          },
+          {
+            "x": 0.3634407561728395,
+            "y": 0.5638522035512499
+          },
+          {
+            "x": 0.3641712962962963,
+            "y": 0.5634310811515256
+          },
+          {
+            "x": 0.3644799382716049,
+            "y": 0.5632527067822907
+          },
+          {
+            "x": 0.36615200617283955,
+            "y": 0.5622804731099599
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.3618384259259259,
+          "minY": 0.5622804731099599,
+          "maxX": 0.36615200617283955,
+          "maxY": 0.5663946230160464,
+          "width": 0.00431358024691364,
+          "height": 0.004114149906086495,
+          "midX": 0.36399521604938273,
+          "midY": 0.5643375480630031
+        },
+        "fixes": [
+          "GESNU",
+          "KNAVE",
+          "VUMTU",
+          "ANSOK",
+          "UGONI",
+          "MAGNU",
+          "ESGAS"
+        ],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.3622125771604938,
+              "y": 0.5658029653439559
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.36286651234567907,
+              "y": 0.5647627982133109
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.36329384259259256,
+              "y": 0.5640831012341804
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3638062114197531,
+              "y": 0.5636417520986576
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3653169290123457,
+              "y": 0.5627671355259347
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "UZ42": [
+      {
+        "identifier": "UZ42",
+        "mapPoints": [
+          {
+            "x": 0.3589129861111111,
+            "y": 0.5622675527111155
+          },
+          {
+            "x": 0.3608954089506173,
+            "y": 0.5629681142675736
+          },
+          {
+            "x": 0.3634407561728395,
+            "y": 0.5638522035512499
+          },
+          {
+            "x": 0.3653901080246914,
+            "y": 0.5645012218068142
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.3589129861111111,
+          "minY": 0.5622675527111155,
+          "maxX": 0.3653901080246914,
+          "maxY": 0.5645012218068142,
+          "width": 0.006477121913580297,
+          "height": 0.002233669095698665,
+          "midX": 0.36215154706790126,
+          "midY": 0.5633843872589648
+        },
+        "fixes": [
+          "OPLEM",
+          "NEVKU",
+          "ANSOK",
+          "OBLUG"
+        ],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.3599033796296297,
+              "y": 0.5626188458219559
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.36216674382716046,
+              "y": 0.5634118564264156
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.36441466820987656,
+              "y": 0.5641777261024975
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "UZ5": [
+      {
+        "identifier": "UZ5",
+        "mapPoints": [
+          {
+            "x": 0.36281157407407405,
+            "y": 0.566315528602174
+          },
+          {
+            "x": 0.36305185185185185,
+            "y": 0.5653675973296656
+          },
+          {
+            "x": 0.3633032407407407,
+            "y": 0.5643752291824801
+          },
+          {
+            "x": 0.3634407561728395,
+            "y": 0.5638522035512499
+          },
+          {
+            "x": 0.3636436728395062,
+            "y": 0.5629666485650693
+          },
+          {
+            "x": 0.3638749151234568,
+            "y": 0.5619550378189482
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.36281157407407405,
+          "minY": 0.5619550378189482,
+          "maxX": 0.3638749151234568,
+          "maxY": 0.566315528602174,
+          "width": 0.001063341049382771,
+          "height": 0.004360490783225868,
+          "midX": 0.36334324459876544,
+          "midY": 0.5641352832105611
+        },
+        "fixes": [
+          "UBNID",
+          "VULRU",
+          "IMTBI",
+          "ANSOK",
+          "PALCA",
+          "ENPEG"
+        ],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.36293185185185184,
+              "y": 0.5658413033676102
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.36317770061728394,
+              "y": 0.5648711311007851
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3633720447530864,
+              "y": 0.5641136383889204
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3635423225308642,
+              "y": 0.5634092053841319
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3637594290123457,
+              "y": 0.5624605596529673
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "UZ65": [
+      {
+        "identifier": "UZ65",
+        "mapPoints": [
+          {
+            "x": 0.35980594135802463,
+            "y": 0.5662273842922523
+          },
+          {
+            "x": 0.36133472222222224,
+            "y": 0.5649672500979739
+          },
+          {
+            "x": 0.3615771527777778,
+            "y": 0.5648441769637584
+          },
+          {
+            "x": 0.36280401234567905,
+            "y": 0.5641921083611773
+          },
+          {
+            "x": 0.3634407561728395,
+            "y": 0.5638522035512499
+          },
+          {
+            "x": 0.3650179243827161,
+            "y": 0.5634361917749764
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.35980594135802463,
+          "minY": 0.5634361917749764,
+          "maxX": 0.3650179243827161,
+          "maxY": 0.5662273842922523,
+          "width": 0.005211983024691447,
+          "height": 0.0027911925172758867,
+          "midX": 0.3624119328703703,
+          "midY": 0.5648317880336143
+        },
+        "fixes": [
+          "AKTIT",
+          "ENTUN",
+          "DEXOV",
+          "ESILO",
+          "ANSOK",
+          "EDMOX"
+        ],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.36069253858024697,
+              "y": 0.5653099490188365
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3621910648148148,
+              "y": 0.5645184656203404
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3631225154320988,
+              "y": 0.5640222423612802
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3642297299382716,
+              "y": 0.5636448884035187
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "UZ82": [
+      {
+        "identifier": "UZ82",
+        "mapPoints": [
+          {
+            "x": 0.36099722222222225,
+            "y": 0.56101704445551
+          },
+          {
+            "x": 0.362262037037037,
+            "y": 0.5624908795516231
+          },
+          {
+            "x": 0.3634407561728395,
+            "y": 0.5638522035512499
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.36099722222222225,
+          "minY": 0.56101704445551,
+          "maxX": 0.3634407561728395,
+          "maxY": 0.5638522035512499,
+          "width": 0.0024435339506172493,
+          "height": 0.0028351590957398365,
+          "midX": 0.36221898919753087,
+          "midY": 0.56243462400338
+        },
+        "fixes": [
+          "AKNID",
+          "TITVO",
+          "ANSOK"
+        ],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.36162854938271605,
+              "y": 0.561753796417567
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3628504475308642,
+              "y": 0.5631714048085986
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "UZ87": [
+      {
+        "identifier": "UZ87",
+        "mapPoints": [
+          {
+            "x": 0.36032592592592594,
+            "y": 0.557051582266147
+          },
+          {
+            "x": 0.3636436728395062,
+            "y": 0.5629666485650693
+          },
+          {
+            "x": 0.3641712962962963,
+            "y": 0.5634310811515256
+          },
+          {
+            "x": 0.3643711419753087,
+            "y": 0.5636078631525563
+          },
+          {
+            "x": 0.3653901080246914,
+            "y": 0.5645012218068142
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.36032592592592594,
+          "minY": 0.557051582266147,
+          "maxX": 0.3653901080246914,
+          "maxY": 0.5645012218068142,
+          "width": 0.005064182098765468,
+          "height": 0.00744963954066713,
+          "midX": 0.3628580169753087,
+          "midY": 0.5607764020364806
+        },
+        "fixes": [
+          "ASDOV",
+          "PALCA",
+          "UGONI",
+          "TOBUV",
+          "OBLUG"
+        ],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.3619736959876543,
+              "y": 0.5600023300741392
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.363907337962963,
+              "y": 0.5631988842382125
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3648800771604938,
+              "y": 0.5640546119294509
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ]
+  },
+  "atcPositions": {
+    "SBWU_APP": {
+      "callsign": "SBWU_APP",
+      "frequency": 21300,
+      "transferList": [
+        "SBXG_APP",
+        "SBAE_I_TWR",
+        "SBBU_I_TWR",
+        "SBML_I_TWR",
+        "SBCW",
+        "SBBS",
+        "-SBBS_E_CTR",
+        "-SBBS_C_CTR",
+        "-SBBS_CE_CTR",
+        "-SBCW_E_CTR",
+        "-SBCW_C_CTR"
+      ],
+      "mapPoints": [],
+      "mapBounds": {
+        "minX": 0,
+        "minY": 0,
+        "maxX": 0,
+        "maxY": 0,
+        "width": 0,
+        "height": 0,
+        "midX": 0,
+        "midY": 0
+      }
+    },
+    "SBAE_I_TWR": {
+      "callsign": "SBAE_I_TWR",
+      "frequency": 31850,
+      "transferList": [
+        "SBWU_APP"
+      ],
+      "mapPoints": [],
+      "mapBounds": {
+        "minX": 0,
+        "minY": 0,
+        "maxX": 0,
+        "maxY": 0,
+        "width": 0,
+        "height": 0,
+        "midX": 0,
+        "midY": 0
+      }
+    },
+    "SBBU_I_TWR": {
+      "callsign": "SBBU_I_TWR",
+      "frequency": 21300,
+      "transferList": [
+        "SBWU_APP"
+      ],
+      "mapPoints": [],
+      "mapBounds": {
+        "minX": 0,
+        "minY": 0,
+        "maxX": 0,
+        "maxY": 0,
+        "width": 0,
+        "height": 0,
+        "midX": 0,
+        "midY": 0
+      }
+    },
+    "SBML_I_TWR": {
+      "callsign": "SBML_I_TWR",
+      "frequency": 30450,
+      "transferList": [
+        "SBWU_APP"
+      ],
+      "mapPoints": [],
+      "mapBounds": {
+        "minX": 0,
+        "minY": 0,
+        "maxX": 0,
+        "maxY": 0,
+        "width": 0,
+        "height": 0,
+        "midX": 0,
+        "midY": 0
+      }
+    }
+  },
+  "geoAreas": [
+    "TAXIWAYCENTER",
+    "STOPLINE",
+    "TAXIWAY"
+  ],
+  "mvas": []
+}

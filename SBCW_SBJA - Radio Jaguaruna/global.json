@@ -1,0 +1,449 @@
+{
+  "colours": {},
+  "sectors": {
+    "SBJA - Radio Jaguaruna": {
+      "mapCenter": {
+        "x": 0.3637237654320988,
+        "y": 0.5832034771650609
+      },
+      "geoCenter": {
+        "x": -28.67527777777778,
+        "y": -49.059444444444445
+      }
+    }
+  },
+  "airports": {
+    "SBJA": {
+      "identifier": "SBJA",
+      "elevation": 115,
+      "transitionAltitude": 7000,
+      "geoPosition": {
+        "x": -28.67527777777778,
+        "y": -49.059444444444445
+      },
+      "mapPosition": {
+        "x": 0.3637237654320988,
+        "y": 0.5832034771650609
+      },
+      "name": "REGL SUL",
+      "hideTag": false,
+      "runways": [
+        {
+          "airport": "SBJA",
+          "primaryId": "05",
+          "oppositeId": "23",
+          "primaryCourse": 53,
+          "oppositeCourse": 233,
+          "primaryMapPoint": {
+            "x": 0.36370366512345675,
+            "y": 0.5832331253870486
+          },
+          "primaryElevation": 110,
+          "oppositeMapPoint": {
+            "x": 0.3637431944444445,
+            "y": 0.5831738140052275
+          },
+          "oppositeElevation": 110,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": [
+        {
+          "airport": "SBJA",
+          "identifier": "1",
+          "geoPosition": {
+            "x": -28.677411111111113,
+            "y": -49.06614055555555
+          },
+          "mapPosition": {
+            "x": 0.36370516512345685,
+            "y": 0.5832102315550284
+          },
+          "gateType": null
+        },
+        {
+          "airport": "SBJA",
+          "identifier": "2",
+          "geoPosition": {
+            "x": -28.67710361111111,
+            "y": -49.06592555555555
+          },
+          "mapPosition": {
+            "x": 0.363705762345679,
+            "y": 0.5832092579645524
+          },
+          "gateType": null
+        },
+        {
+          "airport": "SBJA",
+          "identifier": "3",
+          "geoPosition": {
+            "x": -28.676808888888893,
+            "y": -49.06568222222222
+          },
+          "mapPosition": {
+            "x": 0.3637064382716049,
+            "y": 0.5832083248330928
+          },
+          "gateType": null
+        },
+        {
+          "airport": "SBJA",
+          "identifier": "4",
+          "geoPosition": {
+            "x": -28.67644777777778,
+            "y": -49.06540138888889
+          },
+          "mapPosition": {
+            "x": 0.36370721836419756,
+            "y": 0.583207181508776
+          },
+          "gateType": null
+        }
+      ]
+    },
+    "SIEZ": {
+      "identifier": "SIEZ",
+      "elevation": 26,
+      "transitionAltitude": null,
+      "geoPosition": {
+        "x": -28.528055555555554,
+        "y": -48.94916666666666
+      },
+      "mapPosition": {
+        "x": 0.3640300925925926,
+        "y": 0.5827376853510332
+      },
+      "name": "ASA BRANCA",
+      "hideTag": false,
+      "runways": [],
+      "gates": []
+    },
+    "SSIM": {
+      "identifier": "SSIM",
+      "elevation": 92,
+      "transitionAltitude": 7000,
+      "geoPosition": {
+        "x": -28.724444444444444,
+        "y": -49.42111111111111
+      },
+      "mapPosition": {
+        "x": 0.3627191358024691,
+        "y": 0.5833591797208897
+      },
+      "name": "FORQUILHINHA-CRICIUMA",
+      "hideTag": true,
+      "runways": [
+        {
+          "airport": "SSIM",
+          "primaryId": "09",
+          "oppositeId": "27",
+          "primaryCourse": 95,
+          "oppositeCourse": 275,
+          "primaryMapPoint": {
+            "x": 0.362690887345679,
+            "y": 0.583368093047336
+          },
+          "primaryElevation": 87,
+          "oppositeMapPoint": {
+            "x": 0.3627297916666667,
+            "y": 0.5833581502603384
+          },
+          "oppositeElevation": 83,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    }
+  },
+  "points": {
+    "IMBIX": [
+      {
+        "identifier": "IMBIX",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36341027777777773,
+          "y": 0.5836728391914643
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "JA001": [
+      {
+        "identifier": "JA001",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3632632947530864,
+          "y": 0.5838928188177256
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "JA003": [
+      {
+        "identifier": "JA003",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36355706790123454,
+          "y": 0.5834529444444289
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "JA006": [
+      {
+        "identifier": "JA006",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3636318287037037,
+          "y": 0.5838164097226409
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "JA007": [
+      {
+        "identifier": "JA007",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3641816666666667,
+          "y": 0.5825148894332186
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "JA009": [
+      {
+        "identifier": "JA009",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36388954475308644,
+          "y": 0.5829541007082102
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "JA011": [
+      {
+        "identifier": "JA011",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.364266149691358,
+          "y": 0.5828615310890434
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "JA023": [
+      {
+        "identifier": "JA023",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36381638888888895,
+          "y": 0.5830639435848466
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "OPRUK": [
+      {
+        "identifier": "OPRUK",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36403570216049386,
+          "y": 0.5827344534523536
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "UBNUT": [
+      {
+        "identifier": "UBNUT",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3637916666666667,
+          "y": 0.5819480296761864
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "UTMUD": [
+      {
+        "identifier": "UTMUD",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36315509259259265,
+          "y": 0.5825304856609622
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ELAKA": [
+      {
+        "identifier": "ELAKA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3638069444444445,
+          "y": 0.5801371195759711
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "UKBIX": [
+      {
+        "identifier": "UKBIX",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3603430324074074,
+          "y": 0.5803884569184091
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TIMVI": [
+      {
+        "identifier": "TIMVI",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36162682098765436,
+          "y": 0.5839195058139668
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BUTOK": [
+      {
+        "identifier": "BUTOK",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36054027777777775,
+          "y": 0.5848302778558188
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "FLN": [
+      {
+        "identifier": "FLN",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3651654089506173,
+          "y": 0.5800354305065865
+        },
+        "kind": "VOR",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 113400,
+        "altitude": null
+      }
+    ],
+    "JGN": [
+      {
+        "identifier": "JGN",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36370357253086416,
+          "y": 0.5832147873280241
+        },
+        "kind": "NDB",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 280000,
+        "altitude": null
+      }
+    ]
+  },
+  "airwaysLow": {},
+  "airwaysHigh": {},
+  "atcPositions": {
+    "SBJA_I_TWR": {
+      "callsign": "SBJA_I_TWR",
+      "frequency": 30700,
+      "transferList": [
+        "SBCW_CTR",
+        "SBCW_C_CTR"
+      ],
+      "mapPoints": [],
+      "mapBounds": {
+        "minX": 0,
+        "minY": 0,
+        "maxX": 0,
+        "maxY": 0,
+        "width": 0,
+        "height": 0,
+        "midX": 0,
+        "midY": 0
+      }
+    }
+  },
+  "geoAreas": [
+    "TAXIWAYCENTER",
+    "STOPLINE",
+    "TAXIWAY"
+  ],
+  "mvas": []
+}
