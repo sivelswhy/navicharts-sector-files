@@ -1,0 +1,203 @@
+{
+  "level": 8,
+  "x": 246,
+  "y": 220,
+  "mapBounds": {
+    "minX": 0.9609375,
+    "minY": 0.859375,
+    "maxX": 0.96484375,
+    "maxY": 0.86328125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.962890625,
+    "midY": 0.861328125
+  },
+  "shapes": [
+    {
+      "geoArea": "COAST",
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": null,
+      "strokeColour": {
+        "$ref": "COAST"
+      },
+      "strokeWidth": 1,
+      "mapPoints": [
+        {
+          "x": 4.862499999999967E-05,
+          "y": 0.8614123119599695
+        },
+        {
+          "x": 0.9987721898148149,
+          "y": 0.8611622290724278
+        }
+      ],
+      "mapBounds": {
+        "minX": 4.862499999999967E-05,
+        "minY": 0.8611622290724278,
+        "maxX": 0.9987721898148149,
+        "maxY": 0.8614123119599695,
+        "width": 0.9987235648148148,
+        "height": 0.0002500828875416916,
+        "midX": 0.49941040740740744,
+        "midY": 0.8612872705161987
+      }
+    }
+  ],
+  "points": [
+    {
+      "identifier": "ACREZ",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9640538888888889,
+        "y": 0.8610622718603308
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ESUBE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9640083024691358,
+        "y": 0.8599658502957608
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "GULTE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9637488580246915,
+        "y": 0.8599829228196717
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "HAPAS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9638229320987655,
+        "y": 0.8601377430720968
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "HUVRI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9639008641975307,
+        "y": 0.8605217769983213
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "JETOD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9629546450617283,
+        "y": 0.8609241928311683
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "JUSIP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.96229875,
+        "y": 0.8610763689215861
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KUGRE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9639791203703704,
+        "y": 0.861087187548794
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MALTZ",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9631878935185185,
+        "y": 0.8611877560610688
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PINOE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9632732561728395,
+        "y": 0.8598497223292298
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "REASE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9647331712962963,
+        "y": 0.8598916281147008
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

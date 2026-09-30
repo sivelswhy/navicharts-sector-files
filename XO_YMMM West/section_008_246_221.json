@@ -1,0 +1,119 @@
+{
+  "level": 8,
+  "x": 246,
+  "y": 221,
+  "mapBounds": {
+    "minX": 0.9609375,
+    "minY": 0.86328125,
+    "maxX": 0.96484375,
+    "maxY": 0.8671875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.962890625,
+    "midY": 0.865234375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "AFOSU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9638457638888889,
+        "y": 0.8661148414970427
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "FABOS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.963253348765432,
+        "y": 0.8669184845294763
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KYSER",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9615011265432098,
+        "y": 0.8657300991935535
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "RULOE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9640722685185185,
+        "y": 0.863335254209648
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SARBE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.964027314814815,
+        "y": 0.8648489481331777
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SONIE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9632200462962962,
+        "y": 0.8640278546232795
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "WIKAL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9633641975308642,
+        "y": 0.8650796633680538
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}
