@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 181,
+  "y": 86,
+  "mapBounds": {
+    "minX": 0.70703125,
+    "minY": 0.3359375,
+    "maxX": 0.7109375,
+    "maxY": 0.33984375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.708984375,
+    "midY": 0.337890625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "APTOK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7087808641975308,
+        "y": 0.33693024330254406
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BODNU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7087638888888889,
+        "y": 0.33742589373164333
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ODAMA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7099637345679012,
+        "y": 0.336716589045552
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

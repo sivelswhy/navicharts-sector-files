@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 179,
+  "y": 88,
+  "mapBounds": {
+    "minX": 0.69921875,
+    "minY": 0.34375,
+    "maxX": 0.703125,
+    "maxY": 0.34765625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.701171875,
+    "midY": 0.345703125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "AZORI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7007037037037037,
+        "y": 0.34750022381902923
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LUTEK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.703008487654321,
+        "y": 0.345606608630686
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

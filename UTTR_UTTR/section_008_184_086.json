@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 184,
+  "y": 86,
+  "mapBounds": {
+    "minX": 0.71875,
+    "minY": 0.3359375,
+    "maxX": 0.72265625,
+    "maxY": 0.33984375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.720703125,
+    "midY": 0.337890625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ADLAN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7206095679012346,
+        "y": 0.3397536873856975
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ETORI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7198495370370371,
+        "y": 0.3368173740400625
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LUREL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7198171296296296,
+        "y": 0.3379734815246387
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SE112",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7220900231481481,
+        "y": 0.33764833125376054
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

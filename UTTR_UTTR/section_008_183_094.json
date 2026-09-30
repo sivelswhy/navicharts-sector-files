@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 183,
+  "y": 94,
+  "mapBounds": {
+    "minX": 0.71484375,
+    "minY": 0.3671875,
+    "maxX": 0.71875,
+    "maxY": 0.37109375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.716796875,
+    "midY": 0.369140625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "GORIS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7177307098765431,
+        "y": 0.3692925494218235
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "IRKUS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.715787037037037,
+        "y": 0.3693699979564498
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

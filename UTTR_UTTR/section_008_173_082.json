@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 173,
+  "y": 82,
+  "mapBounds": {
+    "minX": 0.67578125,
+    "minY": 0.3203125,
+    "maxX": 0.6796875,
+    "maxY": 0.32421875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.677734375,
+    "midY": 0.322265625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BIKLU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6765383487654321,
+        "y": 0.32375739381806773
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ERSAS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6761537037037038,
+        "y": 0.3239211515428875
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,119 @@
+{
+  "level": 7,
+  "x": 88,
+  "y": 42,
+  "mapBounds": {
+    "minX": 0.6875,
+    "minY": 0.328125,
+    "maxX": 0.6953125,
+    "maxY": 0.3359375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.69140625,
+    "midY": 0.33203125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ATBAN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6899012345679012,
+        "y": 0.3304353740438625
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ATNON",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6876774691358024,
+        "y": 0.3294245458410554
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CC430",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.695295100308642,
+        "y": 0.3353384714739502
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DIDAL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.694207561728395,
+        "y": 0.33262298911884713
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KODOL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6942986111111111,
+        "y": 0.3335502027592962
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OSROL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6944999999999999,
+        "y": 0.33563643283692984
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "RUDAL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6885354938271605,
+        "y": 0.33316005109043045
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

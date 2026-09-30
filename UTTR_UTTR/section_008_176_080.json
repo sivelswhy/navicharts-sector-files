@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 176,
+  "y": 80,
+  "mapBounds": {
+    "minX": 0.6875,
+    "minY": 0.3125,
+    "maxX": 0.69140625,
+    "maxY": 0.31640625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.689453125,
+    "midY": 0.314453125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "IKANA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6894444444444444,
+        "y": 0.3163462883488985
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LETIK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6903703703703704,
+        "y": 0.3153268594441689
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

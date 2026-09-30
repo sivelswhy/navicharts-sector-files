@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 172,
+  "y": 83,
+  "mapBounds": {
+    "minX": 0.671875,
+    "minY": 0.32421875,
+    "maxX": 0.67578125,
+    "maxY": 0.328125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.673828125,
+    "midY": 0.326171875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BAMIK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6724722222222222,
+        "y": 0.3276442410720333
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LODEZ",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6736141975308642,
+        "y": 0.32442039219218266
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

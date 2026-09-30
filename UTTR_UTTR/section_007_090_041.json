@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 90,
+  "y": 41,
+  "mapBounds": {
+    "minX": 0.703125,
+    "minY": 0.3203125,
+    "maxX": 0.7109375,
+    "maxY": 0.328125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.70703125,
+    "midY": 0.32421875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ADASA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7090092592592593,
+        "y": 0.3268029763772436
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ADODA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7086064814814814,
+        "y": 0.3278562264285225
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BAGNU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7107901234567902,
+        "y": 0.32518690246475523
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

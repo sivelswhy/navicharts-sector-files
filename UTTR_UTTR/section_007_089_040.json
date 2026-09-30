@@ -1,0 +1,54 @@
+{
+  "level": 7,
+  "x": 89,
+  "y": 40,
+  "mapBounds": {
+    "minX": 0.6953125,
+    "minY": 0.3125,
+    "maxX": 0.703125,
+    "maxY": 0.3203125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.69921875,
+    "midY": 0.31640625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BARKI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6972222222222222,
+        "y": 0.3169519016534189
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BEDMU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.696545524691358,
+        "y": 0.32011440472563707
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

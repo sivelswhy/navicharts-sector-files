@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 177,
+  "y": 87,
+  "mapBounds": {
+    "minX": 0.69140625,
+    "minY": 0.33984375,
+    "maxX": 0.6953125,
+    "maxY": 0.34375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.693359375,
+    "midY": 0.341796875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ALFIL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6946141975308642,
+        "y": 0.3436407591893232
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "AMIGU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6928371913580247,
+        "y": 0.3422367824685375
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KUGUN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6914737654320987,
+        "y": 0.34117671642129915
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

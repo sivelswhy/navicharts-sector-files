@@ -1,0 +1,54 @@
+{
+  "level": 7,
+  "x": 87,
+  "y": 42,
+  "mapBounds": {
+    "minX": 0.6796875,
+    "minY": 0.328125,
+    "maxX": 0.6875,
+    "maxY": 0.3359375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.68359375,
+    "midY": 0.33203125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "KUSUM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6799375,
+        "y": 0.33148977156812703
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LATKO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6853912037037038,
+        "y": 0.32841621060174414
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

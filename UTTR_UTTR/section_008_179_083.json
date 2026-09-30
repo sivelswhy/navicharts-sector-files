@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 179,
+  "y": 83,
+  "mapBounds": {
+    "minX": 0.69921875,
+    "minY": 0.32421875,
+    "maxX": 0.703125,
+    "maxY": 0.328125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.701171875,
+    "midY": 0.326171875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "AMOLA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.699817901234568,
+        "y": 0.3273697233495045
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ULSET",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7001157407407408,
+        "y": 0.3257172194659977
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

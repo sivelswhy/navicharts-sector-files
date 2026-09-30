@@ -1,0 +1,90 @@
+{
+  "level": 8,
+  "x": 160,
+  "y": 86,
+  "mapBounds": {
+    "minX": 0.625,
+    "minY": 0.3359375,
+    "maxX": 0.62890625,
+    "maxY": 0.33984375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.626953125,
+    "midY": 0.337890625
+  },
+  "shapes": [
+    {
+      "geoArea": "PROHIBITED",
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": null,
+      "strokeColour": {
+        "$ref": "PROHIBITED"
+      },
+      "strokeWidth": 1,
+      "mapPoints": [
+        {
+          "x": 0.6301852777777778,
+          "y": 0.3384231352237905
+        },
+        {
+          "x": 0.6277777777777778,
+          "y": 0.34058015391843954
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.6277777777777778,
+        "minY": 0.3384231352237905,
+        "maxX": 0.6301852777777778,
+        "maxY": 0.34058015391843954,
+        "width": 0.002407500000000007,
+        "height": 0.0021570186946490155,
+        "midX": 0.6289815277777777,
+        "midY": 0.33950164457111504
+      }
+    },
+    {
+      "geoArea": "RESTRICTED",
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": null,
+      "strokeColour": {
+        "$ref": "RESTRICTED"
+      },
+      "strokeWidth": 1,
+      "mapPoints": [
+        {
+          "x": 0.6301852777777778,
+          "y": 0.3384231352237905
+        },
+        {
+          "x": 0.6277777777777778,
+          "y": 0.34058015391843954
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.6277777777777778,
+        "minY": 0.3384231352237905,
+        "maxX": 0.6301852777777778,
+        "maxY": 0.34058015391843954,
+        "width": 0.002407500000000007,
+        "height": 0.0021570186946490155,
+        "midX": 0.6289815277777777,
+        "midY": 0.33950164457111504
+      }
+    }
+  ],
+  "points": [],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}
