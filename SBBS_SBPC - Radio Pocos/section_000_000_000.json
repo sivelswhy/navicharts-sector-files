@@ -1,0 +1,90 @@
+{
+  "level": 0,
+  "x": 0,
+  "y": 0,
+  "mapBounds": {
+    "minX": 0,
+    "minY": 0,
+    "maxX": 1,
+    "maxY": 1,
+    "width": 1,
+    "height": 1,
+    "midX": 0.5,
+    "midY": 0.5
+  },
+  "shapes": [
+    {
+      "geoArea": null,
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": "#8F8F8F",
+      "strokeColour": "#787878",
+      "strokeWidth": 2,
+      "mapPoints": [
+        {
+          "x": 0.3706496913580247,
+          "y": 0.5608355476088764
+        },
+        {
+          "x": 0.3719912762345679,
+          "y": 0.562260975430326
+        },
+        {
+          "x": 0.37049393287037036,
+          "y": 0.5635292718584125
+        },
+        {
+          "x": 0.36932704089506174,
+          "y": 0.5619492745319918
+        },
+        {
+          "x": 0.3706496913580247,
+          "y": 0.5608355476088764
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.36932704089506174,
+        "minY": 0.5608355476088764,
+        "maxX": 0.3719912762345679,
+        "maxY": 0.5635292718584125,
+        "width": 0.00266423533950616,
+        "height": 0.002693724249536067,
+        "midX": 0.3706591585648148,
+        "midY": 0.5621824097336445
+      }
+    }
+  ],
+  "points": [],
+  "airports": [],
+  "runways": [
+    {
+      "airport": "SBPC",
+      "primaryId": "09",
+      "oppositeId": "27",
+      "primaryCourse": 91,
+      "oppositeCourse": 271,
+      "primaryMapPoint": {
+        "x": 0.3706224691358025,
+        "y": 0.562205483704377
+      },
+      "primaryElevation": 1261,
+      "oppositeMapPoint": {
+        "x": 0.37065798611111117,
+        "y": 0.5621922995651579
+      },
+      "oppositeElevation": 1263,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": -0.3554408975959697
+    }
+  ],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

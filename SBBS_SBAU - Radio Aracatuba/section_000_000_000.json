@@ -1,0 +1,110 @@
+{
+  "level": 0,
+  "x": 0,
+  "y": 0,
+  "mapBounds": {
+    "minX": 0,
+    "minY": 0,
+    "maxX": 1,
+    "maxY": 1,
+    "width": 1,
+    "height": 1,
+    "midX": 0.5,
+    "midY": 0.5
+  },
+  "shapes": [
+    {
+      "geoArea": null,
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": "#8F8F8F",
+      "strokeColour": "#787878",
+      "strokeWidth": 2,
+      "mapPoints": [
+        {
+          "x": 0.3594706234567901,
+          "y": 0.5588517542795083
+        },
+        {
+          "x": 0.3612135694444444,
+          "y": 0.5597505122422831
+        },
+        {
+          "x": 0.360212813271605,
+          "y": 0.561430161758119
+        },
+        {
+          "x": 0.3586016790123457,
+          "y": 0.5602977258980039
+        },
+        {
+          "x": 0.3594706234567901,
+          "y": 0.5588517542795083
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.3586016790123457,
+        "minY": 0.5588517542795083,
+        "maxX": 0.3612135694444444,
+        "maxY": 0.561430161758119,
+        "width": 0.0026118904320986958,
+        "height": 0.0025784074786107114,
+        "midX": 0.35990762422839506,
+        "midY": 0.5601409580188137
+      }
+    }
+  ],
+  "points": [],
+  "airports": [],
+  "runways": [
+    {
+      "airport": "SBAU",
+      "primaryId": "05",
+      "oppositeId": "23",
+      "primaryCourse": 48,
+      "oppositeCourse": 228,
+      "primaryMapPoint": {
+        "x": 0.3599181327160494,
+        "y": 0.5601309038376476
+      },
+      "primaryElevation": 1362,
+      "oppositeMapPoint": {
+        "x": 0.3599451388888889,
+        "y": 0.5600806875341416
+      },
+      "oppositeElevation": 1322,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": -1.0773703405833592
+    },
+    {
+      "airport": "SDWH",
+      "primaryId": "01",
+      "oppositeId": "19",
+      "primaryCourse": 15,
+      "oppositeCourse": 195,
+      "primaryMapPoint": {
+        "x": 0.36128954475308644,
+        "y": 0.5602668309149479
+      },
+      "primaryElevation": 1444,
+      "oppositeMapPoint": {
+        "x": 0.36128773148148147,
+        "y": 0.5602265457236639
+      },
+      "oppositeElevation": 1444,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": -1.6157768390818465
+    }
+  ],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

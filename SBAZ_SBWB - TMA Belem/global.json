@@ -1,0 +1,3834 @@
+{
+  "colours": {},
+  "sectors": {
+    "SBWB - TMA Belem": {
+      "mapCenter": {
+        "x": 0.3653364197530864,
+        "y": 0.5038452814572836
+      },
+      "geoCenter": {
+        "x": -1.3841666666666665,
+        "y": -48.47888888888889
+      }
+    }
+  },
+  "airports": {
+    "SBBE": {
+      "identifier": "SBBE",
+      "elevation": 56,
+      "transitionAltitude": 4000,
+      "geoPosition": {
+        "x": -1.3847222222222222,
+        "y": -48.47888888888889
+      },
+      "mapPosition": {
+        "x": 0.3653364197530864,
+        "y": 0.503846825117776
+      },
+      "name": "VAL DE CANS/JULIO CEZAR RIBEIR",
+      "hideTag": false,
+      "runways": [
+        {
+          "airport": "SBBE",
+          "primaryId": "03",
+          "oppositeId": "21",
+          "primaryCourse": 24,
+          "oppositeCourse": 204,
+          "primaryMapPoint": {
+            "x": 0.36534123456790124,
+            "y": 0.5038630181381735
+          },
+          "primaryElevation": 21,
+          "oppositeMapPoint": {
+            "x": 0.3653451466049383,
+            "y": 0.5038172100541729
+          },
+          "oppositeElevation": 48,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        },
+        {
+          "airport": "SBBE",
+          "primaryId": "07",
+          "oppositeId": "25",
+          "primaryCourse": 65,
+          "oppositeCourse": 245,
+          "primaryMapPoint": {
+            "x": 0.3653194212962963,
+            "y": 0.5038559790319351
+          },
+          "primaryElevation": 37,
+          "oppositeMapPoint": {
+            "x": 0.36536922839506175,
+            "y": 0.5038066128795717
+          },
+          "oppositeElevation": 52,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": [
+        {
+          "airport": "SBBE",
+          "identifier": "1",
+          "geoPosition": {
+            "x": -1.3908591666666668,
+            "y": -48.47907027777778
+          },
+          "mapPosition": {
+            "x": 0.3653359158950617,
+            "y": 0.503863877187511
+          },
+          "gateType": "H"
+        },
+        {
+          "airport": "SBBE",
+          "identifier": "2",
+          "geoPosition": {
+            "x": -1.3904002777777777,
+            "y": -48.47908527777778
+          },
+          "mapPosition": {
+            "x": 0.36533587422839503,
+            "y": 0.5038626021206102
+          },
+          "gateType": "H"
+        },
+        {
+          "airport": "SBBE",
+          "identifier": "3",
+          "geoPosition": {
+            "x": -1.3899436111111112,
+            "y": -48.47898583333333
+          },
+          "mapPosition": {
+            "x": 0.36533615046296297,
+            "y": 0.5038613332286136
+          },
+          "gateType": "H"
+        },
+        {
+          "airport": "SBBE",
+          "identifier": "4",
+          "geoPosition": {
+            "x": -1.3895525,
+            "y": -48.478969166666666
+          },
+          "mapPosition": {
+            "x": 0.36533619675925927,
+            "y": 0.5038602464891911
+          },
+          "gateType": "H"
+        },
+        {
+          "airport": "SBBE",
+          "identifier": "5",
+          "geoPosition": {
+            "x": -1.3893119444444444,
+            "y": -48.479033055555554
+          },
+          "mapPosition": {
+            "x": 0.36533601929012344,
+            "y": 0.5038595780827891
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBBE",
+          "identifier": "6",
+          "geoPosition": {
+            "x": -1.3886452777777776,
+            "y": -48.47898694444444
+          },
+          "mapPosition": {
+            "x": 0.3653361473765432,
+            "y": 0.5038577256866497
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBBE",
+          "identifier": "6A",
+          "geoPosition": {
+            "x": -1.3872886111111111,
+            "y": -48.47883027777778
+          },
+          "mapPosition": {
+            "x": 0.3653365825617284,
+            "y": 0.503853956062119
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBBE",
+          "identifier": "7",
+          "geoPosition": {
+            "x": -1.387568611111111,
+            "y": -48.47884472222223
+          },
+          "mapPosition": {
+            "x": 0.3653365424382716,
+            "y": 0.5038547340679876
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBBE",
+          "identifier": "8",
+          "geoPosition": {
+            "x": -1.387364722222222,
+            "y": -48.47928944444445
+          },
+          "mapPosition": {
+            "x": 0.36533530709876544,
+            "y": 0.5038541675438639
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBBE",
+          "identifier": "9",
+          "geoPosition": {
+            "x": -1.3873730555555555,
+            "y": -48.479750833333334
+          },
+          "mapPosition": {
+            "x": 0.365334025462963,
+            "y": 0.5038541906987999
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBBE",
+          "identifier": "1",
+          "geoPosition": {
+            "x": -1.3839566666666667,
+            "y": -48.48319555555556
+          },
+          "mapPosition": {
+            "x": 0.36532445679012343,
+            "y": 0.5038446979537117
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBBE",
+          "identifier": "2",
+          "geoPosition": {
+            "x": -1.3842663888888889,
+            "y": -48.48351805555556
+          },
+          "mapPosition": {
+            "x": 0.36532356095679014,
+            "y": 0.5038455585443153
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBBE",
+          "identifier": "3",
+          "geoPosition": {
+            "x": -1.3845658333333333,
+            "y": -48.4838575
+          },
+          "mapPosition": {
+            "x": 0.36532261805555555,
+            "y": 0.5038463905773108
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBBE",
+          "identifier": "4",
+          "geoPosition": {
+            "x": -1.3848875,
+            "y": -48.48418
+          },
+          "mapPosition": {
+            "x": 0.3653217222222222,
+            "y": 0.5038472843568422
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBBE",
+          "identifier": "5",
+          "geoPosition": {
+            "x": -1.3851991666666668,
+            "y": -48.48448805555555
+          },
+          "mapPosition": {
+            "x": 0.3653208665123457,
+            "y": 0.5038481503505973
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBBE",
+          "identifier": "6",
+          "geoPosition": {
+            "x": -1.3855252777777778,
+            "y": -48.484791388888894
+          },
+          "mapPosition": {
+            "x": 0.3653200239197531,
+            "y": 0.5038490564796573
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBBE",
+          "identifier": "10",
+          "geoPosition": {
+            "x": -1.3873877777777777,
+            "y": -48.480220833333334
+          },
+          "mapPosition": {
+            "x": 0.3653327199074074,
+            "y": 0.5038542316058536
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBBE",
+          "identifier": "11",
+          "geoPosition": {
+            "x": -1.3873841666666666,
+            "y": -48.48069361111111
+          },
+          "mapPosition": {
+            "x": 0.36533140663580244,
+            "y": 0.503854221572048
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBBE",
+          "identifier": "12",
+          "geoPosition": {
+            "x": -1.3873994444444444,
+            "y": -48.481137777777775
+          },
+          "mapPosition": {
+            "x": 0.3653301728395062,
+            "y": 0.5038542640227643
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBBE",
+          "identifier": "1",
+          "geoPosition": {
+            "x": -1.3820944444444445,
+            "y": -48.48105055555556
+          },
+          "mapPosition": {
+            "x": 0.36533041512345676,
+            "y": 0.5038395236068361
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBBE",
+          "identifier": "2",
+          "geoPosition": {
+            "x": -1.382358888888889,
+            "y": -48.48127
+          },
+          "mapPosition": {
+            "x": 0.36532980555555555,
+            "y": 0.5038402583885437
+          },
+          "gateType": "M"
+        }
+      ]
+    },
+    "SWEQ": {
+      "identifier": "SWEQ",
+      "elevation": 62,
+      "transitionAltitude": null,
+      "geoPosition": {
+        "x": -1.2672222222222222,
+        "y": -48.43
+      },
+      "mapPosition": {
+        "x": 0.3654722222222222,
+        "y": 0.50352034874858
+      },
+      "name": "CLUBE DE ESPORTES AEROS",
+      "hideTag": false,
+      "runways": [
+        {
+          "airport": "SWEQ",
+          "primaryId": "10",
+          "oppositeId": "28",
+          "primaryCourse": 0,
+          "oppositeCourse": 0,
+          "primaryMapPoint": {
+            "x": 0.36546509104938274,
+            "y": 0.5035211406089597
+          },
+          "primaryElevation": 62,
+          "oppositeMapPoint": {
+            "x": 0.36548000694444444,
+            "y": 0.5035190320686483
+          },
+          "oppositeElevation": 62,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    },
+    "SNYP": {
+      "identifier": "SNYP",
+      "elevation": 69,
+      "transitionAltitude": 4000,
+      "geoPosition": {
+        "x": -1.3177999999999999,
+        "y": -48.2989
+      },
+      "mapPosition": {
+        "x": 0.36583638888888886,
+        "y": 0.5036608783357909
+      },
+      "name": "Ch\u00E1cara Para\u00EDso",
+      "hideTag": true,
+      "runways": [
+        {
+          "airport": "SNYP",
+          "primaryId": "12",
+          "oppositeId": "30",
+          "primaryCourse": 0,
+          "oppositeCourse": 0,
+          "primaryMapPoint": {
+            "x": 0.36582594444444444,
+            "y": 0.5036590676719451
+          },
+          "primaryElevation": 69,
+          "oppositeMapPoint": {
+            "x": 0.36584810030864195,
+            "y": 0.5036626951745845
+          },
+          "oppositeElevation": 69,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    },
+    "SISR": {
+      "identifier": "SISR",
+      "elevation": 161,
+      "transitionAltitude": 4000,
+      "geoPosition": {
+        "x": -1.223888888888889,
+        "y": -48.04138888888889
+      },
+      "mapPosition": {
+        "x": 0.3665516975308642,
+        "y": 0.5033999499270538
+      },
+      "name": "Fazenda Reunidas Sococo",
+      "hideTag": true,
+      "runways": [
+        {
+          "airport": "SISR",
+          "primaryId": "10",
+          "oppositeId": "28",
+          "primaryCourse": 0,
+          "oppositeCourse": 0,
+          "primaryMapPoint": {
+            "x": 0.36653528317901235,
+            "y": 0.5034025130122245
+          },
+          "primaryElevation": 161,
+          "oppositeMapPoint": {
+            "x": 0.36656704166666665,
+            "y": 0.503398519816982
+          },
+          "oppositeElevation": 161,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    },
+    "SNGY": {
+      "identifier": "SNGY",
+      "elevation": 135,
+      "transitionAltitude": 4000,
+      "geoPosition": {
+        "x": -1.258888888888889,
+        "y": -47.95333333333333
+      },
+      "mapPosition": {
+        "x": 0.36679629629629634,
+        "y": 0.5034971949747468
+      },
+      "name": "Salles",
+      "hideTag": true,
+      "runways": [
+        {
+          "airport": "SNGY",
+          "primaryId": "11",
+          "oppositeId": "29",
+          "primaryCourse": 0,
+          "oppositeCourse": 0,
+          "primaryMapPoint": {
+            "x": 0.3667790802469136,
+            "y": 0.5034982538723848
+          },
+          "primaryElevation": 135,
+          "oppositeMapPoint": {
+            "x": 0.366809950617284,
+            "y": 0.5034958867887384
+          },
+          "oppositeElevation": 135,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    },
+    "SSUC": {
+      "identifier": "SSUC",
+      "elevation": 59,
+      "transitionAltitude": 4000,
+      "geoPosition": {
+        "x": -1.1692,
+        "y": -48.2106
+      },
+      "mapPosition": {
+        "x": 0.3660816666666667,
+        "y": 0.5032480032082494
+      },
+      "name": "C\u00E9lia Neuza",
+      "hideTag": true,
+      "runways": [
+        {
+          "airport": "SSUC",
+          "primaryId": "10",
+          "oppositeId": "28",
+          "primaryCourse": 0,
+          "oppositeCourse": 0,
+          "primaryMapPoint": {
+            "x": 0.3660747091049383,
+            "y": 0.5032498693377474
+          },
+          "primaryElevation": 59,
+          "oppositeMapPoint": {
+            "x": 0.3660900385802469,
+            "y": 0.5032467251644835
+          },
+          "oppositeElevation": 59,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    }
+  },
+  "points": {
+    "FAROL ARROZAL": [
+      {
+        "identifier": "FAROL ARROZAL",
+        "airport": "SBBE",
+        "mapPosition": {
+          "x": 0.36471678163580246,
+          "y": 0.5040076202065162
+        },
+        "kind": "VRP",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": "-1000"
+      }
+    ],
+    "BARCARENA": [
+      {
+        "identifier": "BARCARENA",
+        "airport": "SBBE",
+        "mapPosition": {
+          "x": 0.36495133950617287,
+          "y": 0.5041626635562534
+        },
+        "kind": "VRP",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": "\u2B66-1000 -\u003E -700"
+      }
+    ],
+    "ILHA MURUTUCU": [
+      {
+        "identifier": "ILHA MURUTUCU",
+        "airport": "SBBE",
+        "mapPosition": {
+          "x": 0.36542901080246915,
+          "y": 0.5041091478061301
+        },
+        "kind": "VRP",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": "ALL -700"
+      }
+    ],
+    "ILHA GRANDE": [
+      {
+        "identifier": "ILHA GRANDE",
+        "airport": "SBBE",
+        "mapPosition": {
+          "x": 0.36557899691358026,
+          "y": 0.5040537229503501
+        },
+        "kind": "VRP",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": "ALL -700"
+      }
+    ],
+    "MARITUBA": [
+      {
+        "identifier": "MARITUBA",
+        "airport": "SBBE",
+        "mapPosition": {
+          "x": 0.3657155949074074,
+          "y": 0.5036952308712991
+        },
+        "kind": "VRP",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": "ALL -700"
+      }
+    ],
+    "PONTE DA ILHA DO MOSQUEIRO": [
+      {
+        "identifier": "PONTE DA ILHA DO MOSQUEIRO",
+        "airport": "SBBE",
+        "mapPosition": {
+          "x": 0.3657700570987654,
+          "y": 0.5030615468199264
+        },
+        "kind": "VRP",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": "-700"
+      }
+    ],
+    "ACHA": [
+      {
+        "identifier": "ACHA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36533717592592596,
+          "y": 0.5039854164487264
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ANGIM": [
+      {
+        "identifier": "ANGIM",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36632491512345683,
+          "y": 0.5097355101121772
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ANDIV": [
+      {
+        "identifier": "ANDIV",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36549452932098764,
+          "y": 0.5036690286443927
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE001": [
+      {
+        "identifier": "BE001",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3652674074074074,
+          "y": 0.5041352800258064
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE002": [
+      {
+        "identifier": "BE002",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3653379552469136,
+          "y": 0.5042064001197435
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE003": [
+      {
+        "identifier": "BE003",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36470112654320985,
+          "y": 0.5036564018446213
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE004": [
+      {
+        "identifier": "BE004",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36524033179012344,
+          "y": 0.5031555230767845
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE006": [
+      {
+        "identifier": "BE006",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3653288811728395,
+          "y": 0.5040076842700313
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE007": [
+      {
+        "identifier": "BE007",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3652205941358025,
+          "y": 0.5039539251741789
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE008": [
+      {
+        "identifier": "BE008",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36569811728395063,
+          "y": 0.5042523113874016
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE009": [
+      {
+        "identifier": "BE009",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3660139274691358,
+          "y": 0.5037122424210294
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE012": [
+      {
+        "identifier": "BE012",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36533212962962963,
+          "y": 0.50396966307358
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE013": [
+      {
+        "identifier": "BE013",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36504185956790125,
+          "y": 0.5039016793293233
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE014": [
+      {
+        "identifier": "BE014",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3650786728395062,
+          "y": 0.5042416285727661
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE016": [
+      {
+        "identifier": "BE016",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3652124614197531,
+          "y": 0.5042884972489465
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE017": [
+      {
+        "identifier": "BE017",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3653429089506173,
+          "y": 0.5043359066208267
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE018": [
+      {
+        "identifier": "BE018",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.364954737654321,
+          "y": 0.5040389365370701
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE019": [
+      {
+        "identifier": "BE019",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36483787808641976,
+          "y": 0.5039637584623492
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE021": [
+      {
+        "identifier": "BE021",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3642957716049383,
+          "y": 0.5036149712838244
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE022": [
+      {
+        "identifier": "BE022",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36440116512345677,
+          "y": 0.5038323687514168
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE026": [
+      {
+        "identifier": "BE026",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3653214351851852,
+          "y": 0.5040948575672468
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE027": [
+      {
+        "identifier": "BE027",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3653016358024691,
+          "y": 0.5043267056837972
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE028": [
+      {
+        "identifier": "BE028",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36528182870370374,
+          "y": 0.5045585629801754
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE029": [
+      {
+        "identifier": "BE029",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3650784567901234,
+          "y": 0.5043872993703161
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE031": [
+      {
+        "identifier": "BE031",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3655112885802469,
+          "y": 0.5044247056750237
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE032": [
+      {
+        "identifier": "BE032",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36540453703703707,
+          "y": 0.5031217433611271
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE051": [
+      {
+        "identifier": "BE051",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36433034722222224,
+          "y": 0.5043858945158965
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE053": [
+      {
+        "identifier": "BE053",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3651667669753087,
+          "y": 0.5048965130059526
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE061": [
+      {
+        "identifier": "BE061",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3654442283950617,
+          "y": 0.5045691460335434
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE062": [
+      {
+        "identifier": "BE062",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36606212191358023,
+          "y": 0.5045972518190314
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE067": [
+      {
+        "identifier": "BE067",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36587475308641976,
+          "y": 0.5047387941643984
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE101": [
+      {
+        "identifier": "BE101",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36518110339506177,
+          "y": 0.5035147455284985
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE102": [
+      {
+        "identifier": "BE102",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3630663040123457,
+          "y": 0.5022092067433616
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE106": [
+      {
+        "identifier": "BE106",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3650463348765432,
+          "y": 0.5037742734632373
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE107": [
+      {
+        "identifier": "BE107",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3648798765432099,
+          "y": 0.5039386735733874
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE108": [
+      {
+        "identifier": "BE108",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36254225308641974,
+          "y": 0.5041756332827142
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE109": [
+      {
+        "identifier": "BE109",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36096405092592593,
+          "y": 0.5044025675354683
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE111": [
+      {
+        "identifier": "BE111",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36557559413580243,
+          "y": 0.504506003095184
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE112": [
+      {
+        "identifier": "BE112",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3656636728395062,
+          "y": 0.50501240247127
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE114": [
+      {
+        "identifier": "BE114",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36081084876543207,
+          "y": 0.5049198095733605
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE116": [
+      {
+        "identifier": "BE116",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.362663688271605,
+          "y": 0.5046691727163707
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE117": [
+      {
+        "identifier": "BE117",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36360589506172836,
+          "y": 0.50454076249966
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE118": [
+      {
+        "identifier": "BE118",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36575227469135796,
+          "y": 0.5054726020264401
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE121": [
+      {
+        "identifier": "BE121",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3635563117283951,
+          "y": 0.5032949266999097
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE122": [
+      {
+        "identifier": "BE122",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3645821759259259,
+          "y": 0.5039595133203909
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE126": [
+      {
+        "identifier": "BE126",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36663117283950614,
+          "y": 0.5052185675741816
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE127": [
+      {
+        "identifier": "BE127",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3658203858024692,
+          "y": 0.5048526035301264
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE128": [
+      {
+        "identifier": "BE128",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36532519290123455,
+          "y": 0.5045646688823188
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE131": [
+      {
+        "identifier": "BE131",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36525273148148146,
+          "y": 0.506948193714592
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE132": [
+      {
+        "identifier": "BE132",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3651801157407408,
+          "y": 0.5057162826095786
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE133": [
+      {
+        "identifier": "BE133",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3657416049382716,
+          "y": 0.5037905427171138
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE149": [
+      {
+        "identifier": "BE149",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36528468595679014,
+          "y": 0.5075491254349211
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE151": [
+      {
+        "identifier": "BE151",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3652160308641975,
+          "y": 0.5064223255761949
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE152": [
+      {
+        "identifier": "BE152",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36473994290123457,
+          "y": 0.5064199911158006
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE153": [
+      {
+        "identifier": "BE153",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3644644614197531,
+          "y": 0.5063713144938822
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE154": [
+      {
+        "identifier": "BE154",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3641967476851852,
+          "y": 0.5062879360978271
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE156": [
+      {
+        "identifier": "BE156",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3639420825617284,
+          "y": 0.5061720742376854
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE157": [
+      {
+        "identifier": "BE157",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3637036435185185,
+          "y": 0.5060246087916423
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE158": [
+      {
+        "identifier": "BE158",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3634852754629629,
+          "y": 0.5058485527349855
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE159": [
+      {
+        "identifier": "BE159",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36329009799382717,
+          "y": 0.5056462727501714
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE161": [
+      {
+        "identifier": "BE161",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36312188811728396,
+          "y": 0.5054208664976784
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE162": [
+      {
+        "identifier": "BE162",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36298299074074075,
+          "y": 0.5051768601570679
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE196": [
+      {
+        "identifier": "BE196",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3628880655864198,
+          "y": 0.5049522263920072
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE197": [
+      {
+        "identifier": "BE197",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36281634953703706,
+          "y": 0.5047152004285473
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE367": [
+      {
+        "identifier": "BE367",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3649899074074074,
+          "y": 0.504181082691017
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE172": [
+      {
+        "identifier": "BE172",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3655100848765432,
+          "y": 0.5031643519771704
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE198": [
+      {
+        "identifier": "BE198",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36250906635802466,
+          "y": 0.5046743122754376
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE179": [
+      {
+        "identifier": "BE179",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36268041666666667,
+          "y": 0.5047484025972291
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE181": [
+      {
+        "identifier": "BE181",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36277912037037036,
+          "y": 0.5050610950545015
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE182": [
+      {
+        "identifier": "BE182",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36289698302469137,
+          "y": 0.5053166166244567
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE183": [
+      {
+        "identifier": "BE183",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.363043850308642,
+          "y": 0.5055566848840916
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE184": [
+      {
+        "identifier": "BE184",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36321771604938274,
+          "y": 0.5057767957990106
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE186": [
+      {
+        "identifier": "BE186",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3634161574074074,
+          "y": 0.5059759453699167
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE187": [
+      {
+        "identifier": "BE187",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3636364429012346,
+          "y": 0.5061496847881011
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE188": [
+      {
+        "identifier": "BE188",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36387550925925927,
+          "y": 0.5062956852047011
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE189": [
+      {
+        "identifier": "BE189",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3641300462962963,
+          "y": 0.5064130441157921
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE191": [
+      {
+        "identifier": "BE191",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3643965200617284,
+          "y": 0.5064995110464008
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE192": [
+      {
+        "identifier": "BE192",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36467123456790124,
+          "y": 0.506553573446156
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE193": [
+      {
+        "identifier": "BE193",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.364950362654321,
+          "y": 0.5065744607968351
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE194": [
+      {
+        "identifier": "BE194",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36522441358024693,
+          "y": 0.506563588888519
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE199": [
+      {
+        "identifier": "BE199",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.360975275462963,
+          "y": 0.5039726987405385
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE363": [
+      {
+        "identifier": "BE363",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3656994598765432,
+          "y": 0.5034809873771245
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE368": [
+      {
+        "identifier": "BE368",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36515462962962963,
+          "y": 0.5040184824549186
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE371": [
+      {
+        "identifier": "BE371",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36536388888888893,
+          "y": 0.5035850253530431
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE378": [
+      {
+        "identifier": "BE378",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36553425925925925,
+          "y": 0.503643836812434
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE386": [
+      {
+        "identifier": "BE386",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3658962962962963,
+          "y": 0.5032840293110052
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE387": [
+      {
+        "identifier": "BE387",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36595000000000005,
+          "y": 0.5036007701048862
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE389": [
+      {
+        "identifier": "BE389",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3647925925925926,
+          "y": 0.5043783299210449
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE391": [
+      {
+        "identifier": "BE391",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3653824074074074,
+          "y": 0.5033534888545226
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE392": [
+      {
+        "identifier": "BE392",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36473888888888895,
+          "y": 0.5040615518829121
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE393": [
+      {
+        "identifier": "BE393",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36510462962962964,
+          "y": 0.5044352961960126
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE401": [
+      {
+        "identifier": "BE401",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3654087962962963,
+          "y": 0.503075191330576
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE402": [
+      {
+        "identifier": "BE402",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36565000000000003,
+          "y": 0.5032807878810177
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE403": [
+      {
+        "identifier": "BE403",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36513101851851854,
+          "y": 0.5032354080034497
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BE411": [
+      {
+        "identifier": "BE411",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36558425925925925,
+          "y": 0.5032270729525947
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BEL01": [
+      {
+        "identifier": "BEL01",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36537711419753083,
+          "y": 0.5036165997904203
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BEL02": [
+      {
+        "identifier": "BEL02",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3654914891975309,
+          "y": 0.5036724477634591
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BEL03": [
+      {
+        "identifier": "BEL03",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.365340162037037,
+          "y": 0.5040074527151609
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BEL05": [
+      {
+        "identifier": "BEL05",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36537082561728396,
+          "y": 0.5038081410945316
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BEL06": [
+      {
+        "identifier": "BEL06",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3653376234567901,
+          "y": 0.5038628946450164
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BEL07": [
+      {
+        "identifier": "BEL07",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.365157600308642,
+          "y": 0.503992123801577
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BEL08": [
+      {
+        "identifier": "BEL08",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.365341412037037,
+          "y": 0.5040784709938684
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BEL09": [
+      {
+        "identifier": "BEL09",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3657309953703704,
+          "y": 0.5040897555724926
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BEL10": [
+      {
+        "identifier": "BEL10",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3653216898148148,
+          "y": 0.5038585415127184
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BEL11": [
+      {
+        "identifier": "BEL11",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3653423533950617,
+          "y": 0.5038168472955495
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "DABEG": [
+      {
+        "identifier": "DABEG",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3653455015432099,
+          "y": 0.5043111366814839
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "DER02": [
+      {
+        "identifier": "DER02",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3653451466049383,
+          "y": 0.5038172100541729
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "DER06": [
+      {
+        "identifier": "DER06",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36536922839506175,
+          "y": 0.5038066128795717
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "DER20": [
+      {
+        "identifier": "DER20",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36534123456790124,
+          "y": 0.5038629563915947
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "DER24": [
+      {
+        "identifier": "DER24",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3653194212962963,
+          "y": 0.5038559790319351
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ERUGA": [
+      {
+        "identifier": "ERUGA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.364350462962963,
+          "y": 0.5022718364059904
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "GEBOK": [
+      {
+        "identifier": "GEBOK",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3640402777777778,
+          "y": 0.5025195496769848
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "IBE01": [
+      {
+        "identifier": "IBE01",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3653193518518519,
+          "y": 0.5038559095671085
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "IBE02": [
+      {
+        "identifier": "IBE02",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36515470679012346,
+          "y": 0.5040192234318286
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ILMAN": [
+      {
+        "identifier": "ILMAN",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.363512962962963,
+          "y": 0.5041490809948813
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ILPER": [
+      {
+        "identifier": "ILPER",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3637171296296297,
+          "y": 0.5029501689319666
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "IROMU": [
+      {
+        "identifier": "IROMU",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3654154783950617,
+          "y": 0.5097047893269476
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ILSAT": [
+      {
+        "identifier": "ILSAT",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36578472222222225,
+          "y": 0.5056535033840497
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ISEDA": [
+      {
+        "identifier": "ISEDA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36541690586419756,
+          "y": 0.5033874007784075
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "JARA": [
+      {
+        "identifier": "JARA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3651019058641975,
+          "y": 0.5040693862283
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "KOKBA": [
+      {
+        "identifier": "KOKBA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3640962962962963,
+          "y": 0.5048600143861302
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "KEVOM": [
+      {
+        "identifier": "KEVOM",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36573359567901237,
+          "y": 0.5040854717526084
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "KUGMO": [
+      {
+        "identifier": "KUGMO",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.365341412037037,
+          "y": 0.5040784709938684
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "LUIZA": [
+      {
+        "identifier": "LUIZA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36448839506172837,
+          "y": 0.505501033265293
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "LUTPA": [
+      {
+        "identifier": "LUTPA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.366225,
+          "y": 0.5022130342732056
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "LIVED": [
+      {
+        "identifier": "LIVED",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36783050925925925,
+          "y": 0.5057599992790796
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "LEMIS": [
+      {
+        "identifier": "LEMIS",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3654527546296297,
+          "y": 0.5125036526903006
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "MORDU": [
+      {
+        "identifier": "MORDU",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3668166666666667,
+          "y": 0.5027297634590496
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "MUBIR": [
+      {
+        "identifier": "MUBIR",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.364977862654321,
+          "y": 0.504138436956143
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "NAXOT": [
+      {
+        "identifier": "NAXOT",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36688703703703707,
+          "y": 0.5048614039228032
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "OPKUD": [
+      {
+        "identifier": "OPKUD",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36691851851851853,
+          "y": 0.5028811758741228
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "OPRIV": [
+      {
+        "identifier": "OPRIV",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36515470679012346,
+          "y": 0.5040189733521118
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "PAKUT": [
+      {
+        "identifier": "PAKUT",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.35838456018518516,
+          "y": 0.5049989467447183
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "PUNEN": [
+      {
+        "identifier": "PUNEN",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36349722222222225,
+          "y": 0.5040277446725575
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "PUDMI": [
+      {
+        "identifier": "PUDMI",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3614658641975309,
+          "y": 0.5012393566611799
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "PUPKI": [
+      {
+        "identifier": "PUPKI",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3671162037037037,
+          "y": 0.5043547099231349
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "REBAL": [
+      {
+        "identifier": "REBAL",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36503564814814815,
+          "y": 0.5056840783237997
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ROMUC": [
+      {
+        "identifier": "ROMUC",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3656456404320988,
+          "y": 0.5034990858634948
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ROTAM": [
+      {
+        "identifier": "ROTAM",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3636787037037037,
+          "y": 0.5046701144796081
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "SURDI": [
+      {
+        "identifier": "SURDI",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3649436651234568,
+          "y": 0.5036018506283617
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "SUZY": [
+      {
+        "identifier": "SUZY",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36533717592592596,
+          "y": 0.5041715809638493
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TAMAR": [
+      {
+        "identifier": "TAMAR",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36350185185185185,
+          "y": 0.5036234611327961
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "UPORA": [
+      {
+        "identifier": "UPORA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36500417438271604,
+          "y": 0.5041684626098399
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ITAKI": [
+      {
+        "identifier": "ITAKI",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36831648919753085,
+          "y": 0.5046969702395444
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ASBOT": [
+      {
+        "identifier": "ASBOT",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3679328703703704,
+          "y": 0.5055482298956898
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "KODSU": [
+      {
+        "identifier": "KODSU",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36537129629629633,
+          "y": 0.5064142356690607
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "SIMUK": [
+      {
+        "identifier": "SIMUK",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36190887345679007,
+          "y": 0.50441541968768
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "KOGVU": [
+      {
+        "identifier": "KOGVU",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3615726851851852,
+          "y": 0.5017662399567271
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "VUSNA": [
+      {
+        "identifier": "VUSNA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3619883101851852,
+          "y": 0.502276752031287
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "VULAP": [
+      {
+        "identifier": "VULAP",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.36608768518518514,
+          "y": 0.5080047306968625
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BEL": [
+      {
+        "identifier": "BEL",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3653373225308642,
+          "y": 0.5038458140201125
+        },
+        "kind": "VOR",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 117300,
+        "altitude": null
+      }
+    ]
+  },
+  "airwaysLow": {
+    "Z28": [
+      {
+        "identifier": "Z28",
+        "mapPoints": [
+          {
+            "x": 0.3653373225308642,
+            "y": 0.5038458140201125
+          },
+          {
+            "x": 0.36448839506172837,
+            "y": 0.505501033265293
+          },
+          {
+            "x": 0.36188518518518514,
+            "y": 0.5105670143540324
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.36188518518518514,
+          "minY": 0.5038458140201125,
+          "maxX": 0.3653373225308642,
+          "maxY": 0.5105670143540324,
+          "width": 0.0034521373456790627,
+          "height": 0.0067212003339198745,
+          "midX": 0.3636112538580247,
+          "midY": 0.5072064141870725
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.36491292438271605,
+              "y": 0.5046733797747225
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3631878317901234,
+              "y": 0.5080332776963163
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "Z45": [
+      {
+        "identifier": "Z45",
+        "mapPoints": [
+          {
+            "x": 0.3592704320987654,
+            "y": 0.5068552823470184
+          },
+          {
+            "x": 0.3636787037037037,
+            "y": 0.5046701144796081
+          },
+          {
+            "x": 0.3653373225308642,
+            "y": 0.5038458140201125
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.3592704320987654,
+          "minY": 0.5038458140201125,
+          "maxX": 0.3653373225308642,
+          "maxY": 0.5068552823470184,
+          "width": 0.006066890432098793,
+          "height": 0.003009468326905851,
+          "midX": 0.36230387731481484,
+          "midY": 0.5053505481835654
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.36147511574074076,
+              "y": 0.5057631186058665
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3645080709876543,
+              "y": 0.5042580078671943
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "Z54": [
+      {
+        "identifier": "Z54",
+        "mapPoints": [
+          {
+            "x": 0.35343148148148146,
+            "y": 0.505649797344941
+          },
+          {
+            "x": 0.36349722222222225,
+            "y": 0.5040277446725575
+          },
+          {
+            "x": 0.3653373225308642,
+            "y": 0.5038458140201125
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.35343148148148146,
+          "minY": 0.5038458140201125,
+          "maxX": 0.3653373225308642,
+          "maxY": 0.505649797344941,
+          "width": 0.011905841049382748,
+          "height": 0.001803983324828451,
+          "midX": 0.35938440200617283,
+          "midY": 0.5047478056825268
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.3584651311728395,
+              "y": 0.5048411244437202
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3644172839506173,
+              "y": 0.5039368443099345
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "Z72": [
+      {
+        "identifier": "Z72",
+        "mapPoints": [
+          {
+            "x": 0.3615726851851852,
+            "y": 0.5017662399567271
+          },
+          {
+            "x": 0.3637171296296297,
+            "y": 0.5029501689319666
+          },
+          {
+            "x": 0.3653373225308642,
+            "y": 0.5038458140201125
+          },
+          {
+            "x": 0.36503564814814815,
+            "y": 0.5056840783237997
+          },
+          {
+            "x": 0.36427175925925925,
+            "y": 0.510329466333578
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.3615726851851852,
+          "minY": 0.5017662399567271,
+          "maxX": 0.3653373225308642,
+          "maxY": 0.510329466333578,
+          "width": 0.0037646373456790005,
+          "height": 0.008563226376850919,
+          "midX": 0.3634550038580247,
+          "midY": 0.5060478531451525
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.365186512345679,
+              "y": 0.504764870597443
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3646539814814815,
+              "y": 0.5080059436493793
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "Z81": [
+      {
+        "identifier": "Z81",
+        "mapPoints": [
+          {
+            "x": 0.35869166666666663,
+            "y": 0.503034906131991
+          },
+          {
+            "x": 0.36350185185185185,
+            "y": 0.5036234611327961
+          },
+          {
+            "x": 0.3653373225308642,
+            "y": 0.5038458140201125
+          },
+          {
+            "x": 0.3671162037037037,
+            "y": 0.5043547099231349
+          },
+          {
+            "x": 0.3753300925925926,
+            "y": 0.5066903954988067
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.35869166666666663,
+          "minY": 0.503034906131991,
+          "maxX": 0.3753300925925926,
+          "maxY": 0.5066903954988067,
+          "width": 0.01663842592592596,
+          "height": 0.0036554893668157007,
+          "midX": 0.36701087962962964,
+          "midY": 0.5048626508153988
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.3610966666666667,
+              "y": 0.5033295561114721
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.36441957561728394,
+              "y": 0.5037347022699203
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3712221064814815,
+              "y": 0.5055242416245269
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "Z84": [
+      {
+        "identifier": "Z84",
+        "mapPoints": [
+          {
+            "x": 0.35914583333333333,
+            "y": 0.49397078065147143
+          },
+          {
+            "x": 0.364350462962963,
+            "y": 0.5022718364059904
+          },
+          {
+            "x": 0.3653373225308642,
+            "y": 0.5038458140201125
+          },
+          {
+            "x": 0.36578472222222225,
+            "y": 0.5056535033840497
+          },
+          {
+            "x": 0.36744212962962963,
+            "y": 0.5123085475398056
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.35914583333333333,
+          "minY": 0.49397078065147143,
+          "maxX": 0.36744212962962963,
+          "maxY": 0.5123085475398056,
+          "width": 0.008296296296296302,
+          "height": 0.01833776688833416,
+          "midX": 0.3632939814814815,
+          "midY": 0.5031396640956385
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.3666124459876543,
+              "y": 0.5089791886552365
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ]
+  },
+  "airwaysHigh": {
+    "UA555": [
+      {
+        "identifier": "UA555",
+        "mapPoints": [
+          {
+            "x": 0.35914583333333333,
+            "y": 0.49397078065147143
+          },
+          {
+            "x": 0.364350462962963,
+            "y": 0.5022718364059904
+          },
+          {
+            "x": 0.3653373225308642,
+            "y": 0.5038458140201125
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.35914583333333333,
+          "minY": 0.49397078065147143,
+          "maxX": 0.3653373225308642,
+          "maxY": 0.5038458140201125,
+          "width": 0.006191489197530875,
+          "height": 0.009875033368641095,
+          "midX": 0.36224157793209877,
+          "midY": 0.498908297335792
+        },
+        "fixes": [],
+        "labels": []
+      }
+    ],
+    "UG449": [
+      {
+        "identifier": "UG449",
+        "mapPoints": [
+          {
+            "x": 0.35749078703703707,
+            "y": 0.49582175779437515
+          },
+          {
+            "x": 0.3640402777777778,
+            "y": 0.5025195496769848
+          },
+          {
+            "x": 0.3653373225308642,
+            "y": 0.5038458140201125
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.35749078703703707,
+          "minY": 0.49582175779437515,
+          "maxX": 0.3653373225308642,
+          "maxY": 0.5038458140201125,
+          "width": 0.007846535493827134,
+          "height": 0.008024056225737375,
+          "midX": 0.3614140547839506,
+          "midY": 0.4998337859072438
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.36076589506172846,
+              "y": 0.4991706598270302
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3646887422839506,
+              "y": 0.5031826812376752
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "UZ3": [
+      {
+        "identifier": "UZ3",
+        "mapPoints": [
+          {
+            "x": 0.3662324074074074,
+            "y": 0.5074596742369711
+          },
+          {
+            "x": 0.36578472222222225,
+            "y": 0.5056535033840497
+          },
+          {
+            "x": 0.3653373225308642,
+            "y": 0.5038458140201125
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.3653373225308642,
+          "minY": 0.5038458140201125,
+          "maxX": 0.3662324074074074,
+          "maxY": 0.5074596742369711,
+          "width": 0.0008950848765432173,
+          "height": 0.003613860216858611,
+          "midX": 0.3657848649691358,
+          "midY": 0.5056527441285419
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.36600851080246916,
+              "y": 0.5065564910424628
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "UZ41": [
+      {
+        "identifier": "UZ41",
+        "mapPoints": [
+          {
+            "x": 0.3615726851851852,
+            "y": 0.5017662399567271
+          },
+          {
+            "x": 0.363512962962963,
+            "y": 0.5041490809948813
+          },
+          {
+            "x": 0.3640962962962963,
+            "y": 0.5048600143861302
+          },
+          {
+            "x": 0.36537129629629633,
+            "y": 0.5064142356690607
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.3615726851851852,
+          "minY": 0.5017662399567271,
+          "maxX": 0.36537129629629633,
+          "maxY": 0.5064142356690607,
+          "width": 0.0037986111111111276,
+          "height": 0.004647995712333652,
+          "midX": 0.36347199074074077,
+          "midY": 0.504090237812894
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.3625426929012346,
+              "y": 0.502957631636875
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3638046141975309,
+              "y": 0.5045045441775211
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.36473368827160496,
+              "y": 0.505637104184186
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "UZ54": [
+      {
+        "identifier": "UZ54",
+        "mapPoints": [
+          {
+            "x": 0.3653373225308642,
+            "y": 0.5038458140201125
+          },
+          {
+            "x": 0.366225,
+            "y": 0.5022130342732056
+          },
+          {
+            "x": 0.36929398148148146,
+            "y": 0.49656825262733306
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.3653373225308642,
+          "minY": 0.49656825262733306,
+          "maxX": 0.36929398148148146,
+          "maxY": 0.5038458140201125,
+          "width": 0.003956658950617253,
+          "height": 0.007277561392779464,
+          "midX": 0.36731565200617283,
+          "midY": 0.5002070333237227
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.3657812037037037,
+              "y": 0.5030293958728748
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.36775938271604935,
+              "y": 0.49939070838827065
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "UZ55": [
+      {
+        "identifier": "UZ55",
+        "mapPoints": [
+          {
+            "x": 0.3653373225308642,
+            "y": 0.5038458140201125
+          },
+          {
+            "x": 0.3668166666666667,
+            "y": 0.5027297634590496
+          },
+          {
+            "x": 0.37132037037037036,
+            "y": 0.49932592391065567
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.3653373225308642,
+          "minY": 0.49932592391065567,
+          "maxX": 0.37132037037037036,
+          "maxY": 0.5038458140201125,
+          "width": 0.00598304783950615,
+          "height": 0.004519890109456859,
+          "midX": 0.36832884645061725,
+          "midY": 0.501585868965384
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.36607704475308644,
+              "y": 0.5032878032633495
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3690686728395062,
+              "y": 0.5010278852320055
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "UZ56": [
+      {
+        "identifier": "UZ56",
+        "mapPoints": [
+          {
+            "x": 0.3653373225308642,
+            "y": 0.5038458140201125
+          },
+          {
+            "x": 0.36691851851851853,
+            "y": 0.5028811758741228
+          },
+          {
+            "x": 0.37175509259259265,
+            "y": 0.4999180555519351
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.3653373225308642,
+          "minY": 0.4999180555519351,
+          "maxX": 0.37175509259259265,
+          "maxY": 0.5038458140201125,
+          "width": 0.006417770061728445,
+          "height": 0.003927758468177445,
+          "midX": 0.3685462075617284,
+          "midY": 0.5018819347860238
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.36612797067901237,
+              "y": 0.503363521952172
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.36933700617283954,
+              "y": 0.5013997171175794
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "UZ7": [
+      {
+        "identifier": "UZ7",
+        "mapPoints": [
+          {
+            "x": 0.3615726851851852,
+            "y": 0.5017662399567271
+          },
+          {
+            "x": 0.3637171296296297,
+            "y": 0.5029501689319666
+          },
+          {
+            "x": 0.3653373225308642,
+            "y": 0.5038458140201125
+          },
+          {
+            "x": 0.36688703703703707,
+            "y": 0.5048614039228032
+          },
+          {
+            "x": 0.3679328703703704,
+            "y": 0.5055482298956898
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.3615726851851852,
+          "minY": 0.5017662399567271,
+          "maxX": 0.3679328703703704,
+          "maxY": 0.5055482298956898,
+          "width": 0.006360185185185219,
+          "height": 0.0037819899389627265,
+          "midX": 0.3647527777777778,
+          "midY": 0.5036572349262085
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.3661121141975308,
+              "y": 0.50435363699087
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3674099151234568,
+              "y": 0.5052048318179416
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "UZ81": [
+      {
+        "identifier": "UZ81",
+        "mapPoints": [
+          {
+            "x": 0.36190887345679007,
+            "y": 0.50441541968768
+          },
+          {
+            "x": 0.363512962962963,
+            "y": 0.5041490809948813
+          },
+          {
+            "x": 0.3653373225308642,
+            "y": 0.5038458140201125
+          },
+          {
+            "x": 0.3671162037037037,
+            "y": 0.5043547099231349
+          },
+          {
+            "x": 0.36831648919753085,
+            "y": 0.5046969702395444
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.36190887345679007,
+          "minY": 0.5038458140201125,
+          "maxX": 0.36831648919753085,
+          "maxY": 0.5046969702395444,
+          "width": 0.00640761574074078,
+          "height": 0.0008511562194318811,
+          "midX": 0.36511268132716046,
+          "midY": 0.5042713921298285
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.36271093364197526,
+              "y": 0.504282306733932
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.36442516203703706,
+              "y": 0.5039975113007144
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3677163271604938,
+              "y": 0.5045258722020413
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "UZ91": [
+      {
+        "identifier": "UZ91",
+        "mapPoints": [
+          {
+            "x": 0.36448839506172837,
+            "y": 0.505501033265293
+          },
+          {
+            "x": 0.36231095679012343,
+            "y": 0.5095929946829084
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.36231095679012343,
+          "minY": 0.505501033265293,
+          "maxX": 0.36448839506172837,
+          "maxY": 0.5095929946829084,
+          "width": 0.0021774382716049367,
+          "height": 0.004091961417615364,
+          "midX": 0.3633996759259259,
+          "midY": 0.5075470139741007
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.36340033950617284,
+              "y": 0.5075465685499413
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ]
+  },
+  "atcPositions": {
+    "SBWB_APP": {
+      "callsign": "SBWB_APP",
+      "frequency": 19050,
+      "transferList": [
+        "SBBE_GND",
+        "SBBE_TWR",
+        "SBAZ_CTR",
+        "SBAZ_MIL_CTR",
+        "SBAZ_E_CTR",
+        "SBAZ_CE_CTR",
+        "-SBAZ_C_CTR",
+        "-SBAZ_W_CTR"
+      ],
+      "mapPoints": [],
+      "mapBounds": {
+        "minX": 0,
+        "minY": 0,
+        "maxX": 0,
+        "maxY": 0,
+        "width": 0,
+        "height": 0,
+        "midX": 0,
+        "midY": 0
+      }
+    },
+    "SBBE_TWR": {
+      "callsign": "SBBE_TWR",
+      "frequency": 18700,
+      "transferList": [
+        "SBBE_GND",
+        "SBWB_APP"
+      ],
+      "mapPoints": [],
+      "mapBounds": {
+        "minX": 0,
+        "minY": 0,
+        "maxX": 0,
+        "maxY": 0,
+        "width": 0,
+        "height": 0,
+        "midX": 0,
+        "midY": 0
+      }
+    },
+    "SBBE_GND": {
+      "callsign": "SBBE_GND",
+      "frequency": 21900,
+      "transferList": [
+        "SBBE_TWR",
+        "SBWB_APP"
+      ],
+      "mapPoints": [],
+      "mapBounds": {
+        "minX": 0,
+        "minY": 0,
+        "maxX": 0,
+        "maxY": 0,
+        "width": 0,
+        "height": 0,
+        "midX": 0,
+        "midY": 0
+      }
+    },
+    "SBJC_TWR": {
+      "callsign": "SBJC_TWR",
+      "frequency": 18300,
+      "transferList": [
+        "SBWB_APP"
+      ],
+      "mapPoints": [],
+      "mapBounds": {
+        "minX": 0,
+        "minY": 0,
+        "maxX": 0,
+        "maxY": 0,
+        "width": 0,
+        "height": 0,
+        "midX": 0,
+        "midY": 0
+      }
+    }
+  },
+  "geoAreas": [
+    "TAXIWAYCENTER",
+    "STOPLINE",
+    "TAXIWAY",
+    "RESTRICTED",
+    "PROHIBITED",
+    "COAST"
+  ],
+  "mvas": [
+    {
+      "identifier": "MVA018",
+      "airport": "SBBE",
+      "mapPoints": [],
+      "mapBounds": {
+        "minX": 0.3641218927469136,
+        "minY": 0.5054467766532712,
+        "maxX": 0.3641218927469136,
+        "maxY": 0.5054467766532712,
+        "width": 0,
+        "height": 0,
+        "midX": 0.3641218927469136,
+        "midY": 0.5054467766532712
+      },
+      "labels": [
+        {
+          "mapPosition": {
+            "x": 0.3641218927469136,
+            "y": 0.5054467766532712
+          },
+          "text": "1800\u0027",
+          "fontSize": 10
+        }
+      ]
+    },
+    {
+      "identifier": "MVA016",
+      "airport": "SBBE",
+      "mapPoints": [],
+      "mapBounds": {
+        "minX": 0.3653964984567901,
+        "minY": 0.5048573503365777,
+        "maxX": 0.3653964984567901,
+        "maxY": 0.5048573503365777,
+        "width": 0,
+        "height": 0,
+        "midX": 0.3653964984567901,
+        "midY": 0.5048573503365777
+      },
+      "labels": [
+        {
+          "mapPosition": {
+            "x": 0.3653964984567901,
+            "y": 0.5048573503365777
+          },
+          "text": "1700\u0027",
+          "fontSize": 10
+        }
+      ]
+    }
+  ]
+}

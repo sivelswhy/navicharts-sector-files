@@ -1,0 +1,115 @@
+{
+  "level": 8,
+  "x": 92,
+  "y": 138,
+  "mapBounds": {
+    "minX": 0.359375,
+    "minY": 0.5390625,
+    "maxX": 0.36328125,
+    "maxY": 0.54296875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.361328125,
+    "midY": 0.541015625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ELISA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3624486651234568,
+        "y": 0.5412685378265524
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "UGUGA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.362358024691358,
+        "y": 0.5393668387975005
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PAPES",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.36125305555555554,
+        "y": 0.5406898798803439
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [
+    {
+      "identifier": "Z86",
+      "mapPoints": [
+        {
+          "x": 0.36125305555555554,
+          "y": 0.5406898798803439
+        },
+        {
+          "x": 0.3645069444444444,
+          "y": 0.5431102952776884
+        },
+        {
+          "x": 0.36505972222222227,
+          "y": 0.5435237615926972
+        },
+        {
+          "x": 0.3666055555555556,
+          "y": 0.5446633649063997
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.36125305555555554,
+        "minY": 0.5406898798803439,
+        "maxX": 0.3666055555555556,
+        "maxY": 0.5446633649063997,
+        "width": 0.005352500000000038,
+        "height": 0.0039734850260557675,
+        "midX": 0.3639293055555556,
+        "midY": 0.5426766223933718
+      },
+      "fixes": [
+        "PAPES",
+        "MILIX",
+        "EDNAR",
+        "GELVA"
+      ],
+      "labels": [
+        {
+          "mapPosition": {
+            "x": 0.3628768132716049,
+            "y": 0.5419010434793461
+          },
+          "text": "",
+          "fontSize": 1
+        }
+      ]
+    }
+  ],
+  "airwaysHigh": []
+}

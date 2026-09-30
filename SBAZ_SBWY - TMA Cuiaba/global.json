@@ -1,0 +1,5428 @@
+{
+  "colours": {},
+  "sectors": {
+    "SBWY - TMA Cuiaba": {
+      "mapCenter": {
+        "x": 0.3441180555555555,
+        "y": 0.5440230886093098
+      },
+      "geoCenter": {
+        "x": -15.65,
+        "y": -56.1175
+      }
+    }
+  },
+  "airports": {
+    "SBCY": {
+      "identifier": "SBCY",
+      "elevation": 617,
+      "transitionAltitude": 4000,
+      "geoPosition": {
+        "x": -15.65,
+        "y": -56.1175
+      },
+      "mapPosition": {
+        "x": 0.3441180555555555,
+        "y": 0.5440230886093098
+      },
+      "name": "MARECHAL RONDON INTL",
+      "hideTag": false,
+      "runways": [
+        {
+          "airport": "SBCY",
+          "primaryId": "17",
+          "oppositeId": "35",
+          "primaryCourse": 171,
+          "oppositeCourse": 351,
+          "primaryMapPoint": {
+            "x": 0.34410594907407405,
+            "y": 0.5440050353364511
+          },
+          "primaryElevation": 617,
+          "oppositeMapPoint": {
+            "x": 0.3441340046296296,
+            "y": 0.5440583393573656
+          },
+          "oppositeElevation": 589,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": [
+        {
+          "airport": "SBCY",
+          "identifier": "01",
+          "geoPosition": {
+            "x": -15.648666388888888,
+            "y": -56.12097694444445
+          },
+          "mapPosition": {
+            "x": 0.3441083973765432,
+            "y": 0.5440192415251403
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBCY",
+          "identifier": "02",
+          "geoPosition": {
+            "x": -15.648973333333334,
+            "y": -56.12077472222222
+          },
+          "mapPosition": {
+            "x": 0.3441089591049383,
+            "y": 0.5440201269692847
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBCY",
+          "identifier": "03",
+          "geoPosition": {
+            "x": -15.649323055555556,
+            "y": -56.120576666666665
+          },
+          "mapPosition": {
+            "x": 0.34410950925925926,
+            "y": 0.5440211358163143
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBCY",
+          "identifier": "04",
+          "geoPosition": {
+            "x": -15.649664722222223,
+            "y": -56.12040027777778
+          },
+          "mapPosition": {
+            "x": 0.3441099992283951,
+            "y": 0.5440221214270716
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBCY",
+          "identifier": "05",
+          "geoPosition": {
+            "x": -15.649883055555556,
+            "y": -56.12027444444444
+          },
+          "mapPosition": {
+            "x": 0.3441103487654321,
+            "y": 0.5440227512572472
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBCY",
+          "identifier": "06",
+          "geoPosition": {
+            "x": -15.650240555555555,
+            "y": -56.12009055555556
+          },
+          "mapPosition": {
+            "x": 0.3441108595679013,
+            "y": 0.544023782545513
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBCY",
+          "identifier": "07",
+          "geoPosition": {
+            "x": -15.650588333333333,
+            "y": -56.1199
+          },
+          "mapPosition": {
+            "x": 0.34411138888888887,
+            "y": 0.5440247857895963
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBCY",
+          "identifier": "08",
+          "geoPosition": {
+            "x": -15.650917222222223,
+            "y": -56.11970277777778
+          },
+          "mapPosition": {
+            "x": 0.3441119367283951,
+            "y": 0.5440257345459539
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBCY",
+          "identifier": "09",
+          "geoPosition": {
+            "x": -15.651234444444444,
+            "y": -56.11953277777778
+          },
+          "mapPosition": {
+            "x": 0.3441124089506173,
+            "y": 0.5440266496485485
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBCY",
+          "identifier": "10",
+          "geoPosition": {
+            "x": -15.651565833333333,
+            "y": -56.11934861111111
+          },
+          "mapPosition": {
+            "x": 0.3441129205246914,
+            "y": 0.5440276056197627
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBCY",
+          "identifier": "11",
+          "geoPosition": {
+            "x": -15.651886944444446,
+            "y": -56.11916611111111
+          },
+          "mapPosition": {
+            "x": 0.3441134274691358,
+            "y": 0.5440285319437246
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBCY",
+          "identifier": "12",
+          "geoPosition": {
+            "x": -15.65220888888889,
+            "y": -56.118989166666665
+          },
+          "mapPosition": {
+            "x": 0.34411391898148147,
+            "y": 0.5440294606731017
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBCY",
+          "identifier": "13",
+          "geoPosition": {
+            "x": -15.652539444444445,
+            "y": -56.11883138888889
+          },
+          "mapPosition": {
+            "x": 0.3441143572530864,
+            "y": 0.5440304142449066
+          },
+          "gateType": "M"
+        },
+        {
+          "airport": "SBCY",
+          "identifier": "14",
+          "geoPosition": {
+            "x": -15.65282388888889,
+            "y": -56.118653611111114
+          },
+          "mapPosition": {
+            "x": 0.3441148510802469,
+            "y": 0.5440312347986852
+          },
+          "gateType": "L"
+        },
+        {
+          "airport": "SBCY",
+          "identifier": "15",
+          "geoPosition": {
+            "x": -15.653086111111111,
+            "y": -56.11849861111111
+          },
+          "mapPosition": {
+            "x": 0.34411528163580246,
+            "y": 0.5440319912477112
+          },
+          "gateType": "L"
+        },
+        {
+          "airport": "SBCY",
+          "identifier": "16",
+          "geoPosition": {
+            "x": -15.65334388888889,
+            "y": -56.11835111111111
+          },
+          "mapPosition": {
+            "x": 0.34411569135802467,
+            "y": 0.5440327348765126
+          },
+          "gateType": "L"
+        },
+        {
+          "airport": "SBCY",
+          "identifier": "17",
+          "geoPosition": {
+            "x": -15.653617777777777,
+            "y": -56.11819472222222
+          },
+          "mapPosition": {
+            "x": 0.34411612577160494,
+            "y": 0.5440335249831414
+          },
+          "gateType": "L"
+        }
+      ]
+    },
+    "SIAQ": {
+      "identifier": "SIAQ",
+      "elevation": 751,
+      "transitionAltitude": null,
+      "geoPosition": {
+        "x": -15.506388888888889,
+        "y": -56.098333333333336
+      },
+      "mapPosition": {
+        "x": 0.3441712962962963,
+        "y": 0.5436089554900838
+      },
+      "name": "BOM FUTURO",
+      "hideTag": false,
+      "runways": [],
+      "gates": []
+    },
+    "SIXM": {
+      "identifier": "SIXM",
+      "elevation": 676,
+      "transitionAltitude": null,
+      "geoPosition": {
+        "x": -15.643611111111111,
+        "y": -55.99
+      },
+      "mapPosition": {
+        "x": 0.3444722222222222,
+        "y": 0.5440046587316685
+      },
+      "name": "CHIFI",
+      "hideTag": true,
+      "runways": [
+        {
+          "airport": "SIXM",
+          "primaryId": "01",
+          "oppositeId": "19",
+          "primaryCourse": 0,
+          "oppositeCourse": 0,
+          "primaryMapPoint": {
+            "x": 0.3444734097222222,
+            "y": 0.5439963871089224
+          },
+          "primaryElevation": 676,
+          "oppositeMapPoint": {
+            "x": 0.3444711875,
+            "y": 0.5440117365379035
+          },
+          "oppositeElevation": 676,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    },
+    "SJTB": {
+      "identifier": "SJTB",
+      "elevation": 2450,
+      "transitionAltitude": null,
+      "geoPosition": {
+        "x": -15.465,
+        "y": -55.6225
+      },
+      "mapPosition": {
+        "x": 0.34549305555555554,
+        "y": 0.5434896554184332
+      },
+      "name": "FAZENDA BURITI",
+      "hideTag": true,
+      "runways": [],
+      "gates": []
+    },
+    "SWLV": {
+      "identifier": "SWLV",
+      "elevation": 535,
+      "transitionAltitude": null,
+      "geoPosition": {
+        "x": -15.853358333333334,
+        "y": -56.087425
+      },
+      "mapPosition": {
+        "x": 0.3442015972222222,
+        "y": 0.5446100138509589
+      },
+      "name": "SANTO ANTONIO DO LEVERGER",
+      "hideTag": true,
+      "runways": [
+        {
+          "airport": "SWLV",
+          "primaryId": "18",
+          "oppositeId": "36",
+          "primaryCourse": 184,
+          "oppositeCourse": 4,
+          "primaryMapPoint": {
+            "x": 0.3441986805555555,
+            "y": 0.5445944289815321
+          },
+          "primaryElevation": 535,
+          "oppositeMapPoint": {
+            "x": 0.34420452160493825,
+            "y": 0.5446255911159382
+          },
+          "oppositeElevation": 535,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    },
+    "SSGC": {
+      "identifier": "SSGC",
+      "elevation": 505,
+      "transitionAltitude": 4000,
+      "geoPosition": {
+        "x": -15.821111111111112,
+        "y": -55.99916666666667
+      },
+      "mapPosition": {
+        "x": 0.34444675925925927,
+        "y": 0.544516903855458
+      },
+      "name": "Fazenda Chapad\u00E3o",
+      "hideTag": true,
+      "runways": [
+        {
+          "airport": "SSGC",
+          "primaryId": "02",
+          "oppositeId": "20",
+          "primaryCourse": 0,
+          "oppositeCourse": 0,
+          "primaryMapPoint": {
+            "x": 0.3444476111111111,
+            "y": 0.5445000391334923
+          },
+          "primaryElevation": 505,
+          "oppositeMapPoint": {
+            "x": 0.344445237654321,
+            "y": 0.5445325243475967
+          },
+          "oppositeElevation": 505,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    },
+    "SIML": {
+      "identifier": "SIML",
+      "elevation": 505,
+      "transitionAltitude": 4000,
+      "geoPosition": {
+        "x": -15.848055555555556,
+        "y": -55.83861111111111
+      },
+      "mapPosition": {
+        "x": 0.34489274691358024,
+        "y": 0.5445947016931115
+      },
+      "name": "Fazenda Siriema",
+      "hideTag": true,
+      "runways": [
+        {
+          "airport": "SIML",
+          "primaryId": "16",
+          "oppositeId": "34",
+          "primaryCourse": 0,
+          "oppositeCourse": 0,
+          "primaryMapPoint": {
+            "x": 0.34490064506172835,
+            "y": 0.5446024267026532
+          },
+          "primaryElevation": 505,
+          "oppositeMapPoint": {
+            "x": 0.3448870763888889,
+            "y": 0.544583618476471
+          },
+          "oppositeElevation": 505,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    },
+    "SWXS": {
+      "identifier": "SWXS",
+      "elevation": 456,
+      "transitionAltitude": 4000,
+      "geoPosition": {
+        "x": -16.161388888888887,
+        "y": -56.007777777777775
+      },
+      "mapPosition": {
+        "x": 0.34442283950617286,
+        "y": 0.5455001702144253
+      },
+      "name": "Fazenda Po\u00E7as",
+      "hideTag": true,
+      "runways": [
+        {
+          "airport": "SWXS",
+          "primaryId": "18",
+          "oppositeId": "36",
+          "primaryCourse": 0,
+          "oppositeCourse": 0,
+          "primaryMapPoint": {
+            "x": 0.34442647608024696,
+            "y": 0.545511511250359
+          },
+          "primaryElevation": 456,
+          "oppositeMapPoint": {
+            "x": 0.34441829783950617,
+            "y": 0.5454859615000256
+          },
+          "oppositeElevation": 456,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    },
+    "SWXJ": {
+      "identifier": "SWXJ",
+      "elevation": 544,
+      "transitionAltitude": 4000,
+      "geoPosition": {
+        "x": -15.595833333333333,
+        "y": -56.00416666666667
+      },
+      "mapPosition": {
+        "x": 0.3444328703703704,
+        "y": 0.54386685352362
+      },
+      "name": "Ch\u00E1cara S\u00E3o Jos\u00E9",
+      "hideTag": true,
+      "runways": [
+        {
+          "airport": "SWXJ",
+          "primaryId": "14",
+          "oppositeId": "32",
+          "primaryCourse": 0,
+          "oppositeCourse": 0,
+          "primaryMapPoint": {
+            "x": 0.3444255015432099,
+            "y": 0.5438607115238395
+          },
+          "primaryElevation": 544,
+          "oppositeMapPoint": {
+            "x": 0.3444385972222222,
+            "y": 0.5438705842568258
+          },
+          "oppositeElevation": 544,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    }
+  },
+  "points": {
+    "SAO MATEUS": [
+      {
+        "identifier": "SAO MATEUS",
+        "airport": "SBCY",
+        "mapPosition": {
+          "x": 0.3439097222222222,
+          "y": 0.5441117676116572
+        },
+        "kind": "VRP",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": ""
+      }
+    ],
+    "N. SRA.": [
+      {
+        "identifier": "N. SRA.",
+        "airport": "SBCY",
+        "mapPosition": {
+          "x": 0.3434773927469135,
+          "y": 0.5443857617676282
+        },
+        "kind": "VRP",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": "DO LIVRAMENTO"
+      }
+    ],
+    "SADIA 3": [
+      {
+        "identifier": "SADIA 3",
+        "airport": "SBCY",
+        "mapPosition": {
+          "x": 0.3431487816358025,
+          "y": 0.5435639861670842
+        },
+        "kind": "VRP",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": ""
+      }
+    ],
+    "GUIA": [
+      {
+        "identifier": "GUIA",
+        "airport": "SBCY",
+        "mapPosition": {
+          "x": 0.34378701466049383,
+          "y": 0.5431928457084804
+        },
+        "kind": "VRP",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": ""
+      }
+    ],
+    "TREVO DO": [
+      {
+        "identifier": "TREVO DO",
+        "airport": "SBCY",
+        "mapPosition": {
+          "x": 0.3443840362654321,
+          "y": 0.5433935353262567
+        },
+        "kind": "VRP",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": "MANSO"
+      }
+    ],
+    "CONDOMINIO": [
+      {
+        "identifier": "CONDOMINIO",
+        "airport": "SBCY",
+        "mapPosition": {
+          "x": 0.34438187577160495,
+          "y": 0.5439099622702296
+        },
+        "kind": "VRP",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": ""
+      }
+    ],
+    "GARIMPO": [
+      {
+        "identifier": "GARIMPO",
+        "airport": "SBCY",
+        "mapPosition": {
+          "x": 0.3449392214506173,
+          "y": 0.5437650344870394
+        },
+        "kind": "VRP",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": ""
+      }
+    ],
+    "USINA": [
+      {
+        "identifier": "USINA",
+        "airport": "SBCY",
+        "mapPosition": {
+          "x": 0.34484171296296295,
+          "y": 0.5441289024794687
+        },
+        "kind": "VRP",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": ""
+      }
+    ],
+    "FAZ. SAO": [
+      {
+        "identifier": "FAZ. SAO",
+        "airport": "SBCY",
+        "mapPosition": {
+          "x": 0.3448128395061728,
+          "y": 0.544697948243495
+        },
+        "kind": "VRP",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": "BENEDITO"
+      }
+    ],
+    "LAGOA": [
+      {
+        "identifier": "LAGOA",
+        "airport": "SBCY",
+        "mapPosition": {
+          "x": 0.34412419058641974,
+          "y": 0.5448235678087856
+        },
+        "kind": "VRP",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": ""
+      }
+    ],
+    "AMZAK": [
+      {
+        "identifier": "AMZAK",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34259953703703705,
+          "y": 0.5428823141721684
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ANGAS": [
+      {
+        "identifier": "ANGAS",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34483888888888886,
+          "y": 0.5465483873743308
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ANLED": [
+      {
+        "identifier": "ANLED",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3438966743827161,
+          "y": 0.5433571081755657
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ANRIR": [
+      {
+        "identifier": "ANRIR",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34012129629629634,
+          "y": 0.542126509335548
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ARMOK": [
+      {
+        "identifier": "ARMOK",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3458837962962963,
+          "y": 0.5432519269979527
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ATAVA": [
+      {
+        "identifier": "ATAVA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3438656558641975,
+          "y": 0.5447516844497539
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ATEDO": [
+      {
+        "identifier": "ATEDO",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34309953703703705,
+          "y": 0.5434969568579374
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "BOKIM": [
+      {
+        "identifier": "BOKIM",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3464293672839506,
+          "y": 0.5457629493717252
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CIA01": [
+      {
+        "identifier": "CIA01",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3441096141975309,
+          "y": 0.5440033606489401
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CIA02": [
+      {
+        "identifier": "CIA02",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3441386805555556,
+          "y": 0.5440563199350392
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CIA03": [
+      {
+        "identifier": "CIA03",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.344387662037037,
+          "y": 0.5445537803410294
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CIA04": [
+      {
+        "identifier": "CIA04",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3443910725308642,
+          "y": 0.5445604372842558
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY001": [
+      {
+        "identifier": "CY001",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34446404320987656,
+          "y": 0.5447024327562989
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY002": [
+      {
+        "identifier": "CY002",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34381278549382716,
+          "y": 0.544063516162068
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY003": [
+      {
+        "identifier": "CY003",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3438425385802469,
+          "y": 0.5444508640345513
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY004": [
+      {
+        "identifier": "CY004",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34428432870370373,
+          "y": 0.5450270944592913
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY006": [
+      {
+        "identifier": "CY006",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.344768125,
+          "y": 0.5484143336221475
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY007": [
+      {
+        "identifier": "CY007",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3437774691358025,
+          "y": 0.543361574502512
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY008": [
+      {
+        "identifier": "CY008",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3445335262345679,
+          "y": 0.5411612584585105
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY009": [
+      {
+        "identifier": "CY009",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3443671141975309,
+          "y": 0.5421342504820683
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY011": [
+      {
+        "identifier": "CY011",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3438871141975308,
+          "y": 0.5435759654304657
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY012": [
+      {
+        "identifier": "CY012",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3439969135802469,
+          "y": 0.5437905136389378
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY013": [
+      {
+        "identifier": "CY013",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34363128858024694,
+          "y": 0.5437084091670997
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY014": [
+      {
+        "identifier": "CY014",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34414283179012345,
+          "y": 0.5434434390575795
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY016": [
+      {
+        "identifier": "CY016",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3446563271604939,
+          "y": 0.545649665508789
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY017": [
+      {
+        "identifier": "CY017",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3461082716049383,
+          "y": 0.5461271758900237
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY018": [
+      {
+        "identifier": "CY018",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3451784259259259,
+          "y": 0.5447303514315639
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY019": [
+      {
+        "identifier": "CY019",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3443812191358025,
+          "y": 0.543908540216316
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY021": [
+      {
+        "identifier": "CY021",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3438698225308642,
+          "y": 0.5441750368641185
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY022": [
+      {
+        "identifier": "CY022",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3426149228395062,
+          "y": 0.5435785917566146
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY023": [
+      {
+        "identifier": "CY023",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34285211419753087,
+          "y": 0.5433983709413263
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY026": [
+      {
+        "identifier": "CY026",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3451021990740741,
+          "y": 0.5441858654758015
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY027": [
+      {
+        "identifier": "CY027",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34487400462962964,
+          "y": 0.5448002823704317
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY028": [
+      {
+        "identifier": "CY028",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3442526774691358,
+          "y": 0.543657815365914
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY029": [
+      {
+        "identifier": "CY029",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3433815663580247,
+          "y": 0.5437026804592057
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY031": [
+      {
+        "identifier": "CY031",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3455841512345679,
+          "y": 0.5453074591684393
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY032": [
+      {
+        "identifier": "CY032",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34405894290123457,
+          "y": 0.5435955350414395
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY033": [
+      {
+        "identifier": "CY033",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3439682638888889,
+          "y": 0.5443189125854527
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY034": [
+      {
+        "identifier": "CY034",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34450078703703707,
+          "y": 0.544092045499118
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY036": [
+      {
+        "identifier": "CY036",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3458703549382716,
+          "y": 0.5480961748012738
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY037": [
+      {
+        "identifier": "CY037",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34527270061728393,
+          "y": 0.5463306465740749
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY038": [
+      {
+        "identifier": "CY038",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3439629012345679,
+          "y": 0.5411492729314255
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY039": [
+      {
+        "identifier": "CY039",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3437353086419753,
+          "y": 0.5444423656084959
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY041": [
+      {
+        "identifier": "CY041",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34459645833333336,
+          "y": 0.5459172979225553
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY042": [
+      {
+        "identifier": "CY042",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.345681350308642,
+          "y": 0.5451853586958414
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CY043": [
+      {
+        "identifier": "CY043",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34391436728395064,
+          "y": 0.5419162000040733
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "DIKUN": [
+      {
+        "identifier": "DIKUN",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.35009216820987654,
+          "y": 0.5488024923023985
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "DONRE": [
+      {
+        "identifier": "DONRE",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34335925925925925,
+          "y": 0.5458109915043529
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "DORNO": [
+      {
+        "identifier": "DORNO",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3441356481481482,
+          "y": 0.5421126105035546
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "EDPAP": [
+      {
+        "identifier": "EDPAP",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.35233351080246916,
+          "y": 0.546386106366408
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "EDPOT": [
+      {
+        "identifier": "EDPOT",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3457400308641975,
+          "y": 0.5450998308846724
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "EDPUK": [
+      {
+        "identifier": "EDPUK",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34374033950617283,
+          "y": 0.544555368376007
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ENLOT": [
+      {
+        "identifier": "ENLOT",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34398067129629634,
+          "y": 0.5437998533318865
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ENRAN": [
+      {
+        "identifier": "ENRAN",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3434616049382716,
+          "y": 0.5441154069261093
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "EQUAL": [
+      {
+        "identifier": "EQUAL",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3441398148148148,
+          "y": 0.5385854920452503
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "EVNON": [
+      {
+        "identifier": "EVNON",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34404074074074076,
+          "y": 0.5438764667984587
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "GAXIM": [
+      {
+        "identifier": "GAXIM",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3435310262345679,
+          "y": 0.5442932374322869
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "GENGO": [
+      {
+        "identifier": "GENGO",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34484855709876544,
+          "y": 0.5393151897420481
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "GETMA": [
+      {
+        "identifier": "GETMA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.33827381172839505,
+          "y": 0.5404175889807237
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ILMUP": [
+      {
+        "identifier": "ILMUP",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3446564814814815,
+          "y": 0.545901666308393
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "IRODU": [
+      {
+        "identifier": "IRODU",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34451797067901235,
+          "y": 0.5448073489448277
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ISUDU": [
+      {
+        "identifier": "ISUDU",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34201435185185186,
+          "y": 0.54386685352362
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "ISVIS": [
+      {
+        "identifier": "ISVIS",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3447640663580247,
+          "y": 0.5440231438998088
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "KIGEP": [
+      {
+        "identifier": "KIGEP",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34284027777777776,
+          "y": 0.5439357521117799
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "KOKLI": [
+      {
+        "identifier": "KOKLI",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3459916666666667,
+          "y": 0.5446725099173848
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "KOLRU": [
+      {
+        "identifier": "KOLRU",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3442,
+          "y": 0.5441870597612473
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "KULIP": [
+      {
+        "identifier": "KULIP",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34380586419753084,
+          "y": 0.543417094209731
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "LIXAP": [
+      {
+        "identifier": "LIXAP",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.344097762345679,
+          "y": 0.5446205136197482
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "LOBAN": [
+      {
+        "identifier": "LOBAN",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3456060185185185,
+          "y": 0.5433772629401715
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "LOKAG": [
+      {
+        "identifier": "LOKAG",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3445253086419753,
+          "y": 0.5446484524291709
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "MABMA": [
+      {
+        "identifier": "MABMA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3524976851851852,
+          "y": 0.5470866037060026
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "MAGDA": [
+      {
+        "identifier": "MAGDA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3460490740740741,
+          "y": 0.5441601288130439
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "MIGEG": [
+      {
+        "identifier": "MIGEG",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34378081790123455,
+          "y": 0.5421448418958705
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "MIGOD": [
+      {
+        "identifier": "MIGOD",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34497847993827163,
+          "y": 0.5457775146178508
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "MUNEX": [
+      {
+        "identifier": "MUNEX",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3460408950617284,
+          "y": 0.5476814728451386
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "NAVIO": [
+      {
+        "identifier": "NAVIO",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3442334567901234,
+          "y": 0.5443299426802071
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "NENOK": [
+      {
+        "identifier": "NENOK",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34421260802469134,
+          "y": 0.5459792176290923
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "OBMIV": [
+      {
+        "identifier": "OBMIV",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3470463811728395,
+          "y": 0.5417700337831363
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "POVNI": [
+      {
+        "identifier": "POVNI",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3452473148148148,
+          "y": 0.5456161137387056
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "PUDGO": [
+      {
+        "identifier": "PUDGO",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34532824074074076,
+          "y": 0.545554961462694
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "REBUK": [
+      {
+        "identifier": "REBUK",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3437613811728395,
+          "y": 0.541144522010793
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "SINIP": [
+      {
+        "identifier": "SINIP",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3482222299382716,
+          "y": 0.5467226588908828
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TEDOM": [
+      {
+        "identifier": "TEDOM",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3449336419753086,
+          "y": 0.542512927046597
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TENID": [
+      {
+        "identifier": "TENID",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3423986111111111,
+          "y": 0.5432173561757503
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TERAB": [
+      {
+        "identifier": "TERAB",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34293703703703704,
+          "y": 0.5425335492450722
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TIPLA": [
+      {
+        "identifier": "TIPLA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.344513225308642,
+          "y": 0.5436344279493912
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TORAB": [
+      {
+        "identifier": "TORAB",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34683746913580243,
+          "y": 0.5449558070426257
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "TOSAR": [
+      {
+        "identifier": "TOSAR",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3457652777777778,
+          "y": 0.5498237648163348
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "UBDON": [
+      {
+        "identifier": "UBDON",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34460990740740743,
+          "y": 0.5443541890943062
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "UDUNU": [
+      {
+        "identifier": "UDUNU",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34435389660493826,
+          "y": 0.5444876882330314
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "VANIA": [
+      {
+        "identifier": "VANIA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34230046296296296,
+          "y": 0.5446176420064268
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "VULAK": [
+      {
+        "identifier": "VULAK",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.344133487654321,
+          "y": 0.544040717726643
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "VUSMI": [
+      {
+        "identifier": "VUSMI",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34352006172839505,
+          "y": 0.5430054932644441
+        },
+        "kind": "Fix",
+        "fixKind": "Enroute",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "XODUP": [
+      {
+        "identifier": "XODUP",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.344243912037037,
+          "y": 0.5442729825449634
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "XUVUM": [
+      {
+        "identifier": "XUVUM",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3445480632716049,
+          "y": 0.543550063108215
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CIA": [
+      {
+        "identifier": "CIA",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3441332561728395,
+          "y": 0.5440406616331613
+        },
+        "kind": "VOR",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 113700,
+        "altitude": null
+      }
+    ]
+  },
+  "airwaysLow": {
+    "A430": [
+      {
+        "identifier": "A430",
+        "mapPoints": [
+          {
+            "x": 0.3378509259259259,
+            "y": 0.5410294597082673
+          },
+          {
+            "x": 0.3423986111111111,
+            "y": 0.5432173561757503
+          },
+          {
+            "x": 0.3441332561728395,
+            "y": 0.5440406616331613
+          },
+          {
+            "x": 0.3446564814814815,
+            "y": 0.545901666308393
+          },
+          {
+            "x": 0.3457652777777778,
+            "y": 0.5498240563170405
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.3378509259259259,
+          "minY": 0.5410294597082673,
+          "maxX": 0.3457652777777778,
+          "maxY": 0.5498240563170405,
+          "width": 0.007914351851851908,
+          "height": 0.008794596608773131,
+          "midX": 0.34180810185185184,
+          "midY": 0.545426758012654
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.340120725308642,
+              "y": 0.5421266371423563
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3432653317901235,
+              "y": 0.5436294951277267
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3452088811728395,
+              "y": 0.5478596157394121
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "W48": [
+      {
+        "identifier": "W48",
+        "mapPoints": [
+          {
+            "x": 0.34808055555555556,
+            "y": 0.5495928498808466
+          },
+          {
+            "x": 0.3452473148148148,
+            "y": 0.5456161137387056
+          },
+          {
+            "x": 0.3441332561728395,
+            "y": 0.5440406616331613
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.3441332561728395,
+          "minY": 0.5440406616331613,
+          "maxX": 0.34808055555555556,
+          "maxY": 0.5495928498808466,
+          "width": 0.003947299382716041,
+          "height": 0.005552188247685219,
+          "midX": 0.34610690586419757,
+          "midY": 0.546816755757004
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.3466587962962963,
+              "y": 0.5476027083953579
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3446895293209877,
+              "y": 0.5448281174849869
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "Z15": [
+      {
+        "identifier": "Z15",
+        "mapPoints": [
+          {
+            "x": 0.33871111111111113,
+            "y": 0.5399242843421095
+          },
+          {
+            "x": 0.34259953703703705,
+            "y": 0.5428823141721684
+          },
+          {
+            "x": 0.3441332561728395,
+            "y": 0.5440406616331613
+          },
+          {
+            "x": 0.3460490740740741,
+            "y": 0.5441601288130439
+          },
+          {
+            "x": 0.3518881172839506,
+            "y": 0.5444816175335867
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.33871111111111113,
+          "minY": 0.5399242843421095,
+          "maxX": 0.3518881172839506,
+          "maxY": 0.5444816175335867,
+          "width": 0.013177006172839456,
+          "height": 0.00455733319147722,
+          "midX": 0.34529961419753086,
+          "midY": 0.5422029509378481
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.34065072530864193,
+              "y": 0.5414045747166832
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.34336565586419754,
+              "y": 0.5434616994164376
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.34509106481481483,
+              "y": 0.544101173575903
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.34896779320987653,
+              "y": 0.5443281227563952
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "Z34": [
+      {
+        "identifier": "Z34",
+        "mapPoints": [
+          {
+            "x": 0.3441332561728395,
+            "y": 0.5440406616331613
+          },
+          {
+            "x": 0.34335925925925925,
+            "y": 0.5458109915043529
+          },
+          {
+            "x": 0.34140648148148145,
+            "y": 0.550249820557089
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.34140648148148145,
+          "minY": 0.5440406616331613,
+          "maxX": 0.3441332561728395,
+          "maxY": 0.550249820557089,
+          "width": 0.0027267746913580693,
+          "height": 0.0062091589239277045,
+          "midX": 0.3427698688271605,
+          "midY": 0.5471452410951252
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.3437468518518519,
+              "y": 0.5449252820595242
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3423868595679012,
+              "y": 0.5480267527399167
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "Z85": [
+      {
+        "identifier": "Z85",
+        "mapPoints": [
+          {
+            "x": 0.34483888888888886,
+            "y": 0.5465483873743308
+          },
+          {
+            "x": 0.3446564814814815,
+            "y": 0.545901666308393
+          },
+          {
+            "x": 0.3441332561728395,
+            "y": 0.5440406616331613
+          },
+          {
+            "x": 0.3441356481481482,
+            "y": 0.5421126105035546
+          },
+          {
+            "x": 0.3440722145061728,
+            "y": 0.5293126849653635
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.3440722145061728,
+          "minY": 0.5293126849653635,
+          "maxX": 0.34483888888888886,
+          "maxY": 0.5465483873743308,
+          "width": 0.0007666743827160483,
+          "height": 0.017235702408967213,
+          "midX": 0.34445555169753084,
+          "midY": 0.5379305361698472
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.3441344521604938,
+              "y": 0.5430758686057576
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.34410364969135804,
+              "y": 0.5356842713120633
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ]
+  },
+  "airwaysHigh": {
+    "UM549": [
+      {
+        "identifier": "UM549",
+        "mapPoints": [
+          {
+            "x": 0.34211574074074075,
+            "y": 0.543082292954997
+          },
+          {
+            "x": 0.34284027777777776,
+            "y": 0.5439357521117799
+          },
+          {
+            "x": 0.3447253086419753,
+            "y": 0.5461464321223359
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.34211574074074075,
+          "minY": 0.543082292954997,
+          "maxX": 0.3447253086419753,
+          "maxY": 0.5461464321223359,
+          "width": 0.0026095679012345663,
+          "height": 0.0030641391673389418,
+          "midX": 0.34342052469135803,
+          "midY": 0.5446143625386665
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.34247774691358024,
+              "y": 0.5435089820111422
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.34378098765432097,
+              "y": 0.5450408045864094
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "UM668": [
+      {
+        "identifier": "UM668",
+        "mapPoints": [
+          {
+            "x": 0.3482222299382716,
+            "y": 0.5467233472462584
+          },
+          {
+            "x": 0.3457400308641975,
+            "y": 0.5450998308846724
+          },
+          {
+            "x": 0.344133487654321,
+            "y": 0.544040717726643
+          },
+          {
+            "x": 0.34201435185185186,
+            "y": 0.54386685352362
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.34201435185185186,
+          "minY": 0.54386685352362,
+          "maxX": 0.3482222299382716,
+          "maxY": 0.5467233472462584,
+          "width": 0.00620787808641976,
+          "height": 0.002856493722638409,
+          "midX": 0.34511829089506174,
+          "midY": 0.5452951003849391
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.34697935185185186,
+              "y": 0.5459123665696389
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.34493602623456787,
+              "y": 0.544570583253523
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3430737654320988,
+              "y": 0.5439547326797497
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "UM775": [
+      {
+        "identifier": "UM775",
+        "mapPoints": [
+          {
+            "x": 0.34012129629629634,
+            "y": 0.542126509335548
+          },
+          {
+            "x": 0.344133487654321,
+            "y": 0.544040717726643
+          },
+          {
+            "x": 0.3482222299382716,
+            "y": 0.5467233472462584
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.34012129629629634,
+          "minY": 0.542126509335548,
+          "maxX": 0.3482222299382716,
+          "maxY": 0.5467233472462584,
+          "width": 0.008100933641975283,
+          "height": 0.004596837910710416,
+          "midX": 0.344171763117284,
+          "midY": 0.5444249282909032
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.34212420524691356,
+              "y": 0.5430861972007157
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.3461730709876543,
+              "y": 0.5453841056213795
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "UZ63": [
+      {
+        "identifier": "UZ63",
+        "mapPoints": [
+          {
+            "x": 0.344133487654321,
+            "y": 0.544040717726643
+          },
+          {
+            "x": 0.3446564814814815,
+            "y": 0.545901666308393
+          },
+          {
+            "x": 0.34483888888888886,
+            "y": 0.5465483873743308
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.344133487654321,
+          "minY": 0.544040717726643,
+          "maxX": 0.34483888888888886,
+          "maxY": 0.5465483873743308,
+          "width": 0.0007054012345678595,
+          "height": 0.0025076696476877824,
+          "midX": 0.34448618827160493,
+          "midY": 0.5452945525504869
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.3443945601851852,
+              "y": 0.5449704994805129
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "UZ8": [
+      {
+        "identifier": "UZ8",
+        "mapPoints": [
+          {
+            "x": 0.3441332561728395,
+            "y": 0.5440406616331613
+          },
+          {
+            "x": 0.3459916666666667,
+            "y": 0.5446725099173848
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.3441332561728395,
+          "minY": 0.5440406616331613,
+          "maxX": 0.3459916666666667,
+          "maxY": 0.5446725099173848,
+          "width": 0.0018584104938271784,
+          "height": 0.0006318482842234685,
+          "midX": 0.3450624614197531,
+          "midY": 0.544356585775273
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.3450619598765432,
+              "y": 0.5443572341979888
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "UZ82": [
+      {
+        "identifier": "UZ82",
+        "mapPoints": [
+          {
+            "x": 0.3443435185185185,
+            "y": 0.5417513507084855
+          },
+          {
+            "x": 0.3449336419753086,
+            "y": 0.542512927046597
+          },
+          {
+            "x": 0.34641203703703705,
+            "y": 0.5444116927545584
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.3443435185185185,
+          "minY": 0.5417513507084855,
+          "maxX": 0.34641203703703705,
+          "maxY": 0.5444116927545584,
+          "width": 0.002068518518518525,
+          "height": 0.0026603420460729055,
+          "midX": 0.3453777777777778,
+          "midY": 0.5430815217315219
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.3446383950617284,
+              "y": 0.5421320929202443
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.34567166666666665,
+              "y": 0.5434620116326004
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "UZ84": [
+      {
+        "identifier": "UZ84",
+        "mapPoints": [
+          {
+            "x": 0.3470463811728395,
+            "y": 0.5417700553380916
+          },
+          {
+            "x": 0.3449336419753086,
+            "y": 0.542512927046597
+          },
+          {
+            "x": 0.34352006172839505,
+            "y": 0.5430054932644441
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.34352006172839505,
+          "minY": 0.5417700553380916,
+          "maxX": 0.3470463811728395,
+          "maxY": 0.5430054932644441,
+          "width": 0.0035263194444444257,
+          "height": 0.0012354379263525006,
+          "midX": 0.3452832214506173,
+          "midY": 0.5423877743012679
+        },
+        "fixes": [],
+        "labels": [
+          {
+            "mapPosition": {
+              "x": 0.34599064814814817,
+              "y": 0.5421422856891015
+            },
+            "text": "",
+            "fontSize": 1
+          },
+          {
+            "mapPosition": {
+              "x": 0.344227137345679,
+              "y": 0.5427595679640529
+            },
+            "text": "",
+            "fontSize": 1
+          }
+        ]
+      }
+    ],
+    "UZ91": [
+      {
+        "identifier": "UZ91",
+        "mapPoints": [
+          {
+            "x": 0.3443435185185185,
+            "y": 0.5417513507084855
+          },
+          {
+            "x": 0.3441356481481482,
+            "y": 0.5421126105035546
+          }
+        ],
+        "mapBounds": {
+          "minX": 0.3441356481481482,
+          "minY": 0.5417513507084855,
+          "maxX": 0.3443435185185185,
+          "maxY": 0.5421126105035546,
+          "width": 0.0002078703703703444,
+          "height": 0.0003612597950691798,
+          "midX": 0.3442395833333334,
+          "midY": 0.5419319806060201
+        },
+        "fixes": [],
+        "labels": []
+      }
+    ]
+  },
+  "atcPositions": {
+    "SBWY_APP": {
+      "callsign": "SBWY_APP",
+      "frequency": 19400,
+      "transferList": [
+        "SBCY_TWR",
+        "SBAZ_CTR",
+        "SBAZ_MIL_CTR",
+        "SBAZ_W_CTR",
+        "SBAZ_WC_CTR",
+        "-SBAZ_C_CTR",
+        "-SBAZ_E_CTR",
+        "-SBCW",
+        "-SBBS"
+      ],
+      "mapPoints": [],
+      "mapBounds": {
+        "minX": 0,
+        "minY": 0,
+        "maxX": 0,
+        "maxY": 0,
+        "width": 0,
+        "height": 0,
+        "midX": 0,
+        "midY": 0
+      }
+    },
+    "SBCY_TWR": {
+      "callsign": "SBCY_TWR",
+      "frequency": 18100,
+      "transferList": [
+        "SBWY_APP",
+        "SBCY_GND"
+      ],
+      "mapPoints": [],
+      "mapBounds": {
+        "minX": 0,
+        "minY": 0,
+        "maxX": 0,
+        "maxY": 0,
+        "width": 0,
+        "height": 0,
+        "midX": 0,
+        "midY": 0
+      }
+    },
+    "SBCY_GND": {
+      "callsign": "SBCY_GND",
+      "frequency": 21900,
+      "transferList": [
+        "SBCY_TWR"
+      ],
+      "mapPoints": [],
+      "mapBounds": {
+        "minX": 0,
+        "minY": 0,
+        "maxX": 0,
+        "maxY": 0,
+        "width": 0,
+        "height": 0,
+        "midX": 0,
+        "midY": 0
+      }
+    }
+  },
+  "geoAreas": [
+    "TAXIWAYCENTER",
+    "STOPLINE",
+    "TAXIWAY",
+    "RESTRICTED"
+  ],
+  "mvas": [
+    {
+      "identifier": "AREA 1",
+      "airport": "SBCY",
+      "mapPoints": [
+        {
+          "x": 0.34398509722222226,
+          "y": 0.5435816040388501
+        },
+        {
+          "x": 0.3439623711419753,
+          "y": 0.5435896680942615
+        },
+        {
+          "x": 0.34394007561728396,
+          "y": 0.5435988701067863
+        },
+        {
+          "x": 0.3439182677469136,
+          "y": 0.5436091877081466
+        },
+        {
+          "x": 0.3438970015432099,
+          "y": 0.5436205937302857
+        },
+        {
+          "x": 0.34387633024691355,
+          "y": 0.5436330602083776
+        },
+        {
+          "x": 0.3438563070987654,
+          "y": 0.5436465551770417
+        },
+        {
+          "x": 0.3438369822530864,
+          "y": 0.5436610458726563
+        },
+        {
+          "x": 0.34381840432098765,
+          "y": 0.5436764947285024
+        },
+        {
+          "x": 0.3438006203703704,
+          "y": 0.5436928633778911
+        },
+        {
+          "x": 0.34378367515432096,
+          "y": 0.5437101102507933
+        },
+        {
+          "x": 0.3437676111111111,
+          "y": 0.5437281929755113
+        },
+        {
+          "x": 0.34375246990740743,
+          "y": 0.5437470643732646
+        },
+        {
+          "x": 0.3437382885802469,
+          "y": 0.5437666780635646
+        },
+        {
+          "x": 0.3437251041666667,
+          "y": 0.5437869836577934
+        },
+        {
+          "x": 0.34371294907407407,
+          "y": 0.5438079315640528
+        },
+        {
+          "x": 0.34370185416666665,
+          "y": 0.5438294673793959
+        },
+        {
+          "x": 0.3436918487654321,
+          "y": 0.5438515374959634
+        },
+        {
+          "x": 0.34368295679012345,
+          "y": 0.5438740866972875
+        },
+        {
+          "x": 0.3436752013888889,
+          "y": 0.5438970581575135
+        },
+        {
+          "x": 0.3436686018518519,
+          "y": 0.5439203926394822
+        },
+        {
+          "x": 0.34366317592592593,
+          "y": 0.5439440324998822
+        },
+        {
+          "x": 0.34365893672839504,
+          "y": 0.543967918484282
+        },
+        {
+          "x": 0.3436558950617284,
+          "y": 0.543991988123984
+        },
+        {
+          "x": 0.3436540594135803,
+          "y": 0.5440161829468556
+        },
+        {
+          "x": 0.3436534336419753,
+          "y": 0.5440404412659636
+        },
+        {
+          "x": 0.3436540200617284,
+          "y": 0.5440647013842772
+        },
+        {
+          "x": 0.3436558171296296,
+          "y": 0.54408890159462
+        },
+        {
+          "x": 0.3436588209876543,
+          "y": 0.5441129817825537
+        },
+        {
+          "x": 0.3436630231481482,
+          "y": 0.5441368810223859
+        },
+        {
+          "x": 0.34366841435185186,
+          "y": 0.544160537577148
+        },
+        {
+          "x": 0.3436749799382716,
+          "y": 0.5441838929062939
+        },
+        {
+          "x": 0.3436827037037037,
+          "y": 0.5442068884603549
+        },
+        {
+          "x": 0.3436915671296296,
+          "y": 0.5442294640780722
+        },
+        {
+          "x": 0.3437015478395062,
+          "y": 0.5442515643994541
+        },
+        {
+          "x": 0.3437126195987654,
+          "y": 0.5442731324538937
+        },
+        {
+          "x": 0.3437247546296296,
+          "y": 0.5442941136687535
+        },
+        {
+          "x": 0.3437379236111111,
+          "y": 0.5443144558703189
+        },
+        {
+          "x": 0.3437520925925926,
+          "y": 0.5443341068795621
+        },
+        {
+          "x": 0.3437672260802469,
+          "y": 0.5443530169180137
+        },
+        {
+          "x": 0.34378328549382714,
+          "y": 0.5443711378069853
+        },
+        {
+          "x": 0.3438002299382716,
+          "y": 0.5443884237702654
+        },
+        {
+          "x": 0.34381801774691356,
+          "y": 0.5444048314351259
+        },
+        {
+          "x": 0.3438366026234568,
+          "y": 0.5444203190314588
+        },
+        {
+          "x": 0.3438559390432099,
+          "y": 0.5444348471945194
+        },
+        {
+          "x": 0.34387597685185184,
+          "y": 0.5444483789658788
+        },
+        {
+          "x": 0.3438966666666667,
+          "y": 0.5444608797943452
+        },
+        {
+          "x": 0.34391795447530865,
+          "y": 0.5444723183387696
+        },
+        {
+          "x": 0.343939787808642,
+          "y": 0.5444826664689559
+        },
+        {
+          "x": 0.3439621111111111,
+          "y": 0.5444918960586895
+        },
+        {
+          "x": 0.3439848672839506,
+          "y": 0.5444999846000158
+        },
+        {
+          "x": 0.34400800000000004,
+          "y": 0.5445069119962336
+        },
+        {
+          "x": 0.3440314490740741,
+          "y": 0.5445126597604822
+        },
+        {
+          "x": 0.34405515663580244,
+          "y": 0.5445172142241586
+        },
+        {
+          "x": 0.34407906095679014,
+          "y": 0.54452056332947
+        },
+        {
+          "x": 0.3441031033950617,
+          "y": 0.5445226990357308
+        },
+        {
+          "x": 0.34412722145061725,
+          "y": 0.54452361491366
+        },
+        {
+          "x": 0.34415135570987654,
+          "y": 0.5445233093535257
+        },
+        {
+          "x": 0.34417544367283953,
+          "y": 0.5445217831592388
+        },
+        {
+          "x": 0.34419942438271606,
+          "y": 0.544519040350319
+        },
+        {
+          "x": 0.34422323842592595,
+          "y": 0.544515087359784
+        },
+        {
+          "x": 0.34424682407407403,
+          "y": 0.5445099346379102
+        },
+        {
+          "x": 0.34427012191358025,
+          "y": 0.544503595047943
+        },
+        {
+          "x": 0.34429307330246917,
+          "y": 0.5444960846676816
+        },
+        {
+          "x": 0.34431562037037033,
+          "y": 0.5444874219870304
+        },
+        {
+          "x": 0.34433770601851854,
+          "y": 0.5444776303132682
+        },
+        {
+          "x": 0.3443592731481482,
+          "y": 0.5444667337606466
+        },
+        {
+          "x": 0.34438026851851855,
+          "y": 0.5444547604574577
+        },
+        {
+          "x": 0.3444006388888889,
+          "y": 0.5444417393375999
+        },
+        {
+          "x": 0.3444203325617284,
+          "y": 0.5444277057530098
+        },
+        {
+          "x": 0.3444392986111111,
+          "y": 0.544412692652047
+        },
+        {
+          "x": 0.34445749151234567,
+          "y": 0.5443967402010714
+        },
+        {
+          "x": 0.344474862654321,
+          "y": 0.5443798877648744
+        },
+        {
+          "x": 0.34449137037037036,
+          "y": 0.5443621787168103
+        },
+        {
+          "x": 0.3445069714506173,
+          "y": 0.5443436572305724
+        },
+        {
+          "x": 0.3445216265432099,
+          "y": 0.5443243706846084
+        },
+        {
+          "x": 0.344535300154321,
+          "y": 0.5443043680575872
+        },
+        {
+          "x": 0.3445479560185185,
+          "y": 0.544283699927518
+        },
+        {
+          "x": 0.34455956404320986,
+          "y": 0.5442624184708846
+        },
+        {
+          "x": 0.3445700933641975,
+          "y": 0.5442405774617987
+        },
+        {
+          "x": 0.3445795177469136,
+          "y": 0.544218232271178
+        },
+        {
+          "x": 0.3445878140432099,
+          "y": 0.5441954390644089
+        },
+        {
+          "x": 0.3445949614197531,
+          "y": 0.5441722572052896
+        },
+        {
+          "x": 0.3446009413580247,
+          "y": 0.5441487428431385
+        },
+        {
+          "x": 0.3446057399691358,
+          "y": 0.5441249577290411
+        },
+        {
+          "x": 0.3446093433641975,
+          "y": 0.5441009603988355
+        },
+        {
+          "x": 0.3446117445987655,
+          "y": 0.544076812584607
+        },
+        {
+          "x": 0.3446129367283951,
+          "y": 0.5440525744057512
+        },
+        {
+          "x": 0.3446129174382716,
+          "y": 0.544028308375784
+        },
+        {
+          "x": 0.34461168595679015,
+          "y": 0.5440040737928017
+        },
+        {
+          "x": 0.3446092469135803,
+          "y": 0.5439799339514302
+        },
+        {
+          "x": 0.34460560493827164,
+          "y": 0.5439559481298825
+        },
+        {
+          "x": 0.3446007708333333,
+          "y": 0.5439321788016077
+        },
+        {
+          "x": 0.34459475617283947,
+          "y": 0.543908683623288
+        },
+        {
+          "x": 0.3445875763888889,
+          "y": 0.5438855234473047
+        },
+        {
+          "x": 0.3445792507716049,
+          "y": 0.5438627559126743
+        },
+        {
+          "x": 0.34456979861111114,
+          "y": 0.5438404394513602
+        },
+        {
+          "x": 0.34455924537037036,
+          "y": 0.5438186292833714
+        },
+        {
+          "x": 0.34454761651234567,
+          "y": 0.5437973806218438
+        },
+        {
+          "x": 0.3445349429012346,
+          "y": 0.5437767470715875
+        },
+        {
+          "x": 0.34452125540123457,
+          "y": 0.5437567814308628
+        },
+        {
+          "x": 0.34450658950617286,
+          "y": 0.5437375324883935
+        },
+        {
+          "x": 0.34449098225308644,
+          "y": 0.5437190498300126
+        },
+        {
+          "x": 0.3444744722222222,
+          "y": 0.5437013798347712
+        },
+        {
+          "x": 0.3444571026234568,
+          "y": 0.5436845664769068
+        },
+        {
+          "x": 0.3444389151234568,
+          "y": 0.5436686529284804
+        },
+        {
+          "x": 0.34441995833333333,
+          "y": 0.5436536783568775
+        },
+        {
+          "x": 0.34440027777777776,
+          "y": 0.5436396811291173
+        },
+        {
+          "x": 0.3443799243827161,
+          "y": 0.5436266964102408
+        },
+        {
+          "x": 0.3443589490740741,
+          "y": 0.5436147561642698
+        },
+        {
+          "x": 0.3443374050925926,
+          "y": 0.5436038907565929
+        },
+        {
+          "x": 0.3443153464506173,
+          "y": 0.5435941281539285
+        },
+        {
+          "x": 0.3442928287037037,
+          "y": 0.5435854923236093
+        },
+        {
+          "x": 0.3442699089506173,
+          "y": 0.5435780048357725
+        },
+        {
+          "x": 0.34424664429012347,
+          "y": 0.5435716848639403
+        },
+        {
+          "x": 0.34422309413580243,
+          "y": 0.5435665483848434
+        },
+        {
+          "x": 0.34419931790123454,
+          "y": 0.5435626081789013
+        },
+        {
+          "x": 0.34417537499999995,
+          "y": 0.5435598738306111
+        },
+        {
+          "x": 0.34415132638888885,
+          "y": 0.5435583525295272
+        },
+        {
+          "x": 0.34412723148148144,
+          "y": 0.5435580482697764
+        },
+        {
+          "x": 0.34410315200617286,
+          "y": 0.5435589610494947
+        },
+        {
+          "x": 0.34407914891975305,
+          "y": 0.5435610892728996
+        },
+        {
+          "x": 0.34405528163580246,
+          "y": 0.5435644281488614
+        },
+        {
+          "x": 0.34403161111111114,
+          "y": 0.5435689680893552
+        },
+        {
+          "x": 0.34400819675925925,
+          "y": 0.5435746979119576
+        },
+        {
+          "x": 0.34398509722222226,
+          "y": 0.5435816040388501
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.3436534336419753,
+        "minY": 0.5435580482697764,
+        "maxX": 0.3446129367283951,
+        "maxY": 0.54452361491366,
+        "width": 0.0009595030864197884,
+        "height": 0.0009655666438835864,
+        "midX": 0.3441331851851852,
+        "midY": 0.5440408315917182
+      },
+      "labels": [
+        {
+          "mapPosition": {
+            "x": 0.3443167438271605,
+            "y": 0.5441298674326018
+          },
+          "text": "2600\u0027",
+          "fontSize": 10
+        }
+      ]
+    },
+    {
+      "identifier": "AREA 4100",
+      "airport": "SBCY",
+      "mapPoints": [],
+      "mapBounds": {
+        "minX": 0.3434901936728395,
+        "minY": 0.5417629582099326,
+        "maxX": 0.3434901936728395,
+        "maxY": 0.5417629582099326,
+        "width": 0,
+        "height": 0,
+        "midX": 0.3434901936728395,
+        "midY": 0.5417629582099326
+      },
+      "labels": [
+        {
+          "mapPosition": {
+            "x": 0.3434901936728395,
+            "y": 0.5417629582099326
+          },
+          "text": "4100\u0027",
+          "fontSize": 10
+        }
+      ]
+    },
+    {
+      "identifier": "AREA 2",
+      "airport": "SBCY",
+      "mapPoints": [],
+      "mapBounds": {
+        "minX": 0.34559403086419754,
+        "minY": 0.5428790494678782,
+        "maxX": 0.34559403086419754,
+        "maxY": 0.5428790494678782,
+        "width": 0,
+        "height": 0,
+        "midX": 0.34559403086419754,
+        "midY": 0.5428790494678782
+      },
+      "labels": [
+        {
+          "mapPosition": {
+            "x": 0.34559403086419754,
+            "y": 0.5428790494678782
+          },
+          "text": "4000\u0027",
+          "fontSize": 10
+        }
+      ]
+    },
+    {
+      "identifier": "AREA 4",
+      "airport": "SBCY",
+      "mapPoints": [],
+      "mapBounds": {
+        "minX": 0.34635212114197533,
+        "minY": 0.54437418059342,
+        "maxX": 0.34635212114197533,
+        "maxY": 0.54437418059342,
+        "width": 0,
+        "height": 0,
+        "midX": 0.34635212114197533,
+        "midY": 0.54437418059342
+      },
+      "labels": [
+        {
+          "mapPosition": {
+            "x": 0.34635212114197533,
+            "y": 0.54437418059342
+          },
+          "text": "4200\u0027",
+          "fontSize": 10
+        }
+      ]
+    },
+    {
+      "identifier": "AREA 3100",
+      "airport": "SBCY",
+      "mapPoints": [
+        {
+          "x": 0.34450766203703703,
+          "y": 0.5431522932035145
+        },
+        {
+          "x": 0.3444860956790124,
+          "y": 0.5431434069051378
+        },
+        {
+          "x": 0.34446432175925923,
+          "y": 0.5431350504158656
+        },
+        {
+          "x": 0.34444235185185185,
+          "y": 0.5431272277141339
+        },
+        {
+          "x": 0.3444202013888889,
+          "y": 0.543119945179886
+        },
+        {
+          "x": 0.3443978811728395,
+          "y": 0.5431132059938506
+        },
+        {
+          "x": 0.34437540509259257,
+          "y": 0.543107013338086
+        },
+        {
+          "x": 0.3443527862654321,
+          "y": 0.543101372796226
+        },
+        {
+          "x": 0.3443300385802469,
+          "y": 0.5430962859528766
+        },
+        {
+          "x": 0.34430717515432097,
+          "y": 0.5430917567942998
+        },
+        {
+          "x": 0.3442842091049383,
+          "y": 0.543087786908017
+        },
+        {
+          "x": 0.3442611543209877,
+          "y": 0.543084380283217
+        },
+        {
+          "x": 0.34423802391975306,
+          "y": 0.5430815377103863
+        },
+        {
+          "x": 0.34421483179012347,
+          "y": 0.543079260781624
+        },
+        {
+          "x": 0.3441915925925926,
+          "y": 0.5430775510905979
+        },
+        {
+          "x": 0.34416831790123453,
+          "y": 0.5430764102325566
+        },
+        {
+          "x": 0.34414502314814815,
+          "y": 0.5430758382042679
+        },
+        {
+          "x": 0.3441217214506173,
+          "y": 0.5430758350041112
+        },
+        {
+          "x": 0.3440984266975308,
+          "y": 0.5430764014321173
+        },
+        {
+          "x": 0.34407515200617284,
+          "y": 0.5430775374898932
+        },
+        {
+          "x": 0.34405191203703706,
+          "y": 0.5430792407805312
+        },
+        {
+          "x": 0.3440287191358025,
+          "y": 0.5430815121088906
+        },
+        {
+          "x": 0.34400558873456794,
+          "y": 0.5430843490812471
+        },
+        {
+          "x": 0.34398253240740745,
+          "y": 0.5430877509055405
+        },
+        {
+          "x": 0.34395956558641977,
+          "y": 0.5430917143911037
+        },
+        {
+          "x": 0.34393670138888893,
+          "y": 0.5430962379488975
+        },
+        {
+          "x": 0.34391395216049386,
+          "y": 0.5431013191913299
+        },
+        {
+          "x": 0.3438913325617284,
+          "y": 0.5431069549322043
+        },
+        {
+          "x": 0.3438688549382716,
+          "y": 0.5431131411866581
+        },
+        {
+          "x": 0.34384653317901237,
+          "y": 0.5431198755713814
+        },
+        {
+          "x": 0.34382438040123453,
+          "y": 0.5431271525040352
+        },
+        {
+          "x": 0.34380240895061726,
+          "y": 0.5431349696039645
+        },
+        {
+          "x": 0.34378063271604936,
+          "y": 0.5431433212913405
+        },
+        {
+          "x": 0.3437590640432099,
+          "y": 0.543152201987467
+        },
+        {
+          "x": 0.34373771604938275,
+          "y": 0.5431616077150389
+        },
+        {
+          "x": 0.343716600308642,
+          "y": 0.5431715328975597
+        },
+        {
+          "x": 0.3436957307098766,
+          "y": 0.5431819711593514
+        },
+        {
+          "x": 0.3436751180555555,
+          "y": 0.5431929161256283
+        },
+        {
+          "x": 0.3436547762345679,
+          "y": 0.5432043614224449
+        },
+        {
+          "x": 0.3436347152777778,
+          "y": 0.5432163014768694
+        },
+        {
+          "x": 0.34361494830246914,
+          "y": 0.5432287283160447
+        },
+        {
+          "x": 0.3435954868827161,
+          "y": 0.5432416347679255
+        },
+        {
+          "x": 0.3435763418209877,
+          "y": 0.5432550128607483
+        },
+        {
+          "x": 0.343557525462963,
+          "y": 0.5432688554234765
+        },
+        {
+          "x": 0.3435390478395062,
+          "y": 0.5432831544852037
+        },
+        {
+          "x": 0.3435209212962963,
+          "y": 0.5432979012750015
+        },
+        {
+          "x": 0.3435031543209876,
+          "y": 0.5433130870221142
+        },
+        {
+          "x": 0.3434857592592593,
+          "y": 0.5433287029558943
+        },
+        {
+          "x": 0.3434687461419753,
+          "y": 0.5433447395053428
+        },
+        {
+          "x": 0.34345212422839505,
+          "y": 0.543361187899776
+        },
+        {
+          "x": 0.3434359043209877,
+          "y": 0.5433780377675469
+        },
+        {
+          "x": 0.34342009490740744,
+          "y": 0.543395280337615
+        },
+        {
+          "x": 0.3434047067901234,
+          "y": 0.5434129044372707
+        },
+        {
+          "x": 0.34338974768518515,
+          "y": 0.5434308996937687
+        },
+        {
+          "x": 0.34337522685185184,
+          "y": 0.5434492565343799
+        },
+        {
+          "x": 0.34336115354938274,
+          "y": 0.5434679629842045
+        },
+        {
+          "x": 0.3433475354938272,
+          "y": 0.5434870086686708
+        },
+        {
+          "x": 0.3433343804012346,
+          "y": 0.5435063824118843
+        },
+        {
+          "x": 0.3433216975308642,
+          "y": 0.5435260730370772
+        },
+        {
+          "x": 0.3433094930555556,
+          "y": 0.5435460677652134
+        },
+        {
+          "x": 0.34329777391975314,
+          "y": 0.5435663562181293
+        },
+        {
+          "x": 0.34328654861111113,
+          "y": 0.5435869256145506
+        },
+        {
+          "x": 0.3432758225308642,
+          "y": 0.5436077647733716
+        },
+        {
+          "x": 0.3432656026234568,
+          "y": 0.5436288601099867
+        },
+        {
+          "x": 0.3432558950617284,
+          "y": 0.5436502004406519
+        },
+        {
+          "x": 0.3432467052469136,
+          "y": 0.543671772177844
+        },
+        {
+          "x": 0.3432380393518519,
+          "y": 0.5436935633341027
+        },
+        {
+          "x": 0.34322990123456787,
+          "y": 0.5437155603186918
+        },
+        {
+          "x": 0.34322229706790125,
+          "y": 0.5437377511409569
+        },
+        {
+          "x": 0.3432152307098766,
+          "y": 0.5437601222067575
+        },
+        {
+          "x": 0.34320870679012344,
+          "y": 0.5437826599200944
+        },
+        {
+          "x": 0.3432027291666667,
+          "y": 0.5438053522851014
+        },
+        {
+          "x": 0.34319730092592593,
+          "y": 0.5438281841000295
+        },
+        {
+          "x": 0.3431924259259259,
+          "y": 0.5438511433652221
+        },
+        {
+          "x": 0.3431881064814815,
+          "y": 0.5438742156759344
+        },
+        {
+          "x": 0.34318434567901235,
+          "y": 0.5438973874264
+        },
+        {
+          "x": 0.3431811458333333,
+          "y": 0.5439206458099606
+        },
+        {
+          "x": 0.34317850925925925,
+          "y": 0.5439439764155861
+        },
+        {
+          "x": 0.34317643672839504,
+          "y": 0.5439673656312465
+        },
+        {
+          "x": 0.34317493055555554,
+          "y": 0.5439907990415153
+        },
+        {
+          "x": 0.3431739899691358,
+          "y": 0.5440142638312953
+        },
+        {
+          "x": 0.3431736172839506,
+          "y": 0.5440377455807985
+        },
+        {
+          "x": 0.34317381249999995,
+          "y": 0.5440612298679465
+        },
+        {
+          "x": 0.34317457484567904,
+          "y": 0.5440847038711542
+        },
+        {
+          "x": 0.34317590432098766,
+          "y": 0.5441081531639396
+        },
+        {
+          "x": 0.3431778009259259,
+          "y": 0.5441315633175229
+        },
+        {
+          "x": 0.343180262345679,
+          "y": 0.5441549215038134
+        },
+        {
+          "x": 0.343183287808642,
+          "y": 0.5441782140911676
+        },
+        {
+          "x": 0.3431868757716049,
+          "y": 0.544201425842686
+        },
+        {
+          "x": 0.3431910239197531,
+          "y": 0.5442245439238415
+        },
+        {
+          "x": 0.34319572993827163,
+          "y": 0.5442475546965003
+        },
+        {
+          "x": 0.34320099074074073,
+          "y": 0.5442704437187864
+        },
+        {
+          "x": 0.34320680401234566,
+          "y": 0.544293198951667
+        },
+        {
+          "x": 0.3432131651234568,
+          "y": 0.5443158051474717
+        },
+        {
+          "x": 0.34322007253086423,
+          "y": 0.5443382502632355
+        },
+        {
+          "x": 0.3432275200617284,
+          "y": 0.5443605198489435
+        },
+        {
+          "x": 0.34323550462962965,
+          "y": 0.5443826018579213
+        },
+        {
+          "x": 0.34324402083333333,
+          "y": 0.5444044826381684
+        },
+        {
+          "x": 0.34325306404320993,
+          "y": 0.5444261493376833
+        },
+        {
+          "x": 0.3432626288580247,
+          "y": 0.5444475891027661
+        },
+        {
+          "x": 0.34327270987654324,
+          "y": 0.5444687882761456
+        },
+        {
+          "x": 0.34328330092592596,
+          "y": 0.5444897356046796
+        },
+        {
+          "x": 0.3432943958333333,
+          "y": 0.5445104182299515
+        },
+        {
+          "x": 0.34330598765432097,
+          "y": 0.5445308232920488
+        },
+        {
+          "x": 0.3433180709876543,
+          "y": 0.544550939533687
+        },
+        {
+          "x": 0.3433306365740741,
+          "y": 0.5445707540923033
+        },
+        {
+          "x": 0.3433436790123457,
+          "y": 0.5445902557081914
+        },
+        {
+          "x": 0.3433571898148148,
+          "y": 0.5446094331206067
+        },
+        {
+          "x": 0.34337116049382715,
+          "y": 0.5446282742656873
+        },
+        {
+          "x": 0.3433855841049383,
+          "y": 0.5446467686828839
+        },
+        {
+          "x": 0.34340045061728397,
+          "y": 0.544664904306522
+        },
+        {
+          "x": 0.3434157523148148,
+          "y": 0.5446826706744765
+        },
+        {
+          "x": 0.3434314799382716,
+          "y": 0.5447000581262486
+        },
+        {
+          "x": 0.34344762345679014,
+          "y": 0.5447170553963654
+        },
+        {
+          "x": 0.34346417438271604,
+          "y": 0.5447336520210687
+        },
+        {
+          "x": 0.3434811219135802,
+          "y": 0.5447498391408111
+        },
+        {
+          "x": 0.34349845756172837,
+          "y": 0.5447656070935597
+        },
+        {
+          "x": 0.34351616898148146,
+          "y": 0.5447809454147551
+        },
+        {
+          "x": 0.34353424768518515,
+          "y": 0.5447958460467613
+        },
+        {
+          "x": 0.34355268209876544,
+          "y": 0.5448102993272917
+        },
+        {
+          "x": 0.34357146064814814,
+          "y": 0.5448242971989171
+        },
+        {
+          "x": 0.3435905733024691,
+          "y": 0.5448378308020436
+        },
+        {
+          "x": 0.3436100077160494,
+          "y": 0.5448508920797805
+        },
+        {
+          "x": 0.34362975308641974,
+          "y": 0.5448634745805635
+        },
+        {
+          "x": 0.34364979783950617,
+          "y": 0.5448755686435047
+        },
+        {
+          "x": 0.3436701296296297,
+          "y": 0.5448871686205984
+        },
+        {
+          "x": 0.34369073688271606,
+          "y": 0.5448982672596027
+        },
+        {
+          "x": 0.34371160648148147,
+          "y": 0.544908858111523
+        },
+        {
+          "x": 0.34373272685185186,
+          "y": 0.5449189339256649
+        },
+        {
+          "x": 0.34375408564814813,
+          "y": 0.5449284898598422
+        },
+        {
+          "x": 0.3437756689814815,
+          "y": 0.5449375186652312
+        },
+        {
+          "x": 0.34379746527777777,
+          "y": 0.5449460171068664
+        },
+        {
+          "x": 0.3438194606481481,
+          "y": 0.5449539787406787
+        },
+        {
+          "x": 0.3438416427469136,
+          "y": 0.544961398728919
+        },
+        {
+          "x": 0.3438639984567901,
+          "y": 0.5449682722350964
+        },
+        {
+          "x": 0.34388651388888886,
+          "y": 0.5449745968318789
+        },
+        {
+          "x": 0.34390917592592596,
+          "y": 0.5449803676855038
+        },
+        {
+          "x": 0.3439319714506173,
+          "y": 0.5449855815688603
+        },
+        {
+          "x": 0.3439548865740741,
+          "y": 0.5449902344536818
+        },
+        {
+          "x": 0.3439779074074074,
+          "y": 0.544994324721131
+        },
+        {
+          "x": 0.34400102083333334,
+          "y": 0.5449978499513127
+        },
+        {
+          "x": 0.3440242129629629,
+          "y": 0.5450008069232694
+        },
+        {
+          "x": 0.3440474691358025,
+          "y": 0.5450031956282775
+        },
+        {
+          "x": 0.3440707770061729,
+          "y": 0.5450050128486479
+        },
+        {
+          "x": 0.34409412191358024,
+          "y": 0.545006257776326
+        },
+        {
+          "x": 0.3441174899691358,
+          "y": 0.5450069312102759
+        },
+        {
+          "x": 0.3441408672839506,
+          "y": 0.545007030740509
+        },
+        {
+          "x": 0.3441642407407407,
+          "y": 0.5450065579720541
+        },
+        {
+          "x": 0.3441875949074074,
+          "y": 0.5450055121036551
+        },
+        {
+          "x": 0.3442109174382716,
+          "y": 0.5450038939410828
+        },
+        {
+          "x": 0.3442341936728395,
+          "y": 0.5450017050944577
+        },
+        {
+          "x": 0.3442574097222222,
+          "y": 0.544998946372917
+        },
+        {
+          "x": 0.34428055169753086,
+          "y": 0.5449956185872697
+        },
+        {
+          "x": 0.34430360648148145,
+          "y": 0.5449917257605562
+        },
+        {
+          "x": 0.34432656018518515,
+          "y": 0.5449872679041927
+        },
+        {
+          "x": 0.3443493989197531,
+          "y": 0.5449822498470239
+        },
+        {
+          "x": 0.3443721087962963,
+          "y": 0.5449766732088779
+        },
+        {
+          "x": 0.3443946774691358,
+          "y": 0.5449705412163648
+        },
+        {
+          "x": 0.3444170902777778,
+          "y": 0.5449638587027671
+        },
+        {
+          "x": 0.34443933410493827,
+          "y": 0.5449566280949416
+        },
+        {
+          "x": 0.3444613966049383,
+          "y": 0.544948855031511
+        },
+        {
+          "x": 0.34448326311728394,
+          "y": 0.5449405443497551
+        },
+        {
+          "x": 0.3445049228395061,
+          "y": 0.5449316992830592
+        },
+        {
+          "x": 0.3445263611111111,
+          "y": 0.5449223270788177
+        },
+        {
+          "x": 0.34454756558641975,
+          "y": 0.5449124317752736
+        },
+        {
+          "x": 0.344568524691358,
+          "y": 0.5449020198193614
+        },
+        {
+          "x": 0.34458922453703705,
+          "y": 0.5448910976589362
+        },
+        {
+          "x": 0.3446096535493827,
+          "y": 0.5448796717427151
+        },
+        {
+          "x": 0.344629800154321,
+          "y": 0.5448677493226893
+        },
+        {
+          "x": 0.3446496512345679,
+          "y": 0.544855336046623
+        },
+        {
+          "x": 0.34466919598765433,
+          "y": 0.5448424407727787
+        },
+        {
+          "x": 0.34468842206790123,
+          "y": 0.5448290707549994
+        },
+        {
+          "x": 0.3447073186728395,
+          "y": 0.5448152340500184
+        },
+        {
+          "x": 0.34472587422839507,
+          "y": 0.5448009387149219
+        },
+        {
+          "x": 0.34474407793209877,
+          "y": 0.5447861936094417
+        },
+        {
+          "x": 0.3447619189814815,
+          "y": 0.5447710067911138
+        },
+        {
+          "x": 0.34477938657407403,
+          "y": 0.5447553879222606
+        },
+        {
+          "x": 0.34479647067901237,
+          "y": 0.544739345862831
+        },
+        {
+          "x": 0.3448131612654321,
+          "y": 0.5447228902749814
+        },
+        {
+          "x": 0.34482944830246914,
+          "y": 0.544706031622895
+        },
+        {
+          "x": 0.34484532175925925,
+          "y": 0.5446887795681492
+        },
+        {
+          "x": 0.34486077314814817,
+          "y": 0.5446711445741613
+        },
+        {
+          "x": 0.3448757924382716,
+          "y": 0.5446531363016537
+        },
+        {
+          "x": 0.3448903711419753,
+          "y": 0.5446347660151554
+        },
+        {
+          "x": 0.34490450077160495,
+          "y": 0.5446160441763175
+        },
+        {
+          "x": 0.34491817283950615,
+          "y": 0.5445969828502625
+        },
+        {
+          "x": 0.3449313796296296,
+          "y": 0.5445775932990481
+        },
+        {
+          "x": 0.344944112654321,
+          "y": 0.5445578867837763
+        },
+        {
+          "x": 0.3449563649691358,
+          "y": 0.5445378745645313
+        },
+        {
+          "x": 0.34496812885802475,
+          "y": 0.5445175687023076
+        },
+        {
+          "x": 0.34497939814814815,
+          "y": 0.5444969812568525
+        },
+        {
+          "x": 0.34499016589506176,
+          "y": 0.5444761250885378
+        },
+        {
+          "x": 0.34500042515432094,
+          "y": 0.5444550122543569
+        },
+        {
+          "x": 0.3450101712962963,
+          "y": 0.5444336548098869
+        },
+        {
+          "x": 0.34501939660493824,
+          "y": 0.5444120664129227
+        },
+        {
+          "x": 0.3450280972222222,
+          "y": 0.5443902583140687
+        },
+        {
+          "x": 0.3450362677469136,
+          "y": 0.5443682449696159
+        },
+        {
+          "x": 0.3450439035493827,
+          "y": 0.5443460392303838
+        },
+        {
+          "x": 0.34505099922839505,
+          "y": 0.5443236539454224
+        },
+        {
+          "x": 0.3450575516975309,
+          "y": 0.5443011019619727
+        },
+        {
+          "x": 0.3450635563271605,
+          "y": 0.5442783977287509
+        },
+        {
+          "x": 0.34506901080246916,
+          "y": 0.5442555532874617
+        },
+        {
+          "x": 0.3450739104938272,
+          "y": 0.5442325838844135
+        },
+        {
+          "x": 0.34507825308641976,
+          "y": 0.544209501557341
+        },
+        {
+          "x": 0.34508203703703705,
+          "y": 0.5441863207467457
+        },
+        {
+          "x": 0.3450852584876543,
+          "y": 0.5441630550893923
+        },
+        {
+          "x": 0.3450879174382716,
+          "y": 0.544139718219919
+        },
+        {
+          "x": 0.3450900108024691,
+          "y": 0.5441163245722602
+        },
+        {
+          "x": 0.345091537808642,
+          "y": 0.5440928869752559
+        },
+        {
+          "x": 0.34509249845679013,
+          "y": 0.5440694206598339
+        },
+        {
+          "x": 0.3450928912037037,
+          "y": 0.544045937649128
+        },
+        {
+          "x": 0.3450927168209877,
+          "y": 0.5440224539709101
+        },
+        {
+          "x": 0.34509197453703705,
+          "y": 0.5439989816440047
+        },
+        {
+          "x": 0.34509066512345676,
+          "y": 0.5439755358903142
+        },
+        {
+          "x": 0.34508879012345683,
+          "y": 0.5439521295256821
+        },
+        {
+          "x": 0.345086350308642,
+          "y": 0.5439287769662982
+        },
+        {
+          "x": 0.3450833464506173,
+          "y": 0.54390549182494
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.3431736172839506,
+        "minY": 0.5430758350041112,
+        "maxX": 0.3450928912037037,
+        "maxY": 0.545007030740509,
+        "width": 0.0019192739197530506,
+        "height": 0.0019311957363978838,
+        "midX": 0.3441332542438271,
+        "midY": 0.5440414328723101
+      },
+      "labels": [
+        {
+          "mapPosition": {
+            "x": 0.3443039552469136,
+            "y": 0.5446980910414019
+          },
+          "text": "3100\u0027",
+          "fontSize": 10
+        }
+      ]
+    },
+    {
+      "identifier": "AREA 5",
+      "airport": "SBCY",
+      "mapPoints": [
+        {
+          "x": 0.3447045925925926,
+          "y": 0.542712883906557
+        },
+        {
+          "x": 0.34468154783950616,
+          "y": 0.5427030941829576
+        },
+        {
+          "x": 0.3446583387345679,
+          "y": 0.5426937091811903
+        },
+        {
+          "x": 0.34463497067901233,
+          "y": 0.5426847320805557
+        },
+        {
+          "x": 0.3446114521604939,
+          "y": 0.5426761644619691
+        },
+        {
+          "x": 0.3445877885802469,
+          "y": 0.5426680095060891
+        },
+        {
+          "x": 0.34456398919753084,
+          "y": 0.5426602695947559
+        },
+        {
+          "x": 0.34454005941358024,
+          "y": 0.5426529471105407
+        },
+        {
+          "x": 0.34451600694444445,
+          "y": 0.5426460444367615
+        },
+        {
+          "x": 0.34449183950617285,
+          "y": 0.5426395631580354
+        },
+        {
+          "x": 0.3444675640432099,
+          "y": 0.5426335056592452
+        },
+        {
+          "x": 0.3444431875,
+          "y": 0.5426278735266168
+        },
+        {
+          "x": 0.3444187183641975,
+          "y": 0.5426226683472103
+        },
+        {
+          "x": 0.344394162808642,
+          "y": 0.5426178917089313
+        },
+        {
+          "x": 0.34436952854938274,
+          "y": 0.5426135452005402
+        },
+        {
+          "x": 0.3443448233024692,
+          "y": 0.5426096304116644
+        },
+        {
+          "x": 0.3443200540123457,
+          "y": 0.5426061481333896
+        },
+        {
+          "x": 0.34429522916666666,
+          "y": 0.5426030991577051
+        },
+        {
+          "x": 0.34427035493827157,
+          "y": 0.5426004842775098
+        },
+        {
+          "x": 0.3442454398148148,
+          "y": 0.5425983050860262
+        },
+        {
+          "x": 0.34422049074074074,
+          "y": 0.5425965615785746
+        },
+        {
+          "x": 0.3441955154320988,
+          "y": 0.5425952553502207
+        },
+        {
+          "x": 0.3441705208333333,
+          "y": 0.5425943847993427
+        },
+        {
+          "x": 0.3441455154320988,
+          "y": 0.5425939523222804
+        },
+        {
+          "x": 0.34412050694444446,
+          "y": 0.5425939563192944
+        },
+        {
+          "x": 0.34409550154320984,
+          "y": 0.5425943975897967
+        },
+        {
+          "x": 0.3440705077160494,
+          "y": 0.542595276134738
+        },
+        {
+          "x": 0.3440455331790124,
+          "y": 0.5425965919560116
+        },
+        {
+          "x": 0.3440205841049383,
+          "y": 0.5425983434576357
+        },
+        {
+          "x": 0.34399566975308643,
+          "y": 0.5426005314427823
+        },
+        {
+          "x": 0.3439707962962963,
+          "y": 0.5426031543173289
+        },
+        {
+          "x": 0.34394597222222223,
+          "y": 0.5426062120868973
+        },
+        {
+          "x": 0.34392120447530866,
+          "y": 0.5426097031591962
+        },
+        {
+          "x": 0.34389650077160494,
+          "y": 0.5426136267422548
+        },
+        {
+          "x": 0.34387186805555553,
+          "y": 0.5426179812455717
+        },
+        {
+          "x": 0.34384731404320984,
+          "y": 0.5426227666784006
+        },
+        {
+          "x": 0.3438228464506173,
+          "y": 0.5426279798531232
+        },
+        {
+          "x": 0.3437984722222222,
+          "y": 0.542633619981285
+        },
+        {
+          "x": 0.34377419830246914,
+          "y": 0.5426396862753052
+        },
+        {
+          "x": 0.34375003317901237,
+          "y": 0.5426461755500573
+        },
+        {
+          "x": 0.3437259830246914,
+          "y": 0.5426530870196103
+        },
+        {
+          "x": 0.3437020563271605,
+          "y": 0.5426604175004118
+        },
+        {
+          "x": 0.3436782584876543,
+          "y": 0.5426681654086314
+        },
+        {
+          "x": 0.3436545987654321,
+          "y": 0.5426763283617139
+        },
+        {
+          "x": 0.34363108256172836,
+          "y": 0.5426849039778349
+        },
+        {
+          "x": 0.3436077175925926,
+          "y": 0.5426938890763512
+        },
+        {
+          "x": 0.3435845115740741,
+          "y": 0.5427032820763633
+        },
+        {
+          "x": 0.34356146990740744,
+          "y": 0.5427130789990265
+        },
+        {
+          "x": 0.3435386010802469,
+          "y": 0.5427232782647771
+        },
+        {
+          "x": 0.343515912037037,
+          "y": 0.5427338758959942
+        },
+        {
+          "x": 0.34349340817901236,
+          "y": 0.5427448687151794
+        },
+        {
+          "x": 0.34347109722222224,
+          "y": 0.5427562535453894
+        },
+        {
+          "x": 0.34344898611111113,
+          "y": 0.5427680272102162
+        },
+        {
+          "x": 0.3434270810185185,
+          "y": 0.5427801857341206
+        },
+        {
+          "x": 0.3434053888888889,
+          "y": 0.5427927251419925
+        },
+        {
+          "x": 0.3433839166666667,
+          "y": 0.5428056430584914
+        },
+        {
+          "x": 0.34336266975308644,
+          "y": 0.5428189347097017
+        },
+        {
+          "x": 0.34334165509259257,
+          "y": 0.5428325969214334
+        },
+        {
+          "x": 0.34332087962962965,
+          "y": 0.5428466241207013
+        },
+        {
+          "x": 0.34330034876543214,
+          "y": 0.5428610123341939
+        },
+        {
+          "x": 0.3432800686728395,
+          "y": 0.5428757591884358
+        },
+        {
+          "x": 0.3432600462962963,
+          "y": 0.5428908575116116
+        },
+        {
+          "x": 0.3432402870370371,
+          "y": 0.5429063049307141
+        },
+        {
+          "x": 0.3432207970679012,
+          "y": 0.5429220958737758
+        },
+        {
+          "x": 0.3432015825617284,
+          "y": 0.5429382255687131
+        },
+        {
+          "x": 0.3431826489197531,
+          "y": 0.5429546900434034
+        },
+        {
+          "x": 0.3431640023148148,
+          "y": 0.5429714829261689
+        },
+        {
+          "x": 0.34314564814814813,
+          "y": 0.5429886002449538
+        },
+        {
+          "x": 0.3431275918209877,
+          "y": 0.5430060364279056
+        },
+        {
+          "x": 0.3431098387345679,
+          "y": 0.5430237867030284
+        },
+        {
+          "x": 0.3430923942901235,
+          "y": 0.5430418446982922
+        },
+        {
+          "x": 0.3430752646604938,
+          "y": 0.5430602064414564
+        },
+        {
+          "x": 0.3430584537037037,
+          "y": 0.5430788655601508
+        },
+        {
+          "x": 0.3430419675925926,
+          "y": 0.5430978156816829
+        },
+        {
+          "x": 0.3430258101851852,
+          "y": 0.5431170528332893
+        },
+        {
+          "x": 0.34300998842592595,
+          "y": 0.5431365698416546
+        },
+        {
+          "x": 0.34299450462962966,
+          "y": 0.54315636193339
+        },
+        {
+          "x": 0.34297936496913584,
+          "y": 0.5431764227345361
+        },
+        {
+          "x": 0.3429645740740741,
+          "y": 0.5431967458706707
+        },
+        {
+          "x": 0.3429501365740741,
+          "y": 0.5432173249668798
+        },
+        {
+          "x": 0.34293605555555556,
+          "y": 0.5432381544479854
+        },
+        {
+          "x": 0.3429223364197531,
+          "y": 0.5432592287383762
+        },
+        {
+          "x": 0.34290898302469136,
+          "y": 0.5432805398610477
+        },
+        {
+          "x": 0.342896,
+          "y": 0.5433020822391926
+        },
+        {
+          "x": 0.3428833904320988,
+          "y": 0.5433238494951255
+        },
+        {
+          "x": 0.3428711589506173,
+          "y": 0.5433458352505137
+        },
+        {
+          "x": 0.34285930864197534,
+          "y": 0.5433680323259248
+        },
+        {
+          "x": 0.34284784336419755,
+          "y": 0.54339043434157
+        },
+        {
+          "x": 0.3428367669753086,
+          "y": 0.5434130349169407
+        },
+        {
+          "x": 0.3428260825617284,
+          "y": 0.5434358260697476
+        },
+        {
+          "x": 0.34281579320987654,
+          "y": 0.5434588022183423
+        },
+        {
+          "x": 0.34280590200617284,
+          "y": 0.5434819553786687
+        },
+        {
+          "x": 0.3427964128086419,
+          "y": 0.5435052791668392
+        },
+        {
+          "x": 0.34278732793209876,
+          "y": 0.5435287671981368
+        },
+        {
+          "x": 0.342778649691358,
+          "y": 0.5435524106849697
+        },
+        {
+          "x": 0.3427703819444444,
+          "y": 0.5435762040413267
+        },
+        {
+          "x": 0.34276252623456793,
+          "y": 0.5436001392782176
+        },
+        {
+          "x": 0.34275508487654316,
+          "y": 0.5436242092062625
+        },
+        {
+          "x": 0.34274806172839506,
+          "y": 0.543648407435834
+        },
+        {
+          "x": 0.34274145679012347,
+          "y": 0.5436727251738532
+        },
+        {
+          "x": 0.34273527391975306,
+          "y": 0.5436971568293755
+        },
+        {
+          "x": 0.34272951388888884,
+          "y": 0.5437216936070035
+        },
+        {
+          "x": 0.3427241790123457,
+          "y": 0.5437463283118328
+        },
+        {
+          "x": 0.34271927083333337,
+          "y": 0.5437710537478273
+        },
+        {
+          "x": 0.34271479089506174,
+          "y": 0.5437958627178071
+        },
+        {
+          "x": 0.34271074074074076,
+          "y": 0.5438207472223983
+        },
+        {
+          "x": 0.34270712191358027,
+          "y": 0.5438456992609244
+        },
+        {
+          "x": 0.34270393518518516,
+          "y": 0.5438707132347094
+        },
+        {
+          "x": 0.3427011813271605,
+          "y": 0.5438957795384655
+        },
+        {
+          "x": 0.3426988611111111,
+          "y": 0.5439208917699911
+        },
+        {
+          "x": 0.3426969760802469,
+          "y": 0.5439460411223948
+        },
+        {
+          "x": 0.3426955262345679,
+          "y": 0.5439712211910224
+        },
+        {
+          "x": 0.34269451234567905,
+          "y": 0.5439964239675867
+        },
+        {
+          "x": 0.3426939351851852,
+          "y": 0.5440216422437498
+        },
+        {
+          "x": 0.3426937939814815,
+          "y": 0.5440468672072573
+        },
+        {
+          "x": 0.34269408950617286,
+          "y": 0.5440720916471055
+        },
+        {
+          "x": 0.3426948209876543,
+          "y": 0.5440973083510562
+        },
+        {
+          "x": 0.3426959899691358,
+          "y": 0.5441225101056366
+        },
+        {
+          "x": 0.3426975941358025,
+          "y": 0.5441476880931754
+        },
+        {
+          "x": 0.34269963425925926,
+          "y": 0.5441728350975226
+        },
+        {
+          "x": 0.3427021095679012,
+          "y": 0.5441979439012948
+        },
+        {
+          "x": 0.3427050192901234,
+          "y": 0.5442230064842937
+        },
+        {
+          "x": 0.342708362654321,
+          "y": 0.5442480148249567
+        },
+        {
+          "x": 0.3427121388888889,
+          "y": 0.5442729625036654
+        },
+        {
+          "x": 0.34271634645061727,
+          "y": 0.5442978406946627
+        },
+        {
+          "x": 0.3427209837962963,
+          "y": 0.544322642174148
+        },
+        {
+          "x": 0.3427260509259259,
+          "y": 0.5443473605188709
+        },
+        {
+          "x": 0.3427315447530864,
+          "y": 0.5443719868991589
+        },
+        {
+          "x": 0.3427374645061728,
+          "y": 0.5443965140875258
+        },
+        {
+          "x": 0.3427438086419753,
+          "y": 0.5444209348553101
+        },
+        {
+          "x": 0.342750574845679,
+          "y": 0.544445241170799
+        },
+        {
+          "x": 0.3427577615740741,
+          "y": 0.5444694266048362
+        },
+        {
+          "x": 0.3427653665123457,
+          "y": 0.5444934831233523
+        },
+        {
+          "x": 0.342773386574074,
+          "y": 0.5445174042949945
+        },
+        {
+          "x": 0.3427818202160494,
+          "y": 0.5445411812813734
+        },
+        {
+          "x": 0.3427906651234568,
+          "y": 0.5445648084509533
+        },
+        {
+          "x": 0.34279991820987654,
+          "y": 0.5445882769630451
+        },
+        {
+          "x": 0.3428095771604938,
+          "y": 0.5446115811841082
+        },
+        {
+          "x": 0.34281963811728394,
+          "y": 0.5446347130733744
+        },
+        {
+          "x": 0.3428300987654321,
+          "y": 0.5446576661932874
+        },
+        {
+          "x": 0.34284095679012344,
+          "y": 0.5446804325009951
+        },
+        {
+          "x": 0.34285220679012346,
+          "y": 0.5447030063592686
+        },
+        {
+          "x": 0.3428638472222222,
+          "y": 0.5447253797233521
+        },
+        {
+          "x": 0.34287587422839505,
+          "y": 0.5447475469543442
+        },
+        {
+          "x": 0.34288828395061727,
+          "y": 0.5447695000056754
+        },
+        {
+          "x": 0.3429010725308642,
+          "y": 0.5447912332368626
+        },
+        {
+          "x": 0.34291423611111116,
+          "y": 0.5448127394020145
+        },
+        {
+          "x": 0.3429277708333333,
+          "y": 0.5448340120568285
+        },
+        {
+          "x": 0.34294167283950616,
+          "y": 0.5448550455587643
+        },
+        {
+          "x": 0.34295593750000003,
+          "y": 0.5448758318572893
+        },
+        {
+          "x": 0.3429705609567902,
+          "y": 0.5448963653085325
+        },
+        {
+          "x": 0.3429855385802469,
+          "y": 0.5449166394655891
+        },
+        {
+          "x": 0.34300086574074073,
+          "y": 0.5449366494861038
+        },
+        {
+          "x": 0.34301653858024694,
+          "y": 0.5449563873170156
+        },
+        {
+          "x": 0.3430325509259259,
+          "y": 0.5449758473123789
+        },
+        {
+          "x": 0.3430488989197531,
+          "y": 0.5449950246285089
+        },
+        {
+          "x": 0.3430655779320988,
+          "y": 0.5450139128161208
+        },
+        {
+          "x": 0.34308258179012346,
+          "y": 0.5450325054254931
+        },
+        {
+          "x": 0.34309990586419753,
+          "y": 0.5450507976119486
+        },
+        {
+          "x": 0.34311754552469137,
+          "y": 0.5450687837278905
+        },
+        {
+          "x": 0.34313549459876547,
+          "y": 0.5450864573227044
+        },
+        {
+          "x": 0.3431537476851852,
+          "y": 0.5451038143538611
+        },
+        {
+          "x": 0.343172300154321,
+          "y": 0.5451208483703763
+        },
+        {
+          "x": 0.3431911450617284,
+          "y": 0.5451375545267105
+        },
+        {
+          "x": 0.3432102777777778,
+          "y": 0.5451539279772968
+        },
+        {
+          "x": 0.34322969135802467,
+          "y": 0.5451699638765706
+        },
+        {
+          "x": 0.34324938117283954,
+          "y": 0.5451856565760856
+        },
+        {
+          "x": 0.3432693402777778,
+          "y": 0.5452010012303028
+        },
+        {
+          "x": 0.3432895632716049,
+          "y": 0.5452159937967292
+        },
+        {
+          "x": 0.34331004398148146,
+          "y": 0.5452306294301015
+        },
+        {
+          "x": 0.343330775462963,
+          "y": 0.5452449032853053
+        },
+        {
+          "x": 0.3433517515432099,
+          "y": 0.5452588121234354
+        },
+        {
+          "x": 0.34337296682098767,
+          "y": 0.545272349493818
+        },
+        {
+          "x": 0.3433944135802469,
+          "y": 0.545285513764177
+        },
+        {
+          "x": 0.3434160864197531,
+          "y": 0.5452982992874529
+        },
+        {
+          "x": 0.34343797762345674,
+          "y": 0.5453107020229849
+        },
+        {
+          "x": 0.34346008179012344,
+          "y": 0.5453227187336148
+        },
+        {
+          "x": 0.3434823912037037,
+          "y": 0.5453343461826764
+        },
+        {
+          "x": 0.3435048989197531,
+          "y": 0.5453455803308822
+        },
+        {
+          "x": 0.3435275987654321,
+          "y": 0.5453564171394216
+        },
+        {
+          "x": 0.34355048379629627,
+          "y": 0.5453668541763196
+        },
+        {
+          "x": 0.3435735462962963,
+          "y": 0.5453768882070684
+        },
+        {
+          "x": 0.3435967800925926,
+          "y": 0.545386515194578
+        },
+        {
+          "x": 0.3436201782407407,
+          "y": 0.5453957335119575
+        },
+        {
+          "x": 0.3436437322530864,
+          "y": 0.545404539123422
+        },
+        {
+          "x": 0.3436674359567901,
+          "y": 0.5454129296002772
+        },
+        {
+          "x": 0.3436912824074074,
+          "y": 0.5454209025145796
+        },
+        {
+          "x": 0.3437152631172839,
+          "y": 0.5454284554391541
+        },
+        {
+          "x": 0.3437393719135802,
+          "y": 0.5454355867508748
+        },
+        {
+          "x": 0.34376360108024695,
+          "y": 0.5454422932209171
+        },
+        {
+          "x": 0.34378794367283955,
+          "y": 0.5454485732278018
+        },
+        {
+          "x": 0.34381239120370366,
+          "y": 0.5454544243476375
+        },
+        {
+          "x": 0.343836936728395,
+          "y": 0.5454598457639819
+        },
+        {
+          "x": 0.3438615733024691,
+          "y": 0.5454648342514183
+        },
+        {
+          "x": 0.34388629243827157,
+          "y": 0.5454693906019378
+        },
+        {
+          "x": 0.3439110864197531,
+          "y": 0.5454735107886458
+        },
+        {
+          "x": 0.34393594907407404,
+          "y": 0.5454771956054417
+        },
+        {
+          "x": 0.34396087191358027,
+          "y": 0.5454804434372656
+        },
+        {
+          "x": 0.3439858472222222,
+          "y": 0.5454832518666901
+        },
+        {
+          "x": 0.3440108680555556,
+          "y": 0.5454856216905755
+        },
+        {
+          "x": 0.34403592592592597,
+          "y": 0.5454875521001361
+        },
+        {
+          "x": 0.3440610138888889,
+          "y": 0.5454890414842498
+        },
+        {
+          "x": 0.3440861234567901,
+          "y": 0.5454900898394712
+        },
+        {
+          "x": 0.3441112476851852,
+          "y": 0.5454906979667141
+        },
+        {
+          "x": 0.3441363780864198,
+          "y": 0.5454908634545566
+        },
+        {
+          "x": 0.3441615084876543,
+          "y": 0.545490587909292
+        },
+        {
+          "x": 0.3441866296296296,
+          "y": 0.5454898705282201
+        },
+        {
+          "x": 0.3442117345679013,
+          "y": 0.5454887129196756
+        },
+        {
+          "x": 0.3442368155864197,
+          "y": 0.5454871134796639
+        },
+        {
+          "x": 0.3442618649691358,
+          "y": 0.5454850746218849
+        },
+        {
+          "x": 0.344286875,
+          "y": 0.5454825955477095
+        },
+        {
+          "x": 0.34431183796296294,
+          "y": 0.5454796770661847
+        },
+        {
+          "x": 0.34433674691358024,
+          "y": 0.5454763207906727
+        },
+        {
+          "x": 0.3443615925925926,
+          "y": 0.5454725275321911
+        },
+        {
+          "x": 0.3443863695987654,
+          "y": 0.5454682989060451
+        },
+        {
+          "x": 0.3444110686728395,
+          "y": 0.5454636357251861
+        },
+        {
+          "x": 0.3444356828703704,
+          "y": 0.5454585388035285
+        },
+        {
+          "x": 0.34446020524691356,
+          "y": 0.5454530105625154
+        },
+        {
+          "x": 0.34448462731481483,
+          "y": 0.5454470526211949
+        },
+        {
+          "x": 0.3445089421296296,
+          "y": 0.5454406665995152
+        },
+        {
+          "x": 0.34453314197530865,
+          "y": 0.5454338541183115
+        },
+        {
+          "x": 0.3445572199074074,
+          "y": 0.5454266184057919
+        },
+        {
+          "x": 0.34458116820987655,
+          "y": 0.5454189602812255
+        },
+        {
+          "x": 0.34460497916666666,
+          "y": 0.5454108837776761
+        },
+        {
+          "x": 0.3446286466049383,
+          "y": 0.5454023897160383
+        },
+        {
+          "x": 0.34465216280864197,
+          "y": 0.5453934813276732
+        },
+        {
+          "x": 0.3446755200617284,
+          "y": 0.5453841610414493
+        },
+        {
+          "x": 0.34469871219135806,
+          "y": 0.5453744328933133
+        },
+        {
+          "x": 0.3447217314814815,
+          "y": 0.5453642985103222
+        },
+        {
+          "x": 0.3447445709876543,
+          "y": 0.5453537619297161
+        },
+        {
+          "x": 0.3447672237654321,
+          "y": 0.5453428255830187
+        },
+        {
+          "x": 0.34478968364197526,
+          "y": 0.5453314943117457
+        },
+        {
+          "x": 0.3448119421296296,
+          "y": 0.545319769745445
+        },
+        {
+          "x": 0.34483399382716046,
+          "y": 0.5453076559235793
+        },
+        {
+          "x": 0.34485583179012347,
+          "y": 0.5452951576891215
+        },
+        {
+          "x": 0.344877449074074,
+          "y": 0.5452822782792957
+        },
+        {
+          "x": 0.3448988387345679,
+          "y": 0.5452690209317869
+        },
+        {
+          "x": 0.3449199953703704,
+          "y": 0.5452553904907369
+        },
+        {
+          "x": 0.3449409112654321,
+          "y": 0.545241390997558
+        },
+        {
+          "x": 0.34496158101851854,
+          "y": 0.5452270264939706
+        },
+        {
+          "x": 0.3449819976851852,
+          "y": 0.5452123018249256
+        },
+        {
+          "x": 0.3450021558641975,
+          "y": 0.5451972210326176
+        },
+        {
+          "x": 0.34502204861111113,
+          "y": 0.5451817897652808
+        },
+        {
+          "x": 0.3450416705246913,
+          "y": 0.5451660112625207
+        },
+        {
+          "x": 0.34506101543209877,
+          "y": 0.5451498911727892
+        },
+        {
+          "x": 0.3450800771604938,
+          "y": 0.545133435144503
+        },
+        {
+          "x": 0.345098849537037,
+          "y": 0.5451166464175624
+        },
+        {
+          "x": 0.34511732793209876,
+          "y": 0.5450995314432195
+        },
+        {
+          "x": 0.3451355061728395,
+          "y": 0.545082095869735
+        },
+        {
+          "x": 0.3451533788580247,
+          "y": 0.5450643437397223
+        },
+        {
+          "x": 0.34517094058641973,
+          "y": 0.5450462807012388
+        },
+        {
+          "x": 0.34518818595679013,
+          "y": 0.545027914007508
+        },
+        {
+          "x": 0.3452051095679012,
+          "y": 0.5450092468979651
+        },
+        {
+          "x": 0.34522170601851854,
+          "y": 0.544990286625278
+        },
+        {
+          "x": 0.3452379714506173,
+          "y": 0.544971038836369
+        },
+        {
+          "x": 0.345253899691358,
+          "y": 0.5449515083752353
+        },
+        {
+          "x": 0.345269486882716,
+          "y": 0.5449317024932938
+        },
+        {
+          "x": 0.34528472762345686,
+          "y": 0.5449116268362857
+        },
+        {
+          "x": 0.34529961805555554,
+          "y": 0.5448912870495294
+        },
+        {
+          "x": 0.34531415277777777,
+          "y": 0.5448706903828435
+        },
+        {
+          "x": 0.3453283279320988,
+          "y": 0.5448498416780063
+        },
+        {
+          "x": 0.3453421388888889,
+          "y": 0.5448287489860743
+        },
+        {
+          "x": 0.3453555817901235,
+          "y": 0.5448074171476797
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.3426937939814815,
+        "minY": 0.5425939523222804,
+        "maxX": 0.3453555817901235,
+        "maxY": 0.5454908634545566,
+        "width": 0.0026617878086420133,
+        "height": 0.002896911132276192,
+        "midX": 0.3440246878858025,
+        "midY": 0.5440424078884185
+      },
+      "labels": [
+        {
+          "mapPosition": {
+            "x": 0.3442329058641975,
+            "y": 0.5427930042249347
+          },
+          "text": "3500\u0027",
+          "fontSize": 10
+        }
+      ]
+    }
+  ]
+}

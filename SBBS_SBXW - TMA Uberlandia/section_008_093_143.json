@@ -1,0 +1,75 @@
+{
+  "level": 8,
+  "x": 93,
+  "y": 143,
+  "mapBounds": {
+    "minX": 0.36328125,
+    "minY": 0.55859375,
+    "maxX": 0.3671875,
+    "maxY": 0.5625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.365234375,
+    "midY": 0.560546875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ETEGO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.36568132716049384,
+        "y": 0.5598024089980764
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": [
+    {
+      "identifier": "UZ31",
+      "mapPoints": [
+        {
+          "x": 0.3641496913580247,
+          "y": 0.5514278394909526
+        },
+        {
+          "x": 0.36481764660493826,
+          "y": 0.5542727219009284
+        },
+        {
+          "x": 0.36568132716049384,
+          "y": 0.5598024089980764
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.3641496913580247,
+        "minY": 0.5514278394909526,
+        "maxX": 0.36568132716049384,
+        "maxY": 0.5598024089980764,
+        "width": 0.0015316358024691223,
+        "height": 0.008374569507123786,
+        "midX": 0.3649155092592593,
+        "midY": 0.5556151242445145
+      },
+      "fixes": [
+        "OPKIL",
+        "UDIGI",
+        "ETEGO"
+      ],
+      "labels": []
+    }
+  ]
+}

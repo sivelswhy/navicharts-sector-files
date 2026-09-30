@@ -1,0 +1,75 @@
+{
+  "level": 8,
+  "x": 88,
+  "y": 133,
+  "mapBounds": {
+    "minX": 0.34375,
+    "minY": 0.51953125,
+    "maxX": 0.34765625,
+    "maxY": 0.5234375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.345703125,
+    "midY": 0.521484375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "MASGI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3444143518518519,
+        "y": 0.5210448558283712
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": [
+    {
+      "identifier": "UZ6",
+      "mapPoints": [
+        {
+          "x": 0.3368045987654321,
+          "y": 0.5126717078169312
+        },
+        {
+          "x": 0.3403643518518518,
+          "y": 0.5165873550530036
+        },
+        {
+          "x": 0.3444143518518519,
+          "y": 0.5210448558283712
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.3368045987654321,
+        "minY": 0.5126717078169312,
+        "maxX": 0.3444143518518519,
+        "maxY": 0.5210448558283712,
+        "width": 0.007609753086419757,
+        "height": 0.008373148011440068,
+        "midX": 0.340609475308642,
+        "midY": 0.5168582818226513
+      },
+      "fixes": [
+        "GIKVI",
+        "VIBOT",
+        "MASGI"
+      ],
+      "labels": []
+    }
+  ]
+}

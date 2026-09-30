@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 94,
+  "y": 137,
+  "mapBounds": {
+    "minX": 0.3671875,
+    "minY": 0.53515625,
+    "maxX": 0.37109375,
+    "maxY": 0.5390625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.369140625,
+    "midY": 0.537109375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ISORA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.36953506172839506,
+        "y": 0.5373644936950741
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "UTNUX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.36853023919753086,
+        "y": 0.5379459684609662
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VUNUL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3689992283950618,
+        "y": 0.5388651767921427
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

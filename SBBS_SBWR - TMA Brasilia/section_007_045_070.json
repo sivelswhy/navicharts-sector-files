@@ -1,0 +1,80 @@
+{
+  "level": 7,
+  "x": 45,
+  "y": 70,
+  "mapBounds": {
+    "minX": 0.3515625,
+    "minY": 0.546875,
+    "maxX": 0.359375,
+    "maxY": 0.5546875,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.35546875,
+    "midY": 0.55078125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ABUSE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.35702962962962964,
+        "y": 0.5515964883700392
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OPVUD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3588823148148148,
+        "y": 0.5492585812053633
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TESEK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3587800925925926,
+        "y": 0.5533188664085084
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "UKBEB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3575092592592592,
+        "y": 0.5490154377506574
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

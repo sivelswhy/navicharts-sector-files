@@ -1,0 +1,41 @@
+{
+  "level": 7,
+  "x": 45,
+  "y": 70,
+  "mapBounds": {
+    "minX": 0.3515625,
+    "minY": 0.546875,
+    "maxX": 0.359375,
+    "maxY": 0.5546875,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.35546875,
+    "midY": 0.55078125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "MABMA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3524976851851852,
+        "y": 0.5470866037060026
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

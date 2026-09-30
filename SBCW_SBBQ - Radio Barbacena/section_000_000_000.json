@@ -1,0 +1,212 @@
+{
+  "level": 0,
+  "x": 0,
+  "y": 0,
+  "mapBounds": {
+    "minX": 0,
+    "minY": 0,
+    "maxX": 1,
+    "maxY": 1,
+    "width": 1,
+    "height": 1,
+    "midX": 0.5,
+    "midY": 0.5
+  },
+  "shapes": [
+    {
+      "geoArea": null,
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": "#8F8F8F",
+      "strokeColour": "#787878",
+      "strokeWidth": 2,
+      "mapPoints": [
+        {
+          "x": 0.3779214197530864,
+          "y": 0.5592430636884039
+        },
+        {
+          "x": 0.3797100439814815,
+          "y": 0.5600496133702534
+        },
+        {
+          "x": 0.3787974915123457,
+          "y": 0.5617809669802304
+        },
+        {
+          "x": 0.3771280547839507,
+          "y": 0.5607341052888373
+        },
+        {
+          "x": 0.3779214197530864,
+          "y": 0.5592430636884039
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.3771280547839507,
+        "minY": 0.5592430636884039,
+        "maxX": 0.3797100439814815,
+        "maxY": 0.5617809669802304,
+        "width": 0.0025819891975308318,
+        "height": 0.00253790329182646,
+        "midX": 0.3784190493827161,
+        "midY": 0.5605120153343172
+      }
+    },
+    {
+      "geoArea": null,
+      "positions": [
+        "SBBQ_I_TWR"
+      ],
+      "fillColour": "#8F8F8F",
+      "strokeColour": "#787878",
+      "strokeWidth": 2,
+      "mapPoints": [
+        {
+          "x": 0.3779214197530864,
+          "y": 0.5592430636884039
+        },
+        {
+          "x": 0.3797100439814815,
+          "y": 0.5600496133702534
+        },
+        {
+          "x": 0.3787974915123457,
+          "y": 0.5617809669802304
+        },
+        {
+          "x": 0.3771280547839507,
+          "y": 0.5607341052888373
+        },
+        {
+          "x": 0.3779214197530864,
+          "y": 0.5592430636884039
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.3771280547839507,
+        "minY": 0.5592430636884039,
+        "maxX": 0.3797100439814815,
+        "maxY": 0.5617809669802304,
+        "width": 0.0025819891975308318,
+        "height": 0.00253790329182646,
+        "midX": 0.3784190493827161,
+        "midY": 0.5605120153343172
+      }
+    },
+    {
+      "geoArea": null,
+      "positions": [
+        "SBBQ_I_TWR"
+      ],
+      "fillColour": "#8F8F8F",
+      "strokeColour": "#787878",
+      "strokeWidth": 2,
+      "mapPoints": [
+        {
+          "x": 0.3779214197530864,
+          "y": 0.5592430636884039
+        },
+        {
+          "x": 0.3797100439814815,
+          "y": 0.5600496133702534
+        },
+        {
+          "x": 0.3787974915123457,
+          "y": 0.5617809669802304
+        },
+        {
+          "x": 0.3771280547839507,
+          "y": 0.5607341052888373
+        },
+        {
+          "x": 0.3779214197530864,
+          "y": 0.5592430636884039
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.3771280547839507,
+        "minY": 0.5592430636884039,
+        "maxX": 0.3797100439814815,
+        "maxY": 0.5617809669802304,
+        "width": 0.0025819891975308318,
+        "height": 0.00253790329182646,
+        "midX": 0.3784190493827161,
+        "midY": 0.5605120153343172
+      }
+    }
+  ],
+  "points": [],
+  "airports": [],
+  "runways": [
+    {
+      "airport": "SBBQ",
+      "primaryId": "18",
+      "oppositeId": "36",
+      "primaryCourse": 186,
+      "oppositeCourse": 6,
+      "primaryMapPoint": {
+        "x": 0.3784350385802469,
+        "y": 0.5604593123102771
+      },
+      "primaryElevation": 3610,
+      "oppositeMapPoint": {
+        "x": 0.3784493209876543,
+        "y": 0.5605040984928641
+      },
+      "oppositeElevation": 3657,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": 1.2620896228972454
+    },
+    {
+      "airport": "SBZM",
+      "primaryId": "08",
+      "oppositeId": "26",
+      "primaryCourse": 77,
+      "oppositeCourse": 257,
+      "primaryMapPoint": {
+        "x": 0.38004722222222226,
+        "y": 0.5612354601840519
+      },
+      "primaryElevation": 1329,
+      "oppositeMapPoint": {
+        "x": 0.3801013888888889,
+        "y": 0.5611946543720269
+      },
+      "oppositeElevation": 1327,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": -0.64563405161662
+    },
+    {
+      "airport": "SNJR",
+      "primaryId": "08",
+      "oppositeId": "26",
+      "primaryCourse": 77,
+      "oppositeCourse": 257,
+      "primaryMapPoint": {
+        "x": 0.3771365200617284,
+        "y": 0.5599498127936968
+      },
+      "primaryElevation": 3117,
+      "oppositeMapPoint": {
+        "x": 0.3771674151234568,
+        "y": 0.559929154949003
+      },
+      "oppositeElevation": 3117,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": -0.5893713297647492
+    }
+  ],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

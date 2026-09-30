@@ -1,0 +1,75 @@
+{
+  "level": 8,
+  "x": 90,
+  "y": 149,
+  "mapBounds": {
+    "minX": 0.3515625,
+    "minY": 0.58203125,
+    "maxX": 0.35546875,
+    "maxY": 0.5859375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.353515625,
+    "midY": 0.583984375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "EPGEP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.35438769290123456,
+        "y": 0.5822962590233993
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": [
+    {
+      "identifier": "UZ83",
+      "mapPoints": [
+        {
+          "x": 0.35231574074074073,
+          "y": 0.5777707559612179
+        },
+        {
+          "x": 0.35327612654320983,
+          "y": 0.5795776192751696
+        },
+        {
+          "x": 0.35438769290123456,
+          "y": 0.5822962590233993
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.35231574074074073,
+        "minY": 0.5777707559612179,
+        "maxX": 0.35438769290123456,
+        "maxY": 0.5822962590233993,
+        "width": 0.0020719521604938285,
+        "height": 0.0045255030621814685,
+        "midX": 0.35335171682098765,
+        "midY": 0.5800335074923086
+      },
+      "fixes": [
+        "MOTGI",
+        "TEGET",
+        "EPGEP"
+      ],
+      "labels": []
+    }
+  ]
+}

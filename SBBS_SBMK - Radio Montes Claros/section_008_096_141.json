@@ -1,0 +1,127 @@
+{
+  "level": 8,
+  "x": 96,
+  "y": 141,
+  "mapBounds": {
+    "minX": 0.375,
+    "minY": 0.55078125,
+    "maxX": 0.37890625,
+    "maxY": 0.5546875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.376953125,
+    "midY": 0.552734375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "PABES",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.37869423611111114,
+        "y": 0.5511527268635373
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PUGVA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.377925,
+        "y": 0.551741785756064
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [
+    {
+      "identifier": "Z36",
+      "mapPoints": [
+        {
+          "x": 0.377925,
+          "y": 0.551741785756064
+        },
+        {
+          "x": 0.37818101851851854,
+          "y": 0.5483782440146079
+        },
+        {
+          "x": 0.3782260802469136,
+          "y": 0.5477895535171514
+        },
+        {
+          "x": 0.3785657407407408,
+          "y": 0.5446051289962883
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.377925,
+        "minY": 0.5446051289962883,
+        "maxX": 0.3785657407407408,
+        "maxY": 0.551741785756064,
+        "width": 0.000640740740740775,
+        "height": 0.007136656759775706,
+        "midX": 0.3782453703703704,
+        "midY": 0.5481734573761762
+      },
+      "fixes": [
+        "PUGVA",
+        "LOKEX",
+        "ASUPU",
+        "RETOL"
+      ],
+      "labels": []
+    }
+  ],
+  "airwaysHigh": [
+    {
+      "identifier": "UZ4",
+      "mapPoints": [
+        {
+          "x": 0.3777121913580247,
+          "y": 0.5440743747778344
+        },
+        {
+          "x": 0.3782260802469136,
+          "y": 0.5477895535171514
+        },
+        {
+          "x": 0.37869423611111114,
+          "y": 0.5511527268635373
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.3777121913580247,
+        "minY": 0.5440743747778344,
+        "maxX": 0.37869423611111114,
+        "maxY": 0.5511527268635373,
+        "width": 0.0009820447530864418,
+        "height": 0.007078352085702955,
+        "midX": 0.3782032137345679,
+        "midY": 0.5476135508206859
+      },
+      "fixes": [
+        "ERVOB",
+        "ASUPU",
+        "PABES"
+      ],
+      "labels": []
+    }
+  ]
+}

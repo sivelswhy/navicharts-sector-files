@@ -1,0 +1,248 @@
+{
+  "colours": {},
+  "sectors": {
+    "SBCC - Radio Cachimbo": {
+      "mapCenter": {
+        "x": 0.3473202160493827,
+        "y": 0.526041352314569
+      },
+      "geoCenter": {
+        "x": -9.333333333333334,
+        "y": -54.96472222222223
+      }
+    }
+  },
+  "airports": {
+    "SBCC": {
+      "identifier": "SBCC",
+      "elevation": 1777,
+      "transitionAltitude": 4000,
+      "geoPosition": {
+        "x": -9.333333333333334,
+        "y": -54.96472222222223
+      },
+      "mapPosition": {
+        "x": 0.3473202160493827,
+        "y": 0.526041352314569
+      },
+      "name": "CAMPO DE PROVAS BRIG. VELOSO",
+      "hideTag": false,
+      "runways": [
+        {
+          "airport": "SBCC",
+          "primaryId": "12",
+          "oppositeId": "30",
+          "primaryCourse": 120,
+          "oppositeCourse": 900,
+          "primaryMapPoint": {
+            "x": 0.3472864737654321,
+            "y": 0.5260357456999769
+          },
+          "primaryElevation": 1761,
+          "oppositeMapPoint": {
+            "x": 0.34735084104938274,
+            "y": 0.5260491797338457
+          },
+          "oppositeElevation": 1764,
+          "primaryHeadwind": 0,
+          "oppositeHeadwind": 0,
+          "angle": 0
+        }
+      ],
+      "gates": []
+    },
+    "SJNW": {
+      "identifier": "SJNW",
+      "elevation": 1129,
+      "transitionAltitude": null,
+      "geoPosition": {
+        "x": -9.6325,
+        "y": -55.21611111111111
+      },
+      "mapPosition": {
+        "x": 0.3466219135802469,
+        "y": 0.5268838852373414
+      },
+      "name": "FAZENDA NHANDU",
+      "hideTag": false,
+      "runways": [],
+      "gates": []
+    }
+  },
+  "points": {
+    "ARPOP": [
+      {
+        "identifier": "ARPOP",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34682797839506174,
+          "y": 0.5259399377448963
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CC001": [
+      {
+        "identifier": "CC001",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3465987654320988,
+          "y": 0.5258919629887615
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CC002": [
+      {
+        "identifier": "CC002",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34679435185185187,
+          "y": 0.5257067550492321
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CC003": [
+      {
+        "identifier": "CC003",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3467047916666667,
+          "y": 0.5261403686920603
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CC004": [
+      {
+        "identifier": "CC004",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3480387422839506,
+          "y": 0.5261925162372668
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CC006": [
+      {
+        "identifier": "CC006",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3478094135802469,
+          "y": 0.5261447950252597
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CC007": [
+      {
+        "identifier": "CC007",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34793240740740744,
+          "y": 0.5259442458921766
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CC008": [
+      {
+        "identifier": "CC008",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3478432638888889,
+          "y": 0.5263780583771764
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CC009": [
+      {
+        "identifier": "CC009",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.3475801080246913,
+          "y": 0.5260970292226859
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "SIBUS": [
+      {
+        "identifier": "SIBUS",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34705721450617283,
+          "y": 0.5259878835608928
+        },
+        "kind": "Fix",
+        "fixKind": "Terminal",
+        "isBoundary": false,
+        "frequency": 0,
+        "altitude": null
+      }
+    ],
+    "CBO": [
+      {
+        "identifier": "CBO",
+        "airport": null,
+        "mapPosition": {
+          "x": 0.34731933641975304,
+          "y": 0.5260357066023585
+        },
+        "kind": "VOR",
+        "fixKind": "Hidden",
+        "isBoundary": false,
+        "frequency": 115100,
+        "altitude": null
+      }
+    ]
+  },
+  "airwaysLow": {},
+  "airwaysHigh": {},
+  "atcPositions": {},
+  "geoAreas": [
+    "TAXIWAY",
+    "TAXIWAYCENTER",
+    "STOPLINE"
+  ],
+  "mvas": []
+}

@@ -1,0 +1,163 @@
+{
+  "level": 7,
+  "x": 47,
+  "y": 68,
+  "mapBounds": {
+    "minX": 0.3671875,
+    "minY": 0.53125,
+    "maxX": 0.375,
+    "maxY": 0.5390625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.37109375,
+    "midY": 0.53515625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ISORA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.36953506172839506,
+        "y": 0.5373644936950741
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "UTNUX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.36853023919753086,
+        "y": 0.5379459684609662
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VUNUL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3689992283950618,
+        "y": 0.5388651767921427
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OPKIR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3727398148148148,
+        "y": 0.5367529180861078
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [
+    {
+      "identifier": "Z63",
+      "mapPoints": [
+        {
+          "x": 0.3706435185185185,
+          "y": 0.5474308723064099
+        },
+        {
+          "x": 0.36876990740740734,
+          "y": 0.546155922550835
+        },
+        {
+          "x": 0.3666055555555556,
+          "y": 0.5446633649063997
+        },
+        {
+          "x": 0.36779212962962965,
+          "y": 0.543149660745953
+        },
+        {
+          "x": 0.36820555555555556,
+          "y": 0.5426189229799632
+        },
+        {
+          "x": 0.3727398148148148,
+          "y": 0.5367529180861078
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.3666055555555556,
+        "minY": 0.5367529180861078,
+        "maxX": 0.3727398148148148,
+        "maxY": 0.5474308723064099,
+        "width": 0.0061342592592592005,
+        "height": 0.010677954220302044,
+        "midX": 0.36967268518518515,
+        "midY": 0.5420918951962588
+      },
+      "fixes": [
+        "OPGOL",
+        "MOLTI",
+        "GELVA",
+        "SAFOK",
+        "UTMAN",
+        "OPKIR"
+      ],
+      "labels": []
+    }
+  ],
+  "airwaysHigh": [
+    {
+      "identifier": "UZ24",
+      "mapPoints": [
+        {
+          "x": 0.36346144290123455,
+          "y": 0.5387364595660799
+        },
+        {
+          "x": 0.36790123456790125,
+          "y": 0.5462960456093651
+        },
+        {
+          "x": 0.36909104938271603,
+          "y": 0.5474968172055844
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.36346144290123455,
+        "minY": 0.5387364595660799,
+        "maxX": 0.36909104938271603,
+        "maxY": 0.5474968172055844,
+        "width": 0.005629606481481475,
+        "height": 0.008760357639504557,
+        "midX": 0.3662762461419753,
+        "midY": 0.5431166383858321
+      },
+      "fixes": [
+        "OPNAX",
+        "MULUV",
+        "GEPMO"
+      ],
+      "labels": []
+    }
+  ]
+}
