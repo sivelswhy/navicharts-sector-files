@@ -1,0 +1,52 @@
+{
+  "level": 8,
+  "x": 179,
+  "y": 118,
+  "mapBounds": {
+    "minX": 0.69921875,
+    "minY": 0.4609375,
+    "maxX": 0.703125,
+    "maxY": 0.46484375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.701171875,
+    "midY": 0.462890625
+  },
+  "shapes": [],
+  "points": [],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [
+    {
+      "identifier": "VABF_VOMF",
+      "mapPoints": [
+        {
+          "x": 0.7,
+          "y": 0.4791069149412583
+        },
+        {
+          "x": 0.7,
+          "y": 0.4578490471292612
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.7,
+        "minY": 0.4578490471292612,
+        "maxX": 0.7,
+        "maxY": 0.4791069149412583,
+        "width": 0,
+        "height": 0.021257867811997067,
+        "midX": 0.7,
+        "midY": 0.4684779810352597
+      },
+      "labels": []
+    }
+  ],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}
