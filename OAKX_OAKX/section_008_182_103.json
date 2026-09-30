@@ -1,0 +1,93 @@
+{
+  "level": 8,
+  "x": 182,
+  "y": 103,
+  "mapBounds": {
+    "minX": 0.7109375,
+    "minY": 0.40234375,
+    "maxX": 0.71484375,
+    "maxY": 0.40625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.712890625,
+    "midY": 0.404296875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ADMUT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7113016975308643,
+        "y": 0.405466710439436
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BOMAB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7110331790123456,
+        "y": 0.4043220714383998
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OMKUR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7111080246913579,
+        "y": 0.4058721710427484
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "UPNIR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7115439814814816,
+        "y": 0.4056745206773478
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KNG",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7118419212962964,
+        "y": 0.40553871298748634
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 117700,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

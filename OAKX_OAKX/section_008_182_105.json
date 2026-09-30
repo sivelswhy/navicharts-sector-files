@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 182,
+  "y": 105,
+  "mapBounds": {
+    "minX": 0.7109375,
+    "minY": 0.41015625,
+    "maxX": 0.71484375,
+    "maxY": 0.4140625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.712890625,
+    "midY": 0.412109375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "MUPID",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7110555555555556,
+        "y": 0.41314314634614263
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ONOGI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7144405864197532,
+        "y": 0.4112896081434025
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "UPTEX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7133148148148148,
+        "y": 0.41339385578523147
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CHG",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7132409413580246,
+        "y": 0.41037940165499914
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 116500,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}
