@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 160,
+  "y": 66,
+  "mapBounds": {
+    "minX": 0.625,
+    "minY": 0.2578125,
+    "maxX": 0.62890625,
+    "maxY": 0.26171875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.626953125,
+    "midY": 0.259765625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "LKN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6270177469166667,
+        "y": 0.2609473368683844
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

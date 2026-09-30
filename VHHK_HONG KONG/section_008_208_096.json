@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 208,
+  "y": 96,
+  "mapBounds": {
+    "minX": 0.8125,
+    "minY": 0.375,
+    "maxX": 0.81640625,
+    "maxY": 0.37890625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.814453125,
+    "midY": 0.376953125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "MCU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.8155493827160494,
+        "y": 0.378095200463625
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

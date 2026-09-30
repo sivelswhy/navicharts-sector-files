@@ -1,0 +1,54 @@
+{
+  "level": 7,
+  "x": 96,
+  "y": 53,
+  "mapBounds": {
+    "minX": 0.75,
+    "minY": 0.4140625,
+    "maxX": 0.7578125,
+    "maxY": 0.421875,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.75390625,
+    "midY": 0.41796875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "JIGME",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7515054320987654,
+        "y": 0.42183366174591186
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LADOR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7527300771604939,
+        "y": 0.42183716259407483
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}
