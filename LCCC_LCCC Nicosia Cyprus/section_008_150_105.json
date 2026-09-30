@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 150,
+  "y": 105,
+  "mapBounds": {
+    "minX": 0.5859375,
+    "minY": 0.41015625,
+    "maxX": 0.58984375,
+    "maxY": 0.4140625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.587890625,
+    "midY": 0.412109375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "CAI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5872885802469135,
+        "y": 0.41208729730533183
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 112500,
+      "altitude": null
+    },
+    {
+      "identifier": "CVO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5871900462962963,
+        "y": 0.4122790037451505
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 115200,
+      "altitude": null
+    },
+    {
+      "identifier": "MXR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.587103549382716,
+        "y": 0.4122792712860246
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 116300,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 165,
+  "y": 112,
+  "mapBounds": {
+    "minX": 0.64453125,
+    "minY": 0.4375,
+    "maxX": 0.6484375,
+    "maxY": 0.44140625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.646484375,
+    "midY": 0.439453125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "SILBU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6455123444444445,
+        "y": 0.438067759985973
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "IVABO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.647266975,
+        "y": 0.44091873368557916
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "EGSAB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6461373444444445,
+        "y": 0.43908507677315406
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VATIX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6452145055555556,
+        "y": 0.43756069143843784
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

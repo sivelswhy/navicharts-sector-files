@@ -1,0 +1,93 @@
+{
+  "level": 8,
+  "x": 148,
+  "y": 87,
+  "mapBounds": {
+    "minX": 0.578125,
+    "minY": 0.33984375,
+    "maxX": 0.58203125,
+    "maxY": 0.34375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.580078125,
+    "midY": 0.341796875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "VIN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5795025462962963,
+        "y": 0.3424039588416615
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 113900,
+      "altitude": null
+    },
+    {
+      "identifier": "I",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5794246913580247,
+        "y": 0.34232937252788875
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 842000,
+      "altitude": null
+    },
+    {
+      "identifier": "N",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.579540200617284,
+        "y": 0.3424551255783611
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 842000,
+      "altitude": null
+    },
+    {
+      "identifier": "WI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5793465277777778,
+        "y": 0.34224328757337
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 415000,
+      "altitude": null
+    },
+    {
+      "identifier": "WN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5796226851851851,
+        "y": 0.3425478556941262
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 415000,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

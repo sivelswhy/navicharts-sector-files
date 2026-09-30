@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 151,
+  "y": 131,
+  "mapBounds": {
+    "minX": 0.58984375,
+    "minY": 0.51171875,
+    "maxX": 0.59375,
+    "maxY": 0.515625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.591796875,
+    "midY": 0.513671875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "PENOD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5918776777777778,
+        "y": 0.5156238142558089
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

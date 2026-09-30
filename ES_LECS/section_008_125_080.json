@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 125,
+  "y": 80,
+  "mapBounds": {
+    "minX": 0.48828125,
+    "minY": 0.3125,
+    "maxX": 0.4921875,
+    "maxY": 0.31640625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.490234375,
+    "midY": 0.314453125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "UNURO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4906929,
+        "y": 0.31458046889209823
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ASRUS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4907060194444445,
+        "y": 0.3160272828668411
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TLA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4906867277777778,
+        "y": 0.3138652495956738
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

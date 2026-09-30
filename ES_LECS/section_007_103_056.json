@@ -1,0 +1,54 @@
+{
+  "level": 7,
+  "x": 103,
+  "y": 56,
+  "mapBounds": {
+    "minX": 0.8046875,
+    "minY": 0.4375,
+    "maxX": 0.8125,
+    "maxY": 0.4453125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.80859375,
+    "midY": 0.44140625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "UDUTI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.810925925,
+        "y": 0.43777855512932357
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LH",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.8064814805555555,
+        "y": 0.4399131081248866
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,158 @@
+{
+  "level": 8,
+  "x": 144,
+  "y": 87,
+  "mapBounds": {
+    "minX": 0.5625,
+    "minY": 0.33984375,
+    "maxX": 0.56640625,
+    "maxY": 0.34375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.564453125,
+    "midY": 0.341796875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ABSON",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5659891975308642,
+        "y": 0.34073522013479113
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "AMEDU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5634452160493827,
+        "y": 0.3404133279912873
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KOKUP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5657083333333334,
+        "y": 0.3411731501061643
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LL109",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.566290586419753,
+        "y": 0.34072902541439404
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LLW01",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5657564814814815,
+        "y": 0.34027547793030055
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LUGOL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5631612654320988,
+        "y": 0.3425499815100934
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SVITA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5644027777777778,
+        "y": 0.3430901866279507
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TEPNA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5629336419753086,
+        "y": 0.34127417217184663
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VADIM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5638587962962963,
+        "y": 0.3432020645370972
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5640123456790124,
+        "y": 0.34367247918394916
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 334000,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

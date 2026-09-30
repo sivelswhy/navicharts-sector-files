@@ -1,0 +1,54 @@
+{
+  "level": 7,
+  "x": 35,
+  "y": 55,
+  "mapBounds": {
+    "minX": 0.2734375,
+    "minY": 0.4296875,
+    "maxX": 0.28125,
+    "maxY": 0.4375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.27734375,
+    "midY": 0.43359375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "URSUS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.2803616666666667,
+        "y": 0.43129348917681487
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ZOLLA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.2802736722222222,
+        "y": 0.43055396046586203
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

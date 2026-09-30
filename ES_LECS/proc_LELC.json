@@ -1,0 +1,92 @@
+[
+  {
+    "airport": "LELC",
+    "runways": [
+      "04R"
+    ],
+    "identifier": {
+      "mapPosition": {
+        "x": 0.4964228580246913,
+        "y": 0.3883372750737798
+      },
+      "text": "DINCO2A",
+      "fontSize": 12
+    },
+    "mapPoints": [
+      {
+        "x": 0.4964228580246913,
+        "y": 0.3883372750737798
+      },
+      {
+        "x": 0.4970276234567901,
+        "y": 0.38749446671699794
+      }
+    ],
+    "navaidLabels": [
+      {
+        "mapPosition": {
+          "x": 0.4964228580246913,
+          "y": 0.3883372750737798
+        },
+        "text": "\u002BFL100",
+        "fontSize": 12
+      },
+      {
+        "mapPosition": {
+          "x": 0.4970276234567901,
+          "y": 0.38749446671699794
+        },
+        "text": "\u002B3500",
+        "fontSize": 12
+      }
+    ],
+    "procType": -1,
+    "transitionWaypoints": [],
+    "isRnav": false
+  },
+  {
+    "airport": "LELC",
+    "runways": [
+      "22L"
+    ],
+    "identifier": {
+      "mapPosition": {
+        "x": 0.49850892746913583,
+        "y": 0.38722384328004017
+      },
+      "text": "PALOS1D",
+      "fontSize": 12
+    },
+    "mapPoints": [
+      {
+        "x": 0.49850892746913583,
+        "y": 0.38722384328004017
+      },
+      {
+        "x": 0.49845231481481483,
+        "y": 0.3859872313649504
+      }
+    ],
+    "navaidLabels": [
+      {
+        "mapPosition": {
+          "x": 0.49850892746913583,
+          "y": 0.38722384328004017
+        },
+        "text": "\u002BFL90",
+        "fontSize": 12
+      },
+      {
+        "mapPosition": {
+          "x": 0.49845231481481483,
+          "y": 0.3859872313649504
+        },
+        "text": "\u002B4000",
+        "fontSize": 12
+      }
+    ],
+    "procType": -1,
+    "transitionWaypoints": [],
+    "isRnav": false
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "level": 8,
+  "x": 131,
+  "y": 95,
+  "mapBounds": {
+    "minX": 0.51171875,
+    "minY": 0.37109375,
+    "maxX": 0.515625,
+    "maxY": 0.375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.513671875,
+    "midY": 0.373046875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "FIRRA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5146134259259258,
+        "y": 0.3725384411992377
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KIFMI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5149683641975309,
+        "y": 0.37486999102624097
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OBLAD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5139259259259259,
+        "y": 0.37192617386269955
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OLNUL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5149583333333333,
+        "y": 0.3724556152225806
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SURJU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5155998456790123,
+        "y": 0.3720366053966811
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

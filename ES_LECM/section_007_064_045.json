@@ -1,0 +1,119 @@
+{
+  "level": 7,
+  "x": 64,
+  "y": 45,
+  "mapBounds": {
+    "minX": 0.5,
+    "minY": 0.3515625,
+    "maxX": 0.5078125,
+    "maxY": 0.359375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.50390625,
+    "midY": 0.35546875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BALAN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5028703694444444,
+        "y": 0.3536882540899103
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SOPIL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5029305555555555,
+        "y": 0.3516209801725294
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BEBIX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5038881166666667,
+        "y": 0.3559649524219612
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ARTAX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5049537027777777,
+        "y": 0.3547296865588354
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ADABI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5014745361111111,
+        "y": 0.35350653252859104
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NORON",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5018819444444444,
+        "y": 0.35781274576383093
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LMG",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.50285,
+        "y": 0.356496330227817
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

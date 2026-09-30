@@ -1,0 +1,223 @@
+{
+  "level": 8,
+  "x": 143,
+  "y": 87,
+  "mapBounds": {
+    "minX": 0.55859375,
+    "minY": 0.33984375,
+    "maxX": 0.5625,
+    "maxY": 0.34375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.560546875,
+    "midY": 0.341796875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "DUFES",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5592191358024692,
+        "y": 0.3436066842543786
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "GAWOR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5618927469135803,
+        "y": 0.34281907792791644
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "GIRAB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5597716049382716,
+        "y": 0.34295113968818136
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "HANEZ",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5597986111111111,
+        "y": 0.34328681666229993
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KEFIR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5608989197530865,
+        "y": 0.34192666917714243
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KOJOT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5587291666666666,
+        "y": 0.34352793835638445
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KORZA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5596638117283951,
+        "y": 0.3429624554133887
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LADOB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5623572530864198,
+        "y": 0.34363253470875144
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MELOU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5595706018518518,
+        "y": 0.343128585112027
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ODRAP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5606697530864198,
+        "y": 0.34025697163653446
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PODAN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5595532407407408,
+        "y": 0.3416671001267671
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "RATWA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5592322530864198,
+        "y": 0.3427954867479649
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DUB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.559618287037037,
+        "y": 0.34374905744943285
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 108650,
+      "altitude": null
+    },
+    {
+      "identifier": "PRH",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5593831790123457,
+        "y": 0.3429914491835509
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 113300,
+      "altitude": null
+    },
+    {
+      "identifier": "P",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5592160493827161,
+        "y": 0.3432842275187435
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 571000,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

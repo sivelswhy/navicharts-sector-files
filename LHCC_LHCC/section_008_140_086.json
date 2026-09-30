@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 140,
+  "y": 86,
+  "mapBounds": {
+    "minX": 0.546875,
+    "minY": 0.3359375,
+    "maxX": 0.55078125,
+    "maxY": 0.33984375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.548828125,
+    "midY": 0.337890625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BAXEV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5484485879629629,
+        "y": 0.33969182267124043
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OPAVO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5493778549382716,
+        "y": 0.3395526196961089
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "RIBSI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5490604166666666,
+        "y": 0.33934447391036215
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SOPAV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5501454938271605,
+        "y": 0.33944307695476605
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

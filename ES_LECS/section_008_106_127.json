@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 106,
+  "y": 127,
+  "mapBounds": {
+    "minX": 0.4140625,
+    "minY": 0.49609375,
+    "maxX": 0.41796875,
+    "maxY": 0.5,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.416015625,
+    "midY": 0.498046875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "KOPDU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4174754638888889,
+        "y": 0.4961269316721776
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PUGUN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.415800925,
+        "y": 0.49936388719529545
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

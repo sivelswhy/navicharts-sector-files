@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 55,
+  "y": 110,
+  "mapBounds": {
+    "minX": 0.21484375,
+    "minY": 0.4296875,
+    "maxX": 0.21875,
+    "maxY": 0.43359375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.216796875,
+    "midY": 0.431640625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "XOVOM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.21672530833333334,
+        "y": 0.43135445873433187
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LIBAR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.21606481388888887,
+        "y": 0.432450773865126
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

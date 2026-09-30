@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 74,
+  "y": 120,
+  "mapBounds": {
+    "minX": 0.2890625,
+    "minY": 0.46875,
+    "maxX": 0.29296875,
+    "maxY": 0.47265625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.291015625,
+    "midY": 0.470703125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ISOTO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.29273765555555553,
+        "y": 0.4722877179641852
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BAQ",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.29205478333333335,
+        "y": 0.4698341057057607
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

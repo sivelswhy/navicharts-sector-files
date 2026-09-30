@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 165,
+  "y": 111,
+  "mapBounds": {
+    "minX": 0.64453125,
+    "minY": 0.43359375,
+    "maxX": 0.6484375,
+    "maxY": 0.4375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.646484375,
+    "midY": 0.435546875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "DEGPA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6445578694444444,
+        "y": 0.43642883290925105
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

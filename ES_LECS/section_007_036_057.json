@@ -1,0 +1,80 @@
+{
+  "level": 7,
+  "x": 36,
+  "y": 57,
+  "mapBounds": {
+    "minX": 0.28125,
+    "minY": 0.4453125,
+    "maxX": 0.2890625,
+    "maxY": 0.453125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.28515625,
+    "midY": 0.44921875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ALPEN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.28722453611111115,
+        "y": 0.4512230131060441
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SAVEM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.2860432111111111,
+        "y": 0.4478772199826734
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "IMADI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.2853325611111111,
+        "y": 0.44634821052532286
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MLY",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.2867288111111111,
+        "y": 0.4493603282271404
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

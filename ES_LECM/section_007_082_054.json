@@ -1,0 +1,54 @@
+{
+  "level": 7,
+  "x": 82,
+  "y": 54,
+  "mapBounds": {
+    "minX": 0.640625,
+    "minY": 0.421875,
+    "maxX": 0.6484375,
+    "maxY": 0.4296875,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.64453125,
+    "midY": 0.42578125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "RAGAS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6450748444444444,
+        "y": 0.4233240514957968
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KAPIP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6450949083333334,
+        "y": 0.42292257701812846
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

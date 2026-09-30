@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 78,
+  "y": 132,
+  "mapBounds": {
+    "minX": 0.3046875,
+    "minY": 0.515625,
+    "maxX": 0.30859375,
+    "maxY": 0.51953125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.306640625,
+    "midY": 0.517578125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ARNUB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.30777638888888886,
+        "y": 0.5174254522338702
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

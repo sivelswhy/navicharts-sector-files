@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 60,
+  "y": 55,
+  "mapBounds": {
+    "minX": 0.46875,
+    "minY": 0.4296875,
+    "maxX": 0.4765625,
+    "maxY": 0.4375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.47265625,
+    "midY": 0.43359375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "SADKA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4710131172777778,
+        "y": 0.43468969087151543
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "EBATI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.47542746913888884,
+        "y": 0.4305082016195828
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "POVAS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4759182098888889,
+        "y": 0.43694308466041853
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

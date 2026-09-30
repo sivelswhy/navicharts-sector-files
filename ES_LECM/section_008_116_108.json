@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 116,
+  "y": 108,
+  "mapBounds": {
+    "minX": 0.453125,
+    "minY": 0.421875,
+    "maxX": 0.45703125,
+    "maxY": 0.42578125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.455078125,
+    "midY": 0.423828125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "UDATI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4533711416666667,
+        "y": 0.4245515650922683
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ODEGI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4547496916666667,
+        "y": 0.42238786886745155
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

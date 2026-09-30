@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 52,
+  "y": 65,
+  "mapBounds": {
+    "minX": 0.40625,
+    "minY": 0.5078125,
+    "maxX": 0.4140625,
+    "maxY": 0.515625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.41015625,
+    "midY": 0.51171875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "UTRAM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4107745361111111,
+        "y": 0.5090929065685792
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VUKSU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4088518527777778,
+        "y": 0.5127952416496666
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "FNR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.40991666666666665,
+        "y": 0.5107219899570257
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

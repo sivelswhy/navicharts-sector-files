@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 100,
+  "y": 133,
+  "mapBounds": {
+    "minX": 0.390625,
+    "minY": 0.51953125,
+    "maxX": 0.39453125,
+    "maxY": 0.5234375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.392578125,
+    "midY": 0.521484375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "KUBNO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.39318286944444447,
+        "y": 0.5211639517587631
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PALUD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3931726861111111,
+        "y": 0.5206386204108218
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "EDMEB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3932212972222222,
+        "y": 0.5227310549131611
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

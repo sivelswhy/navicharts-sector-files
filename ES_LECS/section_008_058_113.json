@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 58,
+  "y": 113,
+  "mapBounds": {
+    "minX": 0.2265625,
+    "minY": 0.44140625,
+    "maxX": 0.23046875,
+    "maxY": 0.4453125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.228515625,
+    "midY": 0.443359375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "MUXEP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.22678009166666666,
+        "y": 0.44376645088786304
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ENAGA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.227266575,
+        "y": 0.4432192661620378
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ALUNI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.22703317777777776,
+        "y": 0.4424167935039352
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "APN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.22667073333333335,
+        "y": 0.44435155594493286
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

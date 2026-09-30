@@ -1,0 +1,93 @@
+{
+  "level": 8,
+  "x": 75,
+  "y": 124,
+  "mapBounds": {
+    "minX": 0.29296875,
+    "minY": 0.484375,
+    "maxX": 0.296875,
+    "maxY": 0.48828125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.294921875,
+    "midY": 0.486328125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "VIDAL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.29623456666666664,
+        "y": 0.4879978987217305
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ANLAV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.29635571111111114,
+        "y": 0.4868655163695945
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "EVRAK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.2955470666666667,
+        "y": 0.4865093377975413
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BUV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.29483719166666666,
+        "y": 0.48460878276099295
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ZIP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.29448148055555556,
+        "y": 0.4860431013154135
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

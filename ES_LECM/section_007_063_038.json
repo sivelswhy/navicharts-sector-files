@@ -1,0 +1,54 @@
+{
+  "level": 7,
+  "x": 63,
+  "y": 38,
+  "mapBounds": {
+    "minX": 0.4921875,
+    "minY": 0.296875,
+    "maxX": 0.5,
+    "maxY": 0.3046875,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.49609375,
+    "midY": 0.30078125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BUDON",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4984390444444444,
+        "y": 0.30274582925871313
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LESNI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4964645055555556,
+        "y": 0.30357290945578985
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

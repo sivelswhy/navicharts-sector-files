@@ -1,0 +1,145 @@
+{
+  "level": 7,
+  "x": 68,
+  "y": 48,
+  "mapBounds": {
+    "minX": 0.53125,
+    "minY": 0.375,
+    "maxX": 0.5390625,
+    "maxY": 0.3828125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.53515625,
+    "midY": 0.37890625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "AMANO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5383240740833334,
+        "y": 0.38066747445346816
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DORAS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5362777777777777,
+        "y": 0.38002939574115724
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ISKIA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5385856481388889,
+        "y": 0.3760612855674113
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "POKAV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5316658950555555,
+        "y": 0.3755152260109049
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "RONAB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5330308641944445,
+        "y": 0.3790511124070625
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ROTUN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5341820987777778,
+        "y": 0.37535504736342207
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TURMO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5328688271666667,
+        "y": 0.37543668022894705
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VELEX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5318302469166667,
+        "y": 0.37870100606142765
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PNZ",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5359924382777778,
+        "y": 0.3752504151470438
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

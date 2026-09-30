@@ -1,0 +1,80 @@
+{
+  "level": 7,
+  "x": 60,
+  "y": 49,
+  "mapBounds": {
+    "minX": 0.46875,
+    "minY": 0.3828125,
+    "maxX": 0.4765625,
+    "maxY": 0.390625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.47265625,
+    "midY": 0.38671875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "LIGRA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.47335875000000005,
+        "y": 0.3857286611057591
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ATECA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4760488811666667,
+        "y": 0.3833975412366887
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NAKOS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4740708487777777,
+        "y": 0.3857286611057591
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "GANSU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.47272902777777775,
+        "y": 0.3857286611057591
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,54 @@
+{
+  "level": 7,
+  "x": 27,
+  "y": 54,
+  "mapBounds": {
+    "minX": 0.2109375,
+    "minY": 0.421875,
+    "maxX": 0.21875,
+    "maxY": 0.4296875,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.21484375,
+    "midY": 0.42578125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "RAILY",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.2183031638888889,
+        "y": 0.42874957108081097
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MOV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.21813611111111111,
+        "y": 0.422196523841992
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

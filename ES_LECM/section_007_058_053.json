@@ -1,0 +1,93 @@
+{
+  "level": 7,
+  "x": 58,
+  "y": 53,
+  "mapBounds": {
+    "minX": 0.453125,
+    "minY": 0.4140625,
+    "maxX": 0.4609375,
+    "maxY": 0.421875,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.45703125,
+    "midY": 0.41796875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "MERAN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4550398148055556,
+        "y": 0.4193788547850698
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "REMGI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4575844138888889,
+        "y": 0.42177807813882584
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LOMAS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.45641373333333335,
+        "y": 0.4198060552360979
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "GDV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.45714166666666667,
+        "y": 0.4186853688266506
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TFN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4548083333333333,
+        "y": 0.41723403419832444
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

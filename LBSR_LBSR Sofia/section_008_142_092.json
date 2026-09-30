@@ -1,0 +1,119 @@
+{
+  "level": 8,
+  "x": 142,
+  "y": 92,
+  "mapBounds": {
+    "minX": 0.5546875,
+    "minY": 0.359375,
+    "maxX": 0.55859375,
+    "maxY": 0.36328125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.556640625,
+    "midY": 0.361328125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BGD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5564199074074074,
+        "y": 0.36043353838606657
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 112050,
+      "altitude": null
+    },
+    {
+      "identifier": "TPL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5576234567901235,
+        "y": 0.3630649089043287
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 116800,
+      "altitude": null
+    },
+    {
+      "identifier": "BT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5561010030864197,
+        "y": 0.35984940097267315
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 420000,
+      "altitude": null
+    },
+    {
+      "identifier": "EK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5564358024691358,
+        "y": 0.36010467751931124
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 420000,
+      "altitude": null
+    },
+    {
+      "identifier": "JA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5568758487654322,
+        "y": 0.3607327000250405
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 316000,
+      "altitude": null
+    },
+    {
+      "identifier": "PA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5573364197530865,
+        "y": 0.36014999103732037
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 495000,
+      "altitude": null
+    },
+    {
+      "identifier": "PZ",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.556185262345679,
+        "y": 0.35990915855826694
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 320000,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

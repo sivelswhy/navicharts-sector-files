@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 60,
+  "y": 99,
+  "mapBounds": {
+    "minX": 0.234375,
+    "minY": 0.38671875,
+    "maxX": 0.23828125,
+    "maxY": 0.390625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.236328125,
+    "midY": 0.388671875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "COODY",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.234721675,
+        "y": 0.3903850805922332
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

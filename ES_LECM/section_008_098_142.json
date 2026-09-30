@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 98,
+  "y": 142,
+  "mapBounds": {
+    "minX": 0.3828125,
+    "minY": 0.5546875,
+    "maxX": 0.38671875,
+    "maxY": 0.55859375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.384765625,
+    "midY": 0.556640625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "DOGSU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3849805555555556,
+        "y": 0.5581839812484375
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SATBU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.38647870277777785,
+        "y": 0.5554677092189167
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SASBU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3855324083333333,
+        "y": 0.5571876769366287
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OPLOX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.38601851944444443,
+        "y": 0.5563077071764437
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

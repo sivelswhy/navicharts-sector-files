@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 91,
+  "y": 150,
+  "mapBounds": {
+    "minX": 0.35546875,
+    "minY": 0.5859375,
+    "maxX": 0.359375,
+    "maxY": 0.58984375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.357421875,
+    "midY": 0.587890625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "OPROR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3562504638888889,
+        "y": 0.5888601836182694
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NELOX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.35787453611111114,
+        "y": 0.5874119583940829
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

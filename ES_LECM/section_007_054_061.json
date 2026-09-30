@@ -1,0 +1,54 @@
+{
+  "level": 7,
+  "x": 54,
+  "y": 61,
+  "mapBounds": {
+    "minX": 0.421875,
+    "minY": 0.4765625,
+    "maxX": 0.4296875,
+    "maxY": 0.484375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.42578125,
+    "midY": 0.48046875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "MAROA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.42482716111111113,
+        "y": 0.4820857476982606
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DELAX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4276342583333333,
+        "y": 0.47676044592708394
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

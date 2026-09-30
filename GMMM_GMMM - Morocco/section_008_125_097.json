@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 125,
+  "y": 97,
+  "mapBounds": {
+    "minX": 0.48828125,
+    "minY": 0.37890625,
+    "maxX": 0.4921875,
+    "maxY": 0.3828125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.490234375,
+    "midY": 0.380859375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "LOGRO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4891682870277778,
+        "y": 0.38217917388218425
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ETANA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.49005054011111115,
+        "y": 0.38012841463737357
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VTB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4903777006111111,
+        "y": 0.37937291530911127
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

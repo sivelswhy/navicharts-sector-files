@@ -1,0 +1,224 @@
+{
+  "level": 8,
+  "x": 142,
+  "y": 96,
+  "mapBounds": {
+    "minX": 0.5546875,
+    "minY": 0.375,
+    "maxX": 0.55859375,
+    "maxY": 0.37890625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.556640625,
+    "midY": 0.376953125
+  },
+  "shapes": [
+    {
+      "geoArea": "SECSI FRA AREA",
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": null,
+      "strokeColour": {
+        "$ref": "SECSI FRA AREA"
+      },
+      "strokeWidth": 1,
+      "mapPoints": [
+        {
+          "x": 0.5527777777777778,
+          "y": 0.3763999208604191
+        },
+        {
+          "x": 0.5551234567901234,
+          "y": 0.37894150579532493
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.5527777777777778,
+        "minY": 0.3763999208604191,
+        "maxX": 0.5551234567901234,
+        "maxY": 0.37894150579532493,
+        "width": 0.002345679012345614,
+        "height": 0.002541584934905805,
+        "midX": 0.5539506172839506,
+        "midY": 0.37767071332787205
+      }
+    },
+    {
+      "geoArea": "SECSI FRA AREA",
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": null,
+      "strokeColour": {
+        "$ref": "SECSI FRA AREA"
+      },
+      "strokeWidth": 1,
+      "mapPoints": [
+        {
+          "x": 0.5558888888888889,
+          "y": 0.37978794139569383
+        },
+        {
+          "x": 0.5566427469135802,
+          "y": 0.37864462090372125
+        },
+        {
+          "x": 0.5568688271604938,
+          "y": 0.3783352810123572
+        },
+        {
+          "x": 0.5572075617283951,
+          "y": 0.37831612348215393
+        },
+        {
+          "x": 0.5582106481481481,
+          "y": 0.37682940434946127
+        },
+        {
+          "x": 0.5593279320987654,
+          "y": 0.3753836219737887
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.5558888888888889,
+        "minY": 0.3753836219737887,
+        "maxX": 0.5593279320987654,
+        "maxY": 0.37978794139569383,
+        "width": 0.0034390432098765356,
+        "height": 0.004404319421905112,
+        "midX": 0.5576084104938271,
+        "midY": 0.3775857816847413
+      }
+    }
+  ],
+  "points": [
+    {
+      "identifier": "PINDO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5582106481481481,
+        "y": 0.37682940434946127
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DIMIS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5572075617283951,
+        "y": 0.37831612348215393
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TUMBO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5568688271604938,
+        "y": 0.3783352810123572
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VJOSA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5566427469135802,
+        "y": 0.37864462090372125
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ADDER",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5564020061728395,
+        "y": 0.37667211602269235
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ELBAK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5557808641975309,
+        "y": 0.37542545732919474
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NURSO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5570501543209877,
+        "y": 0.37615387215214824
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OVVER",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5555910493827161,
+        "y": 0.37660714169689985
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TIRCA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5551566358024691,
+        "y": 0.3765726170726252
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,41 @@
+{
+  "level": 7,
+  "x": 68,
+  "y": 51,
+  "mapBounds": {
+    "minX": 0.53125,
+    "minY": 0.3984375,
+    "maxX": 0.5390625,
+    "maxY": 0.40625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.53515625,
+    "midY": 0.40234375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "NAWRS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5375833333333333,
+        "y": 0.40316379855866924
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

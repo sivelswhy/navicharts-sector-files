@@ -1,0 +1,54 @@
+{
+  "level": 7,
+  "x": 59,
+  "y": 59,
+  "mapBounds": {
+    "minX": 0.4609375,
+    "minY": 0.4609375,
+    "maxX": 0.46875,
+    "maxY": 0.46875,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.46484375,
+    "midY": 0.46484375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "DEMOL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4646727611111111,
+        "y": 0.4620271031214308
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BUMBI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.46398148055555555,
+        "y": 0.46509384534138876
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

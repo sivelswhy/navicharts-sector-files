@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 145,
+  "y": 99,
+  "mapBounds": {
+    "minX": 0.56640625,
+    "minY": 0.38671875,
+    "maxX": 0.5703125,
+    "maxY": 0.390625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.568359375,
+    "midY": 0.388671875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ALANI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5666435185185186,
+        "y": 0.3895390589868502
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "AV215",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5666195061728395,
+        "y": 0.38682209313969346
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "AV216",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5666420833333333,
+        "y": 0.38710141562540956
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "AV470",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5665316898148148,
+        "y": 0.3873406901356414
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

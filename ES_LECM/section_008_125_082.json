@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 125,
+  "y": 82,
+  "mapBounds": {
+    "minX": 0.48828125,
+    "minY": 0.3203125,
+    "maxX": 0.4921875,
+    "maxY": 0.32421875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.490234375,
+    "midY": 0.322265625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "GUNTU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.49120833333333336,
+        "y": 0.3229928696757817
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BILVO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4911504638888889,
+        "y": 0.3223482831954504
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "WAL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4912944444444445,
+        "y": 0.3239342204405181
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

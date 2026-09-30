@@ -1,0 +1,41 @@
+{
+  "level": 7,
+  "x": 6,
+  "y": 38,
+  "mapBounds": {
+    "minX": 0.046875,
+    "minY": 0.296875,
+    "maxX": 0.0546875,
+    "maxY": 0.3046875,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.05078125,
+    "midY": 0.30078125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "GARRS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.0518273611111111,
+        "y": 0.2995140668895649
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

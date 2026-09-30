@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 134,
+  "y": 86,
+  "mapBounds": {
+    "minX": 0.5234375,
+    "minY": 0.3359375,
+    "maxX": 0.52734375,
+    "maxY": 0.33984375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.525390625,
+    "midY": 0.337890625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "LOHRE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5263510805555556,
+        "y": 0.33885527746675836
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ARNIX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5265601861111111,
+        "y": 0.3368465070216884
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MASEK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5266620361111111,
+        "y": 0.3359694854981388
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "FUL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5265893583333333,
+        "y": 0.3365685502424554
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

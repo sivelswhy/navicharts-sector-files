@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 74,
+  "y": 67,
+  "mapBounds": {
+    "minX": 0.578125,
+    "minY": 0.5234375,
+    "maxX": 0.5859375,
+    "maxY": 0.53125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.58203125,
+    "midY": 0.52734375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "SOBTO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5804043222222223,
+        "y": 0.5281032472303492
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "IBMIS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.582670525,
+        "y": 0.5256590495327165
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "EXOGA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5833172305555555,
+        "y": 0.524959493195774
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

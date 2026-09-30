@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 96,
+  "y": 145,
+  "mapBounds": {
+    "minX": 0.375,
+    "minY": 0.56640625,
+    "maxX": 0.37890625,
+    "maxY": 0.5703125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.376953125,
+    "midY": 0.568359375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "VUDAV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3776390111111111,
+        "y": 0.5687458285013118
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BITAK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3787833333333333,
+        "y": 0.5675834196261994
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "AKNUB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3761861111111111,
+        "y": 0.5702118528075711
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

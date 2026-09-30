@@ -1,0 +1,54 @@
+{
+  "level": 7,
+  "x": 40,
+  "y": 76,
+  "mapBounds": {
+    "minX": 0.3125,
+    "minY": 0.59375,
+    "maxX": 0.3203125,
+    "maxY": 0.6015625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.31640625,
+    "midY": 0.59765625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ANLIS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.31290509166666663,
+        "y": 0.5989656792802476
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LOLIV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.313875,
+        "y": 0.5995262403771509
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

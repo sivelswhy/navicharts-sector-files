@@ -1,0 +1,80 @@
+{
+  "level": 7,
+  "x": 82,
+  "y": 55,
+  "mapBounds": {
+    "minX": 0.640625,
+    "minY": 0.4296875,
+    "maxX": 0.6484375,
+    "maxY": 0.4375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.64453125,
+    "midY": 0.43359375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BOSAK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6436211416666666,
+        "y": 0.43480775865142285
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LABDU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6443572527777778,
+        "y": 0.43608175506355734
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DEGPA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6445578694444444,
+        "y": 0.43642883290925105
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KUTNA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6429398138888889,
+        "y": 0.4336339253058617
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,41 @@
+{
+  "level": 7,
+  "x": 57,
+  "y": 51,
+  "mapBounds": {
+    "minX": 0.4453125,
+    "minY": 0.3984375,
+    "maxX": 0.453125,
+    "maxY": 0.40625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.44921875,
+    "midY": 0.40234375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "PELUS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.45258024722222223,
+        "y": 0.4013211286138699
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

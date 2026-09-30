@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 150,
+  "y": 85,
+  "mapBounds": {
+    "minX": 0.5859375,
+    "minY": 0.33203125,
+    "maxX": 0.58984375,
+    "maxY": 0.3359375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.587890625,
+    "midY": 0.333984375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "KSN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5860494598765432,
+        "y": 0.335015854270133
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 108600,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

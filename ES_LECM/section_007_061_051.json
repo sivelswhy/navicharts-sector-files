@@ -1,0 +1,145 @@
+{
+  "level": 7,
+  "x": 61,
+  "y": 51,
+  "mapBounds": {
+    "minX": 0.4765625,
+    "minY": 0.3984375,
+    "maxX": 0.484375,
+    "maxY": 0.40625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.48046875,
+    "midY": 0.40234375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "NIRAL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4767592583333333,
+        "y": 0.40215403535753336
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VONCI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.47663107222222223,
+        "y": 0.40359237780552243
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "RALEK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.47727932222222225,
+        "y": 0.40278773172764687
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PELAX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.47863750833333335,
+        "y": 0.40328401978045403
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "AGDAL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4796824611111111,
+        "y": 0.3990775184933453
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MABAP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4772302305555556,
+        "y": 0.4056860360690298
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "RBT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4812611111111111,
+        "y": 0.39930090825047676
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SAK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.478675,
+        "y": 0.4010689382547501
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SLK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.47915,
+        "y": 0.4024152330313081
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

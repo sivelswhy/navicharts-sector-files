@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 40,
+  "y": 87,
+  "mapBounds": {
+    "minX": 0.15625,
+    "minY": 0.33984375,
+    "maxX": 0.16015625,
+    "maxY": 0.34375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.158203125,
+    "midY": 0.341796875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "WC",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.15902777777777777,
+        "y": 0.34340941150927795
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.15817499999999998,
+        "y": 0.3426883495118138
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "XX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.15975555555555557,
+        "y": 0.343358593889373
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

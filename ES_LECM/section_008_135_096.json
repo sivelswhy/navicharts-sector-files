@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 135,
+  "y": 96,
+  "mapBounds": {
+    "minX": 0.52734375,
+    "minY": 0.375,
+    "maxX": 0.53125,
+    "maxY": 0.37890625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.529296875,
+    "midY": 0.376953125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ATNET",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.528154321,
+        "y": 0.3757884086884668
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "QUENN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5292878086388889,
+        "y": 0.37798012118047447
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ROXAN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5311589506111111,
+        "y": 0.37555194001705466
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SUKUN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5275308641944445,
+        "y": 0.3758423973580513
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

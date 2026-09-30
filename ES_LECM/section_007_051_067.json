@@ -1,0 +1,54 @@
+{
+  "level": 7,
+  "x": 51,
+  "y": 67,
+  "mapBounds": {
+    "minX": 0.3984375,
+    "minY": 0.5234375,
+    "maxX": 0.40625,
+    "maxY": 0.53125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.40234375,
+    "midY": 0.52734375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "RUBEN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.401400925,
+        "y": 0.5271102505478292
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MEDIT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.39934305555555555,
+        "y": 0.5311077724556174
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

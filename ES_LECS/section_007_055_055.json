@@ -1,0 +1,41 @@
+{
+  "level": 7,
+  "x": 55,
+  "y": 55,
+  "mapBounds": {
+    "minX": 0.4296875,
+    "minY": 0.4296875,
+    "maxX": 0.4375,
+    "maxY": 0.4375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.43359375,
+    "midY": 0.43359375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "EDUMO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.43444444444444447,
+        "y": 0.4345741011763404
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

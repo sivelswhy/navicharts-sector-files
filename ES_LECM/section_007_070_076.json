@@ -1,0 +1,54 @@
+{
+  "level": 7,
+  "x": 70,
+  "y": 76,
+  "mapBounds": {
+    "minX": 0.546875,
+    "minY": 0.59375,
+    "maxX": 0.5546875,
+    "maxY": 0.6015625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.55078125,
+    "midY": 0.59765625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "OKLOK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5538255555555556,
+        "y": 0.5965654573093743
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KODES",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5520987666666667,
+        "y": 0.5976791164201262
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

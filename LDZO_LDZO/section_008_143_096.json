@@ -1,0 +1,94 @@
+{
+  "level": 8,
+  "x": 143,
+  "y": 96,
+  "mapBounds": {
+    "minX": 0.55859375,
+    "minY": 0.375,
+    "maxX": 0.5625,
+    "maxY": 0.37890625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.560546875,
+    "midY": 0.376953125
+  },
+  "shapes": [
+    {
+      "geoArea": "SECSI FRA AREA",
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": null,
+      "strokeColour": {
+        "$ref": "SECSI FRA AREA"
+      },
+      "strokeWidth": 1,
+      "mapPoints": [
+        {
+          "x": 0.5582106481481481,
+          "y": 0.37682940434946127
+        },
+        {
+          "x": 0.5593279320987654,
+          "y": 0.3753836219737887
+        },
+        {
+          "x": 0.5602638888888889,
+          "y": 0.37516718765337065
+        },
+        {
+          "x": 0.5608796296296296,
+          "y": 0.3746436812645113
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.5582106481481481,
+        "minY": 0.3746436812645113,
+        "maxX": 0.5608796296296296,
+        "maxY": 0.37682940434946127,
+        "width": 0.002668981481481425,
+        "height": 0.0021857230849499643,
+        "midX": 0.5595451388888888,
+        "midY": 0.3757365428069863
+      }
+    }
+  ],
+  "points": [
+    {
+      "identifier": "BEKVA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5602638888888889,
+        "y": 0.37516718765337065
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BITLA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5593279320987654,
+        "y": 0.3753836219737887
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

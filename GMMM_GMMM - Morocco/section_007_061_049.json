@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 61,
+  "y": 49,
+  "mapBounds": {
+    "minX": 0.4765625,
+    "minY": 0.3828125,
+    "maxX": 0.484375,
+    "maxY": 0.390625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.48046875,
+    "midY": 0.38671875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "VFA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.47784722222222226,
+        "y": 0.3891827243604512
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PESAS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.47949074075,
+        "y": 0.38910242003152734
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SOTEX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.47716699075,
+        "y": 0.384694770414221
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

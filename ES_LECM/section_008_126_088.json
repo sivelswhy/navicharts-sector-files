@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 126,
+  "y": 88,
+  "mapBounds": {
+    "minX": 0.4921875,
+    "minY": 0.34375,
+    "maxX": 0.49609375,
+    "maxY": 0.34765625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.494140625,
+    "midY": 0.345703125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "RINSO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.496011575,
+        "y": 0.3475013784995612
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "UPALO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.49513348888888886,
+        "y": 0.34380165860979395
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "EKRAS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.49583564722222223,
+        "y": 0.34384744276733725
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "REN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.49516111111111116,
+        "y": 0.347327782529951
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

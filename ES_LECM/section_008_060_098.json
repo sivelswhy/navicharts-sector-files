@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 60,
+  "y": 98,
+  "mapBounds": {
+    "minX": 0.234375,
+    "minY": 0.3828125,
+    "maxX": 0.23828125,
+    "maxY": 0.38671875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.236328125,
+    "midY": 0.384765625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BUM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.23753333333333335,
+        "y": 0.3847680611989419
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

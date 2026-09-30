@@ -1,0 +1,93 @@
+{
+  "level": 8,
+  "x": 129,
+  "y": 92,
+  "mapBounds": {
+    "minX": 0.50390625,
+    "minY": 0.359375,
+    "maxX": 0.5078125,
+    "maxY": 0.36328125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.505859375,
+    "midY": 0.361328125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ROMAK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5069135805555556,
+        "y": 0.361173871178476
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DEPES",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5060123444444444,
+        "y": 0.3631429608213349
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NASEP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5062006166666667,
+        "y": 0.36162230072093604
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MAKIL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5064992277777778,
+        "y": 0.3628084235783633
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NARAK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.504858025,
+        "y": 0.3624766281336018
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

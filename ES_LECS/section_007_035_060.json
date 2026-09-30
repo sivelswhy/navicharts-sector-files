@@ -1,0 +1,54 @@
+{
+  "level": 7,
+  "x": 35,
+  "y": 60,
+  "mapBounds": {
+    "minX": 0.2734375,
+    "minY": 0.46875,
+    "maxX": 0.28125,
+    "maxY": 0.4765625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.27734375,
+    "midY": 0.47265625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "DAMAX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.2784266972222222,
+        "y": 0.47591398316757094
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TBG",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.2789943833333333,
+        "y": 0.4754938120613271
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

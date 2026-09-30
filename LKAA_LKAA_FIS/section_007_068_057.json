@@ -1,0 +1,41 @@
+{
+  "level": 7,
+  "x": 68,
+  "y": 57,
+  "mapBounds": {
+    "minX": 0.53125,
+    "minY": 0.4453125,
+    "maxX": 0.5390625,
+    "maxY": 0.453125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.53515625,
+    "midY": 0.44921875
+  },
+  "shapes": [],
+  "points": [],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [
+    {
+      "airport": "LKST",
+      "identifier": "AEROKLUB",
+      "geoPosition": {
+        "x": 19.255593611111113,
+        "y": 13.892737222222223
+      },
+      "mapPosition": {
+        "x": 0.5385909367283951,
+        "y": 0.4454759763920918
+      },
+      "gateType": null
+    }
+  ],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

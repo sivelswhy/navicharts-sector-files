@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 65,
+  "y": 52,
+  "mapBounds": {
+    "minX": 0.5078125,
+    "minY": 0.40625,
+    "maxX": 0.515625,
+    "maxY": 0.4140625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.51171875,
+    "midY": 0.41015625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "NIFEL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5103719138888889,
+        "y": 0.4124736236943183
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ATCHA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5118341055555555,
+        "y": 0.4134969283253779
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MNA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.50794905,
+        "y": 0.4107785822914764
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

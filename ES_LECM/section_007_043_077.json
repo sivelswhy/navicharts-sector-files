@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 43,
+  "y": 77,
+  "mapBounds": {
+    "minX": 0.3359375,
+    "minY": 0.6015625,
+    "maxX": 0.34375,
+    "maxY": 0.609375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.33984375,
+    "midY": 0.60546875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "DORVO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.34022993888888886,
+        "y": 0.6029411517688315
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PTA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3391722222222222,
+        "y": 0.6038207956515133
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "EZE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3374027777777778,
+        "y": 0.603305985554788
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

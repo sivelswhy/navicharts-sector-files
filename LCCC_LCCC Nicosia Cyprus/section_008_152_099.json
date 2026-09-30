@@ -1,0 +1,96 @@
+{
+  "level": 8,
+  "x": 152,
+  "y": 99,
+  "mapBounds": {
+    "minX": 0.59375,
+    "minY": 0.38671875,
+    "maxX": 0.59765625,
+    "maxY": 0.390625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.595703125,
+    "midY": 0.388671875
+  },
+  "shapes": [
+    {
+      "geoArea": null,
+      "positions": [
+        "LTAA_CTR"
+      ],
+      "fillColour": "#181818",
+      "strokeColour": "#181818",
+      "strokeWidth": 1,
+      "mapPoints": [
+        {
+          "x": 0.5833333333333334,
+          "y": 0.39245672639316964
+        },
+        {
+          "x": 0.6,
+          "y": 0.3929717006068306
+        },
+        {
+          "x": 0.6,
+          "y": 0.3903869275486959
+        },
+        {
+          "x": 0.5833333333333334,
+          "y": 0.3903869275486959
+        },
+        {
+          "x": 0.5833333333333334,
+          "y": 0.39245672639316964
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.5833333333333334,
+        "minY": 0.3903869275486959,
+        "maxX": 0.6,
+        "maxY": 0.3929717006068306,
+        "width": 0.016666666666666607,
+        "height": 0.002584773058134704,
+        "midX": 0.5916666666666667,
+        "midY": 0.39167931407776324
+      }
+    }
+  ],
+  "points": [
+    {
+      "identifier": "CKR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5974118055555556,
+        "y": 0.389632457146995
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 113700,
+      "altitude": null
+    },
+    {
+      "identifier": "CKR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5974118055555556,
+        "y": 0.389632457146995
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 320000,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

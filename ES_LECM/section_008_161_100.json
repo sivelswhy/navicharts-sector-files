@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 161,
+  "y": 100,
+  "mapBounds": {
+    "minX": 0.62890625,
+    "minY": 0.390625,
+    "maxX": 0.6328125,
+    "maxY": 0.39453125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.630859375,
+    "midY": 0.392578125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "TUGEL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6307746916666667,
+        "y": 0.39197902069632057
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

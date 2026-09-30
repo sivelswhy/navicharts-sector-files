@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 100,
+  "y": 131,
+  "mapBounds": {
+    "minX": 0.390625,
+    "minY": 0.51171875,
+    "maxX": 0.39453125,
+    "maxY": 0.515625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.392578125,
+    "midY": 0.513671875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "PROST",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3930185194444445,
+        "y": 0.512349409652957
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ISUGI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.393013425,
+        "y": 0.5142053986984464
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

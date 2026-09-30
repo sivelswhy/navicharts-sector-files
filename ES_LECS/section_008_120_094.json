@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 120,
+  "y": 94,
+  "mapBounds": {
+    "minX": 0.46875,
+    "minY": 0.3671875,
+    "maxX": 0.47265625,
+    "maxY": 0.37109375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.470703125,
+    "midY": 0.369140625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "RIPEL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4699550185185185,
+        "y": 0.37015663625471484
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

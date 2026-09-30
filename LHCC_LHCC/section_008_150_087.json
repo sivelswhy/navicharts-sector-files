@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 150,
+  "y": 87,
+  "mapBounds": {
+    "minX": 0.5859375,
+    "minY": 0.33984375,
+    "maxX": 0.58984375,
+    "maxY": 0.34375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.587890625,
+    "midY": 0.341796875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "STB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5863243827160494,
+        "y": 0.3416994749041101
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 113000,
+      "altitude": null
+    },
+    {
+      "identifier": "KP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5876786265432099,
+        "y": 0.3404516233984111
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 274000,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

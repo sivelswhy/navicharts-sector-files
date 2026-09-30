@@ -1,0 +1,106 @@
+{
+  "level": 8,
+  "x": 128,
+  "y": 88,
+  "mapBounds": {
+    "minX": 0.5,
+    "minY": 0.34375,
+    "maxX": 0.50390625,
+    "maxY": 0.34765625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.501953125,
+    "midY": 0.345703125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "DITAL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5024699083333333,
+        "y": 0.34450021340423664
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SORAP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5017646611111111,
+        "y": 0.3454354255258103
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ROLEN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5004351861111112,
+        "y": 0.3451929690523313
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "RONAX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5010609555555555,
+        "y": 0.34597994120041103
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CAD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5038527777777778,
+        "y": 0.3473693473574657
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LGL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5014722222222222,
+        "y": 0.34430517807224054
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

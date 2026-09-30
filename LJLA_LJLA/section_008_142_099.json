@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 142,
+  "y": 99,
+  "mapBounds": {
+    "minX": 0.5546875,
+    "minY": 0.38671875,
+    "maxX": 0.55859375,
+    "maxY": 0.390625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.556640625,
+    "midY": 0.388671875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "AKADI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5577083333333334,
+        "y": 0.3872565694092548
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "FF340",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5581459104938271,
+        "y": 0.38707939216230286
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LITSI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5581254783950617,
+        "y": 0.3870182602427495
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "RESPA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5582160493827161,
+        "y": 0.38778752705702974
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

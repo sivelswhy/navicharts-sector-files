@@ -1,0 +1,132 @@
+{
+  "level": 7,
+  "x": 48,
+  "y": 72,
+  "mapBounds": {
+    "minX": 0.375,
+    "minY": 0.5625,
+    "maxX": 0.3828125,
+    "maxY": 0.5703125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.37890625,
+    "midY": 0.56640625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "NISBO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3792347222222222,
+        "y": 0.5671495730801015
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VUPIP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.38156296388888883,
+        "y": 0.565121916642995
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SEGLI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.38220648055555556,
+        "y": 0.5635553211013847
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "AKNUB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3761861111111111,
+        "y": 0.5702118528075711
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BITAK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3787833333333333,
+        "y": 0.5675834196261994
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VUDAV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3776390111111111,
+        "y": 0.5687458285013118
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KOVGO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3798032333333333,
+        "y": 0.566610179137607
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MIA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.38085833333333335,
+        "y": 0.5655777227484808
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

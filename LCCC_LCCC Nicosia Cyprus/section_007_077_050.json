@@ -1,0 +1,83 @@
+{
+  "level": 7,
+  "x": 77,
+  "y": 50,
+  "mapBounds": {
+    "minX": 0.6015625,
+    "minY": 0.390625,
+    "maxX": 0.609375,
+    "maxY": 0.3984375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.60546875,
+    "midY": 0.39453125
+  },
+  "shapes": [
+    {
+      "geoArea": null,
+      "positions": [
+        "OSTT_CTR"
+      ],
+      "fillColour": "#181818",
+      "strokeColour": "#181818",
+      "strokeWidth": 1,
+      "mapPoints": [
+        {
+          "x": 0.5990277777777778,
+          "y": 0.39302885960901
+        },
+        {
+          "x": 0.599212962962963,
+          "y": 0.3973384437655668
+        },
+        {
+          "x": 0.6011111111111112,
+          "y": 0.3973431325901478
+        },
+        {
+          "x": 0.6027314814814815,
+          "y": 0.3929717006068306
+        },
+        {
+          "x": 0.5990277777777778,
+          "y": 0.39302885960901
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.5990277777777778,
+        "minY": 0.3929717006068306,
+        "maxX": 0.6027314814814815,
+        "maxY": 0.3973431325901478,
+        "width": 0.0037037037037036535,
+        "height": 0.004371431983317187,
+        "midX": 0.6008796296296297,
+        "midY": 0.39515741659848924
+      }
+    }
+  ],
+  "points": [
+    {
+      "identifier": "ALE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6033593827160494,
+        "y": 0.39206807308774144
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 114500,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

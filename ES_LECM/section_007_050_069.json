@@ -1,0 +1,80 @@
+{
+  "level": 7,
+  "x": 50,
+  "y": 69,
+  "mapBounds": {
+    "minX": 0.390625,
+    "minY": 0.5390625,
+    "maxX": 0.3984375,
+    "maxY": 0.546875,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.39453125,
+    "midY": 0.54296875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "NAXOV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3923307333333333,
+        "y": 0.544596756017499
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "IRUMI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.39359305555555557,
+        "y": 0.5421950485902373
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BIDEV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.39174351944444447,
+        "y": 0.5457097219620731
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SGR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3914361111111111,
+        "y": 0.5463122963494987
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

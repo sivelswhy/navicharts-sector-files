@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 65,
+  "y": 48,
+  "mapBounds": {
+    "minX": 0.5078125,
+    "minY": 0.375,
+    "maxX": 0.515625,
+    "maxY": 0.3828125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.51171875,
+    "midY": 0.37890625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "DOLIS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5149297839506173,
+        "y": 0.38217917388218425
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "INPEK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5154444444444445,
+        "y": 0.3780053624588409
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LUNOR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5149907407407408,
+        "y": 0.37717913599505803
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

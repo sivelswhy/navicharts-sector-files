@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 68,
+  "y": 97,
+  "mapBounds": {
+    "minX": 0.265625,
+    "minY": 0.37890625,
+    "maxX": 0.26953125,
+    "maxY": 0.3828125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.267578125,
+    "midY": 0.380859375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "GAILL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.2682794611111111,
+        "y": 0.3800574950721254
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "JORUV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.2687880944444444,
+        "y": 0.379607670890771
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MARTZ",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.26758685833333334,
+        "y": 0.38067241752439684
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

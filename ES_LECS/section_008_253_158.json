@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 253,
+  "y": 158,
+  "mapBounds": {
+    "minX": 0.98828125,
+    "minY": 0.6171875,
+    "maxX": 0.9921875,
+    "maxY": 0.62109375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.990234375,
+    "midY": 0.619140625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "MOOSE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9906344222222221,
+        "y": 0.6173820213481945
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MOKER",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9909704694444444,
+        "y": 0.6184239886402314
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9913025694444444,
+        "y": 0.6194481099166768
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,119 @@
+{
+  "level": 8,
+  "x": 147,
+  "y": 98,
+  "mapBounds": {
+    "minX": 0.57421875,
+    "minY": 0.3828125,
+    "maxX": 0.578125,
+    "maxY": 0.38671875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.576171875,
+    "midY": 0.384765625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "AKI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5772978395061729,
+        "y": 0.38282352035618333
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 110200,
+      "altitude": null
+    },
+    {
+      "identifier": "CIG",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5750251543209877,
+        "y": 0.38397802082554333
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 113600,
+      "altitude": null
+    },
+    {
+      "identifier": "CLD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5774899691358024,
+        "y": 0.38638124515491373
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 113850,
+      "altitude": null
+    },
+    {
+      "identifier": "IMR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.575020061728395,
+        "y": 0.38460721869909
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 113700,
+      "altitude": null
+    },
+    {
+      "identifier": "KLC",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5749425154320987,
+        "y": 0.3838837541674285
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 114150,
+      "altitude": null
+    },
+    {
+      "identifier": "MEN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5754409722222222,
+        "y": 0.3846863744490945
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 117900,
+      "altitude": null
+    },
+    {
+      "identifier": "SEL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5759266975308642,
+        "y": 0.38590886547683284
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 113200,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

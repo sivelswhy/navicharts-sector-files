@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 153,
+  "y": 95,
+  "mapBounds": {
+    "minX": 0.59765625,
+    "minY": 0.37109375,
+    "maxX": 0.6015625,
+    "maxY": 0.375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.599609375,
+    "midY": 0.373046875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ORVOR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5991396611111112,
+        "y": 0.3748431968292321
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "HAVZA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5998016972222222,
+        "y": 0.3745853302847591
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CRM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.601525,
+        "y": 0.3739450024719404
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

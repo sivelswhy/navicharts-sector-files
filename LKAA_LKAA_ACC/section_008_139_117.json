@@ -1,0 +1,48 @@
+{
+  "level": 8,
+  "x": 139,
+  "y": 117,
+  "mapBounds": {
+    "minX": 0.54296875,
+    "minY": 0.45703125,
+    "maxX": 0.546875,
+    "maxY": 0.4609375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.544921875,
+    "midY": 0.458984375
+  },
+  "shapes": [],
+  "points": [],
+  "airports": [],
+  "runways": [
+    {
+      "airport": "LKPI",
+      "primaryId": "08",
+      "oppositeId": "26",
+      "primaryCourse": 77,
+      "oppositeCourse": 257,
+      "primaryMapPoint": {
+        "x": 0.5437711435185185,
+        "y": 0.34095204944048196
+      },
+      "primaryElevation": 1703,
+      "oppositeMapPoint": {
+        "x": 0.5437998580246913,
+        "y": 0.6452109203928884
+      },
+      "oppositeElevation": 1742,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": 1.5707019515479312
+    }
+  ],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

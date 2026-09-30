@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 76,
+  "y": 65,
+  "mapBounds": {
+    "minX": 0.59375,
+    "minY": 0.5078125,
+    "maxX": 0.6015625,
+    "maxY": 0.515625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.59765625,
+    "midY": 0.51171875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "EVASI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5966947138888888,
+        "y": 0.5103229554311761
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "EPMIN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5940423833333333,
+        "y": 0.513244975870129
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "AVATU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5984047833333334,
+        "y": 0.5084328930618678
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 61,
+  "y": 98,
+  "mapBounds": {
+    "minX": 0.23828125,
+    "minY": 0.3828125,
+    "maxX": 0.2421875,
+    "maxY": 0.38671875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.240234375,
+    "midY": 0.384765625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "TYGER",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.23865657499999998,
+        "y": 0.3833083991774715
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

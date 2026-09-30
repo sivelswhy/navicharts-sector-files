@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 75,
+  "y": 122,
+  "mapBounds": {
+    "minX": 0.29296875,
+    "minY": 0.4765625,
+    "maxX": 0.296875,
+    "maxY": 0.48046875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.294921875,
+    "midY": 0.478515625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "LONAK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.2947314805555556,
+        "y": 0.4794975395745243
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DAGAN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.29425077222222223,
+        "y": 0.47774495707051334
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "EJA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.29498456666666667,
+        "y": 0.48042692784602753
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

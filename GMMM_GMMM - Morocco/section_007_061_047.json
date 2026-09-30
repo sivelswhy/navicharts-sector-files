@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 61,
+  "y": 47,
+  "mapBounds": {
+    "minX": 0.4765625,
+    "minY": 0.3671875,
+    "maxX": 0.484375,
+    "maxY": 0.375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.48046875,
+    "midY": 0.37109375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "MOSEN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.48177538580555557,
+        "y": 0.37201352972058865
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BATAX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4816060185277778,
+        "y": 0.37233380277776684
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BABEX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.48032223766666665,
+        "y": 0.37477772265599135
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

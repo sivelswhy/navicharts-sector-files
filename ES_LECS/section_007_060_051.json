@@ -1,0 +1,54 @@
+{
+  "level": 7,
+  "x": 60,
+  "y": 51,
+  "mapBounds": {
+    "minX": 0.46875,
+    "minY": 0.3984375,
+    "maxX": 0.4765625,
+    "maxY": 0.40625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.47265625,
+    "midY": 0.40234375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BARAM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.47527777777777774,
+        "y": 0.4052833908087539
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ERMED",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.47184336388888887,
+        "y": 0.40274908508295026
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

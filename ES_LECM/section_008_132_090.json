@@ -1,0 +1,171 @@
+{
+  "level": 8,
+  "x": 132,
+  "y": 90,
+  "mapBounds": {
+    "minX": 0.515625,
+    "minY": 0.3515625,
+    "maxX": 0.51953125,
+    "maxY": 0.35546875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.517578125,
+    "midY": 0.353515625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "SOSAL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5191234555555556,
+        "y": 0.3535188741701912
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MOLUS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5185540111111111,
+        "y": 0.35397959079522767
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VEROX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5182592583333333,
+        "y": 0.3528332986589438
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MILPA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.516332561111111,
+        "y": 0.35454882455837533
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "REVLI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5187314805555556,
+        "y": 0.3534043873538564
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KINNI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5172547055555555,
+        "y": 0.35540604386059904
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PETAL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5175010027777778,
+        "y": 0.35428519127791996
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NEMOS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5191848777777778,
+        "y": 0.35208458018029476
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "GVA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5170333333333333,
+        "y": 0.35474374738027337
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PAS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5166666666666667,
+        "y": 0.35510500362199215
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SPR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5179111111111111,
+        "y": 0.3538783392454609
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

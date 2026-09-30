@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 56,
+  "y": 108,
+  "mapBounds": {
+    "minX": 0.21875,
+    "minY": 0.421875,
+    "maxX": 0.22265625,
+    "maxY": 0.42578125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.220703125,
+    "midY": 0.423828125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "SASES",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.22200894999999998,
+        "y": 0.4228754084889286
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NOTAL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.22161496944444445,
+        "y": 0.4234845149387606
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "URTUS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.22179706666666665,
+        "y": 0.42484382874626025
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 29,
+  "y": 51,
+  "mapBounds": {
+    "minX": 0.2265625,
+    "minY": 0.3984375,
+    "maxX": 0.234375,
+    "maxY": 0.40625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.23046875,
+    "midY": 0.40234375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "TANBE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.23107425833333334,
+        "y": 0.40420424344863937
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CHMPZ",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.23108161944444447,
+        "y": 0.4042344033243508
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CVE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.23082222222222223,
+        "y": 0.40316379855866924
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

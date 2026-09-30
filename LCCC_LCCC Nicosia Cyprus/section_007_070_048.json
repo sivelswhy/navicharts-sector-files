@@ -1,0 +1,41 @@
+{
+  "level": 7,
+  "x": 70,
+  "y": 48,
+  "mapBounds": {
+    "minX": 0.546875,
+    "minY": 0.375,
+    "maxX": 0.5546875,
+    "maxY": 0.3828125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.55078125,
+    "midY": 0.37890625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "CRN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5474529320987654,
+        "y": 0.3821930736807054
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 117100,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

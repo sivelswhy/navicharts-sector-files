@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 133,
+  "y": 93,
+  "mapBounds": {
+    "minX": 0.51953125,
+    "minY": 0.36328125,
+    "maxX": 0.5234375,
+    "maxY": 0.3671875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.521484375,
+    "midY": 0.365234375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "EKSID",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5212021611111111,
+        "y": 0.3645566967770207
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PIGOS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5204753083333333,
+        "y": 0.3650739156395797
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NARTI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5200833333333333,
+        "y": 0.36535407339351594
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

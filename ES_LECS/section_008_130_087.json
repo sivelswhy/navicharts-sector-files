@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 130,
+  "y": 87,
+  "mapBounds": {
+    "minX": 0.5078125,
+    "minY": 0.33984375,
+    "maxX": 0.51171875,
+    "maxY": 0.34375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.509765625,
+    "midY": 0.341796875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "GIMER",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5110385805555555,
+        "y": 0.3418686180850541
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PIWEB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5100625,
+        "y": 0.3425334487090219
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 116,
+  "y": 109,
+  "mapBounds": {
+    "minX": 0.453125,
+    "minY": 0.42578125,
+    "maxX": 0.45703125,
+    "maxY": 0.4296875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.455078125,
+    "midY": 0.427734375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ROTUM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.45614791666666665,
+        "y": 0.4282409625199953
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BIPET",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4545588722222222,
+        "y": 0.4282409625199953
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

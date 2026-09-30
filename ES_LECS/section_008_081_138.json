@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 81,
+  "y": 138,
+  "mapBounds": {
+    "minX": 0.31640625,
+    "minY": 0.5390625,
+    "maxX": 0.3203125,
+    "maxY": 0.54296875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.318359375,
+    "midY": 0.541015625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "KETIP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3184074083333333,
+        "y": 0.5394988758377023
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TRI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.31961643611111107,
+        "y": 0.5415738318131503
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

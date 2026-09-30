@@ -1,0 +1,93 @@
+{
+  "level": 7,
+  "x": 29,
+  "y": 52,
+  "mapBounds": {
+    "minX": 0.2265625,
+    "minY": 0.40625,
+    "maxX": 0.234375,
+    "maxY": 0.4140625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.23046875,
+    "midY": 0.41015625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "HOMRN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.2326223222222222,
+        "y": 0.40991366499562043
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TORNN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.23190358055555554,
+        "y": 0.4076602458613834
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "HOOTZ",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.23210915833333334,
+        "y": 0.4083029881713564
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BILEE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.23227344166666666,
+        "y": 0.4088176824093414
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TNV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.2331722222222222,
+        "y": 0.4116468876176446
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,119 @@
+{
+  "level": 8,
+  "x": 149,
+  "y": 96,
+  "mapBounds": {
+    "minX": 0.58203125,
+    "minY": 0.375,
+    "maxX": 0.5859375,
+    "maxY": 0.37890625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.583984375,
+    "midY": 0.376953125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ARF",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5835148919753087,
+        "y": 0.37588924578313837
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 113900,
+      "altitude": null
+    },
+    {
+      "identifier": "BRY",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5822056327160493,
+        "y": 0.377625359465834
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 115300,
+      "altitude": null
+    },
+    {
+      "identifier": "CTP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5835315586419754,
+        "y": 0.3758903659609977
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 117400,
+      "altitude": null
+    },
+    {
+      "identifier": "YEN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.582119212962963,
+        "y": 0.3776442673747369
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 113200,
+      "altitude": null
+    },
+    {
+      "identifier": "ARF",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5835766975308642,
+        "y": 0.37591144471229615
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 383500,
+      "altitude": null
+    },
+    {
+      "identifier": "BRY",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5822056327160493,
+        "y": 0.377625359465834
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 352000,
+      "altitude": null
+    },
+    {
+      "identifier": "CTP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5835315586419754,
+        "y": 0.3758903659609977
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 307000,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 224,
+  "y": 154,
+  "mapBounds": {
+    "minX": 0.875,
+    "minY": 0.6015625,
+    "maxX": 0.87890625,
+    "maxY": 0.60546875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.876953125,
+    "midY": 0.603515625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "HYDRA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.875,
+        "y": 0.603128958490039
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ROGAS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.8777777777777778,
+        "y": 0.6033326137790472
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

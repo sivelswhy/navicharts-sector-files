@@ -1,0 +1,93 @@
+{
+  "level": 7,
+  "x": 66,
+  "y": 48,
+  "mapBounds": {
+    "minX": 0.515625,
+    "minY": 0.375,
+    "maxX": 0.5234375,
+    "maxY": 0.3828125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.51953125,
+    "midY": 0.37890625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "EPIKU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5225270061666667,
+        "y": 0.37545096316966314
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MALAV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5231820987777778,
+        "y": 0.3754927869511916
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ATGUS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5184706777777778,
+        "y": 0.37523050524396756
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "INKIR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5171033944444444,
+        "y": 0.3759880065562814
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ALG",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5228996913611111,
+        "y": 0.37629085627019015
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

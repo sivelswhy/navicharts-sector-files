@@ -1,0 +1,295 @@
+{
+  "level": 8,
+  "x": 139,
+  "y": 96,
+  "mapBounds": {
+    "minX": 0.54296875,
+    "minY": 0.375,
+    "maxX": 0.546875,
+    "maxY": 0.37890625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.544921875,
+    "midY": 0.376953125
+  },
+  "shapes": [
+    {
+      "geoArea": null,
+      "positions": [
+        "LIBB_CTR",
+        "LIBB_MIL_CTR",
+        "LIBB_EU_CTR",
+        "LIBB_ES_CTR",
+        "LIBB_ND_CTR"
+      ],
+      "fillColour": {
+        "$ref": "ONLINE ACC FILL"
+      },
+      "strokeColour": {
+        "$ref": "ONLINE ATC LINE"
+      },
+      "strokeWidth": 1,
+      "mapPoints": [
+        {
+          "x": 0.542,
+          "y": 0.3741887853544015
+        },
+        {
+          "x": 0.5399722222222222,
+          "y": 0.3732640610337786
+        },
+        {
+          "x": 0.5373055555555556,
+          "y": 0.3692276404957286
+        },
+        {
+          "x": 0.5364444444444445,
+          "y": 0.36790462335035834
+        },
+        {
+          "x": 0.5368055555555555,
+          "y": 0.3673353199098523
+        },
+        {
+          "x": 0.5369722222222222,
+          "y": 0.36718327083662705
+        },
+        {
+          "x": 0.538,
+          "y": 0.36649781869246295
+        },
+        {
+          "x": 0.5392777777777777,
+          "y": 0.36684079718487794
+        },
+        {
+          "x": 0.54025,
+          "y": 0.36615433302004347
+        },
+        {
+          "x": 0.5407222222222222,
+          "y": 0.3659250596440287
+        },
+        {
+          "x": 0.5448888888888889,
+          "y": 0.3695666447015226
+        },
+        {
+          "x": 0.5489444444444445,
+          "y": 0.3721124392853927
+        },
+        {
+          "x": 0.5493055555555556,
+          "y": 0.37155320632220895
+        },
+        {
+          "x": 0.5505277777777777,
+          "y": 0.37147854274168374
+        },
+        {
+          "x": 0.5516388888888889,
+          "y": 0.3717397629981352
+        },
+        {
+          "x": 0.5518888888888889,
+          "y": 0.37315285507594403
+        },
+        {
+          "x": 0.5514722222222223,
+          "y": 0.3737453604146038
+        },
+        {
+          "x": 0.5524166666666667,
+          "y": 0.3744101929126114
+        },
+        {
+          "x": 0.5527777777777778,
+          "y": 0.375844434448863
+        },
+        {
+          "x": 0.5527777777777778,
+          "y": 0.38339154330689523
+        },
+        {
+          "x": 0.5527777777777778,
+          "y": 0.38456276278095086
+        },
+        {
+          "x": 0.5512222222222222,
+          "y": 0.38452734990225984
+        },
+        {
+          "x": 0.5479444444444445,
+          "y": 0.38342711383149464
+        },
+        {
+          "x": 0.5465,
+          "y": 0.3826077307354348
+        },
+        {
+          "x": 0.5455833333333333,
+          "y": 0.3819288467214774
+        },
+        {
+          "x": 0.5445277777777778,
+          "y": 0.37998933650054756
+        },
+        {
+          "x": 0.5433888888888889,
+          "y": 0.3773431861083514
+        },
+        {
+          "x": 0.5423055555555555,
+          "y": 0.3749260242815752
+        },
+        {
+          "x": 0.542,
+          "y": 0.3741887853544015
+        },
+        {
+          "x": 0.542,
+          "y": 0.3741887853544015
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.5364444444444445,
+        "minY": 0.3659250596440287,
+        "maxX": 0.5527777777777778,
+        "maxY": 0.38456276278095086,
+        "width": 0.01633333333333331,
+        "height": 0.018637703136922146,
+        "midX": 0.5446111111111112,
+        "midY": 0.3752439112124898
+      }
+    }
+  ],
+  "points": [
+    {
+      "identifier": "BUMOK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5435270061728394,
+        "y": 0.37597578982506824
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "INGAB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5439097222222222,
+        "y": 0.378520729841833
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LUXIL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.546863425925926,
+        "y": 0.3755906876757441
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MATED",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5449120370370371,
+        "y": 0.3763552031493751
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NILTO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5433850308641975,
+        "y": 0.37732698850034474
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SIRGI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5463989197530864,
+        "y": 0.3781052925788081
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TOPNO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5447438271604939,
+        "y": 0.3751038543713986
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "UPLAD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5450293209876543,
+        "y": 0.3777467694876169
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VEGAN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5429699074074074,
+        "y": 0.3763775630270566
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

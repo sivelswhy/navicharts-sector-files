@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 74,
+  "y": 119,
+  "mapBounds": {
+    "minX": 0.2890625,
+    "minY": 0.46484375,
+    "maxX": 0.29296875,
+    "maxY": 0.46875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.291015625,
+    "midY": 0.466796875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "MORGI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.29143286944444446,
+        "y": 0.4673962372480348
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

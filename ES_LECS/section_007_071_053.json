@@ -1,0 +1,54 @@
+{
+  "level": 7,
+  "x": 71,
+  "y": 53,
+  "mapBounds": {
+    "minX": 0.5546875,
+    "minY": 0.4140625,
+    "maxX": 0.5625,
+    "maxY": 0.421875,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.55859375,
+    "midY": 0.41796875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ARRIG",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5556111111111112,
+        "y": 0.4205231900487664
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KARUB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5590462972222222,
+        "y": 0.42021513437722996
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

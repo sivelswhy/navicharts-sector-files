@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 145,
+  "y": 87,
+  "mapBounds": {
+    "minX": 0.56640625,
+    "minY": 0.33984375,
+    "maxX": 0.5703125,
+    "maxY": 0.34375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.568359375,
+    "midY": 0.341796875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "LL108",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.566547299382716,
+        "y": 0.3404779846882012
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LL116",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.566489737654321,
+        "y": 0.340933830334742
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LL403",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5666019290123456,
+        "y": 0.3405343938190694
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LIV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5665316358024691,
+        "y": 0.3399558644298288
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 115500,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

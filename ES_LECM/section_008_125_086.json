@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 125,
+  "y": 86,
+  "mapBounds": {
+    "minX": 0.48828125,
+    "minY": 0.3359375,
+    "maxX": 0.4921875,
+    "maxY": 0.33984375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.490234375,
+    "midY": 0.337890625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "TINAN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4904212972222223,
+        "y": 0.33624357561045287
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NOTRO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.49118749999999994,
+        "y": 0.33724909739441056
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DAWLY",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4903780861111111,
+        "y": 0.33664856021771483
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BHD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4902944444444444,
+        "y": 0.3374133051286504
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

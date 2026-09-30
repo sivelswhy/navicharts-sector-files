@@ -1,0 +1,93 @@
+{
+  "level": 8,
+  "x": 128,
+  "y": 89,
+  "mapBounds": {
+    "minX": 0.5,
+    "minY": 0.34765625,
+    "maxX": 0.50390625,
+    "maxY": 0.3515625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.501953125,
+    "midY": 0.349609375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "DOMOD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5035717583333333,
+        "y": 0.34818331288856175
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BOKNO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5019212972222222,
+        "y": 0.35153493649738476
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VANAD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5025200611111111,
+        "y": 0.3482890969090407
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DEVRO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5020516972222222,
+        "y": 0.3496983808304835
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "AMB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.502956788888889,
+        "y": 0.3499721789966425
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 51,
+  "y": 66,
+  "mapBounds": {
+    "minX": 0.3984375,
+    "minY": 0.515625,
+    "maxX": 0.40625,
+    "maxY": 0.5234375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.40234375,
+    "midY": 0.51953125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "KIBEG",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.40376388888888887,
+        "y": 0.5226548226258753
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "AMBET",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.40431759166666664,
+        "y": 0.5216203577687336
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NTL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.40208611111111114,
+        "y": 0.5164402705317016
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

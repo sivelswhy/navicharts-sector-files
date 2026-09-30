@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 94,
+  "y": 147,
+  "mapBounds": {
+    "minX": 0.3671875,
+    "minY": 0.57421875,
+    "maxX": 0.37109375,
+    "maxY": 0.578125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.369140625,
+    "midY": 0.576171875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "EGDED",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.36853740833333337,
+        "y": 0.5775871555741894
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DOKRO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.370160425,
+        "y": 0.5760530865547349
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "EVPIB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3694824305555556,
+        "y": 0.5766981601337848
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ANDEB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3690787027777778,
+        "y": 0.5770791490040863
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

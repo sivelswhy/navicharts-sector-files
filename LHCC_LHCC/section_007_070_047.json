@@ -1,0 +1,248 @@
+{
+  "level": 7,
+  "x": 70,
+  "y": 47,
+  "mapBounds": {
+    "minX": 0.546875,
+    "minY": 0.3671875,
+    "maxX": 0.5546875,
+    "maxY": 0.375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.55078125,
+    "midY": 0.37109375
+  },
+  "shapes": [
+    {
+      "geoArea": "COAST",
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": null,
+      "strokeColour": {
+        "$ref": "COAST"
+      },
+      "strokeWidth": 1,
+      "mapPoints": [
+        {
+          "x": 0.548263713734568,
+          "y": 0.36718576143904397
+        },
+        {
+          "x": 0.5482712785493827,
+          "y": 0.36720172263237116
+        },
+        {
+          "x": 0.5482869861111112,
+          "y": 0.3672073011876691
+        },
+        {
+          "x": 0.5482997523148149,
+          "y": 0.3672185962443575
+        },
+        {
+          "x": 0.5483132114197531,
+          "y": 0.3672291071785371
+        },
+        {
+          "x": 0.5483247978395062,
+          "y": 0.36724130404149397
+        },
+        {
+          "x": 0.5483295987654321,
+          "y": 0.3672564737253999
+        },
+        {
+          "x": 0.548335300925926,
+          "y": 0.36727210065663835
+        },
+        {
+          "x": 0.5483475902777778,
+          "y": 0.36728652718553095
+        },
+        {
+          "x": 0.5483642862654321,
+          "y": 0.36729838110375274
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.548263713734568,
+        "minY": 0.36718576143904397,
+        "maxX": 0.5483642862654321,
+        "maxY": 0.36729838110375274,
+        "width": 0.00010057253086415141,
+        "height": 0.0001126196647087685,
+        "midX": 0.548314,
+        "midY": 0.36724207127139835
+      }
+    }
+  ],
+  "points": [
+    {
+      "identifier": "DBK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5507706481481481,
+        "y": 0.3691377644399069
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 115400,
+      "altitude": null
+    },
+    {
+      "identifier": "POD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5534850308641975,
+        "y": 0.369769082263166
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 113000,
+      "altitude": null
+    },
+    {
+      "identifier": "CV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5505906712962962,
+        "y": 0.369019518133551
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 397000,
+      "altitude": null
+    },
+    {
+      "identifier": "GR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5508911805555556,
+        "y": 0.3691875764768409
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 414000,
+      "altitude": null
+    },
+    {
+      "identifier": "KLP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5500579243827161,
+        "y": 0.3687020356722883
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 318000,
+      "altitude": null
+    },
+    {
+      "identifier": "DAN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5531208333333334,
+        "y": 0.36917109233143536
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 312000,
+      "altitude": null
+    },
+    {
+      "identifier": "GO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5534603395061728,
+        "y": 0.37009719112877676
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 420000,
+      "altitude": null
+    },
+    {
+      "identifier": "MOJ",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5543764660493827,
+        "y": 0.36765946585573533
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 308000,
+      "altitude": null
+    },
+    {
+      "identifier": "NIK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5525671296296296,
+        "y": 0.36829695147242686
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 302000,
+      "altitude": null
+    },
+    {
+      "identifier": "POD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5534857253086419,
+        "y": 0.3697600980107071
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 335000,
+      "altitude": null
+    },
+    {
+      "identifier": "RO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5515378858024691,
+        "y": 0.36963982235568343
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 332000,
+      "altitude": null
+    },
+    {
+      "identifier": "TAZ",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5522233024691359,
+        "y": 0.3701607141496945
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 345000,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

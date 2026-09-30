@@ -1,0 +1,80 @@
+{
+  "level": 7,
+  "x": 34,
+  "y": 48,
+  "mapBounds": {
+    "minX": 0.265625,
+    "minY": 0.375,
+    "maxX": 0.2734375,
+    "maxY": 0.3828125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.26953125,
+    "midY": 0.37890625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "GAILL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.2682794611111111,
+        "y": 0.3800574950721254
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "JORUV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.2687880944444444,
+        "y": 0.379607670890771
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MARTZ",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.26758685833333334,
+        "y": 0.38067241752439684
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "APE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.27058805555555554,
+        "y": 0.3780307723663494
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 142,
+  "y": 94,
+  "mapBounds": {
+    "minX": 0.5546875,
+    "minY": 0.3671875,
+    "maxX": 0.55859375,
+    "maxY": 0.37109375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.556640625,
+    "midY": 0.369140625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BUI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5569328703703704,
+        "y": 0.36883896417530526
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 115200,
+      "altitude": null
+    },
+    {
+      "identifier": "PRT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5584330555555556,
+        "y": 0.36913769111753225
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 111050,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,93 @@
+{
+  "level": 8,
+  "x": 132,
+  "y": 95,
+  "mapBounds": {
+    "minX": 0.515625,
+    "minY": 0.37109375,
+    "maxX": 0.51953125,
+    "maxY": 0.375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.517578125,
+    "midY": 0.373046875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ADUZE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5156685956790124,
+        "y": 0.37444656226725637
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NIVDA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5182461419753087,
+        "y": 0.3740287536397622
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OKSER",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5176180555555555,
+        "y": 0.37115992249293944
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "RARQU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5193948302469136,
+        "y": 0.37113416515108877
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SEFRA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5194444444444445,
+        "y": 0.37121703567731695
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

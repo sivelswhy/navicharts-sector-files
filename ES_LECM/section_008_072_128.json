@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 72,
+  "y": 128,
+  "mapBounds": {
+    "minX": 0.28125,
+    "minY": 0.5,
+    "maxX": 0.28515625,
+    "maxY": 0.50390625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.283203125,
+    "midY": 0.501953125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "REBEK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.28149614166666664,
+        "y": 0.5029785683018326
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "QIT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.2819138888888889,
+        "y": 0.500105555563294
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

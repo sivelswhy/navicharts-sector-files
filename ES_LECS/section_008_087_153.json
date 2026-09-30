@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 87,
+  "y": 153,
+  "mapBounds": {
+    "minX": 0.33984375,
+    "minY": 0.59765625,
+    "maxX": 0.34375,
+    "maxY": 0.6015625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.341796875,
+    "midY": 0.599609375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "LOMID",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.34353009166666665,
+        "y": 0.600148313272037
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PABOT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3420571,
+        "y": 0.6014040084969308
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

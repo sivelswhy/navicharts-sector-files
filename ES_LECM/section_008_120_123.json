@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 120,
+  "y": 123,
+  "mapBounds": {
+    "minX": 0.46875,
+    "minY": 0.48046875,
+    "maxX": 0.47265625,
+    "maxY": 0.484375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.470703125,
+    "midY": 0.482421875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ROB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4712055555555556,
+        "y": 0.482657448176325
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}
