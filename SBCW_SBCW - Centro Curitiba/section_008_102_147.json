@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 102,
+  "y": 147,
+  "mapBounds": {
+    "minX": 0.3984375,
+    "minY": 0.57421875,
+    "maxX": 0.40234375,
+    "maxY": 0.578125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.400390625,
+    "midY": 0.576171875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ATORO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4004212962962963,
+        "y": 0.574397392568899
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": [
+    {
+      "identifier": "UL224",
+      "mapPoints": [
+        {
+          "x": 0.38306850308641976,
+          "y": 0.5651127012445594
+        },
+        {
+          "x": 0.3839166666666667,
+          "y": 0.5657889626364674
+        },
+        {
+          "x": 0.38813009259259257,
+          "y": 0.5691033569947496
+        },
+        {
+          "x": 0.4004212962962963,
+          "y": 0.574397392568899
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.38306850308641976,
+        "minY": 0.5651127012445594,
+        "maxX": 0.4004212962962963,
+        "maxY": 0.574397392568899,
+        "width": 0.017352793209876538,
+        "height": 0.009284691324339622,
+        "midX": 0.39174489969135806,
+        "midY": 0.5697550469067292
+      },
+      "fixes": [
+        "ADA",
+        "ROKAD",
+        "CIDER",
+        "ATORO"
+      ],
+      "labels": []
+    }
+  ]
+}
