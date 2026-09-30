@@ -1,0 +1,50 @@
+{
+  "level": 7,
+  "x": 80,
+  "y": 34,
+  "mapBounds": {
+    "minX": 0.625,
+    "minY": 0.265625,
+    "maxX": 0.6328125,
+    "maxY": 0.2734375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.62890625,
+    "midY": 0.26953125
+  },
+  "shapes": [],
+  "points": [],
+  "airports": [
+    "ZC88"
+  ],
+  "runways": [
+    {
+      "airport": "ZC88",
+      "primaryId": "06",
+      "oppositeId": "24",
+      "primaryCourse": 59,
+      "oppositeCourse": 239,
+      "primaryMapPoint": {
+        "x": 0.6298319907407408,
+        "y": 0.27295273704292744
+      },
+      "primaryElevation": 0,
+      "oppositeMapPoint": {
+        "x": 0.6298675,
+        "y": 0.2729438665255914
+      },
+      "oppositeElevation": 0,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": -0.24479848715883565
+    }
+  ],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

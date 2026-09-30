@@ -1,0 +1,94 @@
+{
+  "level": 7,
+  "x": 75,
+  "y": 37,
+  "mapBounds": {
+    "minX": 0.5859375,
+    "minY": 0.2890625,
+    "maxX": 0.59375,
+    "maxY": 0.296875,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.58984375,
+    "midY": 0.29296875
+  },
+  "shapes": [
+    {
+      "geoArea": "RESTRICTED",
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": null,
+      "strokeColour": {
+        "$ref": "RESTRICTED"
+      },
+      "strokeWidth": 1,
+      "mapPoints": [
+        {
+          "x": 0.5923611111111111,
+          "y": 0.29542317848685007
+        },
+        {
+          "x": 0.6004629722222222,
+          "y": 0.29943444008753467
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.5923611111111111,
+        "minY": 0.29542317848685007,
+        "maxX": 0.6004629722222222,
+        "maxY": 0.29943444008753467,
+        "width": 0.008101861111111108,
+        "height": 0.004011261600684601,
+        "midX": 0.5964120416666667,
+        "midY": 0.2974288092871924
+      }
+    },
+    {
+      "geoArea": "RESTRICTED",
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": null,
+      "strokeColour": {
+        "$ref": "RESTRICTED"
+      },
+      "strokeWidth": 1,
+      "mapPoints": [
+        {
+          "x": 0.6013888888888889,
+          "y": 0.29766227693159175
+        },
+        {
+          "x": 0.5933796388888889,
+          "y": 0.29388495283462074
+        },
+        {
+          "x": 0.5923611111111111,
+          "y": 0.29542317848685007
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.5923611111111111,
+        "minY": 0.29388495283462074,
+        "maxX": 0.6013888888888889,
+        "maxY": 0.29766227693159175,
+        "width": 0.009027777777777746,
+        "height": 0.003777324096971013,
+        "midX": 0.596875,
+        "midY": 0.2957736148831063
+      }
+    }
+  ],
+  "points": [],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}
