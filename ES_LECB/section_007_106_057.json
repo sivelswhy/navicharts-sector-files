@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 106,
+  "y": 57,
+  "mapBounds": {
+    "minX": 0.828125,
+    "minY": 0.4453125,
+    "maxX": 0.8359375,
+    "maxY": 0.453125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.83203125,
+    "midY": 0.44921875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "LEMAP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.835136575,
+        "y": 0.4489902940467681
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PAMKI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.8358024694444445,
+        "y": 0.44970155509815046
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LAO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.8348029333333332,
+        "y": 0.44863412932568963
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

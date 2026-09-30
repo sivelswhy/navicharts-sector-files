@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 147,
+  "y": 78,
+  "mapBounds": {
+    "minX": 0.57421875,
+    "minY": 0.3046875,
+    "maxX": 0.578125,
+    "maxY": 0.30859375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.576171875,
+    "midY": 0.306640625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "DOLUN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5763001543209877,
+        "y": 0.3072421749623653
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OPOKA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5775046296296297,
+        "y": 0.30762253878857077
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

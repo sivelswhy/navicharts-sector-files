@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 140,
+  "y": 35,
+  "mapBounds": {
+    "minX": 0.546875,
+    "minY": 0.13671875,
+    "maxX": 0.55078125,
+    "maxY": 0.140625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.548828125,
+    "midY": 0.138671875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "NAXEN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5473444753086419,
+        "y": 0.13951052652845783
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "RAVTI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5489985339506173,
+        "y": 0.1400463913977695
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

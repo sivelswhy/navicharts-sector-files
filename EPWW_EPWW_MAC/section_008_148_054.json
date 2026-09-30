@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 148,
+  "y": 54,
+  "mapBounds": {
+    "minX": 0.578125,
+    "minY": 0.2109375,
+    "maxX": 0.58203125,
+    "maxY": 0.21484375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.580078125,
+    "midY": 0.212890625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "GILAV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5785848765432099,
+        "y": 0.21173831000573
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LAKOK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5800632793209876,
+        "y": 0.2137603243705821
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

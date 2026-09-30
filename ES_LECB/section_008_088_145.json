@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 88,
+  "y": 145,
+  "mapBounds": {
+    "minX": 0.34375,
+    "minY": 0.56640625,
+    "maxX": 0.34765625,
+    "maxY": 0.5703125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.345703125,
+    "midY": 0.568359375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "KALAD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.34586574166666667,
+        "y": 0.5678523466263576
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

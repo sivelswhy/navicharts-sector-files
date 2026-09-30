@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 126,
+  "y": 124,
+  "mapBounds": {
+    "minX": 0.4921875,
+    "minY": 0.484375,
+    "maxX": 0.49609375,
+    "maxY": 0.48828125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.494140625,
+    "midY": 0.486328125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "TEMBI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4952592583333333,
+        "y": 0.4847359117177813
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ONESI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.49234876666666666,
+        "y": 0.4850025455050452
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

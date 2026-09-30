@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 149,
+  "y": 56,
+  "mapBounds": {
+    "minX": 0.58203125,
+    "minY": 0.21875,
+    "maxX": 0.5859375,
+    "maxY": 0.22265625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.583984375,
+    "midY": 0.220703125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "AGLOB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5858841435185186,
+        "y": 0.21972160469057947
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NILIP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5852245216049383,
+        "y": 0.2199228273211029
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "RULAX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5840601388888889,
+        "y": 0.22254296737960425
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "UPIRU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5858660185185185,
+        "y": 0.2197155726254352
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

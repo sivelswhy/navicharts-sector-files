@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 220,
+  "y": 53,
+  "mapBounds": {
+    "minX": 0.859375,
+    "minY": 0.20703125,
+    "maxX": 0.86328125,
+    "maxY": 0.2109375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.861328125,
+    "midY": 0.208984375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ABDET",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.862003086111111,
+        "y": 0.20972951939609874
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

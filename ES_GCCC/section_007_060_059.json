@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 60,
+  "y": 59,
+  "mapBounds": {
+    "minX": 0.46875,
+    "minY": 0.4609375,
+    "maxX": 0.4765625,
+    "maxY": 0.46875,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.47265625,
+    "midY": 0.46484375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "GARAN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4765208333333334,
+        "y": 0.4613366526350728
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DENIS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4746581777777778,
+        "y": 0.4630109449825053
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "AMLAN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4717453694444444,
+        "y": 0.4613954432150143
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

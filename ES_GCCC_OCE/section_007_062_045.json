@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 62,
+  "y": 45,
+  "mapBounds": {
+    "minX": 0.484375,
+    "minY": 0.3515625,
+    "maxX": 0.4921875,
+    "maxY": 0.359375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.48828125,
+    "midY": 0.35546875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "KOLEK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.48497762222222224,
+        "y": 0.35329770193861454
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NOVAN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.48972453611111116,
+        "y": 0.3544695119210491
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DESAB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.49178009166666664,
+        "y": 0.3564394174646776
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,80 @@
+{
+  "level": 7,
+  "x": 64,
+  "y": 43,
+  "mapBounds": {
+    "minX": 0.5,
+    "minY": 0.3359375,
+    "maxX": 0.5078125,
+    "maxY": 0.34375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.50390625,
+    "midY": 0.33984375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "LISEU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5011165111111111,
+        "y": 0.3429841436011836
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SITET",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5,
+        "y": 0.33871217883775245
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ETRAT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5004537027777778,
+        "y": 0.34050875662590313
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DVL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5008686722222222,
+        "y": 0.3421022590419787
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

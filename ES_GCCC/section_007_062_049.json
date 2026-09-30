@@ -1,0 +1,80 @@
+{
+  "level": 7,
+  "x": 62,
+  "y": 49,
+  "mapBounds": {
+    "minX": 0.484375,
+    "minY": 0.3828125,
+    "maxX": 0.4921875,
+    "maxY": 0.390625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.48828125,
+    "midY": 0.38671875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ALCOL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4874476861111111,
+        "y": 0.3862360632178614
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BLN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4899313277777778,
+        "y": 0.38519033272602565
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "HIJ",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.48583418333333334,
+        "y": 0.3839311872632033
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MAR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4862780861111111,
+        "y": 0.38903763730037877
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

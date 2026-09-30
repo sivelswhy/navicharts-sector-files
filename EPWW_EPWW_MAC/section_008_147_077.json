@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 147,
+  "y": 77,
+  "mapBounds": {
+    "minX": 0.57421875,
+    "minY": 0.30078125,
+    "maxX": 0.578125,
+    "maxY": 0.3046875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.576171875,
+    "midY": 0.302734375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "DOHOR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5760887345679012,
+        "y": 0.301888985043586
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SUMIM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5763503086419753,
+        "y": 0.30164947185855395
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TIXTE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5760231481481481,
+        "y": 0.3022122065079896
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

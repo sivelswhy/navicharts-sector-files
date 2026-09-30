@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 132,
+  "y": 87,
+  "mapBounds": {
+    "minX": 0.515625,
+    "minY": 0.33984375,
+    "maxX": 0.51953125,
+    "maxY": 0.34375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.517578125,
+    "midY": 0.341796875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "SORAL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5178827166666667,
+        "y": 0.3429393513561063
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SUTAL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5177546305555556,
+        "y": 0.3414368919894531
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "IBERA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5174305555555556,
+        "y": 0.3412587263229141
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "GTQ",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5186561722222222,
+        "y": 0.34347950278872164
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

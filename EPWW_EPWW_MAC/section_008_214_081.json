@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 214,
+  "y": 81,
+  "mapBounds": {
+    "minX": 0.8359375,
+    "minY": 0.31640625,
+    "maxX": 0.83984375,
+    "maxY": 0.3203125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.837890625,
+    "midY": 0.318359375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "N",
+      "airport": "EPSU",
+      "mapPosition": {
+        "x": 0.8361111111111111,
+        "y": 0.3202766797528612
+      },
+      "kind": "VRP",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": ""
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

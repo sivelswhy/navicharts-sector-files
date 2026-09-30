@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 31,
+  "y": 58,
+  "mapBounds": {
+    "minX": 0.2421875,
+    "minY": 0.453125,
+    "maxX": 0.25,
+    "maxY": 0.4609375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.24609375,
+    "midY": 0.45703125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "MUSOT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.24775308611111113,
+        "y": 0.4599273227439066
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "AUR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.248519675,
+        "y": 0.45907967848999726
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SJO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.24768916666666665,
+        "y": 0.460907229075828
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

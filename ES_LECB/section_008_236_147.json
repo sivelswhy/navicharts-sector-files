@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 236,
+  "y": 147,
+  "mapBounds": {
+    "minX": 0.921875,
+    "minY": 0.57421875,
+    "maxX": 0.92578125,
+    "maxY": 0.578125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.923828125,
+    "midY": 0.576171875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "LEBIT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9220578694444445,
+        "y": 0.5773288983528743
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "IBUNA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9235430777777778,
+        "y": 0.5781205963692476
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

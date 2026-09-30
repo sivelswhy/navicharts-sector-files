@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 46,
+  "y": 68,
+  "mapBounds": {
+    "minX": 0.359375,
+    "minY": 0.53125,
+    "maxX": 0.3671875,
+    "maxY": 0.5390625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.36328125,
+    "midY": 0.53515625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "RUSTE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3659962972222222,
+        "y": 0.5343118183846493
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LIBEC",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3658361111111111,
+        "y": 0.5315684102354226
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "XOGUR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3661773138888889,
+        "y": 0.5373944754650652
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

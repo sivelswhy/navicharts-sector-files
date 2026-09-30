@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 105,
+  "y": 127,
+  "mapBounds": {
+    "minX": 0.41015625,
+    "minY": 0.49609375,
+    "maxX": 0.4140625,
+    "maxY": 0.5,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.412109375,
+    "midY": 0.498046875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "SALPU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4114518527777778,
+        "y": 0.4987689682808885
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

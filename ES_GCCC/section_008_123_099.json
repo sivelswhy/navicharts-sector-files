@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 123,
+  "y": 99,
+  "mapBounds": {
+    "minX": 0.48046875,
+    "minY": 0.38671875,
+    "maxX": 0.484375,
+    "maxY": 0.390625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.482421875,
+    "midY": 0.388671875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "SVL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4839938277777778,
+        "y": 0.3877386590299409
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

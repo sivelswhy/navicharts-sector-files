@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 95,
+  "y": 140,
+  "mapBounds": {
+    "minX": 0.37109375,
+    "minY": 0.546875,
+    "maxX": 0.375,
+    "maxY": 0.55078125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.373046875,
+    "midY": 0.548828125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "URRAO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.37337222222222216,
+        "y": 0.5491525758475099
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OBGEM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3736527777777777,
+        "y": 0.548307510215589
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MOLLE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3729407416666667,
+        "y": 0.550449700654719
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

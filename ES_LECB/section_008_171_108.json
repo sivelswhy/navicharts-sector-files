@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 171,
+  "y": 108,
+  "mapBounds": {
+    "minX": 0.66796875,
+    "minY": 0.421875,
+    "maxX": 0.671875,
+    "maxY": 0.42578125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.669921875,
+    "midY": 0.423828125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "GENEV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.668423611111111,
+        "y": 0.4229528105864975
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "GOKSO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6685277777777778,
+        "y": 0.4222827334378952
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "EGLES",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.668050925,
+        "y": 0.42535729384392623
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

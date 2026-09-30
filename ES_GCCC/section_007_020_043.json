@@ -1,0 +1,41 @@
+{
+  "level": 7,
+  "x": 20,
+  "y": 43,
+  "mapBounds": {
+    "minX": 0.15625,
+    "minY": 0.3359375,
+    "maxX": 0.1640625,
+    "maxY": 0.34375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.16015625,
+    "midY": 0.33984375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "GABIN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.16398765555555556,
+        "y": 0.33938111884150285
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

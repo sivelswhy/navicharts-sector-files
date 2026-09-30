@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 123,
+  "y": 96,
+  "mapBounds": {
+    "minX": 0.48046875,
+    "minY": 0.375,
+    "maxX": 0.484375,
+    "maxY": 0.37890625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.482421875,
+    "midY": 0.376953125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BARDI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4824932111111111,
+        "y": 0.3764541809201676
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

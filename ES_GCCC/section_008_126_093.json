@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 126,
+  "y": 93,
+  "mapBounds": {
+    "minX": 0.4921875,
+    "minY": 0.36328125,
+    "maxX": 0.49609375,
+    "maxY": 0.3671875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.494140625,
+    "midY": 0.365234375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "NETUK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4955124222222222,
+        "y": 0.36646571668362465
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ABRIX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4945483027777777,
+        "y": 0.3649814815955699
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

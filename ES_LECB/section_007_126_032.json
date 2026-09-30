@@ -1,0 +1,54 @@
+{
+  "level": 7,
+  "x": 126,
+  "y": 32,
+  "mapBounds": {
+    "minX": 0.984375,
+    "minY": 0.25,
+    "maxX": 0.9921875,
+    "maxY": 0.2578125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.98828125,
+    "midY": 0.25390625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "LASBA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9869668222222221,
+        "y": 0.2567310345521232
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OGETO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9848927472222221,
+        "y": 0.2551950196622156
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

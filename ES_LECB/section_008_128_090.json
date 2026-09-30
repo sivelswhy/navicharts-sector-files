@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 128,
+  "y": 90,
+  "mapBounds": {
+    "minX": 0.5,
+    "minY": 0.3515625,
+    "maxX": 0.50390625,
+    "maxY": 0.35546875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.501953125,
+    "midY": 0.353515625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "SOPIL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5029305555555555,
+        "y": 0.3516209801725294
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BALAN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5028703694444444,
+        "y": 0.3536882540899103
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

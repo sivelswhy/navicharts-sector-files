@@ -1,0 +1,41 @@
+{
+  "level": 7,
+  "x": 56,
+  "y": 54,
+  "mapBounds": {
+    "minX": 0.4375,
+    "minY": 0.421875,
+    "maxX": 0.4453125,
+    "maxY": 0.4296875,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.44140625,
+    "midY": 0.42578125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "NORED",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.43755547838888886,
+        "y": 0.42934774291969774
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

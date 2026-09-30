@@ -1,0 +1,54 @@
+{
+  "level": 7,
+  "x": 43,
+  "y": 73,
+  "mapBounds": {
+    "minX": 0.3359375,
+    "minY": 0.5703125,
+    "maxX": 0.34375,
+    "maxY": 0.578125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.33984375,
+    "midY": 0.57421875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ISEVO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3421712972222222,
+        "y": 0.5709018275824242
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VAS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.34021682222222227,
+        "y": 0.5725081411753503
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

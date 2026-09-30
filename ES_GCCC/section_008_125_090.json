@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 125,
+  "y": 90,
+  "mapBounds": {
+    "minX": 0.48828125,
+    "minY": 0.3515625,
+    "maxX": 0.4921875,
+    "maxY": 0.35546875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.490234375,
+    "midY": 0.353515625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "NOVAN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.48972453611111116,
+        "y": 0.3544695119210491
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

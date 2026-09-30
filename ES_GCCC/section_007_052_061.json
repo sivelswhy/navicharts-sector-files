@@ -1,0 +1,41 @@
+{
+  "level": 7,
+  "x": 52,
+  "y": 61,
+  "mapBounds": {
+    "minX": 0.40625,
+    "minY": 0.4765625,
+    "maxX": 0.4140625,
+    "maxY": 0.484375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.41015625,
+    "midY": 0.48046875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "NANIK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4078564805555555,
+        "y": 0.4823481801971098
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

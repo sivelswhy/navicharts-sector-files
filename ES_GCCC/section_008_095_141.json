@@ -1,0 +1,93 @@
+{
+  "level": 8,
+  "x": 95,
+  "y": 141,
+  "mapBounds": {
+    "minX": 0.37109375,
+    "minY": 0.55078125,
+    "maxX": 0.375,
+    "maxY": 0.5546875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.373046875,
+    "midY": 0.552734375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "OSOGO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.37229351944444444,
+        "y": 0.5523883302590058
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OPKUV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3718870361111111,
+        "y": 0.5536021871289126
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OPTIV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3716824083333333,
+        "y": 0.5542114651348579
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ROREV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.37275370277777775,
+        "y": 0.5510123033273867
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "EVROP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.37262777777777784,
+        "y": 0.5513893398123708
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

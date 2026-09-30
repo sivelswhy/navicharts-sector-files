@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 134,
+  "y": 67,
+  "mapBounds": {
+    "minX": 0.5234375,
+    "minY": 0.26171875,
+    "maxX": 0.52734375,
+    "maxY": 0.265625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.525390625,
+    "midY": 0.263671875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "GALTU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5262630555555555,
+        "y": 0.2653151618010059
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OKSAB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5271836419753086,
+        "y": 0.2654481565139224
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "RUSUT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5272862654320988,
+        "y": 0.2639886154572831
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

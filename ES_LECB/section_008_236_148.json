@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 236,
+  "y": 148,
+  "mapBounds": {
+    "minX": 0.921875,
+    "minY": 0.578125,
+    "maxX": 0.92578125,
+    "maxY": 0.58203125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.923828125,
+    "midY": 0.580078125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "WACKO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9243141194444444,
+        "y": 0.5785276518647309
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9253867277777779,
+        "y": 0.5790837825780445
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

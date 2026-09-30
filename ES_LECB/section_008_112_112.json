@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 112,
+  "y": 112,
+  "mapBounds": {
+    "minX": 0.4375,
+    "minY": 0.4375,
+    "maxX": 0.44140625,
+    "maxY": 0.44140625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.439453125,
+    "midY": 0.439453125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "TENPA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4389629629722222,
+        "y": 0.4392375526147338
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

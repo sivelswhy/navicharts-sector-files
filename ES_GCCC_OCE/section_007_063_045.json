@@ -1,0 +1,93 @@
+{
+  "level": 7,
+  "x": 63,
+  "y": 45,
+  "mapBounds": {
+    "minX": 0.4921875,
+    "minY": 0.3515625,
+    "maxX": 0.5,
+    "maxY": 0.359375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.49609375,
+    "midY": 0.35546875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "TEPRA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.49326543333333334,
+        "y": 0.3537700926779763
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NORMI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4941890444444444,
+        "y": 0.35214895241547844
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MOKOR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.49440586388888885,
+        "y": 0.3516979386368106
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ERIGA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4934359555555555,
+        "y": 0.3522956978518103
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CNA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4991343361111111,
+        "y": 0.3571189698068122
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

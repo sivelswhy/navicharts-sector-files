@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 81,
+  "y": 53,
+  "mapBounds": {
+    "minX": 0.6328125,
+    "minY": 0.4140625,
+    "maxX": 0.640625,
+    "maxY": 0.421875,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.63671875,
+    "midY": 0.41796875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "KUVER",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6391666666666667,
+        "y": 0.41843358890465904
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ALNIN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6393796305555556,
+        "y": 0.4171876550347179
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KHG",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6397690583333334,
+        "y": 0.4149276397179076
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 124,
+  "y": 123,
+  "mapBounds": {
+    "minX": 0.484375,
+    "minY": 0.48046875,
+    "maxX": 0.48828125,
+    "maxY": 0.484375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.486328125,
+    "midY": 0.482421875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "DEGAS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4875401222222222,
+        "y": 0.4819304411341195
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

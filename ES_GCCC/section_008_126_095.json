@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 126,
+  "y": 95,
+  "mapBounds": {
+    "minX": 0.4921875,
+    "minY": 0.37109375,
+    "maxX": 0.49609375,
+    "maxY": 0.375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.494140625,
+    "midY": 0.373046875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BANEV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4930152,
+        "y": 0.37306900512038776
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SEGRE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4933986888888889,
+        "y": 0.3748419707704828
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BRITO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.49422770000000005,
+        "y": 0.3746347771997573
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BAN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.49269506111111117,
+        "y": 0.37373220781276284
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

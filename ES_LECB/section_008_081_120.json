@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 81,
+  "y": 120,
+  "mapBounds": {
+    "minX": 0.31640625,
+    "minY": 0.46875,
+    "maxX": 0.3203125,
+    "maxY": 0.47265625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.318359375,
+    "midY": 0.470703125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "MEXOT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.319475925,
+        "y": 0.47065998344299337
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NADAS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.31907175833333334,
+        "y": 0.47018594151985715
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TORTU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.31857793333333334,
+        "y": 0.4695520626322641
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BNA_2",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.32030447500000003,
+        "y": 0.47176289411131883
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

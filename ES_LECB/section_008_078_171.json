@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 78,
+  "y": 171,
+  "mapBounds": {
+    "minX": 0.3046875,
+    "minY": 0.66796875,
+    "maxX": 0.30859375,
+    "maxY": 0.671875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.306640625,
+    "midY": 0.669921875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BAPOS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.30851003055555554,
+        "y": 0.671056908235345
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

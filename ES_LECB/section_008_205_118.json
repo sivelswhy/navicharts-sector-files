@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 205,
+  "y": 118,
+  "mapBounds": {
+    "minX": 0.80078125,
+    "minY": 0.4609375,
+    "maxX": 0.8046875,
+    "maxY": 0.46484375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.802734375,
+    "midY": 0.462890625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "KARAN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.8032129638888889,
+        "y": 0.4645752670659813
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KAMGO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.8030594138888888,
+        "y": 0.46275490884175413
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

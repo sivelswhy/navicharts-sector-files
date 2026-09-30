@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 89,
+  "y": 151,
+  "mapBounds": {
+    "minX": 0.34765625,
+    "minY": 0.58984375,
+    "maxX": 0.3515625,
+    "maxY": 0.59375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.349609375,
+    "midY": 0.591796875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "DADUT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3495833333333333,
+        "y": 0.5905984984454822
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "UMRUD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.34816898055555556,
+        "y": 0.592101258619383
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

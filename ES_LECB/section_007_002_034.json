@@ -1,0 +1,54 @@
+{
+  "level": 7,
+  "x": 2,
+  "y": 34,
+  "mapBounds": {
+    "minX": 0.015625,
+    "minY": 0.265625,
+    "maxX": 0.0234375,
+    "maxY": 0.2734375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.01953125,
+    "midY": 0.26953125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "OLTON",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.02062168333333337,
+        "y": 0.2674056168111147
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "GAM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.02295339444444448,
+        "y": 0.26807024818494013
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

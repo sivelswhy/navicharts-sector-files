@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 121,
+  "y": 95,
+  "mapBounds": {
+    "minX": 0.47265625,
+    "minY": 0.37109375,
+    "maxX": 0.4765625,
+    "maxY": 0.375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.474609375,
+    "midY": 0.373046875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "AGADO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.47520364969135803,
+        "y": 0.3716917292819616
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DEMOS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4739944513888889,
+        "y": 0.37149457353343934
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PINEK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4761176288580247,
+        "y": 0.3717727372545142
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PRT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4758671305555555,
+        "y": 0.3739191322656622
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

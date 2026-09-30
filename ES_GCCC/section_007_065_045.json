@@ -1,0 +1,184 @@
+{
+  "level": 7,
+  "x": 65,
+  "y": 45,
+  "mapBounds": {
+    "minX": 0.5078125,
+    "minY": 0.3515625,
+    "maxX": 0.515625,
+    "maxY": 0.359375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.51171875,
+    "midY": 0.35546875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "VEROT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5116033944444445,
+        "y": 0.3588733693540311
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ETREK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5128853388888889,
+        "y": 0.3589867103464605
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DEPUL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5152623444444444,
+        "y": 0.35606148094856194
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "GIPNO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5153587972222222,
+        "y": 0.3575142924453032
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MINDI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5112283944444445,
+        "y": 0.35918642563244046
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OTROT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5123487666666667,
+        "y": 0.35927828739065515
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LUXAN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5142577166666666,
+        "y": 0.35824814451118697
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ARGIS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5155532416666666,
+        "y": 0.355877266601425
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ARKOX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5147430555555556,
+        "y": 0.35798986544370776
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MURRO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5121543222222222,
+        "y": 0.3584133936823048
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LTP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5151084888888888,
+        "y": 0.35779590649620907
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LSE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5141405083333334,
+        "y": 0.3567770213363974
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 209,
+  "y": 49,
+  "mapBounds": {
+    "minX": 0.81640625,
+    "minY": 0.19140625,
+    "maxX": 0.8203125,
+    "maxY": 0.1953125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.818359375,
+    "midY": 0.193359375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ROLON",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.8167337972222223,
+        "y": 0.19366027722246104
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

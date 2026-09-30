@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 120,
+  "y": 95,
+  "mapBounds": {
+    "minX": 0.46875,
+    "minY": 0.37109375,
+    "maxX": 0.47265625,
+    "maxY": 0.375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.470703125,
+    "midY": 0.373046875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "XERES",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.47203341111111113,
+        "y": 0.37112772496412927
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

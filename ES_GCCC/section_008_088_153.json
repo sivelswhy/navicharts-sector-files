@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 88,
+  "y": 153,
+  "mapBounds": {
+    "minX": 0.34375,
+    "minY": 0.59765625,
+    "maxX": 0.34765625,
+    "maxY": 0.6015625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.345703125,
+    "midY": 0.599609375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ANRUP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3438819444444444,
+        "y": 0.599844534831173
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

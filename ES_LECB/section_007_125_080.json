@@ -1,0 +1,93 @@
+{
+  "level": 7,
+  "x": 125,
+  "y": 80,
+  "mapBounds": {
+    "minX": 0.9765625,
+    "minY": 0.625,
+    "maxX": 0.984375,
+    "maxY": 0.6328125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.98046875,
+    "midY": 0.62890625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "PORAM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9797968222222222,
+        "y": 0.6320020066981598
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BISEB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9807509111111111,
+        "y": 0.6279421624127541
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "RUREL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9802591194444444,
+        "y": 0.6300440905832115
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "GUNEL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9808772611111111,
+        "y": 0.6273989316399168
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9811563805555555,
+        "y": 0.6261943080767525
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 128,
+  "y": 93,
+  "mapBounds": {
+    "minX": 0.5,
+    "minY": 0.36328125,
+    "maxX": 0.50390625,
+    "maxY": 0.3671875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.501953125,
+    "midY": 0.365234375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "GONUP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5021080250000001,
+        "y": 0.3656923712748472
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "AUCHE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.501550925,
+        "y": 0.36496196837937683
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TOU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.50363835,
+        "y": 0.36484890279522436
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

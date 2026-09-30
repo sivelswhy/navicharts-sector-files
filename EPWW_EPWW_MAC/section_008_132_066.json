@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 132,
+  "y": 66,
+  "mapBounds": {
+    "minX": 0.515625,
+    "minY": 0.2578125,
+    "maxX": 0.51953125,
+    "maxY": 0.26171875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.517578125,
+    "midY": 0.259765625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ASGUR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5187566203703704,
+        "y": 0.2598635928221418
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PIRIV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5163117283950618,
+        "y": 0.25963498826853093
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ROSBO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5175101774691357,
+        "y": 0.2591536273587809
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

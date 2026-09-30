@@ -1,0 +1,54 @@
+{
+  "level": 7,
+  "x": 61,
+  "y": 61,
+  "mapBounds": {
+    "minX": 0.4765625,
+    "minY": 0.4765625,
+    "maxX": 0.484375,
+    "maxY": 0.484375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.48046875,
+    "midY": 0.48046875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BUSOT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.48222916666666665,
+        "y": 0.484264548939598
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MEGOT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4793287027777778,
+        "y": 0.4838287267765018
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 124,
+  "y": 97,
+  "mapBounds": {
+    "minX": 0.484375,
+    "minY": 0.37890625,
+    "maxX": 0.48828125,
+    "maxY": 0.3828125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.486328125,
+    "midY": 0.380859375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "MONTO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4875087972222222,
+        "y": 0.3813852186993884
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MOLIN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4869840277777777,
+        "y": 0.38217917388218425
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PARKA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4856947527777778,
+        "y": 0.38217917388218425
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

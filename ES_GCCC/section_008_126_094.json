@@ -1,0 +1,93 @@
+{
+  "level": 8,
+  "x": 126,
+  "y": 94,
+  "mapBounds": {
+    "minX": 0.4921875,
+    "minY": 0.3671875,
+    "maxX": 0.49609375,
+    "maxY": 0.37109375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.494140625,
+    "midY": 0.369140625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ALEPO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4945462972222222,
+        "y": 0.3699289644197363
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "GARVU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.49422831666666667,
+        "y": 0.3705768938762853
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NOLSA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4947016194444444,
+        "y": 0.3696132723633243
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VASUM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4944138888888889,
+        "y": 0.3701984639849267
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PPN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4952722222222222,
+        "y": 0.3684583631760187
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

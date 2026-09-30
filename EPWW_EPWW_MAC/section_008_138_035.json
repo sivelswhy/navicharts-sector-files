@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 138,
+  "y": 35,
+  "mapBounds": {
+    "minX": 0.5390625,
+    "minY": 0.13671875,
+    "maxX": 0.54296875,
+    "maxY": 0.140625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.541015625,
+    "midY": 0.138671875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "LALAD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.539121087962963,
+        "y": 0.13822527870083498
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LOLVO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5397567824074074,
+        "y": 0.13728679826370854
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

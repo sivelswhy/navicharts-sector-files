@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 61,
+  "y": 60,
+  "mapBounds": {
+    "minX": 0.4765625,
+    "minY": 0.46875,
+    "maxX": 0.484375,
+    "maxY": 0.4765625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.48046875,
+    "midY": 0.47265625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "EDAMO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.48089891944444446,
+        "y": 0.4698364641065619
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "GUREL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4820787027777778,
+        "y": 0.4718489491754726
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BONTO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.48354243888888887,
+        "y": 0.4743550201485768
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

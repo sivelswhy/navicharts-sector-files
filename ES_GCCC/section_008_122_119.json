@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 122,
+  "y": 119,
+  "mapBounds": {
+    "minX": 0.4765625,
+    "minY": 0.46484375,
+    "maxX": 0.48046875,
+    "maxY": 0.46875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.478515625,
+    "midY": 0.466796875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "POTAL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.47990123333333334,
+        "y": 0.4681372603507607
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BKO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4779730722222222,
+        "y": 0.464866381138949
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

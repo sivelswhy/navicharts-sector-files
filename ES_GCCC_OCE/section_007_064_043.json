@@ -1,0 +1,93 @@
+{
+  "level": 7,
+  "x": 64,
+  "y": 43,
+  "mapBounds": {
+    "minX": 0.5,
+    "minY": 0.3359375,
+    "maxX": 0.5078125,
+    "maxY": 0.34375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.50390625,
+    "midY": 0.33984375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BELDI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5071790111111111,
+        "y": 0.3393367486695805
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SOMIL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5064027777777778,
+        "y": 0.340135146345414
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BAZOS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5053481472222222,
+        "y": 0.34122865932968205
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PODEM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5043140444444444,
+        "y": 0.34231246529463144
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "EVX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5033912805555556,
+        "y": 0.34328787773121716
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

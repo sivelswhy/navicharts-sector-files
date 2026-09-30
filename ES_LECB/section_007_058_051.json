@@ -1,0 +1,80 @@
+{
+  "level": 7,
+  "x": 58,
+  "y": 51,
+  "mapBounds": {
+    "minX": 0.453125,
+    "minY": 0.3984375,
+    "maxX": 0.4609375,
+    "maxY": 0.40625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.45703125,
+    "midY": 0.40234375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "RULET",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4585679,
+        "y": 0.3986239967222743
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "FAGUT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.45424536944444444,
+        "y": 0.4057355591939444
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "RAKUN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.45616280833333334,
+        "y": 0.4009491503425659
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SNT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.45458155833333336,
+        "y": 0.4025000663804741
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

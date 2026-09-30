@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 95,
+  "y": 55,
+  "mapBounds": {
+    "minX": 0.7421875,
+    "minY": 0.4296875,
+    "maxX": 0.75,
+    "maxY": 0.4375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.74609375,
+    "midY": 0.43359375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "IBANU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7489231777777778,
+        "y": 0.4330211245816627
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "JSR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7476468916666666,
+        "y": 0.4337133777989918
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CEA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7456892749999999,
+        "y": 0.4352993486459533
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

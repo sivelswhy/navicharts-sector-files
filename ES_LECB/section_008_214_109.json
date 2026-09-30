@@ -1,0 +1,93 @@
+{
+  "level": 8,
+  "x": 214,
+  "y": 109,
+  "mapBounds": {
+    "minX": 0.8359375,
+    "minY": 0.42578125,
+    "maxX": 0.83984375,
+    "maxY": 0.4296875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.837890625,
+    "midY": 0.427734375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "CAROL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.8374498444444445,
+        "y": 0.4261081551122746
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DRAKE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.8391054083333334,
+        "y": 0.4263495275506453
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KUDOS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.8388641972222222,
+        "y": 0.4278380474790936
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "POLKA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.8389274777777778,
+        "y": 0.4292834333798407
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "APU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.8375618055555555,
+        "y": 0.4276985030389503
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

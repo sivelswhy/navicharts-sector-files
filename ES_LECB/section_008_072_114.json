@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 72,
+  "y": 114,
+  "mapBounds": {
+    "minX": 0.28125,
+    "minY": 0.4453125,
+    "maxX": 0.28515625,
+    "maxY": 0.44921875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.283203125,
+    "midY": 0.447265625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "KESPA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.28512577222222224,
+        "y": 0.44901463977348494
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SIA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.28354416666666665,
+        "y": 0.4476911149418466
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

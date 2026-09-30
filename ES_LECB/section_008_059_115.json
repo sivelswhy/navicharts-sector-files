@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 59,
+  "y": 115,
+  "mapBounds": {
+    "minX": 0.23046875,
+    "minY": 0.44921875,
+    "maxX": 0.234375,
+    "maxY": 0.453125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.232421875,
+    "midY": 0.451171875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ISTMO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.23222299444444444,
+        "y": 0.4524451305398991
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "AVINA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.23378626666666666,
+        "y": 0.4529504533010243
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OAX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.231301775,
+        "y": 0.4521498461307114
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

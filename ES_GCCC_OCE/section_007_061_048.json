@@ -1,0 +1,93 @@
+{
+  "level": 7,
+  "x": 61,
+  "y": 48,
+  "mapBounds": {
+    "minX": 0.4765625,
+    "minY": 0.375,
+    "maxX": 0.484375,
+    "maxY": 0.3828125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.48046875,
+    "midY": 0.37890625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "RODAP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.48037415,
+        "y": 0.37990849619790595
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BABOV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4809067888888889,
+        "y": 0.37902698258766343
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BARDI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4824932111111111,
+        "y": 0.3764541809201676
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PORTA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.47971504722222225,
+        "y": 0.38099658039721374
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BIRBA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4791334888888889,
+        "y": 0.3818015997515893
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 131,
+  "y": 69,
+  "mapBounds": {
+    "minX": 0.51171875,
+    "minY": 0.26953125,
+    "maxX": 0.515625,
+    "maxY": 0.2734375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.513671875,
+    "midY": 0.271484375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "EDAPA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5121560185185186,
+        "y": 0.2734060589973258
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MORIG",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5121006481481482,
+        "y": 0.2707042496747125
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "UMBOR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5117584567901234,
+        "y": 0.2714647711572215
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

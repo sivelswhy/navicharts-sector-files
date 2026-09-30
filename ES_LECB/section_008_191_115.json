@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 191,
+  "y": 115,
+  "mapBounds": {
+    "minX": 0.74609375,
+    "minY": 0.44921875,
+    "maxX": 0.75,
+    "maxY": 0.453125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.748046875,
+    "midY": 0.451171875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "AVDOS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7479421305555556,
+        "y": 0.4496715665721409
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VEPIM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.7479884250000001,
+        "y": 0.45240562044217214
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

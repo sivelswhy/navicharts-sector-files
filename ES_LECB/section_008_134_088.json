@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 134,
+  "y": 88,
+  "mapBounds": {
+    "minX": 0.5234375,
+    "minY": 0.34375,
+    "maxX": 0.52734375,
+    "maxY": 0.34765625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.525390625,
+    "midY": 0.345703125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "EPIXU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5237492277777778,
+        "y": 0.3439025996219429
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TEDGO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5257200222222222,
+        "y": 0.3450316424220069
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

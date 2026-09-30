@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 131,
+  "y": 88,
+  "mapBounds": {
+    "minX": 0.51171875,
+    "minY": 0.34375,
+    "maxX": 0.515625,
+    "maxY": 0.34765625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.513671875,
+    "midY": 0.345703125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "SOMDA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5117901222222222,
+        "y": 0.3462075710131383
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ERTIP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5122407416666667,
+        "y": 0.34705556607181476
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

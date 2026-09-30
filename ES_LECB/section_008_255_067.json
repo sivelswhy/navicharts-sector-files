@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 255,
+  "y": 67,
+  "mapBounds": {
+    "minX": 0.99609375,
+    "minY": 0.26171875,
+    "maxX": 1,
+    "maxY": 0.265625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.998046875,
+    "midY": 0.263671875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "KOGOR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9977631166666667,
+        "y": 0.2625150959023518
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SONIR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9981597222222222,
+        "y": 0.2625727610506097
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DUKAR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9992260805555555,
+        "y": 0.2627312445499012
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 53,
+  "y": 60,
+  "mapBounds": {
+    "minX": 0.4140625,
+    "minY": 0.46875,
+    "maxX": 0.421875,
+    "maxY": 0.4765625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.41796875,
+    "midY": 0.47265625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BUXON",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4172692888888889,
+        "y": 0.47634705019827606
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NELTO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4193564805555556,
+        "y": 0.4726581600192803
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SAGRO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4142685194444444,
+        "y": 0.47043323867023773
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 126,
+  "y": 33,
+  "mapBounds": {
+    "minX": 0.984375,
+    "minY": 0.2578125,
+    "maxX": 0.9921875,
+    "maxY": 0.265625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.98828125,
+    "midY": 0.26171875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "TOMRI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9895555555555556,
+        "y": 0.2586944440003988
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BEBIT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9902222222222222,
+        "y": 0.259209429271881
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OBODO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9904953694444444,
+        "y": 0.2594168351846883
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

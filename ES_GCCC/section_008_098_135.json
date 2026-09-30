@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 98,
+  "y": 135,
+  "mapBounds": {
+    "minX": 0.3828125,
+    "minY": 0.52734375,
+    "maxX": 0.38671875,
+    "maxY": 0.53125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.384765625,
+    "midY": 0.529296875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "AKNIB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3845574083333333,
+        "y": 0.5282179840304496
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DALMA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3848185194444445,
+        "y": 0.5285241742590416
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ROPEX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3839444444444444,
+        "y": 0.5293557921263565
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BUTIM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3830564805555555,
+        "y": 0.530997840463053
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

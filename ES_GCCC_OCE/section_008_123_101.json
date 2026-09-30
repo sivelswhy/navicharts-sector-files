@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 123,
+  "y": 101,
+  "mapBounds": {
+    "minX": 0.48046875,
+    "minY": 0.39453125,
+    "maxX": 0.484375,
+    "maxY": 0.3984375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.482421875,
+    "midY": 0.396484375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "OSDAM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.48138580277777776,
+        "y": 0.39492260520431277
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TOLSI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4805138888888889,
+        "y": 0.3974490776012773
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ROMSO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.48196527777777776,
+        "y": 0.3945837369239597
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

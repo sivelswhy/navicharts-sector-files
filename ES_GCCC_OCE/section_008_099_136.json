@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 99,
+  "y": 136,
+  "mapBounds": {
+    "minX": 0.38671875,
+    "minY": 0.53125,
+    "maxX": 0.390625,
+    "maxY": 0.53515625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.388671875,
+    "midY": 0.533203125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "TROVA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.388338425,
+        "y": 0.5317988296492512
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MANPI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.38739583333333333,
+        "y": 0.5337941718370598
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "EDRIX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3869037027777778,
+        "y": 0.5348113303736395
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

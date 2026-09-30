@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 128,
+  "y": 90,
+  "mapBounds": {
+    "minX": 0.5,
+    "minY": 0.3515625,
+    "maxX": 0.50390625,
+    "maxY": 0.35546875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.501953125,
+    "midY": 0.353515625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ADABI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5014745361111111,
+        "y": 0.35350653252859104
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

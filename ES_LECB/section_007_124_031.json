@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 124,
+  "y": 31,
+  "mapBounds": {
+    "minX": 0.96875,
+    "minY": 0.2421875,
+    "maxX": 0.9765625,
+    "maxY": 0.25,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.97265625,
+    "midY": 0.24609375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "RULOD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9695270055555555,
+        "y": 0.24508635174452967
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BEREM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9750084888888889,
+        "y": 0.24851787316809795
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ODAMI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.9731967583333332,
+        "y": 0.24735995401751137
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

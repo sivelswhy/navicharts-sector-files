@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 132,
+  "y": 65,
+  "mapBounds": {
+    "minX": 0.515625,
+    "minY": 0.25390625,
+    "maxX": 0.51953125,
+    "maxY": 0.2578125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.517578125,
+    "midY": 0.255859375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ADSIM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5180092592592592,
+        "y": 0.25569041525339226
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "XELRU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5191314506172839,
+        "y": 0.25586723406633355
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

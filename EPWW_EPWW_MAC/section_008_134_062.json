@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 134,
+  "y": 62,
+  "mapBounds": {
+    "minX": 0.5234375,
+    "minY": 0.2421875,
+    "maxX": 0.52734375,
+    "maxY": 0.24609375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.525390625,
+    "midY": 0.244140625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BEVMU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5240362654320988,
+        "y": 0.2459962144004292
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OGPAR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5270123225308642,
+        "y": 0.24354524693582974
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "XEGLA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5252453703703703,
+        "y": 0.24452972729860703
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

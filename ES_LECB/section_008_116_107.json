@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 116,
+  "y": 107,
+  "mapBounds": {
+    "minX": 0.453125,
+    "minY": 0.41796875,
+    "maxX": 0.45703125,
+    "maxY": 0.421875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.455078125,
+    "midY": 0.419921875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "MERAN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4550398148055556,
+        "y": 0.4193788547850698
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

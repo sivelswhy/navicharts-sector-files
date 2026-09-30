@@ -1,0 +1,138 @@
+{
+  "level": 7,
+  "x": 72,
+  "y": 48,
+  "mapBounds": {
+    "minX": 0.5625,
+    "minY": 0.375,
+    "maxX": 0.5703125,
+    "maxY": 0.3828125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.56640625,
+    "midY": 0.37890625
+  },
+  "shapes": [
+    {
+      "geoArea": "LEBL 24R",
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": null,
+      "strokeColour": {
+        "$ref": "LEBL 24R"
+      },
+      "strokeWidth": 1,
+      "mapPoints": [
+        {
+          "x": 0.5073185185185185,
+          "y": 0.3725587818516598
+        },
+        {
+          "x": 0.6472568557098766,
+          "y": 0.44055368161382646
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.5073185185185185,
+        "minY": 0.3725587818516598,
+        "maxX": 0.6472568557098766,
+        "maxY": 0.44055368161382646,
+        "width": 0.13993833719135806,
+        "height": 0.06799489976216666,
+        "midX": 0.5772876871141975,
+        "midY": 0.40655623173274313
+      }
+    }
+  ],
+  "points": [
+    {
+      "identifier": "PEREN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5665771611111111,
+        "y": 0.37640601687718767
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SUTIS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5687461416666667,
+        "y": 0.3760205786665194
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ASKOS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5674174388888888,
+        "y": 0.3762545567575931
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ARNAS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5652237666666667,
+        "y": 0.3766568875873827
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SOSUS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5696481472222222,
+        "y": 0.3758658214816862
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TSL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5638640500000001,
+        "y": 0.3769171286017793
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

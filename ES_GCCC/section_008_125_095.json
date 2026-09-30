@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 125,
+  "y": 95,
+  "mapBounds": {
+    "minX": 0.48828125,
+    "minY": 0.37109375,
+    "maxX": 0.4921875,
+    "maxY": 0.375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.490234375,
+    "midY": 0.373046875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "EDIGO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4905230722222222,
+        "y": 0.3730627182536629
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SIE",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4899870361111111,
+        "y": 0.3743670564826779
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

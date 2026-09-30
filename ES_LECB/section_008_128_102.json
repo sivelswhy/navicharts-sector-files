@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 128,
+  "y": 102,
+  "mapBounds": {
+    "minX": 0.5,
+    "minY": 0.3984375,
+    "maxX": 0.50390625,
+    "maxY": 0.40234375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.501953125,
+    "midY": 0.400390625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BAY",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5029977388888889,
+        "y": 0.40043916049970496
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

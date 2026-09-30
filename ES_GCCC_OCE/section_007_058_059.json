@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 58,
+  "y": 59,
+  "mapBounds": {
+    "minX": 0.453125,
+    "minY": 0.4609375,
+    "maxX": 0.4609375,
+    "maxY": 0.46875,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.45703125,
+    "midY": 0.46484375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ABBIS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.45676851944444447,
+        "y": 0.4664249997891155
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KOMOR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4557916666666667,
+        "y": 0.46518866962636046
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BJ",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4537347222222223,
+        "y": 0.46261037768482394
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

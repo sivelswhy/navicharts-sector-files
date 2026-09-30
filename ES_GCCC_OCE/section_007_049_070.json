@@ -1,0 +1,54 @@
+{
+  "level": 7,
+  "x": 49,
+  "y": 70,
+  "mapBounds": {
+    "minX": 0.3828125,
+    "minY": 0.546875,
+    "maxX": 0.390625,
+    "maxY": 0.5546875,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.38671875,
+    "midY": 0.55078125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "XUVUD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.3905175861111111,
+        "y": 0.5480181104479569
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DAGEL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.38897592499999994,
+        "y": 0.550862833972324
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

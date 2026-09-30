@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 94,
+  "y": 143,
+  "mapBounds": {
+    "minX": 0.3671875,
+    "minY": 0.55859375,
+    "maxX": 0.37109375,
+    "maxY": 0.5625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.369140625,
+    "midY": 0.560546875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "NESRA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.36886851944444443,
+        "y": 0.5618390402386018
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ISMOB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.36889717499999997,
+        "y": 0.5620394570340593
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NIMPU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.36869206666666665,
+        "y": 0.5606679550535165
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

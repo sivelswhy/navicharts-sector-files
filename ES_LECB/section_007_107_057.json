@@ -1,0 +1,54 @@
+{
+  "level": 7,
+  "x": 107,
+  "y": 57,
+  "mapBounds": {
+    "minX": 0.8359375,
+    "minY": 0.4453125,
+    "maxX": 0.84375,
+    "maxY": 0.453125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.83984375,
+    "midY": 0.44921875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "DYERA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.8371998444444444,
+        "y": 0.4512011932413617
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CUY",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.8381891361111111,
+        "y": 0.4522679006352883
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

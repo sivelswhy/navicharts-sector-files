@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 78,
+  "y": 59,
+  "mapBounds": {
+    "minX": 0.609375,
+    "minY": 0.4609375,
+    "maxX": 0.6171875,
+    "maxY": 0.46875,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.61328125,
+    "midY": 0.46484375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "GEROB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6102885805555556,
+        "y": 0.46829860246845284
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "UNKID",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6101087972222222,
+        "y": 0.4660273216879419
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "QHA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6097909638888889,
+        "y": 0.4622259049534264
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

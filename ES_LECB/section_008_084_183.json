@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 84,
+  "y": 183,
+  "mapBounds": {
+    "minX": 0.328125,
+    "minY": 0.71484375,
+    "maxX": 0.33203125,
+    "maxY": 0.71875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.330078125,
+    "midY": 0.716796875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "KRILL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.33142669722222223,
+        "y": 0.7164267017825735
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

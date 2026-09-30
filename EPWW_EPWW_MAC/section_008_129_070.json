@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 129,
+  "y": 70,
+  "mapBounds": {
+    "minX": 0.50390625,
+    "minY": 0.2734375,
+    "maxX": 0.5078125,
+    "maxY": 0.27734375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.505859375,
+    "midY": 0.275390625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "GEMVA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5048024691358025,
+        "y": 0.2766851194154807
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "XAMUS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5047808641975309,
+        "y": 0.27519947038672604
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

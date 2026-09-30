@@ -1,0 +1,41 @@
+{
+  "level": 7,
+  "x": 23,
+  "y": 43,
+  "mapBounds": {
+    "minX": 0.1796875,
+    "minY": 0.3359375,
+    "maxX": 0.1875,
+    "maxY": 0.34375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.18359375,
+    "midY": 0.33984375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "FIRNI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.18016821111111112,
+        "y": 0.34092335538542984
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

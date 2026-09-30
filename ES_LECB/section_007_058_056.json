@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 58,
+  "y": 56,
+  "mapBounds": {
+    "minX": 0.453125,
+    "minY": 0.4375,
+    "maxX": 0.4609375,
+    "maxY": 0.4453125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.45703125,
+    "midY": 0.44140625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "GUPEL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.45831944444444445,
+        "y": 0.43932205399813296
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LOLOS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4537037036944444,
+        "y": 0.43777855512932357
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MAURI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4531280864166667,
+        "y": 0.43932205399813296
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}
