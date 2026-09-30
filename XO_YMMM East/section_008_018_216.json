@@ -1,0 +1,63 @@
+{
+  "level": 8,
+  "x": 18,
+  "y": 216,
+  "mapBounds": {
+    "minX": 0.0703125,
+    "minY": 0.84375,
+    "maxX": 0.07421875,
+    "maxY": 0.84765625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.072265625,
+    "midY": 0.845703125
+  },
+  "shapes": [
+    {
+      "geoArea": "COAST",
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": null,
+      "strokeColour": {
+        "$ref": "COAST"
+      },
+      "strokeWidth": 1,
+      "mapPoints": [
+        {
+          "x": 0.07121541358024691,
+          "y": 0.8479037576778267
+        },
+        {
+          "x": 0.07058695447530859,
+          "y": 0.8475911608368877
+        },
+        {
+          "x": 0.06995849614197533,
+          "y": 0.8472791614528247
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.06995849614197533,
+        "minY": 0.8472791614528247,
+        "maxX": 0.07121541358024691,
+        "maxY": 0.8479037576778267,
+        "width": 0.001256917438271582,
+        "height": 0.0006245962250019943,
+        "midX": 0.07058695486111112,
+        "midY": 0.8475914595653257
+      }
+    }
+  ],
+  "points": [],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

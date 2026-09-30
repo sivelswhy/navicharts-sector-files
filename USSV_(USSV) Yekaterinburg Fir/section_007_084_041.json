@@ -1,0 +1,3858 @@
+{
+  "level": 7,
+  "x": 84,
+  "y": 41,
+  "mapBounds": {
+    "minX": 0.65625,
+    "minY": 0.3203125,
+    "maxX": 0.6640625,
+    "maxY": 0.328125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.66015625,
+    "midY": 0.32421875
+  },
+  "shapes": [
+    {
+      "geoArea": null,
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": "#6E6E6E",
+      "strokeColour": "#6E6E6E",
+      "strokeWidth": 0,
+      "mapPoints": [
+        {
+          "x": 0.6632169891975309,
+          "y": 0.3239098753680142
+        },
+        {
+          "x": 0.6632248302469136,
+          "y": 0.3239230679371228
+        },
+        {
+          "x": 0.6632261064814814,
+          "y": 0.32394267335877336
+        },
+        {
+          "x": 0.6632237777777777,
+          "y": 0.3239584758428731
+        },
+        {
+          "x": 0.6632031898148149,
+          "y": 0.3239972819379015
+        },
+        {
+          "x": 0.6632067662037037,
+          "y": 0.32398228457619627
+        },
+        {
+          "x": 0.6632176195987654,
+          "y": 0.32394440970116095
+        },
+        {
+          "x": 0.663221099537037,
+          "y": 0.32392945233362325
+        },
+        {
+          "x": 0.6632263101851852,
+          "y": 0.3239145701857191
+        },
+        {
+          "x": 0.6632169891975309,
+          "y": 0.3239098753680142
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.6632031898148149,
+        "minY": 0.3239098753680142,
+        "maxX": 0.6632263101851852,
+        "maxY": 0.3239972819379015,
+        "width": 2.31203703703331E-05,
+        "height": 8.74065698873161E-05,
+        "midX": 0.6632147500000001,
+        "midY": 0.3239535786529578
+      }
+    },
+    {
+      "geoArea": null,
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": "#464646",
+      "strokeColour": "#202000",
+      "strokeWidth": 1,
+      "mapPoints": [
+        {
+          "x": 0.6632287862654321,
+          "y": 0.3238610727015887
+        },
+        {
+          "x": 0.6631937168209876,
+          "y": 0.3239906849977053
+        },
+        {
+          "x": 0.6632277538580247,
+          "y": 0.32386298708794037
+        },
+        {
+          "x": 0.6632287862654321,
+          "y": 0.3238610727015887
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.6631937168209876,
+        "minY": 0.3238610727015887,
+        "maxX": 0.6632287862654321,
+        "maxY": 0.3239906849977053,
+        "width": 3.5069444444535414E-05,
+        "height": 0.00012961229611657687,
+        "midX": 0.6632112515432098,
+        "midY": 0.32392587884964696
+      }
+    },
+    {
+      "geoArea": "RESTRICTED",
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": null,
+      "strokeColour": {
+        "$ref": "RESTRICTED"
+      },
+      "strokeWidth": 1,
+      "mapPoints": [
+        {
+          "x": 0.6607044444444444,
+          "y": 0.32136781678384185
+        },
+        {
+          "x": 0.6599461111111111,
+          "y": 0.3199826504442925
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.6599461111111111,
+        "minY": 0.3199826504442925,
+        "maxX": 0.6607044444444444,
+        "maxY": 0.32136781678384185,
+        "width": 0.0007583333333333053,
+        "height": 0.0013851663395493263,
+        "midX": 0.6603252777777777,
+        "midY": 0.3206752336140672
+      }
+    },
+    {
+      "geoArea": "RESTRICTED",
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": null,
+      "strokeColour": {
+        "$ref": "RESTRICTED"
+      },
+      "strokeWidth": 1,
+      "mapPoints": [
+        {
+          "x": 0.6628455555555556,
+          "y": 0.3188927625614174
+        },
+        {
+          "x": 0.6617916666666667,
+          "y": 0.3205284112281439
+        },
+        {
+          "x": 0.6607044444444444,
+          "y": 0.32136781678384185
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.6607044444444444,
+        "minY": 0.3188927625614174,
+        "maxX": 0.6628455555555556,
+        "maxY": 0.32136781678384185,
+        "width": 0.002141111111111149,
+        "height": 0.0024750542224244443,
+        "midX": 0.661775,
+        "midY": 0.32013028967262963
+      }
+    },
+    {
+      "geoArea": "RESTRICTED",
+      "positions": [
+        "STATIC"
+      ],
+      "fillColour": null,
+      "strokeColour": {
+        "$ref": "RESTRICTED"
+      },
+      "strokeWidth": 1,
+      "mapPoints": [
+        {
+          "x": 0.6604066666666667,
+          "y": 0.32423164780658703
+        },
+        {
+          "x": 0.6603455555555555,
+          "y": 0.3236209508786015
+        },
+        {
+          "x": 0.6604158333333333,
+          "y": 0.32350848193648574
+        },
+        {
+          "x": 0.6608372222222222,
+          "y": 0.3233903441155573
+        },
+        {
+          "x": 0.6616813888888888,
+          "y": 0.32349401033987424
+        },
+        {
+          "x": 0.6616588888888889,
+          "y": 0.32397986424704817
+        },
+        {
+          "x": 0.6613172222222222,
+          "y": 0.3241711744510175
+        },
+        {
+          "x": 0.6610538888888888,
+          "y": 0.32398871234061033
+        },
+        {
+          "x": 0.6609444444444444,
+          "y": 0.3243543985531328
+        },
+        {
+          "x": 0.6604066666666667,
+          "y": 0.32423164780658703
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.6603455555555555,
+        "minY": 0.3233903441155573,
+        "maxX": 0.6616813888888888,
+        "maxY": 0.3243543985531328,
+        "width": 0.0013358333333333139,
+        "height": 0.0009640544375755233,
+        "midX": 0.6610134722222222,
+        "midY": 0.32387237133434504
+      }
+    }
+  ],
+  "points": [
+    {
+      "identifier": "18NDB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6632794166666667,
+        "y": 0.3236875154718132
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "30THR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6632938888888888,
+        "y": 0.3236383988423412
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "32VOR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6632961944444444,
+        "y": 0.3236423174250084
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BANAK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6620100277777777,
+        "y": 0.3276797890170942
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "BATAL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6614799444444445,
+        "y": 0.32221390220308216
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CD18",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6635978888888889,
+        "y": 0.322767297352359
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CD36",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6629345555555556,
+        "y": 0.3250100147021497
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CF18",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6633544166666667,
+        "y": 0.3234289217633399
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CF36",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6630015,
+        "y": 0.32465161507274276
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CI18",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6635477222222222,
+        "y": 0.3227589099350123
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CI36",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6629005833333333,
+        "y": 0.3250023239412665
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CM001",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6630885,
+        "y": 0.32435170257188756
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CM002",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6629573055555555,
+        "y": 0.3248088915304288
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CM003",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6634006388888889,
+        "y": 0.3249370794994399
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CM004",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6628301666666666,
+        "y": 0.32525309330649815
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CM005",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6625134166666666,
+        "y": 0.3246815953513711
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CM006",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6635335555555555,
+        "y": 0.32447772378468187
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CM007",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6633348055555556,
+        "y": 0.3234967180093426
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CM008",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6634678055555555,
+        "y": 0.32303658320074885
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CM009",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6630203055555556,
+        "y": 0.32290697283648356
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CM010",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6635978888888889,
+        "y": 0.3225878507981494
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CM011",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6639147222222223,
+        "y": 0.323167137435317
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CM012",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6637799722222222,
+        "y": 0.3236293018337405
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CM018",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6629385,
+        "y": 0.3254220084634844
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CM019",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6638738888888889,
+        "y": 0.3221036385478252
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CM021",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6633325833333333,
+        "y": 0.3235043272960067
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CM027",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6630906388888889,
+        "y": 0.3243443581613703
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CN18",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.66339325,
+        "y": 0.32329026873416034
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "CN36",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6630033333333333,
+        "y": 0.32465235767298534
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "D003Q",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6635925,
+        "y": 0.3225959640998897
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "D005X",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6626524444444445,
+        "y": 0.3256669859514288
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "D016O",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6637853888888888,
+        "y": 0.3228499342096337
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "D024Q",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6640116666666667,
+        "y": 0.32280693362612806
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "D033O",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6640601944444444,
+        "y": 0.3230628319431924
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "D040X",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6617843333333333,
+        "y": 0.3250957511778218
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "D123O",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6640244444444444,
+        "y": 0.3247201546619998
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "D154O",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6634770555555556,
+        "y": 0.32501613003466745
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "D174O",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6630738055555555,
+        "y": 0.32503720795940644
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "D183Y",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6637463611111111,
+        "y": 0.3220624501223198
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "D185Q",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6628120000000001,
+        "y": 0.32514103624621254
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "D191O",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6627423888888889,
+        "y": 0.3249456533218671
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "D202O",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6625479722222222,
+        "y": 0.3248361123085402
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "D220M",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6624278888888889,
+        "y": 0.32448246196012887
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "D220O",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6622894166666667,
+        "y": 0.3245894124486837
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "D220Q",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.66216425,
+        "y": 0.3246862358570412
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "D301M",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6625035555555556,
+        "y": 0.32319126486432576
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "D301O",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6623702777777778,
+        "y": 0.3230634401615253
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "D301Q",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6622550277777778,
+        "y": 0.3229530412889771
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "D339O",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6630517777777778,
+        "y": 0.3227128899477758
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "D357O",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6634197777777777,
+        "y": 0.322719357762289
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "FD18",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6633441944444445,
+        "y": 0.3235028334713841
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "FD36",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6630736944444444,
+        "y": 0.3244480379359657
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "FF18",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6633248333333334,
+        "y": 0.32353037405162116
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "FF36",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6630902777777778,
+        "y": 0.32434421870790875
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "FI18",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6633325555555556,
+        "y": 0.3235044206596714
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "FN18X",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6633773888888889,
+        "y": 0.32334554537980936
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "FN18Z",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6633264166666666,
+        "y": 0.3235233258949053
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "FN36",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6631098333333333,
+        "y": 0.3242784322342019
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "FN36X",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6630526944444445,
+        "y": 0.32447925673616923
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KUDON",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6607530833333333,
+        "y": 0.3257864544727719
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LANUD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6623680555555556,
+        "y": 0.32091881398142097
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NERNI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6603387222222222,
+        "y": 0.32388013290052964
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "G18A",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6632310277777778,
+        "y": 0.3238792942178404
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "G36A",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6632310277777778,
+        "y": 0.3238792942178404
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ICP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6632314722222222,
+        "y": 0.3238772906837203
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 109900,
+      "altitude": null
+    },
+    {
+      "identifier": "IRF",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6631900555555555,
+        "y": 0.32397963139714886
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 108700,
+      "altitude": null
+    },
+    {
+      "identifier": "MGR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6632155,
+        "y": 0.3238770111192099
+      },
+      "kind": "VOR",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 114100,
+      "altitude": null
+    },
+    {
+      "identifier": "C",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6632405,
+        "y": 0.32382342064010394
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 975000,
+      "altitude": null
+    },
+    {
+      "identifier": "R",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.66317925,
+        "y": 0.32403434360720573
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 975000,
+      "altitude": null
+    },
+    {
+      "identifier": "RF",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6631441388888889,
+        "y": 0.3241584727042185
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 480000,
+      "altitude": null
+    }
+  ],
+  "airports": [
+    "UWUA",
+    "USCI"
+  ],
+  "runways": [
+    {
+      "airport": "UWUA",
+      "primaryId": "18",
+      "oppositeId": "36",
+      "primaryCourse": 180,
+      "oppositeCourse": 0,
+      "primaryMapPoint": {
+        "x": 0.6631069907407408,
+        "y": 0.32714489783968526
+      },
+      "primaryElevation": 0,
+      "oppositeMapPoint": {
+        "x": 0.663090462962963,
+        "y": 0.32722249805195447
+      },
+      "oppositeElevation": 0,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": 1.780646909830916
+    },
+    {
+      "airport": "USCI",
+      "primaryId": "11",
+      "oppositeId": "29",
+      "primaryCourse": 110,
+      "oppositeCourse": 290,
+      "primaryMapPoint": {
+        "x": 0.6635783333333333,
+        "y": 0.3270794947652236
+      },
+      "primaryElevation": 0,
+      "oppositeMapPoint": {
+        "x": 0.6635993055555556,
+        "y": 0.3270924701125699
+      },
+      "oppositeElevation": 0,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": 0.5540504027935612
+    },
+    {
+      "airport": "USCI",
+      "primaryId": "05",
+      "oppositeId": "23",
+      "primaryCourse": 50,
+      "oppositeCourse": 230,
+      "primaryMapPoint": {
+        "x": 0.6635810555555556,
+        "y": 0.3270919657861668
+      },
+      "primaryElevation": 0,
+      "oppositeMapPoint": {
+        "x": 0.6636063888888889,
+        "y": 0.32707830264162907
+      },
+      "oppositeElevation": 0,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": -0.49461798608442176
+    },
+    {
+      "airport": "USCM",
+      "primaryId": "36",
+      "oppositeId": "18",
+      "primaryCourse": 3,
+      "oppositeCourse": 183,
+      "primaryMapPoint": {
+        "x": 0.6631911944444444,
+        "y": 0.3239944401064537
+      },
+      "primaryElevation": 0,
+      "oppositeMapPoint": {
+        "x": 0.6632289722222222,
+        "y": 0.3238634983644666
+      },
+      "oppositeElevation": 0,
+      "primaryHeadwind": 0,
+      "oppositeHeadwind": 0,
+      "angle": -1.2899154445957646
+    }
+  ],
+  "taxiways": [
+    {
+      "airport": "USCM",
+      "text": "2",
+      "mapPosition": {
+        "x": 0.6632164429012346,
+        "y": 0.32392525345797335
+      }
+    }
+  ],
+  "gates": [
+    {
+      "airport": "USCM",
+      "identifier": "12",
+      "geoPosition": {
+        "x": 53.3941,
+        "y": 58.761402777777775
+      },
+      "mapPosition": {
+        "x": 0.6632261188271605,
+        "y": 0.32392443825763134
+      },
+      "gateType": null
+    },
+    {
+      "airport": "USCM",
+      "identifier": "5",
+      "geoPosition": {
+        "x": 53.39022222222222,
+        "y": 58.758097222222226
+      },
+      "mapPosition": {
+        "x": 0.6632169367283951,
+        "y": 0.3239425012763225
+      },
+      "gateType": null
+    },
+    {
+      "airport": "USCM",
+      "identifier": "6",
+      "geoPosition": {
+        "x": 53.390591666666666,
+        "y": 58.75825277777778
+      },
+      "mapPosition": {
+        "x": 0.6632173688271605,
+        "y": 0.32394078044360025
+      },
+      "gateType": null
+    },
+    {
+      "airport": "USCM",
+      "identifier": "7",
+      "geoPosition": {
+        "x": 53.39092222222222,
+        "y": 58.75838888888889
+      },
+      "mapPosition": {
+        "x": 0.6632177469135802,
+        "y": 0.3239392407385043
+      },
+      "gateType": null
+    },
+    {
+      "airport": "USCM",
+      "identifier": "8",
+      "geoPosition": {
+        "x": 53.391225,
+        "y": 58.75857222222222
+      },
+      "mapPosition": {
+        "x": 0.6632182561728395,
+        "y": 0.323937830409899
+      },
+      "gateType": null
+    },
+    {
+      "airport": "USCM",
+      "identifier": "9",
+      "geoPosition": {
+        "x": 53.39181111111111,
+        "y": 58.75884444444444
+      },
+      "mapPosition": {
+        "x": 0.663219012345679,
+        "y": 0.32393510029574396
+      },
+      "gateType": null
+    },
+    {
+      "airport": "USCM",
+      "identifier": "4",
+      "geoPosition": {
+        "x": 53.39066388888889,
+        "y": 58.75964444444445
+      },
+      "mapPosition": {
+        "x": 0.6632212345679013,
+        "y": 0.3239404440384656
+      },
+      "gateType": null
+    },
+    {
+      "airport": "USCM",
+      "identifier": "11",
+      "geoPosition": {
+        "x": 53.39364722222222,
+        "y": 58.761269444444444
+      },
+      "mapPosition": {
+        "x": 0.6632257484567902,
+        "y": 0.32392654741988725
+      },
+      "gateType": null
+    },
+    {
+      "airport": "USCM",
+      "identifier": "10",
+      "geoPosition": {
+        "x": 53.393147222222225,
+        "y": 58.76104722222222
+      },
+      "mapPosition": {
+        "x": 0.6632251311728394,
+        "y": 0.323928876530051
+      },
+      "gateType": null
+    },
+    {
+      "airport": "USCM",
+      "identifier": "1",
+      "geoPosition": {
+        "x": 53.39145,
+        "y": 58.76000555555555
+      },
+      "mapPosition": {
+        "x": 0.663222237654321,
+        "y": 0.32393678236104356
+      },
+      "gateType": null
+    },
+    {
+      "airport": "USCM",
+      "identifier": "2",
+      "geoPosition": {
+        "x": 53.391355555555556,
+        "y": 58.760644444444445
+      },
+      "mapPosition": {
+        "x": 0.663224012345679,
+        "y": 0.32393722228346
+      },
+      "gateType": null
+    },
+    {
+      "airport": "USCM",
+      "identifier": "3",
+      "geoPosition": {
+        "x": 53.39056388888889,
+        "y": 58.76029166666667
+      },
+      "mapPosition": {
+        "x": 0.6632230324074074,
+        "y": 0.3239409098300383
+      },
+      "gateType": null
+    }
+  ],
+  "mvas": [],
+  "airspaces": [
+    {
+      "identifier": "\u003CARTCC Id\u003E",
+      "mapPoints": [
+        {
+          "x": 0.6755663611111111,
+          "y": 0.3202125295063299
+        },
+        {
+          "x": 0.6758796388888888,
+          "y": 0.3201189031844619
+        },
+        {
+          "x": 0.6759836111111112,
+          "y": 0.3201797264705562
+        },
+        {
+          "x": 0.6759833055555556,
+          "y": 0.32020631111752285
+        },
+        {
+          "x": 0.6760046944444444,
+          "y": 0.3202092067276614
+        },
+        {
+          "x": 0.6760261111111111,
+          "y": 0.3202016590642447
+        },
+        {
+          "x": 0.6760261111111111,
+          "y": 0.32018452146770526
+        },
+        {
+          "x": 0.6760558333333333,
+          "y": 0.3201674298533148
+        },
+        {
+          "x": 0.6760814166666667,
+          "y": 0.32018452146770526
+        },
+        {
+          "x": 0.6761155833333333,
+          "y": 0.3201722251509118
+        },
+        {
+          "x": 0.6761411388888889,
+          "y": 0.3201379908053512
+        },
+        {
+          "x": 0.6761624722222221,
+          "y": 0.32015081157877007
+        },
+        {
+          "x": 0.6762263888888889,
+          "y": 0.32013419189680303
+        },
+        {
+          "x": 0.6762730555555556,
+          "y": 0.3201645811061927
+        },
+        {
+          "x": 0.6763586388888888,
+          "y": 0.3201138189949643
+        },
+        {
+          "x": 0.6763841388888889,
+          "y": 0.32007620192563424
+        },
+        {
+          "x": 0.6764055555555556,
+          "y": 0.32008437190224476
+        },
+        {
+          "x": 0.6764224722222222,
+          "y": 0.32010997212574405
+        },
+        {
+          "x": 0.6764649722222222,
+          "y": 0.3200895492113192
+        },
+        {
+          "x": 0.6765075277777778,
+          "y": 0.32009387144728846
+        },
+        {
+          "x": 0.6765716666666667,
+          "y": 0.32006009847561756
+        },
+        {
+          "x": 0.6766441388888889,
+          "y": 0.320048697003858
+        },
+        {
+          "x": 0.67671275,
+          "y": 0.3200011837377964
+        },
+        {
+          "x": 0.6767597222222222,
+          "y": 0.3200017064463258
+        },
+        {
+          "x": 0.6767896944444445,
+          "y": 0.31997651981564024
+        },
+        {
+          "x": 0.6767941666666667,
+          "y": 0.3199465292505961
+        },
+        {
+          "x": 0.6769308333333334,
+          "y": 0.3199232845965372
+        },
+        {
+          "x": 0.6770121944444445,
+          "y": 0.31988900677741516
+        },
+        {
+          "x": 0.6770166666666667,
+          "y": 0.31985481807465926
+        },
+        {
+          "x": 0.6770380833333334,
+          "y": 0.319842453515602
+        },
+        {
+          "x": 0.6770635833333333,
+          "y": 0.319842453515602
+        },
+        {
+          "x": 0.6770805555555556,
+          "y": 0.31986380566861927
+        },
+        {
+          "x": 0.6771236111111111,
+          "y": 0.3198305162207847
+        },
+        {
+          "x": 0.6771789166666666,
+          "y": 0.31982675891387524
+        },
+        {
+          "x": 0.6772388611111111,
+          "y": 0.31980583082381564
+        },
+        {
+          "x": 0.6772644444444444,
+          "y": 0.3198148206634651
+        },
+        {
+          "x": 0.6775083611111111,
+          "y": 0.3200695991959673
+        },
+        {
+          "x": 0.6775416666666666,
+          "y": 0.32014183712532895
+        },
+        {
+          "x": 0.6775885833333334,
+          "y": 0.3201132965850513
+        },
+        {
+          "x": 0.6776010833333334,
+          "y": 0.32014796259039685
+        },
+        {
+          "x": 0.6776441944444445,
+          "y": 0.32011424642022235
+        },
+        {
+          "x": 0.6776780277777777,
+          "y": 0.32011904301759964
+        },
+        {
+          "x": 0.6776905555555556,
+          "y": 0.32013613884662134
+        },
+        {
+          "x": 0.6777119722222222,
+          "y": 0.32014083993849973
+        },
+        {
+          "x": 0.6777977777777778,
+          "y": 0.320089976689449
+        },
+        {
+          "x": 0.6778283055555556,
+          "y": 0.32002299375572685
+        },
+        {
+          "x": 0.6778005555555555,
+          "y": 0.31989380888549207
+        },
+        {
+          "x": 0.6777128055555556,
+          "y": 0.31976491946900903
+        },
+        {
+          "x": 0.6777088611111111,
+          "y": 0.31973061395025415
+        },
+        {
+          "x": 0.6777349722222222,
+          "y": 0.31968830664563586
+        },
+        {
+          "x": 0.6777269166666667,
+          "y": 0.3196711717307053
+        },
+        {
+          "x": 0.6777611388888889,
+          "y": 0.3196587955826379
+        },
+        {
+          "x": 0.6777866666666666,
+          "y": 0.3196635081311539
+        },
+        {
+          "x": 0.6778383333333333,
+          "y": 0.31963499310100923
+        },
+        {
+          "x": 0.6778522222222223,
+          "y": 0.3196644125466965
+        },
+        {
+          "x": 0.6778333333333333,
+          "y": 0.31968973448759697
+        },
+        {
+          "x": 0.6778327777777778,
+          "y": 0.3197230478475115
+        },
+        {
+          "x": 0.6778625277777778,
+          "y": 0.3197373232687525
+        },
+        {
+          "x": 0.6779008611111111,
+          "y": 0.3197291864060517
+        },
+        {
+          "x": 0.67797,
+          "y": 0.3196754555998808
+        },
+        {
+          "x": 0.6779716666666666,
+          "y": 0.31957204540841433
+        },
+        {
+          "x": 0.6780394444444444,
+          "y": 0.31959442701065466
+        },
+        {
+          "x": 0.6780391944444445,
+          "y": 0.3196159014214692
+        },
+        {
+          "x": 0.6780519444444445,
+          "y": 0.3196244714827513
+        },
+        {
+          "x": 0.6780775277777777,
+          "y": 0.319624995196567
+        },
+        {
+          "x": 0.6780864166666667,
+          "y": 0.3195949508047727
+        },
+        {
+          "x": 0.6781161388888889,
+          "y": 0.31961261613193526
+        },
+        {
+          "x": 0.6782566944444445,
+          "y": 0.31963213660893053
+        },
+        {
+          "x": 0.6783552777777777,
+          "y": 0.31959166516396914
+        },
+        {
+          "x": 0.6783644722222222,
+          "y": 0.31956542567872387
+        },
+        {
+          "x": 0.6783858611111111,
+          "y": 0.3195530428500717
+        },
+        {
+          "x": 0.6784116666666667,
+          "y": 0.319553566754831
+        },
+        {
+          "x": 0.6784453055555555,
+          "y": 0.3195797125855744
+        },
+        {
+          "x": 0.6784716944444444,
+          "y": 0.31954161185204194
+        },
+        {
+          "x": 0.6785011388888889,
+          "y": 0.3195592819884796
+        },
+        {
+          "x": 0.6785355277777777,
+          "y": 0.3195387539983238
+        },
+        {
+          "x": 0.6785655555555555,
+          "y": 0.31953494346185246
+        },
+        {
+          "x": 0.6785875,
+          "y": 0.3195096967855893
+        },
+        {
+          "x": 0.6786174722222221,
+          "y": 0.31949735807533775
+        },
+        {
+          "x": 0.6786641388888889,
+          "y": 0.31951541329910904
+        },
+        {
+          "x": 0.6787713888888889,
+          "y": 0.31949164103492966
+        },
+        {
+          "x": 0.6788366944444445,
+          "y": 0.3195016457461557
+        },
+        {
+          "x": 0.6789469166666666,
+          "y": 0.31953732505583216
+        },
+        {
+          "x": 0.6790458055555556,
+          "y": 0.3195102208062731
+        },
+        {
+          "x": 0.6790422222222222,
+          "y": 0.31947158243190427
+        },
+        {
+          "x": 0.6790853055555556,
+          "y": 0.3194549050699329
+        },
+        {
+          "x": 0.6790899722222222,
+          "y": 0.31943822628790647
+        },
+        {
+          "x": 0.6790561111111112,
+          "y": 0.3194158268319614
+        },
+        {
+          "x": 0.6790566944444444,
+          "y": 0.319390564797467
+        },
+        {
+          "x": 0.6791175,
+          "y": 0.31934866076654844
+        },
+        {
+          "x": 0.6791688888888889,
+          "y": 0.31934484653012407
+        },
+        {
+          "x": 0.6792316388888889,
+          "y": 0.3194024812574746
+        },
+        {
+          "x": 0.6792702777777778,
+          "y": 0.3193948548065973
+        },
+        {
+          "x": 0.6792838611111112,
+          "y": 0.31935671809675886
+        },
+        {
+          "x": 0.6793097222222222,
+          "y": 0.319352951693724
+        },
+        {
+          "x": 0.6793347222222222,
+          "y": 0.3193748339599404
+        },
+        {
+          "x": 0.67936475,
+          "y": 0.3193724980611691
+        },
+        {
+          "x": 0.6793741666666667,
+          "y": 0.31933235438572316
+        },
+        {
+          "x": 0.6793916944444445,
+          "y": 0.3193162373885202
+        },
+        {
+          "x": 0.6794427777777778,
+          "y": 0.3193214350266231
+        },
+        {
+          "x": 0.679456111111111,
+          "y": 0.3193090367628172
+        },
+        {
+          "x": 0.6794441944444445,
+          "y": 0.31927035867244574
+        },
+        {
+          "x": 0.6795055833333333,
+          "y": 0.3191988007545844
+        },
+        {
+          "x": 0.679530861111111,
+          "y": 0.3192208433808976
+        },
+        {
+          "x": 0.6795669166666667,
+          "y": 0.3193200044977868
+        },
+        {
+          "x": 0.6796130555555556,
+          "y": 0.31935619366523427
+        },
+        {
+          "x": 0.679638638888889,
+          "y": 0.3193648227690265
+        },
+        {
+          "x": 0.67973275,
+          "y": 0.31935009108605394
+        },
+        {
+          "x": 0.6798514166666667,
+          "y": 0.31940009802347696
+        },
+        {
+          "x": 0.6800066944444445,
+          "y": 0.3193352629332651
+        },
+        {
+          "x": 0.6802019722222222,
+          "y": 0.31922461232608834
+        },
+        {
+          "x": 0.6802841388888888,
+          "y": 0.3191969876142347
+        },
+        {
+          "x": 0.6803497222222222,
+          "y": 0.3191391968960672
+        },
+        {
+          "x": 0.68048,
+          "y": 0.31907375013842926
+        },
+        {
+          "x": 0.6806636388888888,
+          "y": 0.31924178634751593
+        },
+        {
+          "x": 0.6807530555555555,
+          "y": 0.31934723043659563
+        },
+        {
+          "x": 0.6808344722222223,
+          "y": 0.3194859238276714
+        },
+        {
+          "x": 0.6808891944444445,
+          "y": 0.3195096967855893
+        },
+        {
+          "x": 0.6809975,
+          "y": 0.31946248153323326
+        },
+        {
+          "x": 0.6810747500000001,
+          "y": 0.31944685177821425
+        },
+        {
+          "x": 0.6810955555555556,
+          "y": 0.3194649116575029
+        },
+        {
+          "x": 0.6811508611111111,
+          "y": 0.3194744412656793
+        },
+        {
+          "x": 0.6811758333333333,
+          "y": 0.3194930226683167
+        },
+        {
+          "x": 0.6812825277777778,
+          "y": 0.3193629634915072
+        },
+        {
+          "x": 0.681266361111111,
+          "y": 0.31933383250544645
+        },
+        {
+          "x": 0.6812163611111111,
+          "y": 0.31929277477286605
+        },
+        {
+          "x": 0.6811703333333333,
+          "y": 0.3189911824881662
+        },
+        {
+          "x": 0.6811330555555556,
+          "y": 0.31895148603927953
+        },
+        {
+          "x": 0.6811216666666666,
+          "y": 0.318908054342811
+        },
+        {
+          "x": 0.6811272500000001,
+          "y": 0.31886547331863374
+        },
+        {
+          "x": 0.6811583611111112,
+          "y": 0.31882345668998396
+        },
+        {
+          "x": 0.6811885833333333,
+          "y": 0.31868663694516747
+        },
+        {
+          "x": 0.6811541944444445,
+          "y": 0.3185484288086301
+        },
+        {
+          "x": 0.6811599722222222,
+          "y": 0.3185019865498624
+        },
+        {
+          "x": 0.6812341944444444,
+          "y": 0.3184645853261264
+        },
+        {
+          "x": 0.6812939166666666,
+          "y": 0.31847516949735677
+        },
+        {
+          "x": 0.6813869444444445,
+          "y": 0.31839220487900194
+        },
+        {
+          "x": 0.6814436388888888,
+          "y": 0.3183639352118222
+        },
+        {
+          "x": 0.6815605833333334,
+          "y": 0.31833331310870466
+        },
+        {
+          "x": 0.6816416388888888,
+          "y": 0.31834912793984466
+        },
+        {
+          "x": 0.6817333611111112,
+          "y": 0.3183088215551954
+        },
+        {
+          "x": 0.6817716388888889,
+          "y": 0.318318934878139
+        },
+        {
+          "x": 0.6818386388888888,
+          "y": 0.318373087365513
+        },
+        {
+          "x": 0.6819291666666667,
+          "y": 0.3183581849482597
+        },
+        {
+          "x": 0.6819397222222222,
+          "y": 0.3183030696687066
+        },
+        {
+          "x": 0.6819338888888888,
+          "y": 0.318229814163582
+        },
+        {
+          "x": 0.6818985833333334,
+          "y": 0.31817178473579083
+        },
+        {
+          "x": 0.6818472222222223,
+          "y": 0.31812328576035825
+        },
+        {
+          "x": 0.6818397222222222,
+          "y": 0.31809209805586275
+        },
+        {
+          "x": 0.6818558611111111,
+          "y": 0.3179985050294707
+        },
+        {
+          "x": 0.6819350277777778,
+          "y": 0.31795385254138153
+        },
+        {
+          "x": 0.6820580555555555,
+          "y": 0.3180057060868355
+        },
+        {
+          "x": 0.6820655555555556,
+          "y": 0.3180320596909463
+        },
+        {
+          "x": 0.682133611111111,
+          "y": 0.3180560580557558
+        },
+        {
+          "x": 0.6821369722222221,
+          "y": 0.31808202096310045
+        },
+        {
+          "x": 0.6821580555555555,
+          "y": 0.318096416650643
+        },
+        {
+          "x": 0.6821928055555555,
+          "y": 0.31808830721058423
+        },
+        {
+          "x": 0.6821938888888889,
+          "y": 0.31805418628940885
+        },
+        {
+          "x": 0.6822469444444444,
+          "y": 0.3180172272259262
+        },
+        {
+          "x": 0.682281361111111,
+          "y": 0.3180138189597927
+        },
+        {
+          "x": 0.6823410833333333,
+          "y": 0.31803349967605754
+        },
+        {
+          "x": 0.6826964166666667,
+          "y": 0.3182283756259265
+        },
+        {
+          "x": 0.6827263888888889,
+          "y": 0.318229814163582
+        },
+        {
+          "x": 0.6827397222222221,
+          "y": 0.31822065529277177
+        },
+        {
+          "x": 0.6827364166666666,
+          "y": 0.31819576592924537
+        },
+        {
+          "x": 0.6826983333333333,
+          "y": 0.3181764852818157
+        },
+        {
+          "x": 0.6827230555555556,
+          "y": 0.31809157022105894
+        },
+        {
+          "x": 0.6827533333333333,
+          "y": 0.31809262588923937
+        },
+        {
+          "x": 0.6827822499999999,
+          "y": 0.31811992732390443
+        },
+        {
+          "x": 0.6828175277777777,
+          "y": 0.3181031342748291
+        },
+        {
+          "x": 0.68279225,
+          "y": 0.3180858119304722
+        },
+        {
+          "x": 0.6828816666666667,
+          "y": 0.31789958361243204
+        },
+        {
+          "x": 0.6829083611111112,
+          "y": 0.3177664407334464
+        },
+        {
+          "x": 0.6829266388888888,
+          "y": 0.31774581972446525
+        },
+        {
+          "x": 0.6830744166666667,
+          "y": 0.3177131292747235
+        },
+        {
+          "x": 0.6832886388888888,
+          "y": 0.31764441339030774
+        },
+        {
+          "x": 0.6832936388888888,
+          "y": 0.3178972300164672
+        },
+        {
+          "x": 0.6832600277777778,
+          "y": 0.31791058269470573
+        },
+        {
+          "x": 0.6832417222222222,
+          "y": 0.31803925951025286
+        },
+        {
+          "x": 0.6833333333333333,
+          "y": 0.3181007351498742
+        },
+        {
+          "x": 0.6833860833333333,
+          "y": 0.3181036140962816
+        },
+        {
+          "x": 0.6841964166666666,
+          "y": 0.31780782037612565
+        },
+        {
+          "x": 0.6844691666666667,
+          "y": 0.3177203408744711
+        },
+        {
+          "x": 0.6851355555555555,
+          "y": 0.31754574523514956
+        },
+        {
+          "x": 0.6851958611111111,
+          "y": 0.3175437723249277
+        },
+        {
+          "x": 0.6852703055555556,
+          "y": 0.3175712469113427
+        },
+        {
+          "x": 0.6853647222222222,
+          "y": 0.317559651279768
+        },
+        {
+          "x": 0.6855333611111111,
+          "y": 0.31743316117030057
+        },
+        {
+          "x": 0.6857330833333333,
+          "y": 0.3173801437532697
+        },
+        {
+          "x": 0.6861044166666667,
+          "y": 0.317332940816042
+        },
+        {
+          "x": 0.6862566388888889,
+          "y": 0.31736858490770786
+        },
+        {
+          "x": 0.6862822222222222,
+          "y": 0.31735895201251146
+        },
+        {
+          "x": 0.6863616666666666,
+          "y": 0.31725734412652273
+        },
+        {
+          "x": 0.6864080555555555,
+          "y": 0.31722206526761654
+        },
+        {
+          "x": 0.6866369444444445,
+          "y": 0.3172197034764299
+        },
+        {
+          "x": 0.6868691944444444,
+          "y": 0.31717053315471705
+        },
+        {
+          "x": 0.6869119444444445,
+          "y": 0.3171522598415399
+        },
+        {
+          "x": 0.6869508055555554,
+          "y": 0.31697421020600536
+        },
+        {
+          "x": 0.6870536111111111,
+          "y": 0.31692835692174737
+        },
+        {
+          "x": 0.6871894722222223,
+          "y": 0.31700268207177307
+        },
+        {
+          "x": 0.6873666666666667,
+          "y": 0.3169939961813413
+        },
+        {
+          "x": 0.6874138888888889,
+          "y": 0.31698000143138283
+        },
+        {
+          "x": 0.6874661111111111,
+          "y": 0.31699201767431884
+        },
+        {
+          "x": 0.68756975,
+          "y": 0.3169809183595992
+        },
+        {
+          "x": 0.68768775,
+          "y": 0.3170523772137108
+        },
+        {
+          "x": 0.6879111111111111,
+          "y": 0.3169655230448218
+        },
+        {
+          "x": 0.6880278055555555,
+          "y": 0.31695929700743797
+        },
+        {
+          "x": 0.6881563611111111,
+          "y": 0.3168960117916667
+        },
+        {
+          "x": 0.6882641944444445,
+          "y": 0.3168637095724843
+        },
+        {
+          "x": 0.6883514166666667,
+          "y": 0.3166495778342187
+        },
+        {
+          "x": 0.6883955833333333,
+          "y": 0.3164450339574043
+        },
+        {
+          "x": 0.6886594444444444,
+          "y": 0.3163922790656635
+        },
+        {
+          "x": 0.6889824722222222,
+          "y": 0.31655340275400107
+        },
+        {
+          "x": 0.6895536388888889,
+          "y": 0.31645374439697194
+        },
+        {
+          "x": 0.6895533333333332,
+          "y": 0.31642427250243593
+        },
+        {
+          "x": 0.6894485833333333,
+          "y": 0.3163608129090648
+        },
+        {
+          "x": 0.6895,
+          "y": 0.31629399094084026
+        },
+        {
+          "x": 0.6895458611111112,
+          "y": 0.31625626027356385
+        },
+        {
+          "x": 0.6895727777777777,
+          "y": 0.316210624952161
+        },
+        {
+          "x": 0.6895755555555556,
+          "y": 0.316054647565705
+        },
+        {
+          "x": 0.6897572222222222,
+          "y": 0.31597792161012217
+        },
+        {
+          "x": 0.6897699722222221,
+          "y": 0.3159474556151521
+        },
+        {
+          "x": 0.6897480555555556,
+          "y": 0.31591683926547887
+        },
+        {
+          "x": 0.6896824722222222,
+          "y": 0.3159047563659381
+        },
+        {
+          "x": 0.6896519166666667,
+          "y": 0.31587903523973926
+        },
+        {
+          "x": 0.68962525,
+          "y": 0.3158396704637801
+        },
+        {
+          "x": 0.6896202499999999,
+          "y": 0.3157746598455792
+        },
+        {
+          "x": 0.6896071944444445,
+          "y": 0.3157571289827573
+        },
+        {
+          "x": 0.6895372222222222,
+          "y": 0.31572317967839497
+        },
+        {
+          "x": 0.6894263611111111,
+          "y": 0.31556715020115267
+        },
+        {
+          "x": 0.6895178055555555,
+          "y": 0.3155487254818283
+        },
+        {
+          "x": 0.68949025,
+          "y": 0.3154397942789646
+        },
+        {
+          "x": 0.6894074722222222,
+          "y": 0.315445096365877
+        },
+        {
+          "x": 0.6893938888888889,
+          "y": 0.3153837973348768
+        },
+        {
+          "x": 0.6894022222222222,
+          "y": 0.31534871194576436
+        },
+        {
+          "x": 0.6894811388888888,
+          "y": 0.3153784935711499
+        },
+        {
+          "x": 0.6895683888888888,
+          "y": 0.31539498828678897
+        },
+        {
+          "x": 0.6896808333333333,
+          "y": 0.31530641612088917
+        },
+        {
+          "x": 0.6897419722222222,
+          "y": 0.3153152264841341
+        },
+        {
+          "x": 0.6897819722222222,
+          "y": 0.3153929934252872
+        },
+        {
+          "x": 0.6898171944444443,
+          "y": 0.3154329840463455
+        },
+        {
+          "x": 0.6898738611111112,
+          "y": 0.315431427388157
+        },
+        {
+          "x": 0.6899033333333334,
+          "y": 0.3153181469581517
+        },
+        {
+          "x": 0.6899383333333333,
+          "y": 0.31531707612278825
+        },
+        {
+          "x": 0.6901000277777778,
+          "y": 0.31535070726302533
+        },
+        {
+          "x": 0.6901566388888889,
+          "y": 0.31535022060217277
+        },
+        {
+          "x": 0.6902483611111111,
+          "y": 0.31534102248226786
+        },
+        {
+          "x": 0.6904400555555555,
+          "y": 0.3153000879885453
+        },
+        {
+          "x": 0.6904528055555555,
+          "y": 0.3152557852755222
+        },
+        {
+          "x": 0.6905489166666666,
+          "y": 0.3152557852755222
+        },
+        {
+          "x": 0.6905622499999999,
+          "y": 0.3153126953710551
+        },
+        {
+          "x": 0.6905972499999999,
+          "y": 0.31533810235291965
+        },
+        {
+          "x": 0.6906146944444445,
+          "y": 0.3153428718747674
+        },
+        {
+          "x": 0.6906625277777778,
+          "y": 0.31532106738816323
+        },
+        {
+          "x": 0.6907188888888889,
+          "y": 0.31521054711058505
+        },
+        {
+          "x": 0.6907055277777778,
+          "y": 0.3151676852845042
+        },
+        {
+          "x": 0.69067025,
+          "y": 0.3151369455686249
+        },
+        {
+          "x": 0.6906613611111111,
+          "y": 0.31508037369312153
+        },
+        {
+          "x": 0.6906697222222222,
+          "y": 0.3150365569000609
+        },
+        {
+          "x": 0.6908438888888889,
+          "y": 0.3148824126427839
+        },
+        {
+          "x": 0.6908655833333334,
+          "y": 0.3148122000070049
+        },
+        {
+          "x": 0.6908608055555555,
+          "y": 0.31472096849090925
+        },
+        {
+          "x": 0.6908913888888889,
+          "y": 0.31472868261079734
+        },
+        {
+          "x": 0.6909044444444444,
+          "y": 0.3147068088630841
+        },
+        {
+          "x": 0.6908733333333333,
+          "y": 0.31460565945863495
+        },
+        {
+          "x": 0.6908819722222223,
+          "y": 0.31457536784275064
+        },
+        {
+          "x": 0.6909780555555555,
+          "y": 0.31446442094926463
+        },
+        {
+          "x": 0.6911536111111112,
+          "y": 0.3145480035962376
+        },
+        {
+          "x": 0.6912499722222222,
+          "y": 0.3146266653750239
+        },
+        {
+          "x": 0.6914997222222223,
+          "y": 0.3147492358216012
+        },
+        {
+          "x": 0.6915608055555555,
+          "y": 0.3147141329378588
+        },
+        {
+          "x": 0.6916352777777778,
+          "y": 0.31491909459403705
+        },
+        {
+          "x": 0.6916922222222223,
+          "y": 0.31491124172901586
+        },
+        {
+          "x": 0.6916747222222223,
+          "y": 0.3147141329378588
+        },
+        {
+          "x": 0.6916308611111112,
+          "y": 0.31462275747023133
+        },
+        {
+          "x": 0.6916178055555556,
+          "y": 0.31452503418699174
+        },
+        {
+          "x": 0.6914513888888889,
+          "y": 0.31452454544652275
+        },
+        {
+          "x": 0.6914425000000001,
+          "y": 0.3145083674400423
+        },
+        {
+          "x": 0.6914425000000001,
+          "y": 0.3144331781609325
+        },
+        {
+          "x": 0.6914861388888889,
+          "y": 0.3141561727644251
+        },
+        {
+          "x": 0.6916263888888889,
+          "y": 0.31414735844681946
+        },
+        {
+          "x": 0.6916263888888889,
+          "y": 0.3142398887387449
+        },
+        {
+          "x": 0.6917975,
+          "y": 0.31423548353868574
+        },
+        {
+          "x": 0.6919686388888888,
+          "y": 0.3143147617846559
+        },
+        {
+          "x": 0.6921480833333333,
+          "y": 0.3144379700273615
+        },
+        {
+          "x": 0.6920833333333334,
+          "y": 0.3143509644904824
+        },
+        {
+          "x": 0.6922685277777778,
+          "y": 0.31304204310713124
+        },
+        {
+          "x": 0.6898148055555555,
+          "y": 0.3123018606184674
+        },
+        {
+          "x": 0.6806481388888889,
+          "y": 0.3070389858135868
+        },
+        {
+          "x": 0.6770833333333334,
+          "y": 0.30636018859862296
+        },
+        {
+          "x": 0.6770833333333334,
+          "y": 0.30439496676388716
+        },
+        {
+          "x": 0.6781481388888889,
+          "y": 0.30214845847020283
+        },
+        {
+          "x": 0.6770370277777777,
+          "y": 0.29569330358735657
+        },
+        {
+          "x": 0.6781481388888889,
+          "y": 0.2931566693627967
+        },
+        {
+          "x": 0.6769444444444445,
+          "y": 0.2861848910670915
+        },
+        {
+          "x": 0.6768518611111112,
+          "y": 0.2831274222622018
+        },
+        {
+          "x": 0.6755555555555556,
+          "y": 0.27844229300359186
+        },
+        {
+          "x": 0.6652777777777777,
+          "y": 0.2789360171681781
+        },
+        {
+          "x": 0.6589351944444444,
+          "y": 0.28380061570916193
+        },
+        {
+          "x": 0.6547222222222222,
+          "y": 0.2863742714691199
+        },
+        {
+          "x": 0.6444444444444445,
+          "y": 0.29039964086050873
+        },
+        {
+          "x": 0.6388888888888888,
+          "y": 0.29039964086050873
+        },
+        {
+          "x": 0.6351851944444444,
+          "y": 0.28853840373674317
+        },
+        {
+          "x": 0.6287036944444444,
+          "y": 0.2900288781384949
+        },
+        {
+          "x": 0.6263888888888889,
+          "y": 0.2930654112448226
+        },
+        {
+          "x": 0.625,
+          "y": 0.2971273379925442
+        },
+        {
+          "x": 0.6303703611111111,
+          "y": 0.30031420673610815
+        },
+        {
+          "x": 0.6298611111111111,
+          "y": 0.3051664044605802
+        },
+        {
+          "x": 0.6331018611111111,
+          "y": 0.30482391455706404
+        },
+        {
+          "x": 0.6411111111111112,
+          "y": 0.30906101628583404
+        },
+        {
+          "x": 0.6441203611111112,
+          "y": 0.3095631917889311
+        },
+        {
+          "x": 0.645,
+          "y": 0.3093122690391866
+        },
+        {
+          "x": 0.6490740833333334,
+          "y": 0.3088933473671055
+        },
+        {
+          "x": 0.6557870277777778,
+          "y": 0.3088933473671055
+        },
+        {
+          "x": 0.6607870277777778,
+          "y": 0.3128778202018297
+        },
+        {
+          "x": 0.6629166666666667,
+          "y": 0.32013419189680303
+        },
+        {
+          "x": 0.6599074166666666,
+          "y": 0.3245171586819666
+        },
+        {
+          "x": 0.66199075,
+          "y": 0.3276658459120458
+        },
+        {
+          "x": 0.6666666666666666,
+          "y": 0.33039029231172534
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.625,
+        "minY": 0.27844229300359186,
+        "maxX": 0.6922685277777778,
+        "maxY": 0.33039029231172534,
+        "width": 0.06726852777777781,
+        "height": 0.051947999308133486,
+        "midX": 0.6586342638888889,
+        "midY": 0.30441629265765857
+      },
+      "labels": []
+    }
+  ],
+  "airspacesLow": [
+    {
+      "identifier": "USCM_CTR",
+      "mapPoints": [
+        {
+          "x": 0.6632152777777778,
+          "y": 0.32261548650641814
+        },
+        {
+          "x": 0.6630829413580247,
+          "y": 0.3226224680957684
+        },
+        {
+          "x": 0.6629520802469137,
+          "y": 0.3226433345434488
+        },
+        {
+          "x": 0.6628241589506173,
+          "y": 0.3226778288341599
+        },
+        {
+          "x": 0.6627006026234568,
+          "y": 0.3227255884317027
+        },
+        {
+          "x": 0.6625827808641975,
+          "y": 0.3227860480080688
+        },
+        {
+          "x": 0.6624720054012345,
+          "y": 0.3228585376271762
+        },
+        {
+          "x": 0.6623695,
+          "y": 0.3229422274029645
+        },
+        {
+          "x": 0.6622763919753086,
+          "y": 0.3230361828661596
+        },
+        {
+          "x": 0.662193699845679,
+          "y": 0.32313933580915827
+        },
+        {
+          "x": 0.662122324845679,
+          "y": 0.3232505331644136
+        },
+        {
+          "x": 0.6620630416666666,
+          "y": 0.3233685390224864
+        },
+        {
+          "x": 0.6620164753086419,
+          "y": 0.32349202624822515
+        },
+        {
+          "x": 0.6619831195987654,
+          "y": 0.323619635480359
+        },
+        {
+          "x": 0.6619633163580246,
+          "y": 0.32374994965954484
+        },
+        {
+          "x": 0.6619572554012346,
+          "y": 0.3238815306971266
+        },
+        {
+          "x": 0.6619649776234569,
+          "y": 0.3240129403843049
+        },
+        {
+          "x": 0.6619863665123457,
+          "y": 0.32414273655736536
+        },
+        {
+          "x": 0.6620211697530864,
+          "y": 0.32426950921681
+        },
+        {
+          "x": 0.6620689722222223,
+          "y": 0.32439188284324805
+        },
+        {
+          "x": 0.6621292391975309,
+          "y": 0.3245085431273987
+        },
+        {
+          "x": 0.6622012916666667,
+          "y": 0.3246182132408259
+        },
+        {
+          "x": 0.6622843302469136,
+          "y": 0.3247197319370292
+        },
+        {
+          "x": 0.6623774390432099,
+          "y": 0.3248120167249571
+        },
+        {
+          "x": 0.662479600308642,
+          "y": 0.324894083799698
+        },
+        {
+          "x": 0.6625896944444444,
+          "y": 0.3249650383240448
+        },
+        {
+          "x": 0.6627065362654321,
+          "y": 0.3250241496891023
+        },
+        {
+          "x": 0.6628288503086419,
+          "y": 0.3250707890487604
+        },
+        {
+          "x": 0.6629553279320988,
+          "y": 0.3251044570834213
+        },
+        {
+          "x": 0.663084600308642,
+          "y": 0.3251248028220492
+        },
+        {
+          "x": 0.6632152777777778,
+          "y": 0.3251316065654457
+        },
+        {
+          "x": 0.6633459552469135,
+          "y": 0.3251248028220492
+        },
+        {
+          "x": 0.6634752237654321,
+          "y": 0.3251044570834213
+        },
+        {
+          "x": 0.6636017029320987,
+          "y": 0.3250707890487604
+        },
+        {
+          "x": 0.6637240192901235,
+          "y": 0.3250241496891023
+        },
+        {
+          "x": 0.6638408611111111,
+          "y": 0.3249650383240448
+        },
+        {
+          "x": 0.6639509552469136,
+          "y": 0.324894083799698
+        },
+        {
+          "x": 0.6640531165123457,
+          "y": 0.3248120167249571
+        },
+        {
+          "x": 0.664146225308642,
+          "y": 0.3247197319370292
+        },
+        {
+          "x": 0.6642292638888889,
+          "y": 0.3246182132408259
+        },
+        {
+          "x": 0.6643013163580247,
+          "y": 0.3245085431273987
+        },
+        {
+          "x": 0.6643615833333333,
+          "y": 0.32439188284324805
+        },
+        {
+          "x": 0.6644093858024691,
+          "y": 0.32426950921681
+        },
+        {
+          "x": 0.6644441890432099,
+          "y": 0.32414273655736536
+        },
+        {
+          "x": 0.6644655779320988,
+          "y": 0.3240129403843049
+        },
+        {
+          "x": 0.664473300154321,
+          "y": 0.3238815306971266
+        },
+        {
+          "x": 0.6644672391975308,
+          "y": 0.32374994965954484
+        },
+        {
+          "x": 0.6644474305555556,
+          "y": 0.323619635480359
+        },
+        {
+          "x": 0.6644140802469135,
+          "y": 0.32349202624822515
+        },
+        {
+          "x": 0.6643675138888889,
+          "y": 0.3233685390224864
+        },
+        {
+          "x": 0.664308225308642,
+          "y": 0.3232505331644136
+        },
+        {
+          "x": 0.6642368557098766,
+          "y": 0.32313933580915827
+        },
+        {
+          "x": 0.6641541635802469,
+          "y": 0.3230361828661596
+        },
+        {
+          "x": 0.6640610555555556,
+          "y": 0.3229422274029645
+        },
+        {
+          "x": 0.663958550154321,
+          "y": 0.3228585376271762
+        },
+        {
+          "x": 0.6638477700617283,
+          "y": 0.3227860480080688
+        },
+        {
+          "x": 0.6637299529320988,
+          "y": 0.3227255884317027
+        },
+        {
+          "x": 0.6636063942901235,
+          "y": 0.3226778288341599
+        },
+        {
+          "x": 0.6634784722222222,
+          "y": 0.3226433345434488
+        },
+        {
+          "x": 0.6633476141975309,
+          "y": 0.3226224680957684
+        },
+        {
+          "x": 0.6632152777777778,
+          "y": 0.32261548650641814
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.6619572554012346,
+        "minY": 0.32261548650641814,
+        "maxX": 0.664473300154321,
+        "maxY": 0.3251316065654457,
+        "width": 0.0025160447530864216,
+        "height": 0.002516120059027571,
+        "midX": 0.6632152777777778,
+        "midY": 0.3238735465359319
+      },
+      "labels": []
+    }
+  ],
+  "airspacesHigh": [
+    {
+      "identifier": "MAGNITOGORSK CTA",
+      "mapPoints": [
+        {
+          "x": 0.6623680555555556,
+          "y": 0.32091881398142097
+        },
+        {
+          "x": 0.6647399722222223,
+          "y": 0.32099627205849923
+        },
+        {
+          "x": 0.6659236111111112,
+          "y": 0.3245313700468396
+        },
+        {
+          "x": 0.6630370277777777,
+          "y": 0.3282592837893339
+        },
+        {
+          "x": 0.66199075,
+          "y": 0.3276658459120458
+        },
+        {
+          "x": 0.6599074166666666,
+          "y": 0.3245171586819666
+        },
+        {
+          "x": 0.6623680555555556,
+          "y": 0.32091881398142097
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.6599074166666666,
+        "minY": 0.32091881398142097,
+        "maxX": 0.6659236111111112,
+        "maxY": 0.3282592837893339,
+        "width": 0.006016194444444567,
+        "height": 0.007340469807912919,
+        "midX": 0.6629155138888889,
+        "midY": 0.32458904888537743
+      },
+      "labels": []
+    }
+  ],
+  "airwaysLow": [],
+  "airwaysHigh": [
+    {
+      "identifier": "L992",
+      "mapPoints": [
+        {
+          "x": 0.6620100277777777,
+          "y": 0.3276797890170942
+        },
+        {
+          "x": 0.6632155,
+          "y": 0.3238770111192099
+        },
+        {
+          "x": 0.6640733055555555,
+          "y": 0.32097527910999696
+        },
+        {
+          "x": 0.6651033888888889,
+          "y": 0.3176278198512103
+        },
+        {
+          "x": 0.6658294722222222,
+          "y": 0.3152443915120971
+        },
+        {
+          "x": 0.6660146666666666,
+          "y": 0.3143903883755219
+        },
+        {
+          "x": 0.6666165000000001,
+          "y": 0.31180548080750853
+        },
+        {
+          "x": 0.6679390555555555,
+          "y": 0.30940570098559317
+        },
+        {
+          "x": 0.6682091111111111,
+          "y": 0.30891010579090894
+        },
+        {
+          "x": 0.6688806388888889,
+          "y": 0.30766548056372883
+        },
+        {
+          "x": 0.6693271666666667,
+          "y": 0.30691753753086437
+        },
+        {
+          "x": 0.6705563333333333,
+          "y": 0.30488103071524725
+        },
+        {
+          "x": 0.6711882777777778,
+          "y": 0.30384734375085864
+        },
+        {
+          "x": 0.6716574166666667,
+          "y": 0.3030834614270959
+        },
+        {
+          "x": 0.6730277777777778,
+          "y": 0.29837169398840513
+        },
+        {
+          "x": 0.6743611111111112,
+          "y": 0.29375619768016054
+        },
+        {
+          "x": 0.67505325,
+          "y": 0.2907064956958811
+        },
+        {
+          "x": 0.6752993888888889,
+          "y": 0.2896357212684299
+        },
+        {
+          "x": 0.6753888888888888,
+          "y": 0.28924636056755854
+        },
+        {
+          "x": 0.6762716111111111,
+          "y": 0.28543801224684034
+        },
+        {
+          "x": 0.6768333333333333,
+          "y": 0.2830872379753077
+        },
+        {
+          "x": 0.6762716111111111,
+          "y": 0.28543801224684034
+        },
+        {
+          "x": 0.6753888888888888,
+          "y": 0.28924636056755854
+        },
+        {
+          "x": 0.6752993888888889,
+          "y": 0.2896357212684299
+        },
+        {
+          "x": 0.67505325,
+          "y": 0.2907064956958811
+        },
+        {
+          "x": 0.6743611111111112,
+          "y": 0.29375619768016054
+        },
+        {
+          "x": 0.6660146666666666,
+          "y": 0.3143903883755219
+        },
+        {
+          "x": 0.6658294722222222,
+          "y": 0.3152443915120971
+        },
+        {
+          "x": 0.6651033888888889,
+          "y": 0.3176278198512103
+        },
+        {
+          "x": 0.6640733055555555,
+          "y": 0.32097527910999696
+        },
+        {
+          "x": 0.6632155,
+          "y": 0.3238770111192099
+        },
+        {
+          "x": 0.6620100277777777,
+          "y": 0.3276797890170942
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.6620100277777777,
+        "minY": 0.2830872379753077,
+        "maxX": 0.6768333333333333,
+        "maxY": 0.3276797890170942,
+        "width": 0.014823305555555555,
+        "height": 0.0445925510417865,
+        "midX": 0.6694216805555555,
+        "midY": 0.30538351349620096
+      },
+      "fixes": [
+        "BANAK",
+        "MGR",
+        "ETREL",
+        "IDNOS",
+        "LANTO",
+        "IMANA",
+        "NEBIS",
+        "GOGTA",
+        "KEGOM",
+        "EKB",
+        "ANATU",
+        "DOSUM",
+        "ORTOD",
+        "NAMOL",
+        "LOKNI",
+        "GIMAK",
+        "IDKOM",
+        "TUDMI",
+        "PITET",
+        "OBONI",
+        "UNISO",
+        "UNISO",
+        "OBONI",
+        "PITET",
+        "TUDMI",
+        "IDKOM",
+        "GIMAK",
+        "IMANA",
+        "LANTO",
+        "IDNOS",
+        "ETREL",
+        "MGR",
+        "BANAK"
+      ],
+      "labels": [
+        {
+          "mapPosition": {
+            "x": 0.6626127777777777,
+            "y": 0.3257874697405852
+          },
+          "text": "",
+          "fontSize": 1
+        },
+        {
+          "mapPosition": {
+            "x": 0.6636444166666666,
+            "y": 0.3224314756712262
+          },
+          "text": "",
+          "fontSize": 1
+        },
+        {
+          "mapPosition": {
+            "x": 0.6636444166666666,
+            "y": 0.3224314756712262
+          },
+          "text": "",
+          "fontSize": 1
+        },
+        {
+          "mapPosition": {
+            "x": 0.6626127777777777,
+            "y": 0.3257874697405852
+          },
+          "text": "",
+          "fontSize": 1
+        }
+      ]
+    },
+    {
+      "identifier": "L994",
+      "mapPoints": [
+        {
+          "x": 0.6614799444444445,
+          "y": 0.32221390220308216
+        },
+        {
+          "x": 0.6656998333333333,
+          "y": 0.32385683483939764
+        },
+        {
+          "x": 0.6698796388888889,
+          "y": 0.3238891718109843
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.6614799444444445,
+        "minY": 0.32221390220308216,
+        "maxX": 0.6698796388888889,
+        "maxY": 0.3238891718109843,
+        "width": 0.008399694444444439,
+        "height": 0.0016752696079021523,
+        "midX": 0.6656797916666667,
+        "midY": 0.32305153700703326
+      },
+      "fixes": [
+        "BATAL",
+        "BURIG",
+        "TITUR"
+      ],
+      "labels": [
+        {
+          "mapPosition": {
+            "x": 0.6635898888888889,
+            "y": 0.32303705112326747
+          },
+          "text": "",
+          "fontSize": 1
+        }
+      ]
+    },
+    {
+      "identifier": "N985",
+      "mapPoints": [
+        {
+          "x": 0.6698796388888889,
+          "y": 0.3238891718109843
+        },
+        {
+          "x": 0.6669243888888889,
+          "y": 0.3224877906130969
+        },
+        {
+          "x": 0.6649359444444444,
+          "y": 0.3215759077854082
+        },
+        {
+          "x": 0.6623680555555556,
+          "y": 0.32091881398142097
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.6623680555555556,
+        "minY": 0.32091881398142097,
+        "maxX": 0.6698796388888889,
+        "maxY": 0.3238891718109843,
+        "width": 0.007511583333333349,
+        "height": 0.0029703578295633415,
+        "midX": 0.6661238472222222,
+        "midY": 0.32240399289620264
+      },
+      "fixes": [
+        "TITUR",
+        "TITUR",
+        "GOBES",
+        "OLMAD",
+        "LANUD"
+      ],
+      "labels": [
+        {
+          "mapPosition": {
+            "x": 0.663652,
+            "y": 0.3212476351093189
+          },
+          "text": "",
+          "fontSize": 1
+        }
+      ]
+    },
+    {
+      "identifier": "N993",
+      "mapPoints": [
+        {
+          "x": 0.63554475,
+          "y": 0.2947611694579305
+        },
+        {
+          "x": 0.6371743888888889,
+          "y": 0.29590912096677197
+        },
+        {
+          "x": 0.6402754722222223,
+          "y": 0.29815280161824087
+        },
+        {
+          "x": 0.6424158888888889,
+          "y": 0.2993682878769093
+        },
+        {
+          "x": 0.6448279444444445,
+          "y": 0.3007759244647566
+        },
+        {
+          "x": 0.655299388888889,
+          "y": 0.30697972020759795
+        },
+        {
+          "x": 0.6564135833333333,
+          "y": 0.30770979685282107
+        },
+        {
+          "x": 0.6594344166666667,
+          "y": 0.30973448311584695
+        },
+        {
+          "x": 0.6609105,
+          "y": 0.31074925483749166
+        },
+        {
+          "x": 0.6627376666666667,
+          "y": 0.3120297455500171
+        },
+        {
+          "x": 0.6632044722222222,
+          "y": 0.3123609329314898
+        },
+        {
+          "x": 0.6660146666666666,
+          "y": 0.3143903883755219
+        },
+        {
+          "x": 0.6670085,
+          "y": 0.31513070934177273
+        },
+        {
+          "x": 0.6690786944444445,
+          "y": 0.31669834832044785
+        },
+        {
+          "x": 0.6698703611111111,
+          "y": 0.317304179950281
+        },
+        {
+          "x": 0.6721620277777778,
+          "y": 0.31908936196552784
+        },
+        {
+          "x": 0.6741064722222223,
+          "y": 0.3206400813971415
+        },
+        {
+          "x": 0.6721620277777778,
+          "y": 0.31908936196552784
+        },
+        {
+          "x": 0.6698703611111111,
+          "y": 0.317304179950281
+        },
+        {
+          "x": 0.6690786944444445,
+          "y": 0.31669834832044785
+        },
+        {
+          "x": 0.6670085,
+          "y": 0.31513070934177273
+        },
+        {
+          "x": 0.6660146666666666,
+          "y": 0.3143903883755219
+        },
+        {
+          "x": 0.6632044722222222,
+          "y": 0.3123609329314898
+        },
+        {
+          "x": 0.6627376666666667,
+          "y": 0.3120297455500171
+        },
+        {
+          "x": 0.6609105,
+          "y": 0.31074925483749166
+        },
+        {
+          "x": 0.6594344166666667,
+          "y": 0.30973448311584695
+        },
+        {
+          "x": 0.6564135833333333,
+          "y": 0.30770979685282107
+        },
+        {
+          "x": 0.655299388888889,
+          "y": 0.30697972020759795
+        },
+        {
+          "x": 0.6448279444444445,
+          "y": 0.3007759244647566
+        },
+        {
+          "x": 0.6424158888888889,
+          "y": 0.2993682878769093
+        },
+        {
+          "x": 0.6402754722222223,
+          "y": 0.29815280161824087
+        },
+        {
+          "x": 0.6371743888888889,
+          "y": 0.29590912096677197
+        },
+        {
+          "x": 0.63554475,
+          "y": 0.2947611694579305
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.63554475,
+        "minY": 0.2947611694579305,
+        "maxX": 0.6741064722222223,
+        "maxY": 0.3206400813971415,
+        "width": 0.03856172222222232,
+        "height": 0.02587891193921099,
+        "midX": 0.6548256111111111,
+        "midY": 0.307700625427536
+      },
+      "fixes": [
+        "SONAT",
+        "PAZAK",
+        "DIKIN",
+        "GUDLU",
+        "ABURI",
+        "AGNOK",
+        "UNIDU",
+        "DIFAN",
+        "OSMIM",
+        "REKPU",
+        "SOTIG",
+        "IMANA",
+        "BEDOT",
+        "ULTOP",
+        "LIZET",
+        "BUREM",
+        "LANOR",
+        "LANOR",
+        "BUREM",
+        "LIZET",
+        "ULTOP",
+        "BEDOT",
+        "IMANA",
+        "SOTIG",
+        "REKPU",
+        "OSMIM",
+        "DIFAN",
+        "UNIDU",
+        "AGNOK",
+        "ABURI",
+        "GUDLU",
+        "DIKIN",
+        "PAZAK",
+        "SONAT"
+      ],
+      "labels": []
+    },
+    {
+      "identifier": "T452",
+      "mapPoints": [
+        {
+          "x": 0.6620100277777777,
+          "y": 0.3276797890170942
+        },
+        {
+          "x": 0.6656998333333333,
+          "y": 0.32385683483939764
+        },
+        {
+          "x": 0.6669243888888889,
+          "y": 0.3224877906130969
+        },
+        {
+          "x": 0.6678202222222223,
+          "y": 0.3214973571002797
+        },
+        {
+          "x": 0.673098,
+          "y": 0.31894207426784166
+        },
+        {
+          "x": 0.6678202222222223,
+          "y": 0.3214973571002797
+        },
+        {
+          "x": 0.6669243888888889,
+          "y": 0.3224877906130969
+        },
+        {
+          "x": 0.6656998333333333,
+          "y": 0.32385683483939764
+        },
+        {
+          "x": 0.6620100277777777,
+          "y": 0.3276797890170942
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.6620100277777777,
+        "minY": 0.31894207426784166,
+        "maxX": 0.673098,
+        "maxY": 0.3276797890170942,
+        "width": 0.011087972222222242,
+        "height": 0.008737714749252556,
+        "midX": 0.6675540138888889,
+        "midY": 0.32331093164246794
+      },
+      "fixes": [
+        "BANAK",
+        "BURIG",
+        "GOBES",
+        "UROMI",
+        "GUPRI",
+        "GUPRI",
+        "UROMI",
+        "GOBES",
+        "BURIG",
+        "BANAK"
+      ],
+      "labels": [
+        {
+          "mapPosition": {
+            "x": 0.6638549444444444,
+            "y": 0.3257775014327053
+          },
+          "text": "",
+          "fontSize": 1
+        },
+        {
+          "mapPosition": {
+            "x": 0.6638549444444444,
+            "y": 0.3257775014327053
+          },
+          "text": "",
+          "fontSize": 1
+        }
+      ]
+    },
+    {
+      "identifier": "T763",
+      "mapPoints": [
+        {
+          "x": 0.6623680555555556,
+          "y": 0.32091881398142097
+        },
+        {
+          "x": 0.6659992222222223,
+          "y": 0.32018167296867345
+        },
+        {
+          "x": 0.6721620277777778,
+          "y": 0.31908936196552784
+        },
+        {
+          "x": 0.673098,
+          "y": 0.31894207426784166
+        },
+        {
+          "x": 0.6755910555555555,
+          "y": 0.31800954654211067
+        },
+        {
+          "x": 0.6795493888888889,
+          "y": 0.3165949442330583
+        },
+        {
+          "x": 0.6803711388888889,
+          "y": 0.3163126840383227
+        },
+        {
+          "x": 0.6825825555555555,
+          "y": 0.3155700668827757
+        },
+        {
+          "x": 0.688946,
+          "y": 0.3136389737946669
+        },
+        {
+          "x": 0.6825825555555555,
+          "y": 0.3155700668827757
+        },
+        {
+          "x": 0.6803711388888889,
+          "y": 0.3163126840383227
+        },
+        {
+          "x": 0.6795493888888889,
+          "y": 0.3165949442330583
+        },
+        {
+          "x": 0.6755910555555555,
+          "y": 0.31800954654211067
+        },
+        {
+          "x": 0.673098,
+          "y": 0.31894207426784166
+        },
+        {
+          "x": 0.6721620277777778,
+          "y": 0.31908936196552784
+        },
+        {
+          "x": 0.6659992222222223,
+          "y": 0.32018167296867345
+        },
+        {
+          "x": 0.6623680555555556,
+          "y": 0.32091881398142097
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.6623680555555556,
+        "minY": 0.3136389737946669,
+        "maxX": 0.688946,
+        "maxY": 0.32091881398142097,
+        "width": 0.02657794444444439,
+        "height": 0.007279840186754094,
+        "midX": 0.6756570277777778,
+        "midY": 0.3172788938880439
+      },
+      "fixes": [
+        "LANUD",
+        "BAPUL",
+        "BUREM",
+        "GUPRI",
+        "OLIKI",
+        "GAKPA",
+        "DONUS",
+        "AGMIL",
+        "ABALI",
+        "ABALI",
+        "AGMIL",
+        "DONUS",
+        "GAKPA",
+        "OLIKI",
+        "GUPRI",
+        "BUREM",
+        "BAPUL",
+        "LANUD"
+      ],
+      "labels": []
+    },
+    {
+      "identifier": "T797",
+      "mapPoints": [
+        {
+          "x": 0.6607530833333333,
+          "y": 0.3257864544727719
+        },
+        {
+          "x": 0.6632155,
+          "y": 0.3238770111192099
+        },
+        {
+          "x": 0.6649359444444444,
+          "y": 0.3215759077854082
+        },
+        {
+          "x": 0.6659992222222223,
+          "y": 0.32018167296867345
+        },
+        {
+          "x": 0.6667091111111111,
+          "y": 0.31926034213839416
+        },
+        {
+          "x": 0.6682600277777778,
+          "y": 0.31757567327757513
+        },
+        {
+          "x": 0.6690786944444445,
+          "y": 0.31669834832044785
+        },
+        {
+          "x": 0.6697091111111111,
+          "y": 0.31602191421980125
+        },
+        {
+          "x": 0.6708823333333334,
+          "y": 0.3148055140849105
+        },
+        {
+          "x": 0.6712206666666667,
+          "y": 0.31450714548126973
+        },
+        {
+          "x": 0.6723680555555556,
+          "y": 0.3135039053384831
+        },
+        {
+          "x": 0.6732523055555556,
+          "y": 0.3127394549204396
+        },
+        {
+          "x": 0.67644675,
+          "y": 0.3100279333167714
+        },
+        {
+          "x": 0.6795239166666666,
+          "y": 0.3068172295312526
+        },
+        {
+          "x": 0.67644675,
+          "y": 0.3100279333167714
+        },
+        {
+          "x": 0.6732523055555556,
+          "y": 0.3127394549204396
+        },
+        {
+          "x": 0.6723680555555556,
+          "y": 0.3135039053384831
+        },
+        {
+          "x": 0.6712206666666667,
+          "y": 0.31450714548126973
+        },
+        {
+          "x": 0.6708823333333334,
+          "y": 0.3148055140849105
+        },
+        {
+          "x": 0.6697091111111111,
+          "y": 0.31602191421980125
+        },
+        {
+          "x": 0.6690786944444445,
+          "y": 0.31669834832044785
+        },
+        {
+          "x": 0.6682600277777778,
+          "y": 0.31757567327757513
+        },
+        {
+          "x": 0.6667091111111111,
+          "y": 0.31926034213839416
+        },
+        {
+          "x": 0.6659992222222223,
+          "y": 0.32018167296867345
+        },
+        {
+          "x": 0.6649359444444444,
+          "y": 0.3215759077854082
+        },
+        {
+          "x": 0.6632155,
+          "y": 0.3238770111192099
+        },
+        {
+          "x": 0.6607530833333333,
+          "y": 0.3257864544727719
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.6607530833333333,
+        "minY": 0.3068172295312526,
+        "maxX": 0.6795239166666666,
+        "maxY": 0.3257864544727719,
+        "width": 0.018770833333333292,
+        "height": 0.018969224941519258,
+        "midX": 0.6701385,
+        "midY": 0.3163018420020123
+      },
+      "fixes": [
+        "KUDON",
+        "MGR",
+        "OLMAD",
+        "BAPUL",
+        "MALES",
+        "GERSI",
+        "ULTOP",
+        "IDETA",
+        "LBN",
+        "SISPO",
+        "TUPKI",
+        "LERDA",
+        "KUSEB",
+        "BUKOS",
+        "BUKOS",
+        "KUSEB",
+        "LERDA",
+        "TUPKI",
+        "SISPO",
+        "LBN",
+        "IDETA",
+        "ULTOP",
+        "GERSI",
+        "MALES",
+        "BAPUL",
+        "OLMAD",
+        "MGR",
+        "KUDON"
+      ],
+      "labels": [
+        {
+          "mapPosition": {
+            "x": 0.6619843055555555,
+            "y": 0.3248340256687281
+          },
+          "text": "",
+          "fontSize": 1
+        },
+        {
+          "mapPosition": {
+            "x": 0.6619843055555555,
+            "y": 0.3248340256687281
+          },
+          "text": "",
+          "fontSize": 1
+        }
+      ]
+    }
+  ]
+}

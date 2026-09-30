@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 154,
+  "y": 100,
+  "mapBounds": {
+    "minX": 0.6015625,
+    "minY": 0.390625,
+    "maxX": 0.60546875,
+    "maxY": 0.39453125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.603515625,
+    "midY": 0.392578125
+  },
+  "shapes": [],
+  "points": [],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [
+    {
+      "airport": "UUEE",
+      "identifier": "68A/68",
+      "geoPosition": {
+        "x": 36.14138888888888,
+        "y": 37.42324166666666
+      },
+      "mapPosition": {
+        "x": 0.603953449074074,
+        "y": 0.39219982664230185
+      },
+      "gateType": null
+    }
+  ],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}
