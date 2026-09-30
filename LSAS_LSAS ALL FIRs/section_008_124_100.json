@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 124,
+  "y": 100,
+  "mapBounds": {
+    "minX": 0.484375,
+    "minY": 0.390625,
+    "maxX": 0.48828125,
+    "maxY": 0.39453125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.486328125,
+    "midY": 0.392578125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "GALTO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4857121913580247,
+        "y": 0.39325737537081795
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PIMOS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4864070216049383,
+        "y": 0.39216896312783983
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

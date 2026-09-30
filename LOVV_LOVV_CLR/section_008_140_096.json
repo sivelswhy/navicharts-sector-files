@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 140,
+  "y": 96,
+  "mapBounds": {
+    "minX": 0.546875,
+    "minY": 0.375,
+    "maxX": 0.55078125,
+    "maxY": 0.37890625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.548828125,
+    "midY": 0.376953125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "DOLON",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5488734567901234,
+        "y": 0.3753336141804229
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KAPPO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5500077160493827,
+        "y": 0.37635418674271476
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OKIMO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5501319444444445,
+        "y": 0.37516923038753824
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

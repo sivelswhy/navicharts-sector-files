@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 147,
+  "y": 94,
+  "mapBounds": {
+    "minX": 0.57421875,
+    "minY": 0.3671875,
+    "maxX": 0.578125,
+    "maxY": 0.37109375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.576171875,
+    "midY": 0.369140625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "RUTAR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5778348765432099,
+        "y": 0.36789093417856317
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VADEN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5756003086419753,
+        "y": 0.3709718712583363
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

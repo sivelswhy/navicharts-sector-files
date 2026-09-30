@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 139,
+  "y": 99,
+  "mapBounds": {
+    "minX": 0.54296875,
+    "minY": 0.38671875,
+    "maxX": 0.546875,
+    "maxY": 0.390625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.544921875,
+    "midY": 0.388671875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ABUKI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5432199074074074,
+        "y": 0.3873675178095968
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ERNAM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5448958333333334,
+        "y": 0.3897223507479623
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VUSME",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5438936959876544,
+        "y": 0.38831058528481815
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

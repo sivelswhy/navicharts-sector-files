@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 128,
+  "y": 95,
+  "mapBounds": {
+    "minX": 0.5,
+    "minY": 0.37109375,
+    "maxX": 0.50390625,
+    "maxY": 0.375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.501953125,
+    "midY": 0.373046875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "TIRGO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.503128086419753,
+        "y": 0.37202139433790005
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

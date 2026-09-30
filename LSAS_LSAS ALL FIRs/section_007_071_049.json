@@ -1,0 +1,80 @@
+{
+  "level": 7,
+  "x": 71,
+  "y": 49,
+  "mapBounds": {
+    "minX": 0.5546875,
+    "minY": 0.3828125,
+    "maxX": 0.5625,
+    "maxY": 0.390625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.55859375,
+    "midY": 0.38671875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ASTUS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5559228395061728,
+        "y": 0.38427735330512586
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ENESI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5562600308641976,
+        "y": 0.38461980658681605
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VARDI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5609753086419753,
+        "y": 0.38334904978163375
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "XANIS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5616273148148149,
+        "y": 0.38370360419055194
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 136,
+  "y": 96,
+  "mapBounds": {
+    "minX": 0.53125,
+    "minY": 0.375,
+    "maxX": 0.53515625,
+    "maxY": 0.37890625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.533203125,
+    "midY": 0.376953125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "TURMO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5328688271604938,
+        "y": 0.3754366802248661
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

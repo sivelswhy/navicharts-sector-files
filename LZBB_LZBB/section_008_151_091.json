@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 151,
+  "y": 91,
+  "mapBounds": {
+    "minX": 0.58984375,
+    "minY": 0.35546875,
+    "maxX": 0.59375,
+    "maxY": 0.359375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.591796875,
+    "midY": 0.357421875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "MABEP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5927739197530865,
+        "y": 0.3560470600176951
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NOMPA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5923271604938272,
+        "y": 0.35737318694912523
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OTRAD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5899645061728395,
+        "y": 0.3562333505488283
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TITAG",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5930555555555556,
+        "y": 0.35669286292713714
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

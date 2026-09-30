@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 156,
+  "y": 88,
+  "mapBounds": {
+    "minX": 0.609375,
+    "minY": 0.34375,
+    "maxX": 0.61328125,
+    "maxY": 0.34765625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.611328125,
+    "midY": 0.345703125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "GUKOL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6109537037037037,
+        "y": 0.346803372187428
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LUGAT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.609375,
+        "y": 0.34587068356232364
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TOROS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6107314814814815,
+        "y": 0.34545173377863647
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

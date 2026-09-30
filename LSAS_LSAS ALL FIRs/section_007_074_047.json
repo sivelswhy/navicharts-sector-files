@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 74,
+  "y": 47,
+  "mapBounds": {
+    "minX": 0.578125,
+    "minY": 0.3671875,
+    "maxX": 0.5859375,
+    "maxY": 0.375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.58203125,
+    "midY": 0.37109375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "DIGBO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5789012345679012,
+        "y": 0.3731023835452756
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ERKAL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5832771064814815,
+        "y": 0.37497497121268725
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "GAYEM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5823055555555555,
+        "y": 0.3747572717993906
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

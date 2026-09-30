@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 70,
+  "y": 51,
+  "mapBounds": {
+    "minX": 0.546875,
+    "minY": 0.3984375,
+    "maxX": 0.5546875,
+    "maxY": 0.40625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.55078125,
+    "midY": 0.40234375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ERMIX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5511118827160494,
+        "y": 0.39956247544729523
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "FARUJ",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5520324074074073,
+        "y": 0.4010611636386796
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "RZAAM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5535,
+        "y": 0.40344484404226355
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

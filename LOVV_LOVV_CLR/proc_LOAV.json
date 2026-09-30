@@ -1,0 +1,104 @@
+[
+  {
+    "airport": "LOAV",
+    "runways": [
+      "13R 31L"
+    ],
+    "identifier": {
+      "mapPosition": {
+        "x": 0.5453074459876543,
+        "y": 0.3478550457177203
+      },
+      "text": "MOVOS1A",
+      "fontSize": 12
+    },
+    "mapPoints": [
+      {
+        "x": 0.5453074459876543,
+        "y": 0.3478550457177203
+      },
+      {
+        "x": 0.545659012345679,
+        "y": 0.34798241413259934
+      }
+    ],
+    "navaidLabels": [
+      {
+        "mapPosition": {
+          "x": 0.5453074459876543,
+          "y": 0.3478550457177203
+        },
+        "text": "AV807",
+        "fontSize": 12
+      },
+      {
+        "mapPosition": {
+          "x": 0.545659012345679,
+          "y": 0.34798241413259934
+        },
+        "text": "MOVOS",
+        "fontSize": 12
+      }
+    ],
+    "procType": -2,
+    "transitionWaypoints": [],
+    "isRnav": false
+  },
+  {
+    "airport": "LOAV",
+    "runways": [
+      "13R 31L"
+    ],
+    "identifier": {
+      "mapPosition": {
+        "x": 0.545659012345679,
+        "y": 0.34798241413259934
+      },
+      "text": "RNP A",
+      "fontSize": 12
+    },
+    "mapPoints": [
+      {
+        "x": 0.545659012345679,
+        "y": 0.34798241413259934
+      },
+      {
+        "x": 0.5455395833333333,
+        "y": 0.34793906831038746
+      },
+      {
+        "x": 0.5453074459876543,
+        "y": 0.3478550457177203
+      }
+    ],
+    "navaidLabels": [
+      {
+        "mapPosition": {
+          "x": 0.545659012345679,
+          "y": 0.34798241413259934
+        },
+        "text": "MOVOS",
+        "fontSize": 12
+      },
+      {
+        "mapPosition": {
+          "x": 0.5455395833333333,
+          "y": 0.34793906831038746
+        },
+        "text": "AV806",
+        "fontSize": 12
+      },
+      {
+        "mapPosition": {
+          "x": 0.5453074459876543,
+          "y": 0.3478550457177203
+        },
+        "text": "AV807",
+        "fontSize": 12
+      }
+    ],
+    "procType": -1,
+    "transitionWaypoints": [],
+    "isRnav": false
+  }
+]

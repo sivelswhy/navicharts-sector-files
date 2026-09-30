@@ -1,0 +1,80 @@
+{
+  "level": 7,
+  "x": 68,
+  "y": 50,
+  "mapBounds": {
+    "minX": 0.53125,
+    "minY": 0.390625,
+    "maxX": 0.5390625,
+    "maxY": 0.3984375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.53515625,
+    "midY": 0.39453125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ABRAM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.535104938271605,
+        "y": 0.39834941594618745
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "EDELI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5350925925925926,
+        "y": 0.3958226437369055
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KOLEX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5349521604938272,
+        "y": 0.39096347619931743
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PETIP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5350524691358024,
+        "y": 0.3935408487494483
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

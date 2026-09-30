@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 124,
+  "y": 80,
+  "mapBounds": {
+    "minX": 0.484375,
+    "minY": 0.3125,
+    "maxX": 0.48828125,
+    "maxY": 0.31640625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.486328125,
+    "midY": 0.314453125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "FENIK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.48807793209876543,
+        "y": 0.3128024970313888
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LUSIV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.48820910493827163,
+        "y": 0.3130393233487363
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

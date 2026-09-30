@@ -1,0 +1,93 @@
+{
+  "level": 7,
+  "x": 76,
+  "y": 48,
+  "mapBounds": {
+    "minX": 0.59375,
+    "minY": 0.375,
+    "maxX": 0.6015625,
+    "maxY": 0.3828125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.59765625,
+    "midY": 0.37890625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BENTA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5943221064814815,
+        "y": 0.3780292686171758
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ENFOR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6007631172839507,
+        "y": 0.37903603179312156
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "GURBU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5939799382716049,
+        "y": 0.37796800444969375
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OLPOT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6010017824074073,
+        "y": 0.3790819343081438
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TIMOP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5982253086419753,
+        "y": 0.37860836652088864
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

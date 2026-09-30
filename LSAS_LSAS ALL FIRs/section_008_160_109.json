@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 160,
+  "y": 109,
+  "mapBounds": {
+    "minX": 0.625,
+    "minY": 0.42578125,
+    "maxX": 0.62890625,
+    "maxY": 0.4296875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.626953125,
+    "midY": 0.427734375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "KAVUR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6268796296296296,
+        "y": 0.42912025738001686
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

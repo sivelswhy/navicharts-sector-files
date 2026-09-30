@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 136,
+  "y": 101,
+  "mapBounds": {
+    "minX": 0.53125,
+    "minY": 0.39453125,
+    "maxX": 0.53515625,
+    "maxY": 0.3984375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.533203125,
+    "midY": 0.396484375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ABRAM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.535104938271605,
+        "y": 0.39834941594618745
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "EDELI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5350925925925926,
+        "y": 0.3958226437369055
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

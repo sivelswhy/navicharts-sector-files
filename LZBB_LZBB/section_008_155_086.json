@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 155,
+  "y": 86,
+  "mapBounds": {
+    "minX": 0.60546875,
+    "minY": 0.3359375,
+    "maxX": 0.609375,
+    "maxY": 0.33984375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.607421875,
+    "midY": 0.337890625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ABODO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6062037037037038,
+        "y": 0.33914477462121845
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "APSUD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.605520061728395,
+        "y": 0.3372927061690473
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MASOL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6061851851851852,
+        "y": 0.33882041232924265
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

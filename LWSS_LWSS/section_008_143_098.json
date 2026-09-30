@@ -1,0 +1,182 @@
+{
+  "level": 8,
+  "x": 143,
+  "y": 98,
+  "mapBounds": {
+    "minX": 0.55859375,
+    "minY": 0.3828125,
+    "maxX": 0.5625,
+    "maxY": 0.38671875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.560546875,
+    "midY": 0.384765625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "CD003",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.559454737654321,
+        "y": 0.3857520233021464
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ELVAS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5606720679012346,
+        "y": 0.3838723135880364
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "FD003",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5594742901234568,
+        "y": 0.3855779800234871
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "IXONI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5617561728395062,
+        "y": 0.38461587293820887
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MD003",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.559510887345679,
+        "y": 0.3852851424744629
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VARDI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5609753086419753,
+        "y": 0.38334904978163375
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "XANIS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5616273148148149,
+        "y": 0.38370360419055194
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [
+    {
+      "identifier": "N132",
+      "mapPoints": [
+        {
+          "x": 0.5570277777777778,
+          "y": 0.37244735170798465
+        },
+        {
+          "x": 0.5593279320987654,
+          "y": 0.3753836219737887
+        },
+        {
+          "x": 0.5660108024691358,
+          "y": 0.38512870597009546
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.5570277777777778,
+        "minY": 0.37244735170798465,
+        "maxX": 0.5660108024691358,
+        "maxY": 0.38512870597009546,
+        "width": 0.008983024691358032,
+        "height": 0.012681354262110811,
+        "midX": 0.5615192901234568,
+        "midY": 0.37878802883904006
+      },
+      "fixes": [
+        "MAVAR",
+        "BITLA",
+        "ROPOX"
+      ],
+      "labels": []
+    }
+  ],
+  "airwaysHigh": [
+    {
+      "identifier": "UN132",
+      "mapPoints": [
+        {
+          "x": 0.5593279320987654,
+          "y": 0.3753836219737887
+        },
+        {
+          "x": 0.5660108024691358,
+          "y": 0.38512870597009546
+        }
+      ],
+      "mapBounds": {
+        "minX": 0.5593279320987654,
+        "minY": 0.3753836219737887,
+        "maxX": 0.5660108024691358,
+        "maxY": 0.38512870597009546,
+        "width": 0.006682870370370408,
+        "height": 0.009745083996306747,
+        "midX": 0.5626693672839507,
+        "midY": 0.38025616397194206
+      },
+      "fixes": [
+        "BITLA",
+        "ROPOX"
+      ],
+      "labels": []
+    }
+  ]
+}

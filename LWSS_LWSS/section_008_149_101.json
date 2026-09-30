@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 149,
+  "y": 101,
+  "mapBounds": {
+    "minX": 0.58203125,
+    "minY": 0.39453125,
+    "maxX": 0.5859375,
+    "maxY": 0.3984375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.583984375,
+    "midY": 0.396484375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ALKIS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5833333333333334,
+        "y": 0.39541879163380156
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TOSKA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5833333333333334,
+        "y": 0.3962108429800126
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ULFIT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5826226851851852,
+        "y": 0.39617506092738625
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

@@ -1,0 +1,145 @@
+{
+  "level": 8,
+  "x": 153,
+  "y": 87,
+  "mapBounds": {
+    "minX": 0.59765625,
+    "minY": 0.33984375,
+    "maxX": 0.6015625,
+    "maxY": 0.34375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.599609375,
+    "midY": 0.341796875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "FAVAR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5995424382716049,
+        "y": 0.3419669387727938
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "HHS02",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6004258487654321,
+        "y": 0.3398731032371773
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "HHS03",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6004717592592592,
+        "y": 0.34022998532307763
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "HHS05",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6000220679012346,
+        "y": 0.3399239359000713
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "HHS10",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6001966820987654,
+        "y": 0.3405285508747823
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LUZKA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.600829475308642,
+        "y": 0.3421847343738192
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NIKAD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5997831790123457,
+        "y": 0.3434385790550485
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "RAVTO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6001350308641975,
+        "y": 0.3420675789602568
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ROKOX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5984675925925925,
+        "y": 0.3417726258564865
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

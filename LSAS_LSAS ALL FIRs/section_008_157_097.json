@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 157,
+  "y": 97,
+  "mapBounds": {
+    "minX": 0.61328125,
+    "minY": 0.37890625,
+    "maxX": 0.6171875,
+    "maxY": 0.3828125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.615234375,
+    "midY": 0.380859375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "DORUK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6171813271604938,
+        "y": 0.3811793618211345
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "GOKSU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6163325617283951,
+        "y": 0.3804116383300434
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SUSUZ",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6155787037037037,
+        "y": 0.37973380752285535
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

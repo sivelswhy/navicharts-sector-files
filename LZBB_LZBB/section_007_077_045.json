@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 77,
+  "y": 45,
+  "mapBounds": {
+    "minX": 0.6015625,
+    "minY": 0.3515625,
+    "maxX": 0.609375,
+    "maxY": 0.359375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.60546875,
+    "midY": 0.35546875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ELBAM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6023487654320988,
+        "y": 0.3520879669308339
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MEBAM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6019444444444444,
+        "y": 0.3534167374434612
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OLGIN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6039490740740742,
+        "y": 0.3531134084955531
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

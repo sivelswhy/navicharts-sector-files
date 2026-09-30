@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 75,
+  "y": 53,
+  "mapBounds": {
+    "minX": 0.5859375,
+    "minY": 0.4140625,
+    "maxX": 0.59375,
+    "maxY": 0.421875,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.58984375,
+    "midY": 0.41796875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "LUBOS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5867175925925926,
+        "y": 0.41671736118499625
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LUGAT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5927438580246914,
+        "y": 0.42086859205318017
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SEMRU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5890324074074075,
+        "y": 0.41882281581414416
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

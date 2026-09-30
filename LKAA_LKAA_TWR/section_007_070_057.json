@@ -1,0 +1,41 @@
+{
+  "level": 7,
+  "x": 70,
+  "y": 57,
+  "mapBounds": {
+    "minX": 0.546875,
+    "minY": 0.4453125,
+    "maxX": 0.5546875,
+    "maxY": 0.453125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.55078125,
+    "midY": 0.44921875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "KRNOV FN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5491255401234568,
+        "y": 0.45007528528206825
+      },
+      "kind": "VRP",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": ""
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

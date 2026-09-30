@@ -1,0 +1,41 @@
+{
+  "level": 7,
+  "x": 80,
+  "y": 37,
+  "mapBounds": {
+    "minX": 0.625,
+    "minY": 0.2890625,
+    "maxX": 0.6328125,
+    "maxY": 0.296875,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.62890625,
+    "midY": 0.29296875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ANDAT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6263827160493827,
+        "y": 0.29306542949730463
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

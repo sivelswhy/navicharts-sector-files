@@ -1,0 +1,80 @@
+{
+  "level": 7,
+  "x": 72,
+  "y": 50,
+  "mapBounds": {
+    "minX": 0.5625,
+    "minY": 0.390625,
+    "maxX": 0.5703125,
+    "maxY": 0.3984375,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.56640625,
+    "midY": 0.39453125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "DIRMI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5690270061728395,
+        "y": 0.392492997382984
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ETILI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5640054012345679,
+        "y": 0.3932630858032479
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LINGI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5681820987654321,
+        "y": 0.39774795121368006
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "RESTI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5678881172839506,
+        "y": 0.3910747989527302
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

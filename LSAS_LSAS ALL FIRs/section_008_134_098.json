@@ -1,0 +1,119 @@
+{
+  "level": 8,
+  "x": 134,
+  "y": 98,
+  "mapBounds": {
+    "minX": 0.5234375,
+    "minY": 0.3828125,
+    "maxX": 0.52734375,
+    "maxY": 0.38671875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.525390625,
+    "midY": 0.384765625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "DOPEL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5246766975308642,
+        "y": 0.3838624506084596
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TEULA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5244251543209877,
+        "y": 0.3829078840325716
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DERIV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5246766975308642,
+        "y": 0.3858011103275766
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DOPEL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5246766975308642,
+        "y": 0.3838624506084596
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ELKIS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5257021604938271,
+        "y": 0.3848036374398894
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NIVAB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5236496913580246,
+        "y": 0.38292768365208807
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VAPIK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5236072530864198,
+        "y": 0.38515716674276446
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

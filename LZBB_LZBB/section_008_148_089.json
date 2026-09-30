@@ -1,0 +1,119 @@
+{
+  "level": 8,
+  "x": 148,
+  "y": 89,
+  "mapBounds": {
+    "minX": 0.578125,
+    "minY": 0.34765625,
+    "maxX": 0.58203125,
+    "maxY": 0.3515625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.580078125,
+    "midY": 0.349609375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ASMIN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5811751543209877,
+        "y": 0.3487415313509542
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ATREK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5812029320987654,
+        "y": 0.34808438329708147
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KK105",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5806619598765432,
+        "y": 0.35111384650548616
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KK106",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5813085648148149,
+        "y": 0.351317634944269
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MANRO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5810802469135803,
+        "y": 0.34980456469320487
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SUVUR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5816358024691358,
+        "y": 0.35040641773409414
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VOLVO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5807407407407408,
+        "y": 0.3493738041154567
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

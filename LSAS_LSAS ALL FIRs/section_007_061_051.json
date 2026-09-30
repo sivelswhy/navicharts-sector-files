@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 61,
+  "y": 51,
+  "mapBounds": {
+    "minX": 0.4765625,
+    "minY": 0.3984375,
+    "maxX": 0.484375,
+    "maxY": 0.40625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.48046875,
+    "midY": 0.40234375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "MABAP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4772302314814815,
+        "y": 0.40568603716234597
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NIRAL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4767592592592592,
+        "y": 0.4021540346198743
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PELAX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.47863750771604935,
+        "y": 0.40328401978045403
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

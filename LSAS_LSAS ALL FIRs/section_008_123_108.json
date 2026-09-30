@@ -1,0 +1,41 @@
+{
+  "level": 8,
+  "x": 123,
+  "y": 108,
+  "mapBounds": {
+    "minX": 0.48046875,
+    "minY": 0.421875,
+    "maxX": 0.484375,
+    "maxY": 0.42578125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.482421875,
+    "midY": 0.423828125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BRENA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.48162037037037037,
+        "y": 0.42480258153769096
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

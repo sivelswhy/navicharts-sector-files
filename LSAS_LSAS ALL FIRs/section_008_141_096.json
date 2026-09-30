@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 141,
+  "y": 96,
+  "mapBounds": {
+    "minX": 0.55078125,
+    "minY": 0.375,
+    "maxX": 0.5546875,
+    "maxY": 0.37890625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.552734375,
+    "midY": 0.376953125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ORSOM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5512407407407407,
+        "y": 0.37724902258052806
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PAPIZ",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5526435185185185,
+        "y": 0.3753244279574039
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TIGRA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5527777777777778,
+        "y": 0.3783735916204862
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

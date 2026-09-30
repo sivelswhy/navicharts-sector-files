@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 138,
+  "y": 97,
+  "mapBounds": {
+    "minX": 0.5390625,
+    "minY": 0.37890625,
+    "maxX": 0.54296875,
+    "maxY": 0.3828125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.541015625,
+    "midY": 0.380859375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "AGNIS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.540974537037037,
+        "y": 0.3792762072478533
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "DIRED",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5403217592592592,
+        "y": 0.3801545394839366
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TADIX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.539891975308642,
+        "y": 0.382785091926152
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

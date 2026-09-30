@@ -1,0 +1,93 @@
+{
+  "level": 8,
+  "x": 146,
+  "y": 99,
+  "mapBounds": {
+    "minX": 0.5703125,
+    "minY": 0.38671875,
+    "maxX": 0.57421875,
+    "maxY": 0.390625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.572265625,
+    "midY": 0.388671875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "AKINA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5729128086419752,
+        "y": 0.38929865818811477
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "KOPAR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5741350308641975,
+        "y": 0.38981973326009034
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LURUS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5736581790123457,
+        "y": 0.38961528516077193
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PIDAX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5708649691358024,
+        "y": 0.3884356636009581
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "RIPLI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5704521604938272,
+        "y": 0.3882689310018905
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

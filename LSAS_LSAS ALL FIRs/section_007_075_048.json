@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 75,
+  "y": 48,
+  "mapBounds": {
+    "minX": 0.5859375,
+    "minY": 0.375,
+    "maxX": 0.59375,
+    "maxY": 0.3828125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.58984375,
+    "midY": 0.37890625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ATGOB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5868078703703704,
+        "y": 0.37593506704178675
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SALGO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5894429012345679,
+        "y": 0.37685476398402246
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "YAVRU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5884243827160494,
+        "y": 0.37645885444472166
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

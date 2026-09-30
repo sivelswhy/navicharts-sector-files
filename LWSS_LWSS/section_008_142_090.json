@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 142,
+  "y": 90,
+  "mapBounds": {
+    "minX": 0.5546875,
+    "minY": 0.3515625,
+    "maxX": 0.55859375,
+    "maxY": 0.35546875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.556640625,
+    "midY": 0.353515625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "KEROP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5547129629629629,
+        "y": 0.3550229924121633
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PARAK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5558171296296296,
+        "y": 0.35510544925180565
+      },
+      "kind": "Fix",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

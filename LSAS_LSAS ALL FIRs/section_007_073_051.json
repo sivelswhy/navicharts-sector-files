@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 73,
+  "y": 51,
+  "mapBounds": {
+    "minX": 0.5703125,
+    "minY": 0.3984375,
+    "maxX": 0.578125,
+    "maxY": 0.40625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.57421875,
+    "midY": 0.40234375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "KANAR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5746990740740741,
+        "y": 0.4045910422514278
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SOKAL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5767175925925926,
+        "y": 0.4041206407395922
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TANSA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5744907407407407,
+        "y": 0.39946848786754907
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

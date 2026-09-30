@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 149,
+  "y": 94,
+  "mapBounds": {
+    "minX": 0.58203125,
+    "minY": 0.3671875,
+    "maxX": 0.5859375,
+    "maxY": 0.37109375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.583984375,
+    "midY": 0.369140625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ARTAT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5822893518518518,
+        "y": 0.36985295361537995
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "UDROS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5849891975308642,
+        "y": 0.3684389281980398
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

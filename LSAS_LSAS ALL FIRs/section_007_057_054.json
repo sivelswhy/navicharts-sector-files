@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 57,
+  "y": 54,
+  "mapBounds": {
+    "minX": 0.4453125,
+    "minY": 0.421875,
+    "maxX": 0.453125,
+    "maxY": 0.4296875,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.44921875,
+    "midY": 0.42578125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "AGUMO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.4483441358024692,
+        "y": 0.4260567756507731
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "APASO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.44582044753086414,
+        "y": 0.4282409625199953
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VIDRI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.45266689814814814,
+        "y": 0.4223878678292322
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

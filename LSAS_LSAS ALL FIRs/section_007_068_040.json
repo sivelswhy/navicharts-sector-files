@@ -1,0 +1,67 @@
+{
+  "level": 7,
+  "x": 68,
+  "y": 40,
+  "mapBounds": {
+    "minX": 0.53125,
+    "minY": 0.3125,
+    "maxX": 0.5390625,
+    "maxY": 0.3203125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.53515625,
+    "midY": 0.31640625
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BAGOS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5313055555555556,
+        "y": 0.31835594336447487
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MARIP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.531724537037037,
+        "y": 0.3176344788130535
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "MAXEL",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5330625,
+        "y": 0.31528223829677515
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

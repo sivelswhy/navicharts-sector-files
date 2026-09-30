@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 141,
+  "y": 84,
+  "mapBounds": {
+    "minX": 0.55078125,
+    "minY": 0.328125,
+    "maxX": 0.5546875,
+    "maxY": 0.33203125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.552734375,
+    "midY": 0.330078125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BAXIS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5523996913580247,
+        "y": 0.3311767741697676
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OTPOP",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.554375,
+        "y": 0.33047044234859785
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VAMPU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.553125,
+        "y": 0.3309195299093183
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

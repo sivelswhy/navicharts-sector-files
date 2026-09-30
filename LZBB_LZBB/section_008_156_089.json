@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 156,
+  "y": 89,
+  "mapBounds": {
+    "minX": 0.609375,
+    "minY": 0.34765625,
+    "maxX": 0.61328125,
+    "maxY": 0.3515625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.611328125,
+    "midY": 0.349609375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "NALEM",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6105787037037037,
+        "y": 0.34782188135751074
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ODRIB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6110293209876544,
+        "y": 0.3479819536652589
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "RP510",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6098287808641975,
+        "y": 0.34919141442145796
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

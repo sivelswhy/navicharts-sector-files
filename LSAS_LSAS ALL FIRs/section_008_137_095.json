@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 137,
+  "y": 95,
+  "mapBounds": {
+    "minX": 0.53515625,
+    "minY": 0.37109375,
+    "maxX": 0.5390625,
+    "maxY": 0.375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.537109375,
+    "midY": 0.373046875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ALAXI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5370768518518518,
+        "y": 0.3722064274911075
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "INSOX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5367283950617284,
+        "y": 0.3718826910168376
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OKDEB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5363742283950618,
+        "y": 0.3715552799765747
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "PEMAR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5358873456790124,
+        "y": 0.3711059015664265
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

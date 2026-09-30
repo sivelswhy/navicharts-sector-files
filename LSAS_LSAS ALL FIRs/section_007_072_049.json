@@ -1,0 +1,80 @@
+{
+  "level": 7,
+  "x": 72,
+  "y": 49,
+  "mapBounds": {
+    "minX": 0.5625,
+    "minY": 0.3828125,
+    "maxX": 0.5703125,
+    "maxY": 0.390625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.56640625,
+    "midY": 0.38671875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ALANI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5666435185185186,
+        "y": 0.3895390589868502
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "GERMI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5642345679012345,
+        "y": 0.38514440885427637
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "RIMAX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5631026234567901,
+        "y": 0.38531021215150096
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "VARIX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5695393518518519,
+        "y": 0.3879613614267736
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

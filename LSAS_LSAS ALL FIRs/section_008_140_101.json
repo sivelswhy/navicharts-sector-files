@@ -1,0 +1,67 @@
+{
+  "level": 8,
+  "x": 140,
+  "y": 101,
+  "mapBounds": {
+    "minX": 0.546875,
+    "minY": 0.39453125,
+    "maxX": 0.55078125,
+    "maxY": 0.3984375,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.548828125,
+    "midY": 0.396484375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BEKNI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5485239197530863,
+        "y": 0.39540462722918784
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OLMAX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5503626543209876,
+        "y": 0.39834941594618745
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "RUDOG",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5480331790123457,
+        "y": 0.39462446160725867
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

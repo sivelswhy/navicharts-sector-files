@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 135,
+  "y": 97,
+  "mapBounds": {
+    "minX": 0.52734375,
+    "minY": 0.37890625,
+    "maxX": 0.53125,
+    "maxY": 0.3828125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.529296875,
+    "midY": 0.380859375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ALEDI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5277608024691358,
+        "y": 0.37998833493706946
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TIVUK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5275925925925926,
+        "y": 0.3827147567927038
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

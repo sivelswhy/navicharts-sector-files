@@ -1,0 +1,158 @@
+{
+  "level": 8,
+  "x": 135,
+  "y": 96,
+  "mapBounds": {
+    "minX": 0.52734375,
+    "minY": 0.375,
+    "maxX": 0.53125,
+    "maxY": 0.37890625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.529296875,
+    "midY": 0.376953125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "EKROB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5275316358024692,
+        "y": 0.3755366431793266
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LULIX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5274591049382716,
+        "y": 0.37764972714249256
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ODOGI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5273904320987655,
+        "y": 0.37516208074279594
+      },
+      "kind": "Fix",
+      "fixKind": "Terminal",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SUKUN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5275308641975308,
+        "y": 0.3758423973743479
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ATNET",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5281543209876544,
+        "y": 0.375788408696617
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "GITRI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5282168209876543,
+        "y": 0.37519272059593706
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "LULIX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5274591049382716,
+        "y": 0.37764972714249256
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "QUENN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5292878086419753,
+        "y": 0.37798012118047447
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ROXAN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.531158950617284,
+        "y": 0.3755519400088967
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "SUKUN",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5275308641975308,
+        "y": 0.3758423973743479
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": true,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

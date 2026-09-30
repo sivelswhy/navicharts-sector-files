@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 136,
+  "y": 99,
+  "mapBounds": {
+    "minX": 0.53125,
+    "minY": 0.38671875,
+    "maxX": 0.53515625,
+    "maxY": 0.390625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.533203125,
+    "midY": 0.388671875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "SENTI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5348603395061728,
+        "y": 0.38863327933190295
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "TUNEX",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5313726851851851,
+        "y": 0.3871601812140045
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

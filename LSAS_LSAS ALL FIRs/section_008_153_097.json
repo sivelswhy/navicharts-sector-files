@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 153,
+  "y": 97,
+  "mapBounds": {
+    "minX": 0.59765625,
+    "minY": 0.37890625,
+    "maxX": 0.6015625,
+    "maxY": 0.3828125,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.599609375,
+    "midY": 0.380859375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "ENFOR",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6007631172839507,
+        "y": 0.37903603179312156
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OLPOT",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6010017824074073,
+        "y": 0.3790819343081438
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

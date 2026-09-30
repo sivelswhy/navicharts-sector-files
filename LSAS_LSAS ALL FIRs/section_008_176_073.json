@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 176,
+  "y": 73,
+  "mapBounds": {
+    "minX": 0.6875,
+    "minY": 0.28515625,
+    "maxX": 0.69140625,
+    "maxY": 0.2890625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.689453125,
+    "midY": 0.287109375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "KESEB",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6876118827160493,
+        "y": 0.2863711353542661
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "OGOLA",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.6910702160493827,
+        "y": 0.28757868146395993
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

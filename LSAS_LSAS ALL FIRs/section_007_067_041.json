@@ -1,0 +1,80 @@
+{
+  "level": 7,
+  "x": 67,
+  "y": 41,
+  "mapBounds": {
+    "minX": 0.5234375,
+    "minY": 0.3203125,
+    "maxX": 0.53125,
+    "maxY": 0.328125,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.52734375,
+    "midY": 0.32421875
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "BOGMU",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5285799845679012,
+        "y": 0.32118006953873823
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ESTAD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5265684413580247,
+        "y": 0.32331213047590085
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "IDEKO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5262513734567901,
+        "y": 0.32577977562503174
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NIGAD",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5291651234567901,
+        "y": 0.32072162111297203
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

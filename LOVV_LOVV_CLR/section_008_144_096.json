@@ -1,0 +1,80 @@
+{
+  "level": 8,
+  "x": 144,
+  "y": 96,
+  "mapBounds": {
+    "minX": 0.5625,
+    "minY": 0.375,
+    "maxX": 0.56640625,
+    "maxY": 0.37890625,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.564453125,
+    "midY": 0.376953125
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "DIKNI",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5644621913580247,
+        "y": 0.375296867205514
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ELPIS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5627862654320988,
+        "y": 0.3773937967571671
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ODIKO",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5645609567901234,
+        "y": 0.37503130725330536
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "ARNAS",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5652237654320987,
+        "y": 0.3766568892116263
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

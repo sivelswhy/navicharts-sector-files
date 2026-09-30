@@ -1,0 +1,41 @@
+{
+  "level": 7,
+  "x": 105,
+  "y": 51,
+  "mapBounds": {
+    "minX": 0.8203125,
+    "minY": 0.3984375,
+    "maxX": 0.828125,
+    "maxY": 0.40625,
+    "width": 0.0078125,
+    "height": 0.0078125,
+    "midX": 0.82421875,
+    "midY": 0.40234375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "CK",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.8262937885802469,
+        "y": 0.3992913252975321
+      },
+      "kind": "NDB",
+      "fixKind": "Hidden",
+      "isBoundary": false,
+      "frequency": 24400,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}

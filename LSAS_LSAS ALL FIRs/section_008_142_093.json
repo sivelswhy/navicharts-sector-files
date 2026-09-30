@@ -1,0 +1,54 @@
+{
+  "level": 8,
+  "x": 142,
+  "y": 93,
+  "mapBounds": {
+    "minX": 0.5546875,
+    "minY": 0.36328125,
+    "maxX": 0.55859375,
+    "maxY": 0.3671875,
+    "width": 0.00390625,
+    "height": 0.00390625,
+    "midX": 0.556640625,
+    "midY": 0.365234375
+  },
+  "shapes": [],
+  "points": [
+    {
+      "identifier": "KOSIV",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5550252314814815,
+        "y": 0.3635159659087136
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    },
+    {
+      "identifier": "NANER",
+      "airport": null,
+      "mapPosition": {
+        "x": 0.5568453703703704,
+        "y": 0.3639736333677262
+      },
+      "kind": "Fix",
+      "fixKind": "Enroute",
+      "isBoundary": false,
+      "frequency": 0,
+      "altitude": null
+    }
+  ],
+  "airports": [],
+  "runways": [],
+  "taxiways": [],
+  "gates": [],
+  "mvas": [],
+  "airspaces": [],
+  "airspacesLow": [],
+  "airspacesHigh": [],
+  "airwaysLow": [],
+  "airwaysHigh": []
+}
